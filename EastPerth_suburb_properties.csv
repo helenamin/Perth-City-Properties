@@ -1,0 +1,301 @@
+,address,price,sold date,type,bedrooms,bathrooms,car space,Land size,Building size,agent,rent,rent date
+0,318/2 Moreau Parade,"$539,000",Aug 2021,Apartment,,,,110,,,,
+1,54/193 Hay Street,"$295,000",Aug 2021,Apartment,2,1,1,"2,425",99,Joel Cooper,,
+2,30 Joel Terrace,"$1,100,000",Jul 2021,House,4,,,454,,Nadija Begovich,,
+3,10/38 Fielder Street,"$429,000",Jul 2021,,,,,131,150,Brendan Smith,$450pw,Sep 2018
+4,36/78 Terrace Road,"$700,000",Jul 2021,Apartment,2,2,2,"6,691",100,Jasmyn Wright,$800pw,Jul 2013
+5,10/1 Henry Lawson Walk,"$960,000",Jul 2021,Apartment,3,2,2,"2,014",143,Brendan Smith,$700pw,Apr 2014
+6,151/151 Adelaide Terrace,"$636,000",Jul 2021,Apartment,3,2,1,"3,359",,Cherry Li,$590pw,Jul 2018
+7,147/143 Adelaide Terrace,"$300,000",Jul 2021,Apartment,1,1,1,"4,481",,Rick Milankov,$375pw,May 2019
+8,7B/29 Trafalgar Road,"$2,750,000",Jul 2021,Apartment,3,2,2,431,247,Brendan Smith,"$2,200pw",Nov 2011
+9,13/11 Bennett Street,"$460,000",Jul 2021,Apartment,2,2,1,740,131,,$520pw,Aug 2013
+10,11/43 Wickham Street,"$460,000",Jul 2021,Apartment,2,2,1,108,68,Brendan Smith,$500pw,Jul 2016
+11,47B Trafalgar Road,"$869,000",Jul 2021,House,3,2,1,227,,Brendan Smith,$520pw,Jan 2020
+12,73/18 Wellington Street,"$480,000",Jul 2021,,,,,113,113,,$510pw,Sep 2018
+13,8/153 Kensington Street,"$388,000",Jul 2021,Apartment,2,2,1,158,112,Brendan Smith,,
+14,607/108 Terrace Road,"$839,000",Jul 2021,Apartment,3,2,1,148,119,Peter Wright,$725pw,Dec 2016
+15,33/7-9 Bennett Street,"$400,000",Jul 2021,Apartment,2,2,1,702,,Chris O'Brien,$460pw,Dec 2019
+16,9/112-122 Goderich Street,"$180,000",Jul 2021,,,,,"6,609",,Larry Gallagher,$240pw,Nov 2017
+17,Lot 186 16 Gardiner Street,"$1,000,000",Jul 2021,,,,,,,John Edwards,,
+18,16 Gardiner Street,"$1,000,000",Jul 2021,House,2,1,1,732,,,$335pw,Apr 2016
+19,1810/8 Adelaide Terrace,"$518,888",Jun 2021,Apartment,,,,,,,,
+20,20/18 Wellington Street,"$415,000",Jun 2021,Apartment,2,2,1,117,79,Brendon Habak,,
+21,3106/63 Adelaide Terrace,"$605,000",Jun 2021,Apartment,,,,,,Peter Wright,,
+22,8/2 Henry Lawson Walk,"$743,000",Jun 2021,Apartment,3,2,2,170,127,Brendan Smith,$630pw,Mar 2019
+23,807/251 Hay Street,"$335,000",Jun 2021,,,,,105,84,,$390pw,May 2018
+24,67/149-151 Adelaide Terrace,"$500,000",Jun 2021,Apartment,,,,,,,,
+25,95/181 Adelaide Terrace,"$832,500",Jun 2021,Apartment,3,2,2,"2,593",114,Brendon Habak,$795pw,Dec 2019
+26,505/35 Bronte Street,"$410,000",Jun 2021,Apartment,,,,,,,,
+27,5/40 Wellington Street,"$350,000",Jun 2021,Apartment,3,1,1,107,91,Ryan Joseph,$400pw,Jul 2019
+28,76/125 Wellington Street,"$355,000",Jun 2021,,,,,123,93,,$400pw,Sep 2016
+29,609/251 Hay Street,"$373,000",Jun 2021,Apartment,2,2,1,"1,380",79,,$400pw,Oct 2016
+30,201/9 Tully Road,"$535,000",Jun 2021,Apartment,,,,,,Brendan Smith,,
+31,26/43 Wickham Street,"$365,000",Jun 2021,Apartment,1,1,1,"2,031",,Peter Wright,$375pw,May 2020
+32,603/108 Terrace Road,"$730,000",Jun 2021,Apartment,2,2,1,130,98,Jasmyn Wright,$700pw,Apr 2015
+33,37 Arden Street,"$1,685,000",Jun 2021,House,3,2,2,204,,ANGELA SHENG,$750pw,Aug 2015
+34,Penthouse 2501 8 Adelaide Terrace,"$2,000,000",Jun 2021,Apartment,4,3,2,230,,Jasmyn Wright,,
+35,18/208 Adelaide Terrace,"$565,000",Jun 2021,Apartment,3,2,2,"3,694",93,Brad Triplett,$500pw,Sep 2019
+36,3108/63 Adelaide Terrace,"$780,000",Jun 2021,Apartment,,,,,,Peter Wright,,
+37,602/251 Hay Street,"$345,000",Jun 2021,Apartment,2,1,1,"1,380",,Tim Whall,$350pw,Oct 2019
+38,11/108-112 Royal Street,"$489,500",Jun 2021,Apartment,,,,120,,Emily Garden,,
+39,106/131 Adelaide Terrace,"$589,000",Jun 2021,Apartment,3,2,2,161,111,Daniel Colbert,$550pw,Mar 2019
+40,503/35 Bronte Street,"$395,000",May 2021,Apartment,,,,81,,Chris O'Brien,,
+41,502/9 Tully Road,"$405,000",May 2021,Apartment,,,,,,Brendan Smith,,
+42,16/123 Wellington Street,"$390,000",May 2021,Apartment,2,2,1,105,74,Nik Zounis,,
+43,603/63 Adelaide Terrace,"$510,000",May 2021,Apartment,2,2,1,,,Peter Wright,,
+44,24A Kensington Street,"$952,000",May 2021,Townhouse,3,3,2,256,166,Brendan Smith,,
+45,18/37 Brown Street,"$535,000",May 2021,Apartment,2,2,1,110,93,Brendan Smith,$450pw,Sep 2019
+46,1/30 Bronte Street,"$420,000",May 2021,Apartment,2,1,1,"1,015",88,,,
+47,15 Haig Park Circle,"$1,900,000",May 2021,House,4,3,3,175,,Brendan Smith,,
+48,21/35 Wellington Street,"$350,000",May 2021,Apartment,,,,,,,,
+49,48/128 Adelaide Terrace,"$425,000",May 2021,Apartment,2,2,1,118,82,Cherry Li,$490pw,Mar 2021
+50,18/1 Henry Lawson Walk,"$699,000",May 2021,Apartment,2,2,1,139,107,Brendan Smith,$500pw,Jan 2020
+51,40/34 East Parade,"$419,000",May 2021,Apartment,1,1,1,87,,Peter Wright,,
+52,13/118 Royal Street,"$600,000",May 2021,Apartment,2,2,2,162,122,Brendan Smith,$525pw,Jul 2020
+53,81/42 Terrace Road,"$465,000",May 2021,Apartment,1,1,1,"5,159",74,Tony Choong,$700pw,Jan 2013
+54,11/28 Bronte Street,"$500,000",May 2021,Apartment,3,2,2,"1,014",94,,,
+55,5/5 Bramal Street,"$485,000",May 2021,Apartment,,,,,,Chris Kots,,
+56,35/11 Bennett Street,"$270,000",May 2021,Apartment,1,1,1,740,58,Melissa Crash,$420pw,Mar 2017
+57,19/52 Wickham Street,"$620,000",May 2021,Apartment,3,3,2,146,92,Daniel Porcaro,$620pw,Apr 2016
+58,1007/108 Terrace Road,"$850,000",May 2021,Apartment,3,2,1,147,119,Peter Wright,,
+59,1 Gardiner Street,"$1,530,000",May 2021,House,,,,883,,,,
+60,108/90 Terrace Road,"$1,290,000",May 2021,Apartment,3,3,2,199,136,,,
+61,1904/63 Adelaide Terrace,"$425,000",May 2021,Apartment,1,1,1,,,Peter Wright,,
+62,72/193 Hay Street,"$275,000",May 2021,Apartment,2,1,1,97,82,Joel Cooper,,
+63,31/7 Bennett Street,"$425,000",May 2021,Apartment,2,2,1,114,91,Josh Roberts,,
+64,64/128 Adelaide Terrace,"$290,000",May 2021,,,,,"2,675",52,Cherry Li,$430pw,Apr 2009
+65,9/2 Goderich Street,"$340,000",May 2021,,,,,,,James Teh,$350pw,May 2016
+66,43/30 Bishops Row,"$437,500",May 2021,Apartment,3,1,1,118,93,Brendon Habak,$450pw,Mar 2021
+67,11/25 Haig Park Circle,"$885,000",Apr 2021,,,,,"1,474",130,,$585pw,Mar 2018
+68,8 Vanguard Terrace,"$3,000,000",Apr 2021,House,4,4,2,213,363,Brent Compton,,
+69,18/9 Tully Road,"$380,000",Apr 2021,Apartment,2,2,1,,,Willie Lim,,
+70,55/11 Regal Place,"$295,000",Apr 2021,Apartment,2,1,1,86,86,Veljko Lazovic,$375pw,Feb 2021
+71,5/151 Adelaide Terrace,"$455,000",Apr 2021,Apartment,2,2,1,,,Josh Roberts,$450pw,Apr 2018
+72,72/273 Hay Street,"$276,000",Apr 2021,,,,,101,75,,$400pw,Feb 2021
+73,81/273 HAY STREET,"$290,000",Apr 2021,Apartment,2,1,1,"1,882",73,Steve Lally,$375pw,Jan 2017
+74,17/175 Hay Street,"$405,000",Apr 2021,Apartment,2,2,1,"1,871",81,,$450pw,Jul 2019
+75,38/99-105 Wellington Street,"$349,500",Apr 2021,Apartment,2,1,1,,,,,
+76,9/100 Terrace Road,"$785,000",Apr 2021,Apartment,3,2,2,"3,331",123,Peter Wright,$800pw,Dec 2020
+77,23/18 Forrest Avenue,"$580,000",Apr 2021,Apartment,4,2,2,"1,935",113,Brad Triplett,$520pw,Nov 2010
+78,98/148 Adelaide Terrace,"$590,000",Apr 2021,,,,,127,81,,$500pw,Oct 2018
+79,303/9 Tully Road,"$510,000",Apr 2021,Apartment,2,2,1,,,Brendan Smith,,
+80,1503/8 Adelaide Terrace,"$450,000",Apr 2021,Apartment,2,1,1,"15,301",68,Chris O'Brien,,
+81,1809/63 Adelaide Terrace,"$640,000",Apr 2021,Apartment,,,,,,Cherry Li,,
+82,14/17 Wickham Street,"$450,000",Apr 2021,Apartment,2,2,1,,,Brad Raynor,$460pw,Aug 2020
+83,6/17 Wickham Street,"$256,000",Apr 2021,Apartment,,,,,,Brad Triplett,,
+84,30C/22 Nile Street,"$360,000",Apr 2021,Apartment,2,2,1,"4,080",,Brendon Habak,,
+85,99/189 Adelaide Terrace,"$880,000",Apr 2021,Apartment,3,2,2,,,Callum Davidson,,
+86,30/11 Bennett Street,"$399,000",Apr 2021,Apartment,2,2,1,740,97,,$400pw,Sep 2019
+87,6/7-9 Bennett Street,"$388,000",Apr 2021,Apartment,2,2,1,108,85,Brendon Habak,$385pw,Oct 2019
+88,111/181 Adelaide Terrace,"$542,000",Apr 2021,Apartment,2,2,1,"2,593",83,,$675pw,Apr 2021
+89,7/2 Moreau Parade,"$360,000",Mar 2021,Apartment,,,,,,Brad Triplett,,
+90,9/193 Hay Street,"$270,000",Mar 2021,,,,,93,80,,,
+91,6 Flagstaff Lane,"$1,235,000",Mar 2021,House,3,2,2,160,165,Brendan Smith,$700pw,Aug 2015
+92,14/3 Hay Street,"$780,000",Mar 2021,,,,,264,143,,"$1,200pw",Aug 2012
+93,12 Little Brown Street,"$585,000",Mar 2021,Townhouse,,,,150,,,,
+94,3/17 Wickham Street,"$240,000",Mar 2021,Apartment,1,1,,,,Brad Triplett,,
+95,907/251 Hay Street,"$650,000",Mar 2021,Apartment,2,2,1,"1,380",144,Brendon Habak,,
+96,46/18 Wellington Street,"$445,000",Mar 2021,Apartment,2,2,1,"2,172",79,,$565pw,Oct 2011
+97,3 & 4/46 Joel Terrace,"$425,000",Mar 2021,,,,,200,,Adam Naumovski,,
+98,138/181 Adelaide Terrace,"$569,000",Mar 2021,Apartment,2,2,1,118,84,Peter Wright,$600pw,Jun 2019
+99,55/123 Wellington Street,"$410,000",Mar 2021,Apartment,3,1,1,121,93,Chris O'Brien,$495pw,May 2017
+100,49/34 East Parade,"$415,000",Mar 2021,Apartment,,,,96,,Peter Wright,,
+101,705/9 Tully Road,"$460,000",Mar 2021,Apartment,,,,,,Brendan Smith,,
+102,37/43 Wickham Street,"$475,000",Mar 2021,Apartment,2,2,2,107,71,Brent Morfesse,$650pw,May 2015
+103,63 Henry Lawson Walk,"$687,500",Mar 2021,Townhouse,2,2,2,183,,Brendan Smith,$600pw,Sep 2015
+104,38/190 Hay Street,"$340,000",Mar 2021,Apartment,2,1,1,82,,Berny Wales,,
+105,70/131-137 Adelaide Terrace,"$545,000",Mar 2021,Apartment,,,,,,,,
+106,51/170 Adelaide Terrace,"$402,000",Mar 2021,Apartment,2,1,1,120,91,Brendan Smith,,
+107,902/112 Goderich Street,"$182,000",Mar 2021,Apartment,1,1,1,,,Steven Chapelhow,$250pw,Jan 2021
+108,72/189 Adelaide Terrace,"$660,000",Mar 2021,Apartment,,,,,,Peter Wright,,
+109,20/17 Wickham Street,"$350,000",Mar 2021,Apartment,1,1,1,,,Brad Raynor,,
+110,1108/8 Adelaide Terrace,"$610,000",Mar 2021,Apartment,2,2,1,143,105,,$795pw,Mar 2016
+111,8F/22 Nile Street,"$365,000",Mar 2021,Apartment,2,2,1,"4,080",62,Kristian Novatsis,,
+112,15/34 East Parade,"$515,000",Mar 2021,Apartment,,,,115,,Peter Wright,,
+113,405/108 Terrace Road,"$730,000",Mar 2021,Apartment,2,2,2,143,98,Jasmyn Wright,$770pw,Mar 2021
+114,104/149-151 Adelaide Terrace,"$499,000",Mar 2021,Apartment,,,,123,,Brad Mantle,,
+115,60/181 Adelaide Terrace,"$780,000",Mar 2021,Apartment,3,2,2,"2,593",114,Brendon Habak,$875pw,Feb 2019
+116,6/128 Brown Street,"$418,000",Feb 2021,Apartment,2,2,1,"1,018",112,Clinton Edwards,$440pw,Oct 2016
+117,301/108 Bennett Street,"$380,000",Feb 2021,Apartment,2,2,1,,,,$400pw,Jun 2020
+118,83/128 Adelaide Terrace,"$418,500",Feb 2021,,,,,111,82,,$430pw,Apr 2018
+119,Apt. 29/98 Terrace Road,"$690,000",Feb 2021,Apartment,2,2,2,108,,Peter Wright,,
+120,80/78 Terrace Road,"$746,000",Feb 2021,Apartment,2,2,2,152,100,Tim Whall,$700pw,May 2017
+121,201/108 Bennett Street,"$380,000",Feb 2021,Apartment,2,2,1,,,Richard Mathlin,$465pw,Sep 2016
+122,17/193 Hay Street,"$269,000",Feb 2021,,,,,"2,425",70,Veljko Lazovic,,
+123,64/118 Adelaide Terrace,"$426,000",Feb 2021,,,,,107,76,,$456pw,Nov 2020
+124,56/78 Terrace Road,"$615,000",Feb 2021,,,,,152,100,,$630pw,Sep 2016
+125,19/34 East Parade,"$445,000",Feb 2021,Apartment,,,,96,,Peter Wright,,
+126,47 Wellington Street,"$765,000",Feb 2021,House,3,1,1,617,,,,
+127,66/123 Wellington Street,"$390,000",Feb 2021,Apartment,3,1,1,126,96,Zero Commission Australia,$450pw,Dec 2017
+128,17/40 Wellington Street,"$345,000",Feb 2021,Apartment,2,1,1,"2,170",80,Josh Roberts,,
+129,G 11/42-52 Terrace Road,"$582,500",Feb 2021,Apartment,,,,136,,Chris O'Brien,,
+130,401/108 Bennett Street,"$380,000",Feb 2021,Apartment,,,,,,,,
+131,31/188 Adelaide Terrace,"$295,000",Feb 2021,Apartment,1,1,1,"1,970",53,Peter Wright,$400pw,Mar 2021
+132,54/35 Wellington Street,"$430,000",Feb 2021,Apartment,2,2,1,151,,Steven Erceg,$500pw,Apr 2020
+133,203/35 Bronte Street,"$380,000",Feb 2021,Apartment,1,1,1,79,,Joshua Leader,$350pw,Nov 2018
+134,11/22 Brown Street,"$392,500",Feb 2021,Apartment,1,1,1,106,65,Brendon Habak,,
+135,11/193 Hay Street,"$300,000",Feb 2021,Apartment,2,1,1,96,81,Brendon Habak,,
+136,202/189 Adelaide Terrace,"$808,000",Jan 2021,Apartment,2,2,1,125,,Cherry Li,$780pw,Oct 2020
+137,10/50 Royal Street,"$970,000",Jan 2021,Apartment,3,2,2,370,125,Brendan Smith,,
+138,21/50 Trafalgar Road,"$1,085,000",Jan 2021,,,,,351,191,,$775pw,Oct 2009
+139,84/131 Adelaide Terrace,"$400,000",Jan 2021,,,,,"2,991",83,Josh Roberts,$480pw,Apr 2018
+140,52/100 Terrace Road,"$630,000",Jan 2021,Apartment,2,2,2,"3,331",82,Graeme Correy,$590pw,Dec 2020
+141,1A/29 Trafalgar Road,"$1,100,000",Jan 2021,Apartment,3,2,2,"2,895",159,Brendan Smith,,
+142,47/175 Hay Street,"$3,820,000",Jan 2021,Apartment,2,2,1,"1,871",81,Paul Owen,$400pw,Feb 2019
+143,12/47 Forrest Avenue,"$607,000",Jan 2021,Apartment,2,2,2,"5,405",150,Brendan Smith,$700pw,Dec 2012
+144,36/193 Hay Street,"$265,000",Jan 2021,Apartment,2,1,1,"2,425",72,,$320pw,May 2018
+145,42/43 Wickham Street,"$465,000",Jan 2021,Apartment,2,2,1,105,71,Nick Holt,,
+146,12/33 Royal Street,"$1,100,000",Jan 2021,,,,,288,181,Brendan Smith,$850pw,Oct 2010
+147,3/78 Terrace Road,"$750,000",Jan 2021,Apartment,2,2,2,164,103,Brent Compton,,
+148,2/22 Saunders Street,"$442,332",Jan 2021,Apartment,2,1,1,"1,418",77,,,
+149,7/20 Saunders Street,"$445,000",Jan 2021,Apartment,2,1,1,103,77,Brendan Smith,$480pw,May 2014
+150,1105/63 Adelaide Terrace,"$370,000",Jan 2021,Apartment,,,,,,Peter Wright,,
+151,21/1 Henry Lawson Walk,"$1,080,000",Jan 2021,,,,,219,160,Brendan Smith,$650pw,May 2017
+152,21/65 Wittenoom Street,"$485,000",Jan 2021,,,,,126,85,Brendan Smith,$490pw,Jan 2021
+153,72/131 Adelaide Terrace,"$399,000",Jan 2021,Apartment,2,2,1,"2,991",83,Fab Forneris,$465pw,Aug 2016
+154,52/34 East Parade,"$395,000",Jan 2021,Apartment,,,,87,,Peter Wright,,
+155,107/90 Terrace Road,"$910,000",Jan 2021,Apartment,2,2,2,161,103,Jasmyn Wright,,
+156,2/273 Hay Street,"$250,000",Jan 2021,House,2,1,,"1,882",75,Steven Chapelhow,$350pw,Jan 2021
+157,11/49-53 Bronte Street,"$349,000",Jan 2021,,,,,96,66,Brendon Habak,,
+158,43/88 Terrace Road,"$1,900,000",Dec 2020,Apartment,3,2,2,237,,,"$1,250pw",Jan 2021
+159,2507/63 Adelaide Terrace,"$695,000",Dec 2020,Apartment,2,2,1,,,Peter Wright,$750pw,Dec 2020
+160,71/98 Terrace Road,"$3,000,000",Dec 2020,Apartment,3,4,3,784,269,,$430pw,Aug 2017
+161,44/42 Terrace Road,"$1,205,000",Dec 2020,Apartment,3,3,2,252,161,Tim Whall,"$1,200pw",Apr 2020
+162,4/23 Wellington Street,"$279,000",Dec 2020,,,,,"1,102",78,,$300pw,Jun 2019
+163,51/189 Adelaide Terrace,"$800,000",Dec 2020,Apartment,,,,193,,,,
+164,602/63 Adelaide Terrace,"$525,000",Dec 2020,Apartment,2,2,1,115,,,$510pw,Sep 2019
+165,50/123 Wellington Street,"$368,000",Dec 2020,,,,,121,93,,,
+166,21/273 Hay Street,"$342,000",Dec 2020,Apartment,2,1,1,"1,882",76,,$750pw,Jan 2013
+167,15/43 Wickham Street,"$475,000",Dec 2020,,,,,108,64,,,
+168,1/47 Tully Road,"$442,000",Dec 2020,,,,,348,,,$390pw,May 2020
+169,6/26 Saunders Street,"$475,000",Dec 2020,Apartment,2,2,1,"1,418",95,,$450pw,Apr 2019
+170,28/259-269 Hay Street,"$340,000",Dec 2020,,,,,,,,,
+171,7/2 Bremer Promenade,"$351,500",Dec 2020,Apartment,1,1,1,,,,$420pw,Nov 2020
+172,5/17 Wickham Street,"$320,000",Dec 2020,Apartment,,,,,,,,
+173,121/181 Adelaide Terrace,"$630,000",Dec 2020,Apartment,2,2,2,"2,593",86,,$750pw,Jan 2021
+174,1/2A Goderich Street,"$450,000",Dec 2020,Apartment,2,2,1,"1,476",87,,,
+175,G 17/42-52 Terrace Road,"$450,000",Nov 2020,Apartment,1,1,1,85,,,,
+176,50/22 Nile Street,"$299,000",Nov 2020,Apartment,2,2,1,"4,080",62,,$500pw,Sep 2014
+177,45/188 Adelaide Terrace,"$390,000",Nov 2020,House,2,2,1,"1,970",84,,$450pw,Aug 2020
+178,22/18 Wellington Street,"$391,850",Nov 2020,,,,,109,81,,$390pw,Dec 2016
+179,23/7 Bronte Street,"$460,000",Nov 2020,Apartment,3,2,1,"2,739",94,,$440pw,Dec 2015
+180,505/108 Terrace Road,"$730,000",Nov 2020,,,,,141,98,,$700pw,Jan 2021
+181,36B/22 Nile Street,"$347,500",Nov 2020,,,,,"4,080",62,,,
+182,2/175 Hay Street,"$435,000",Nov 2020,,,,,"1,871",,,$450pw,Jan 2018
+183,166/181 Adelaide Terrace,"$595,000",Nov 2020,Apartment,2,2,2,"2,593",84,,$700pw,Dec 2020
+184,501/108 Bennett Street,"$390,000",Nov 2020,Apartment,,,,,,,,
+185,1505/8 Adelaide Terrace,"$455,000",Nov 2020,,,,,108,74,,$590pw,Jul 2015
+186,20/118 Royal Street,"$650,000",Nov 2020,Apartment,2,2,2,"2,193",130,,$595pw,Jul 2020
+187,601/108 Bennett Street,"$395,000",Nov 2020,Apartment,2,2,1,,,,$425pw,Nov 2019
+188,11 Bakery Lane,"$990,000",Nov 2020,House,3,2,2,161,148,,$800pw,Sep 2007
+189,3/24 Constitution Street,"$910,000",Nov 2020,Apartment,3,2,2,309,132,Brendan Smith,,
+190,17/125 Wellington Street,"$390,000",Nov 2020,,,,,124,94,,,
+191,58/259-269 Hay Street,"$470,000",Nov 2020,Apartment,2,2,1,117,,,$550pw,Nov 2020
+192,9/47 Forrest Avenue,"$577,000",Nov 2020,,,,,528,145,,$550pw,Aug 2018
+193,12/34 East Parade,"$483,000",Nov 2020,Apartment,2,1,1,151,,,,
+194,109/45 Adelaide Terrace,"$174,500",Nov 2020,,,,,184,,,$250pw,Jul 2020
+195,68/100 Terrace Road,"$620,000",Nov 2020,,,,,140,,,$625pw,Jul 2019
+196,15/11 Regal Place,"$225,000",Nov 2020,,,,,"2,437",73,,$290pw,May 2019
+197,102/42-52 Terrace Road,"$731,000",Nov 2020,Apartment,2,2,1,107,,Peter Wright,$560pw,Aug 2020
+198,9/273 Hay Street,"$292,000",Nov 2020,Apartment,2,1,1,"1,882",97,,$465pw,Feb 2012
+199,56/123 Wellington Street,"$350,000",Oct 2020,Apartment,3,1,1,119,93,,$390pw,Sep 2019
+200,1/190 Hay Street,"$310,000",Oct 2020,House,,,,109,,,,
+201,413/45 Adelaide Terrace,"$198,000",Oct 2020,,,,,184,,,$300pw,Oct 2020
+202,71/148 Adelaide Terrace,"$560,000",Oct 2020,Apartment,2,2,2,125,81,,$610pw,Aug 2020
+203,411/2 Moreau Parade,"$335,000",Oct 2020,Apartment,1,1,1,,,,$425pw,Apr 2019
+204,110/90 Terrace Road,"$795,000",Oct 2020,Apartment,2,2,2,156,101,Peter Wright,$800pw,Sep 2020
+205,12/39 Brown Street,"$435,000",Oct 2020,Apartment,2,2,1,"2,722",93,,$430pw,Apr 2017
+206,42/138 Adelaide Terrace,"$150,000",Oct 2020,Apartment,1,1,1,"2,407",29,,$240pw,Mar 2019
+207,403/9 Tully Road,"$480,000",Oct 2020,Apartment,2,2,1,,,,,
+208,213/8 Moreau Parade,"$340,000",Oct 2020,Apartment,2,2,1,,,,$490pw,Jun 2019
+209,16/82 Royal Street,"$375,000",Oct 2020,,,,,103,83,,$410pw,Mar 2020
+210,17/143 Adelaide Terrace,"$300,000",Oct 2020,,,,,"4,481",,,$360pw,Jan 2019
+211,6/155 Adelaide Terrace,"$307,500",Oct 2020,,,,,109,63,,$350pw,Jun 2020
+212,140/143 Adelaide Terrace,"$272,500",Oct 2020,Apartment,1,1,1,"4,481",,,$350pw,Sep 2020
+213,8/151 Adelaide Terrace,"$445,000",Oct 2020,Apartment,2,2,1,138,,,,
+214,2404/63 Adelaide Terrace,"$425,000",Oct 2020,Apartment,1,1,1,,,,$580pw,Oct 2020
+215,2/46 Joel Terrace,"$430,000",Oct 2020,House,,,,203,,,,
+216,4 Constitution Street,"$719,000",Oct 2020,Townhouse,3,2,2,206,110,Peter Wright,$590pw,Nov 2019
+217,8/22 Eastbrook Terrace,"$890,000",Oct 2020,Apartment,3,2,2,646,134,Helen Bond,,
+218,67/18 Wellington Street,"$292,500",Oct 2020,,,,,"2,172",58,,$300pw,Oct 2017
+219,605/108 Terrace Road,"$770,000",Sep 2020,Apartment,2,2,1,"3,389",98,Jasmyn Wright,,
+220,4 Flagstaff Lane,Prior,"the heart of East Perth, the opportunity created for you is obvious. From the picturesque lane way...more",House,3,2,2,160,,,,
+221,312/45 Adelaide Terrace,"$220,000",Sep 2020,,,,,184,,,$250pw,Dec 2018
+222,1/50 Trafalgar Road,"$920,000",Sep 2020,Apartment,3,2,2,305,133,Brendon Habak,$650pw,Sep 2018
+223,U 90/189 Adelaide Terrace,"$660,000",Sep 2020,Apartment,2,2,1,107,,,,
+224,73/189 Adelaide Terrace,"$570,000",Sep 2020,Apartment,2,2,1,107,,,,
+225,1802/63 Adelaide Terrace,"$670,000",Sep 2020,Apartment,,,,,,,,
+226,190/143 Adelaide Terrace,"$560,000",Sep 2020,Apartment,3,2,2,"4,481",96,,$660pw,Jun 2020
+227,27/20 Royal Street,"$755,000",Sep 2020,Apartment,2,2,2,"3,722",103,Brendan Smith,,
+228,2004/63 Adelaide Terrace,"$420,000",Sep 2020,Apartment,,,,66,,,,
+229,91/189 Adelaide Terrace,"$595,000",Sep 2020,Apartment,2,2,1,107,,,,
+230,34/148 Adelaide Terrace,"$445,000",Sep 2020,,,,,125,81,,$470pw,Mar 2019
+231,105 Zebina Street,"$802,000",Sep 2020,House,3,1,3,491,142,Paul Owen,,
+232,Lot 1 of 46 Joel Terrace,"$440,000",Sep 2020,House,3,2,2,216,,,,
+233,2/25 Haig Park Circle,"$800,000",Sep 2020,Apartment,2,2,1,"1,474",122,,$650pw,Jan 2013
+234,21/49-53 Bronte Street,"$335,000",Sep 2020,Apartment,2,1,1,,,,$350pw,Aug 2020
+235,12/151 Adelaide Terrace,"$445,000",Sep 2020,Apartment,2,2,1,"3,359",,,,
+236,130/189 Adelaide Terrace,"$650,000",Sep 2020,Apartment,2,2,1,81,,,,
+237,6/2A Goderich Street,"$363,000",Sep 2020,Apartment,2,2,1,"1,476",87,,$600pw,Aug 2014
+238,41/123 Wellington Street,"$395,000",Sep 2020,Apartment,3,2,1,"4,019",120,,$550pw,Jun 2011
+239,40/35 Wellington Street,"$309,500",Sep 2020,Apartment,1,1,1,83,,,$400pw,Jun 2015
+240,605/63 Adelaide Terrace,"$365,000",Sep 2020,Apartment,1,1,1,,,,$460pw,Jan 2021
+241,59/269 Hay Street,by,the funky cosmopolitan complex located on Hay Street East Perth has everything you need for the ultimate inner city lifestyle....more,Apartment,2,2,1,"1,595",80,,$475pw,Nov 2018
+242,56/189 Adelaide Terrace,"$550,000",Sep 2020,Apartment,2,2,1,,,,,
+243,183/143 Adelaide Terrace,"$270,000",Sep 2020,,,,,"4,481",,,$325pw,Dec 2019
+244,50/118 Adelaide Terrace,"$375,000",Sep 2020,Apartment,2,2,1,"1,839",84,,$500pw,Oct 2018
+245,71/118 Adelaide Terrace,"$395,000",Aug 2020,,,,,122,,,$450pw,Jul 2020
+246,12 Wittenoom Street,"$1,190,000",Aug 2020,House,3,3,2,234,264,,$750pw,Jan 2012
+247,45/175 Hay Street,"$420,000",Aug 2020,Apartment,3,2,1,"1,871",98,,,
+248,5/24 Constitution Street,"$822,725",Aug 2020,Apartment,3,2,2,266,130,Brendan Smith,$695pw,Aug 2020
+249,9/82 Royal Street,"$625,000",Aug 2020,Apartment,3,2,2,"2,501",123,Brendan Smith,,
+250,23/88 Terrace Road,"$1,280,000",Aug 2020,Apartment,3,2,2,145,,,"$1,450pw",Mar 2019
+251,64/193 Hay Street,"$269,000",Aug 2020,Apartment,2,1,1,100,75,,,
+252,9/1 Royal Street,"$1,190,000",Aug 2020,,,,,328,232,,$900pw,Apr 2017
+253,416/8 Moreau Parade,"$245,000",Aug 2020,Apartment,,,,,,,,
+254,65/123 Wellington Street,"$319,000",Aug 2020,Apartment,2,1,1,"4,019",79,,$395pw,Oct 2017
+255,48/175 Hay Street,"$420,000",Aug 2020,Apartment,3,2,1,136,98,,$545pw,Jan 2017
+256,39/193 Hay Street,"$258,000",Aug 2020,House,2,1,1,"2,425",80,,,
+257,44 Tully Road,"$1,050,000",Aug 2020,House,3,2,2,,,,,
+258,15/47 Forrest Avenue,"$575,000",Jul 2020,,,,,182,150,,,
+259,50 Wittenoom Street,"$950,000",Jul 2020,House,4,3,2,198,235,Brendan Smith,$730pw,Mar 2020
+260,201/122 Brown Street,"$375,000",Jul 2020,Apartment,2,1,1,,,,,
+261,602/35 Bronte Street,"$495,000",Jul 2020,Apartment,2,2,1,,,,,
+262,25/99-105 WELLINGTON Street,"$316,000",Jul 2020,,,,,"3,723",86,,$360pw,Mar 2020
+263,186/143 Adelaide Terrace,"$450,000",Jul 2020,Apartment,2,2,2,123,78,,$520pw,Apr 2019
+264,2/52 Wickham Street,"$470,000",Jul 2020,Apartment,3,2,1,122,91,,$485pw,Jul 2018
+265,40 Kensington Street,"$950,000",Jul 2020,House,3,2,2,,,,$650pw,Oct 2011
+266,4/70 Wittenoom Street,"$275,000",Jul 2020,,,,,"1,074",,,,
+267,25/2 Goderich Street,"$352,500",Jul 2020,,,,,"3,042",,,$440pw,Mar 2021
+268,59/43 Wickham Street,"$486,888",Jul 2020,,,,,115,69,,$430pw,Nov 2019
+269,31/11 Regal Place,"$260,000",Jul 2020,,,,,91,,,$320pw,Apr 2020
+270,23 Victory Terrace,"$975,000",Jul 2020,House,3,2,2,161,217,,"$1,000pw",Nov 2016
+271,11/20 Royal Street,"$640,000",Jul 2020,,,,,193,193,,,
+272,85/189 Adelaide Terrace,"$590,000",Jul 2020,Apartment,,,,,,,,
+273,24 Victory Terrace,"$1,545,000",Jul 2020,House,3,3,2,285,321,,,
+274,29/123 Wellington Street,"$395,000",Jul 2020,,,,,175,94,,$700pw,Dec 2012
+275,17/78 Terrace Road,"$825,000",Jun 2020,,,,,222,143,,$750pw,Jun 2017
+276,65/273 Hay Street,"$290,000",Jun 2020,,,,,"1,882",80,,$400pw,Jul 2016
+277,8/178 Bennett Street,"$500,000",Jun 2020,,,,,899,105,,$500pw,May 2020
+278,6/34 East Parade,"$365,000",Jun 2020,Apartment,1,1,1,86,,,,
+279,54/273 Hay Street,"$270,000",Jun 2020,Apartment,2,1,1,"1,882",107,,$440pw,Jun 2010
+280,3/104 Brown Street,"$610,000",Jun 2020,,,,,137,140,,$500pw,May 2017
+281,611/8 Moreau Parade,"$538,500",Jun 2020,Apartment,,,,,,,,
+282,24/90 Terrace Road,"$730,000",Jun 2020,Apartment,2,2,2,156,102,Peter Wright,$675pw,Sep 2020
+283,7/175 Hay Street,"$400,000",Jun 2020,Apartment,3,2,1,139,98,,$410pw,Apr 2020
+284,711/9 Tully Road,"$735,000",Jun 2020,Apartment,3,2,2,,,,,
+285,4/175 Hay street,"$420,000",Jun 2020,Apartment,3,2,1,"1,871",98,,$575pw,May 2019
+286,15/7 Bennett Street,"$365,000",Jun 2020,,,,,112,85,,$425pw,Mar 2019
+287,209/9 Tully Road,"$350,000",Jun 2020,Apartment,1,1,1,,,,,
+288,176/181 Adelaide Terrace,"$650,000",Jun 2020,Apartment,2,2,2,"2,593",83,Brad Triplett,$800pw,Mar 2015
+289,3006/63 Adelaide Terrace,"$600,000",May 2020,Apartment,2,2,1,,,,,
+290,306/251 Hay Street,"$227,000",May 2020,House,2,1,,"1,382",,,$310pw,Dec 2017
+291,133/189 Adelaide Terrace,"$655,000",May 2020,Apartment,2,2,1,,,,,
+292,17/39 Bronte Street,"$445,000",May 2020,Townhouse,3,2,2,168,104,,$390pw,Apr 2020
+293,6/32 Fielder Street,"$640,000",May 2020,House,3,2,2,210,128,,,
+294,66/20 Royal Street,"$310,000",May 2020,Apartment,1,1,1,"3,722",63,,$380pw,Oct 2018
+295,44/20 Royal Street,"$600,000",May 2020,Apartment,2,2,2,"3,722",97,,$550pw,May 2020
+296,10/208 Adelaide Terrace,"$411,000",May 2020,,,,,107,77,,$525pw,May 2017
+297,212/106 Terrace Road,"$289,000",May 2020,Apartment,2,1,1,"2,201",52,,$320pw,Mar 2018
+298,1/34 East Parade,"$400,000",May 2020,Apartment,1,1,1,93,,,,
+299,401/9 Tully Road,"$370,000",Apr 2020,Apartment,,,,,,,,
