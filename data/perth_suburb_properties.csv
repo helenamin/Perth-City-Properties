@@ -1,0 +1,301 @@
+,address,price,sold date,type,bedrooms,bathrooms,car space,Land size,agent,Building size,rent,rent date
+0,39/128 Mounts Bay Road,"$516,000",Jul 2021,Apartment,,,,157,David Airey,,,
+1,32/418 Murray Street,"$325,000",Jul 2021,Apartment,,,,,,,,
+2,40/120 Lake Street,"$373,000",Jul 2021,Apartment,2,1,1,"2,495",Sam Dempsey,100,,
+3,11/177 Stirling Street,"$450,000",Jul 2021,Apartment,2,2,1,109,Danielle Geagea,70,$465pw,Nov 2016
+4,21 Myrtle Street,"$802,000",Jul 2021,Townhouse,3,1,2,104,Annette O'Brien-Oxley,,$590pw,Oct 2018
+5,5/19 Lindsay Street,"$590,000",Jul 2021,Apartment,2,2,1,749,Maurice Flores,83,$575pw,Jan 2019
+6,8/124 Mounts Bay Road,"$500,000",Jun 2021,Apartment,3,2,1,"1,405",Matt McWaters,120,$690pw,Oct 2018
+7,26/14 Money Street,"$815,000",Jun 2021,Apartment,3,2,1,"2,143",,152,$600pw,May 2010
+8,104/305 Murray Street,"$245,000",Jun 2021,Apartment,,,,,,,,
+9,401/237 Adelaide Terrace,"$365,000",Jun 2021,Apartment,1,1,1,"4,143",,70,,
+10,45/34 Palmerston Street,"$585,000",Jun 2021,House,2,2,1,"5,606",ROB STEFANOVSKI,,$580pw,Apr 2014
+11,2009/11 Barrack Square,"$1,300,000",Jun 2021,Apartment,,,,,Amy Di Vincenzo,,,
+12,25/226 Beaufort Street,"$490,000",Jun 2021,House,2,2,1,"1,603",,81,$460pw,Nov 2019
+13,30/69 Milligan Street,"$445,000",Jun 2021,Apartment,2,2,1,105,Josh Roberts,78,$450pw,May 2018
+14,11/18 Robinson Avenue,"$620,000",Jun 2021,Townhouse,3,1,1,"2,029",Graeme Correy,133,$475pw,Sep 2019
+15,56/378 Beaufort Street,"$362,000",Jun 2021,Apartment,1,1,1,"3,250",Joshua Leader,,$550pw,May 2014
+16,172 Lake Street,"$1,050,000",Jun 2021,House,3,2,,198,Daniel Porcaro,,,
+17,109/15 Aberdeen Street,"$330,000",Jun 2021,Apartment,1,1,1,"3,028",Cherry Li,,$370pw,Mar 2019
+18,17/34 Palmerston Street,"$620,000",Jun 2021,Apartment,2,2,2,"5,596",Nadija Begovich,117,$500pw,Mar 2017
+19,47/76 Newcastle Street,"$315,000",Jun 2021,Apartment,1,1,1,"3,356",Dion Brown,60,$335pw,Apr 2017
+20,17/34 Bulwer Street,"$300,000",Jun 2021,Apartment,,,,,Josh Roberts,,,
+21,1/478 William Street,"$523,000",Jun 2021,,,,,129,,90,$475pw,Jul 2020
+22,2701/237 Adelaide Terrace,"$2,700,000",Jun 2021,Apartment,4,5,2,509,,351,"$4,000pw",Aug 2013
+23,601/112 Mounts Bay Road,"$475,000",Jun 2021,Apartment,,,,143,Daniel Porcaro,,,
+24,73/262 Lord Street,"$399,500",Jun 2021,Apartment,2,2,1,,Veljko Lazovic,,$470pw,Aug 2020
+25,48B Randell Street,"$895,000",May 2021,House,,,,128,Peter Menaglio,,,
+26,36/10 Pendal Lane,"$480,000",May 2021,Apartment,,,,,,,,
+27,10 Pisconeri Street,"$1,308,000",May 2021,House,4,2,3,296,Daniel Porcaro,,$700pw,Apr 2018
+28,2801/237 Adelaide Terrace,"$2,650,000",May 2021,Apartment,4,5,4,"4,143",,351,,
+29,392 Beaufort Street,"$1,000,000",May 2021,House,3,2,5,385,Ray Cafini,,,
+30,61 Lindsay Street,"$1,310,000",May 2021,House,,,,,,,,
+31,30/918 Hay Street,"$465,000",May 2021,Apartment,2,2,1,145,Brendon Habak,145,,
+32,51/229 Adelaide Terrace,"$1,105,000",May 2021,Apartment,,,,,,,,
+33,13/118 Mounts Bay Road,"$390,000",May 2021,Apartment,2,1,1,136,Brendon Habak,104,,
+34,18 Church Street,"$890,000",May 2021,House,2,1,,176,Shaun Pratt,101,$590pw,May 2021
+35,79/132 Terrace Road,"$450,000",May 2021,Apartment,1,1,1,"5,172",Chris O'Brien,864,$400pw,Jul 2018
+36,1/308 Stirling Street,"$325,000",May 2021,,,,,"1,573",Peter Thomas,,$300pw,Apr 2012
+37,2/142 Palmerston Street,"$770,000",May 2021,House,3,3,2,867,Claude Iaconi,178,$500pw,Dec 2009
+38,14/180 Stirling Street,"$335,000",May 2021,House,1,1,1,"1,506",,,$360pw,Aug 2020
+39,14/378 Beaufort Street,"$335,000",May 2021,Apartment,1,1,1,"3,250",Dean Sims,52,$340pw,Dec 2020
+40,6/38 Bulwer Street,"$335,000",May 2021,Apartment,,,,71,Nadija Begovich,,,
+41,20/569 Wellington Street,"$360,500",May 2021,House,1,1,,"1,306",,,$345pw,Feb 2020
+42,23/474 Murray Street,"$370,000",May 2021,Apartment,1,1,1,"3,165",,60,$370pw,Jul 2019
+43,92/369 Hay Street,"$477,500",May 2021,Apartment,2,2,1,"4,726",Sean Roberts,77,$695pw,Aug 2014
+44,9 8 Victoria Avenue,"$330,000",Apr 2021,Apartment,1,1,1,,David Whiteman,,,
+45,69/101 Murray Street,"$300,000",Apr 2021,Apartment,1,1,1,"2,269",Richard Mathlin,,$450pw,May 2021
+46,21/99 Palmerston Street,"$440,000",Apr 2021,Apartment,,,,,Claude Iaconi,,,
+47,28/255 Adelaide Terrace,"$460,000",Apr 2021,Apartment,2,2,1,116,,90,$450pw,Jun 2019
+48,63/262 Lord Street,"$440,000",Apr 2021,Apartment,2,2,1,103,Chris O'Brien,76,,
+49,56/280 LORD Street,"$565,000",Apr 2021,,,,,154,,,$650pw,Oct 2020
+50,16/122 Terrace Road,"$200,000",Apr 2021,Apartment,1,1,1,"1,418",Josh Roberts,,$250pw,Apr 2009
+51,9 Throssell Street,"$1,450,000",Apr 2021,House,2,1,2,491,,113,$690pw,Apr 2021
+52,193/369 Hay Street,"$351,000",Apr 2021,Apartment,1,1,1,"4,726",Josh Roberts,,$425pw,Mar 2021
+53,59/154 Newcastle Street,"$450,000",Apr 2021,Apartment,,,,,,,,
+54,611/112 Mounts Bay Road,"$463,610",Mar 2021,Apartment,2,1,2,"3,186",,78,,
+55,11/2 Pisconeri Street,"$375,000",Mar 2021,Apartment,2,1,1,100,Dan Sharp,74,$360pw,Sep 2018
+56,56 Bulwer Street,"$800,000",Mar 2021,House,2,1,2,105,Helen Bond,105,,
+57,195 Pier Street,"$295,000",Mar 2021,,,,,"1,573",,584,,
+58,16/8 James Street,"$330,000",Mar 2021,Apartment,2,1,1,533,Brendan Smith,,$395pw,Mar 2017
+59,6/124 Mounts Bay Road,"$459,600",Mar 2021,Apartment,2,2,1,"1,405",Peter Clements,93,$600pw,Feb 2010
+60,204/126 Mounts Bay Road,"$210,000",Mar 2021,Apartment,,,,,Brendon Habak,,,
+61,57/33 Newcastle Street,"$448,000",Mar 2021,Apartment,2,2,1,114,Terry Lu,,$460pw,May 2020
+62,17/116 Mounts Bay Road,"$350,000",Mar 2021,,,,,"1,404",,82,$400pw,Nov 2016
+63,11 Lindsay Street,"$1,100,000",Mar 2021,House,3,2,2,489,Meryl Carter,,$780pw,Jan 2021
+64,73/154 Newcastle Street,"$295,000",Feb 2021,Apartment,1,1,1,64,Nik Zounis,,$380pw,Jan 2016
+65,2404/195 Pier Street,"$780,000",Feb 2021,Apartment,3,2,2,,,,,
+66,50/154 Newcastle Street,"$295,000",Feb 2021,Apartment,,,,84,Jake Kemsley,,,
+67,18/124 Mounts Bay Road,"$500,000",Feb 2021,Apartment,2,2,1,130,Sean Roberts,93,,
+68,54/369 Hay Street,"$440,000",Feb 2021,Apartment,2,2,1,"4,726",Josh Roberts,77,$490pw,May 2019
+69,23/59 Brewer Street,"$415,000",Feb 2021,Apartment,2,2,1,114,Peter Wildermoth,114,$470pw,Aug 2015
+70,2006/1 Geoffrey Bolton Avenue,"$1,500,000",Feb 2021,Apartment,3,2,2,140,,,"$1,000pw",Apr 2020
+71,52/229 Adelaide Terrace,"$335,000",Feb 2021,Apartment,1,1,1,905,James Yeoman,62,$390pw,Feb 2021
+72,7/176 Newcastle Street,"$555,000",Feb 2021,Apartment,3,2,1,427,Jasmyn Wright,95,$580pw,Nov 2020
+73,44/133 Lincoln Street,"$310,000",Feb 2021,,,,,"3,665",Daniel Colbert,76,$330pw,Sep 2020
+74,7/2 Braid Street,"$505,000",Feb 2021,Townhouse,2,1,1,130,Beaufort Team - Pam & Jodi,93,$440pw,Jul 2011
+75,7/120 Lake Street,"$375,000",Feb 2021,Apartment,2,1,1,113,,,$300pw,Oct 2018
+76,22/65 Milligan Street,"$423,000",Feb 2021,Apartment,2,1,1,100,Emma Oliver,66,$625pw,Nov 2013
+77,V607/9 Victoria Avenue,"$299,500",Feb 2021,Apartment,1,1,1,"2,072",Josh Roberts,,$420pw,Jan 2012
+78,37/65 Palmerston Street,"$315,000",Feb 2021,Apartment,1,1,1,"5,913",Chris O'Brien,55,$300pw,Aug 2018
+79,4/168 Mounts Bay Road Perth,"$920,000",Feb 2021,Apartment,3,3,2,,Carmen Tutor,,,
+80,71/375 Hay Street,"$410,000",Jan 2021,Apartment,2,2,1,"1,882",Brendon Habak,82,$520pw,May 2016
+81,157/15 Aberdeen Street,"$470,000",Jan 2021,Apartment,1,1,1,"3,028",Ashby Farrell,69,$480pw,Feb 2021
+82,12/82 King Street,"$1,355,000",Jan 2021,,,,,258,,,,
+83,V704/9 Victoria Avenue,"$310,000",Jan 2021,Apartment,1,1,1,"2,073",Josh Roberts,,$395pw,Feb 2021
+84,195 Lake Street,"$860,000",Jan 2021,House,,,,268,,,,
+85,60 Robinson Avenue,"$925,000",Jan 2021,Townhouse,3,3,2,,Louise Markovic,,,
+86,10/20 Pendal Lane,"$390,000",Jan 2021,Apartment,2,2,1,88,Peter MacDonald,,,
+87,78/418 Murray Street,"$318,000",Jan 2021,Apartment,2,1,1,70,,94,$550pw,Jan 2012
+88,C/224 Lord Street,"$550,000",Jan 2021,Apartment,3,2,2,,Damien Lloyd,,$600pw,Jan 2021
+89,124/138 Barrack Street,"$460,000",Jan 2021,Apartment,3,2,1,119,Brent Compton,,$500pw,Apr 2019
+90,107/101 Murray Street,"$350,000",Jan 2021,Apartment,1,1,1,70,Terry Lu,,$500pw,Aug 2017
+91,12 Wade Street,"$680,000",Jan 2021,Townhouse,4,2,2,152,Annie Kowal,136,$625pw,Dec 2015
+92,15/229 Adelaide Terrace,"$650,000",Jan 2021,,,,,905,Chris O'Brien,96,$750pw,Jan 2021
+93,15/114 Terrace Road,"$210,000",Jan 2021,,,,,"2,062",Davide Palermo,,$250pw,Sep 2016
+94,U70/33 Newcastle Street,"$292,000",Jan 2021,Apartment,1,1,1,67,Terry Lu,,,
+95,3/269 Stirling Street,"$329,000",Jan 2021,,,,,459,Carlos Lehn,,$300pw,Sep 2018
+96,3/207 Bulwer Street,"$381,000",Jan 2021,Apartment,2,1,1,"1,215",Michelle Ralph,78,$410pw,Dec 2016
+97,3/45-47 Stuart Street,"$960,000",Jan 2021,,,,,"3,494",Brendon Habak,,$850pw,May 2019
+98,100/22 St Georges Terrace,"$385,000",Dec 2020,Apartment,1,1,1,"3,343",,,$500pw,Jan 2021
+99,22/59 Brewer Street,"$435,000",Dec 2020,,,,,"1,742",,89,$595pw,Feb 2021
+100,21/378 Beaufort Street,"$420,000",Dec 2020,House,2,2,,"3,250",,72,$400pw,Jul 2018
+101,18/118 Mounts Bay Road,"$285,000",Dec 2020,,,,,"3,639",,,$415pw,Jun 2017
+102,123 Glendower Street,"$975,000",Dec 2020,House,4,2,1,278,Matt Seabrook,161,,
+103,22/132 Terrace Road,"$658,000",Dec 2020,Apartment,2,2,2,"5,172",,89,$680pw,May 2016
+104,15a/120-122 Lake Street,"$360,000",Dec 2020,Apartment,2,1,1,110,Nik Zounis,,,
+105,159/369 Hay Street,"$470,000",Dec 2020,,,,,137,,77,$675pw,Oct 2014
+106,3 Brookman Street,"$895,000",Dec 2020,House,4,1,1,301,,,,
+107,4/838 Hay Street,"$290,000",Dec 2020,Apartment,1,1,,63,,,$300pw,Feb 2020
+108,6/10 Smith Street,"$380,000",Dec 2020,,,,,945,,,$350pw,Dec 2016
+109,12/369 Hay Street,"$410,000",Dec 2020,,,,,"4,726",,75,$420pw,Oct 2016
+110,167 Lake Street,"$1,825,000",Dec 2020,House,5,2,1,,,,,
+111,79 Glendower Street,"$1,350,000",Dec 2020,House,3,3,1,197,,156,$800pw,Sep 2011
+112,206A Bulwer Street,"$680,500",Nov 2020,House,3,2,2,236,,,$410pw,Apr 2017
+113,19/34 Palmerston Street,"$650,000",Nov 2020,,,,,198,,151,$520pw,Nov 2018
+114,33/369 Hay Street,"$500,000",Nov 2020,,,,,"4,726",,99,$530pw,Mar 2021
+115,14 Hope Street,"$790,000",Nov 2020,House,2,1,2,409,Nadija Begovich,,,
+116,2816/380 Murray Street,"$900,000",Nov 2020,Apartment,,,,,,,,
+117,62/4 Bulwer Street,"$230,000",Nov 2020,,,,,"2,800",,,$310pw,Oct 2017
+118,28/152 Fitzgerald Street,"$387,500",Nov 2020,Apartment,,,,,,,,
+119,98/996 Hay Street,"$375,000",Nov 2020,Apartment,2,1,1,108,,73,$400pw,Oct 2018
+120,5D/811 Hay Street,"$260,000",Nov 2020,Apartment,2,1,1,868,,,$520pw,Jul 2014
+121,98/215 Stirling Street,"$280,000",Nov 2020,Apartment,1,1,1,,,,$350pw,Oct 2019
+122,154A Lake Street,"$712,500",Nov 2020,House,3,2,2,190,,125,$595pw,Apr 2017
+123,247 Lake Street,"$1,080,000",Nov 2020,House,2,2,2,,,,,
+124,98/101 Murray Street,"$455,000",Nov 2020,Apartment,2,2,1,85,,,$550pw,Nov 2015
+125,7/117 Lake Street,"$500,000",Nov 2020,,,,,114,,83,,
+126,3/478 William Street,"$485,000",Nov 2020,Apartment,3,2,2,169,,,$520pw,Aug 2018
+127,104/15 Aberdeen Street,"$409,000",Nov 2020,,,,,101,,68,$460pw,Sep 2016
+128,9 Dangan Street,"$820,000",Nov 2020,House,3,2,2,357,,,,
+129,86/262 Lord Street,"$530,000",Nov 2020,,,,,142,,92,$520pw,Nov 2016
+130,2/128 Mounts Bay Road,"$302,000",Nov 2020,,,,,121,,87,$380pw,Sep 2020
+131,28/369 Hay Street,"$410,000",Oct 2020,,,,,"4,726",,78,,
+132,16/580 Hay Street,"$470,000",Oct 2020,,,,,142,,,$520pw,May 2020
+133,19/124 Mounts Bay Road,"$520,000",Oct 2020,,,,,158,,,$600pw,Nov 2018
+134,28 Myrtle Street,"$805,000",Oct 2020,,,,,107,,115,$550pw,May 2016
+135,609/130A Mounts Bay Road,"$189,000",Oct 2020,,,,,"2,168",,,$300pw,Oct 2020
+136,39/120-122 Lake Street,"$330,000",Oct 2020,Apartment,,,,,,,,
+137,27/132 Terrace Road,"$780,000",Oct 2020,Apartment,3,2,2,182,Peter Wright,110,$650pw,Aug 2020
+138,5/152 Fitzgerald Street,"$374,000",Oct 2020,Apartment,2,1,1,,,,$400pw,Aug 2017
+139,41/101 Murray Street,"$270,000",Oct 2020,Apartment,1,1,1,,,,$370pw,Jan 2021
+140,12 Lane Street,"$780,000",Oct 2020,House,3,1,2,334,,,$480pw,Aug 2014
+141,89/250 Beaufort Street,"$342,000",Oct 2020,,,,,129,,71,$460pw,Jan 2021
+142,18/150 Stirling Street,"$310,000",Oct 2020,,,,,146,,83,$350pw,Jul 2018
+143,909/305 Murray Street,"$262,500",Oct 2020,,,,,"1,594",,,$360pw,Jan 2020
+144,12/71 Brewer Street,"$420,000",Oct 2020,Apartment,2,2,1,114,,,$390pw,Nov 2017
+145,6 Edith Street,"$700,000",Oct 2020,Townhouse,4,2,2,224,Sven Robertson,166,$750pw,Jul 2017
+146,85/33 Newcastle Street,"$305,000",Oct 2020,Apartment,1,1,1,67,,,$365pw,Jun 2017
+147,37/250 Beaufort Street,"$290,000",Oct 2020,House,1,1,1,"10,672",,,$320pw,Jun 2019
+148,4/71 Brewer Street,"$400,000",Oct 2020,Apartment,2,2,1,,,,$440pw,Dec 2018
+149,2916/380 Murray Street,"$910,000",Oct 2020,Apartment,3,2,2,,,,$895pw,Jan 2021
+150,2912/380 Murray Street,"$880,000",Oct 2020,Apartment,3,2,2,,,,$895pw,Jan 2021
+151,611/380 Murray Street,"$490,000",Oct 2020,Apartment,,,,,,,,
+152,23 Knebworth Avenue,"$735,000",Oct 2020,House,2,1,,264,Rob Edwards,,$500pw,May 2020
+153,610/2 St Georges Terrace,"$324,000",Sep 2020,Apartment,1,1,1,90,,,$420pw,May 2019
+154,10/10 Wright Street,"$447,500",Sep 2020,Townhouse,2,1,1,"1,363",,62,$460pw,Jun 2013
+155,4B Stuart Street,"$680,000",Sep 2020,House,3,1,1,,,,$450pw,Apr 2020
+156,81/22 St Georges Terrace,"$585,000",Sep 2020,House,2,2,1,"3,343",,90,$650pw,Oct 2020
+157,1013/380 Murray Street,"$399,950",Sep 2020,Apartment,,,,,,,,
+158,127/369 Hay Street,"$325,000",Sep 2020,,,,,"4,726",,,$410pw,Dec 2020
+159,M13/811 Hay Street,"$260,000",Sep 2020,Apartment,1,1,,,,,$400pw,Dec 2014
+160,52/101 Murray Street,"$265,000",Sep 2020,House,1,1,1,"2,269",,,$360pw,Jan 2018
+161,132/250 Beaufort Street,"$341,000",Sep 2020,Apartment,2,1,1,,,,,
+162,100/101 Murray Street,"$330,000",Aug 2020,Apartment,1,1,1,70,,,$450pw,Jan 2019
+163,25/569 Wellington Street,"$480,000",Aug 2020,,,,,125,,98,$450pw,Nov 2018
+164,8/133 Lincoln Street,"$260,000",Aug 2020,,,,,"3,665",,,$285pw,Apr 2020
+165,504/12 Victoria Avenue,"$210,000",Aug 2020,Apartment,1,1,,,,,$395pw,Mar 2020
+166,25 Moir Street,"$784,000",Aug 2020,House,3,1,1,278,,,$470pw,Jan 2019
+167,67/418 Murray Street,"$346,000",Aug 2020,Apartment,,,,,,,,
+168,193 Lake Street,"$820,000",Aug 2020,House,3,1,,273,,,,
+169,5/168 Mounts Bay Road,"$1,435,000",Aug 2020,Apartment,3,2,4,,,,,
+170,1-5/55 Gladstone Street,"$1,220,000",Aug 2020,House,1,1,1,,,,,
+171,8/262 Lord Street,"$440,000",Aug 2020,,,,,"4,373",,77,$485pw,Jun 2016
+172,33/67 Brewer Street,"$425,000",Aug 2020,Apartment,2,2,1,112,,,$410pw,Sep 2018
+173,1503/105 Stirling Street,"$530,000",Aug 2020,Apartment,2,2,2,90,,,,
+174,5/478 William Street,"$452,800",Aug 2020,Apartment,3,2,2,109,,,$625pw,Dec 2012
+175,9/67 BREWER Street,"$275,000",Aug 2020,,,,,63,,,,
+176,1/10 Pendal Lane,"$359,000",Aug 2020,,,,,"3,196",,90,$470pw,Jun 2010
+177,93/101 Murray Street,"$333,000",Aug 2020,Apartment,1,1,1,70,,,$500pw,Nov 2017
+178,22/150 Stirling Street,"$278,000",Aug 2020,,,,,146,,82,$340pw,Jul 2020
+179,1805/237 Adelaide Terrace,"$500,000",Aug 2020,Apartment,2,2,1,78,,,$500pw,Nov 2019
+180,1/33 Windsor Street,"$360,000",Jul 2020,,,,,97,,,$360pw,Mar 2020
+181,2a Randell Street,"$775,000",Jul 2020,House,4,3,3,,,,,
+182,1D/811 Hay Street,"$310,000",Jul 2020,Apartment,2,1,,868,,613,,
+183,56/34 Palmerston Street,"$505,000",Jul 2020,Townhouse,2,2,1,132,,,,
+184,166 Lake Street,"$1,000,000",Jul 2020,House,2,1,,188,Daniel Porcaro,,,
+185,14/130 Terrace Road,"$320,000",Jul 2020,,,,,"2,455",,,$360pw,Mar 2021
+186,83/250 Beaufort Street,"$385,000",Jul 2020,Apartment,2,2,2,"10,672",,83,$425pw,Jul 2018
+187,10 Church Street,"$810,000",Jun 2020,House,3,2,1,144,Michael Mort,,$610pw,Aug 2017
+188,8/418-428 Murray Street,"$315,000",Jun 2020,,,,,"1,850",,,$595pw,Jan 2013
+189,29/101 Murray Street,"$620,000",Jun 2020,Apartment,3,2,2,128,Peter Wright,,,
+190,16/448 Murray Street,"$335,000",Jun 2020,Apartment,2,1,1,90,,90,$450pw,Jan 2016
+191,50/378 Beaufort Street,"$306,000",Jun 2020,Apartment,1,1,1,"3,250",,59,$420pw,Oct 2016
+192,120/580 Hay Street,"$450,000",Jun 2020,,,,,134,,82,$550pw,Feb 2020
+193,16 Robinson Avenue,"$760,000",Jun 2020,,,,,305,,116,"$39,950pw",Jan 2017
+194,14/45-47 Stuart Street,"$735,000",Jun 2020,,,,,243,,,$750pw,Jun 2013
+195,94/132 Terrace Road,"$650,000",Jun 2020,,,,,150,,91,,
+196,4/418-428 Murray Street,"$320,000",May 2020,,,,,"1,850",,,$395pw,Oct 2018
+197,4/82 King Street,"$585,000",May 2020,Apartment,1,2,1,"1,540",,150,$570pw,Jan 2012
+198,62/101 Murray Street,"$290,000",May 2020,Apartment,1,1,1,"2,269",,,$530pw,Dec 2011
+199,6/207 Bulwer Street,"$415,000",May 2020,Apartment,2,1,1,,,,,
+200,11/75 Glendower Street,"$290,000",May 2020,Apartment,2,1,1,"1,220",,,$330pw,Jan 2021
+201,2418/380 Murray Street,"$393,000",May 2020,Apartment,1,1,,,,,$420pw,Nov 2020
+202,58/580 Hay Street,"$810,000",May 2020,Apartment,3,2,2,196,Cherry Li,116,$820pw,Aug 2016
+203,27 Lane Street,"$615,000",Apr 2020,,,,,378,,79,,
+204,12/580 Hay Street,"$525,000",Apr 2020,,,,,175,,102,$580pw,Sep 2019
+205,30 Randell Street,"$715,000",Apr 2020,,,,,87,,87,,
+206,44/250 Beaufort Street,"$415,000",Apr 2020,Apartment,2,2,2,"10,672",,80,$590pw,Aug 2013
+207,19/65 Palmerston Street,"$575,000",Apr 2020,,,,,378,,118,$480pw,Nov 2018
+208,23/22 St Georges Terrace,"$453,000",Apr 2020,Apartment,2,2,1,"3,343",,91,$750pw,Aug 2012
+209,49/229 Adelaide Terrace,"$319,000",Apr 2020,,,,,905,,,,
+210,181/369 Hay Street,"$440,000",Apr 2020,,,,,136,,,$420pw,Apr 2020
+211,10 Robinson Avenue,"$880,000",Apr 2020,House,2,2,2,241,Claude Iaconi,,$550pw,Oct 2018
+212,1/10 Wright Street,"$355,000",Apr 2020,Townhouse,2,1,1,"1,363",,,$340pw,Oct 2018
+213,4/54 Cheriton Street,"$550,000",Apr 2020,,,,,163,,102,$480pw,Dec 2018
+214,11/32 Fielder Street,"$450,000",Apr 2020,Apartment,,,,,,,,
+215,26/69 Milligan Street,"$405,000",Apr 2020,,,,,121,,79,$385pw,May 2017
+216,60/580 Hay Street,"$600,000",Mar 2020,,,,,141,,78,,
+217,11/2 Braid Street,"$450,000",Mar 2020,Apartment,2,2,2,870,Mary Parker,104,$550pw,Feb 2019
+218,66b Robinson Avenue,"$775,000",Mar 2020,House,3,1,2,305,Claude Iaconi,120,,
+219,106/580 Hay Street,"$425,000",Mar 2020,,,,,120,,82,$520pw,Jan 2019
+220,14/122 Mounts Bay Road,"$365,000",Mar 2020,,,,,102,,80,,
+221,47/418 Murray Street,"$365,000",Mar 2020,Apartment,2,1,1,93,,69,$390pw,Mar 2020
+222,202/126 Mounts Bay Road,"$220,000",Mar 2020,Apartment,1,1,,"5,557",,,,
+223,29/76 Newcastle Street,"$285,000",Mar 2020,Apartment,1,1,1,"3,356",,52,$320pw,Jun 2018
+224,6/150 Stirling Street,"$299,000",Mar 2020,,,,,"3,128",,,$320pw,Jun 2019
+225,207/112 Mounts Bay Road,"$240,000",Mar 2020,Apartment,1,1,1,"3,186",,,$390pw,Sep 2016
+226,16/250 Beaufort Street,"$345,000",Mar 2020,,,,,116,,72,$390pw,Jul 2010
+227,9/82 King Street,"$480,000",Mar 2020,,,,,"1,540",,100,$550pw,Apr 2017
+228,66/69 Milligan Street,"$435,000",Mar 2020,,,,,117,,79,$500pw,Feb 2019
+229,81/580 Hay Street,"$605,000",Mar 2020,Apartment,2,2,2,149,,95,$700pw,Jan 2020
+230,68/154 Newcastle Street,"$460,000",Mar 2020,,,,,110,,75,"$1,000pw",Jun 2012
+231,217 Brisbane Street,"$770,000",Mar 2020,House,2,1,1,219,,75,$550pw,Apr 2020
+232,5/18 Robinson Avenue,"$765,000",Feb 2020,Townhouse,3,2,2,"2,029",,138,,
+233,18/145 Newcastle Street,"$455,000",Feb 2020,Apartment,3,2,,,,,$550pw,Feb 2019
+234,516/380 Murray Street,"$401,000",Feb 2020,Apartment,1,1,,,,,$450pw,Dec 2020
+235,226 Brisbane Street,"$620,000",Feb 2020,House,,,,490,,113,,
+236,4E/811 Hay Street,"$215,000",Feb 2020,House,1,1,,868,,,$300pw,Dec 2020
+237,44/122 Mounts Bay Road,"$408,000",Feb 2020,Apartment,2,2,1,,John Tognolini,,,
+238,59/418 Murray Street,"$311,000",Feb 2020,Apartment,2,1,1,,,,,
+239,43 West Parade,"$620,000",Feb 2020,House,2,1,3,233,,,$395pw,Jun 2017
+240,9/569 Wellington Street,"$560,000",Feb 2020,,,,,132,,105,,
+241,1416/380 Murray Street,"$461,000",Feb 2020,Apartment,1,1,1,,,,$485pw,Jul 2020
+242,905/380 Murray Street,"$417,000",Feb 2020,Apartment,,,,,,,,
+243,806/380 Murray Street,"$414,000",Feb 2020,Apartment,,,,,,,,
+244,1514/380 Murray Street,"$602,000",Feb 2020,Apartment,2,1,1,,,,$550pw,Apr 2020
+245,2/296 Newcastle Street,"$420,000",Feb 2020,Apartment,,,,,,,,
+246,34/124 Terrace Road,"$190,000",Feb 2020,,,,,,,,$195pw,Oct 2019
+247,21/128 Mounts Bay Road,"$515,000",Feb 2020,Apartment,3,2,2,"5,547",,107,,
+248,35/152 Fitzgerald Street,"$420,000",Jan 2020,Apartment,2,2,1,,,,$430pw,Nov 2017
+249,180/471 Hay Street,"$660,000",Jan 2020,Apartment,3,2,2,177,,127,$680pw,Sep 2020
+250,119 Summers Street,"$830,000",Jan 2020,House,2,1,,507,,,,
+251,1906/105 Stirling Street,"$535,000",Jan 2020,Apartment,,,,96,,,,
+252,2/10 Smith Street,"$359,000",Jan 2020,,,,,945,,57,$350pw,Jan 2019
+253,V808/9 Victoria Avenue,"$275,000",Jan 2020,Apartment,1,1,1,,,,$340pw,Jan 2021
+254,63/128 Mounts Bay Road,"$600,000",Jan 2020,Apartment,3,2,2,107,,,$720pw,May 2016
+255,200 Bulwer Street,"$940,000",Jan 2020,House,2,1,1,408,,125,,
+256,511/126 Mounts Bay Road,"$280,000",Jan 2020,,,,,"5,547",,51,,
+257,32 Wade Street,"$710,000",Jan 2020,House,3,1,1,,,,,
+258,55/76 Newcastle Street,"$182,000",Jan 2020,Apartment,1,1,1,"3,356",,,,
+259,16 Hope Street,"$845,000",Jan 2020,House,3,1,2,403,Nadija Begovich,,$380pw,Aug 2009
+260,1506/105 Stirling Street,"$520,000",Jan 2020,Apartment,2,2,2,122,,,$610pw,Mar 2018
+261,35 Windsor Street,"$1,350,000",Jan 2020,House,4,1,3,"1,114",,179,,
+262,33/375 Hay Street,"$370,000",Jan 2020,,,,,110,,73,$480pw,Apr 2016
+263,48B Bulwer Street,"$850,000",Dec 2019,Townhouse,3,2,2,311,,,,
+264,13/154 Newcastle Street,"$189,000",Dec 2019,Apartment,1,1,1,83,,,,
+265,10B/811 Hay Street,"$255,000",Dec 2019,Apartment,1,1,,,,,$300pw,Mar 2019
+266,807/12 Victoria Avenue,"$180,000",Dec 2019,Apartment,1,1,,,,,,
+267,58/369 Hay Street,"$499,000",Dec 2019,Apartment,3,2,2,"4,726",,90,$610pw,Dec 2017
+268,108/126 Mounts Bay Road,"$220,000",Dec 2019,Apartment,1,1,,,,,,
+269,15/34 Palmerston Street,"$645,000",Dec 2019,Townhouse,2,2,1,135,,127,,
+270,64/128 Mounts Bay Road,"$720,000",Dec 2019,Apartment,,,,152,,,,
+271,14/34 PALMERSTON Street,"$630,000",Dec 2019,Apartment,2,2,1,110,,,,
+272,40/154 Newcastle Street,"$400,000",Dec 2019,Apartment,2,2,1,"4,864",,76,$600pw,Aug 2013
+273,22/226 Beaufort Street,"$295,800",Dec 2019,Apartment,1,1,1,"1,603",,,,
+274,105/22 St Georges Terrace,"$630,000",Dec 2019,Apartment,2,2,1,120,,89,$620pw,Aug 2018
+275,231 Lake Street,"$1,070,000",Dec 2019,House,4,1,1,617,,,$495pw,Feb 2017
+276,110/15 Aberdeen Street,"$285,000",Dec 2019,Apartment,1,1,1,"3,028",,78,$330pw,Oct 2019
+277,58 Bulwer Street,"$680,000",Dec 2019,House,2,1,2,296,,105,$490pw,Aug 2018
+278,2502/237 Adelaide Terrace,"$1,410,000",Dec 2019,Apartment,3,2,2,"4,143",,,$950pw,Sep 2019
+279,21 Brookman Street,"$660,000",Dec 2019,House,3,1,1,304,,135,$550pw,Apr 2015
+280,1/63 Palmerston Street,"$821,000",Dec 2019,House,3,2,2,"3,658",Carlos Lehn,185,,
+281,5 Pisconeri Street,"$850,000",Nov 2019,House,3,2,2,272,Brent Compton,185,,
+282,72/171 St Georges Terrace,"$450,000",Nov 2019,Apartment,3,2,1,,Lyndon Rodgers,,,
+283,54/76 Newcastle Street,"$445,000",Nov 2019,Apartment,2,2,2,"3,356",,101,$490pw,Mar 2020
+284,35/229 Adelaide Terrace,"$555,000",Nov 2019,Apartment,2,2,2,149,,,$495pw,Nov 2019
+285,Lot 9 45 Forbes Road,"$625,188",Nov 2019,Townhouse,3,2,2,,,,,
+286,57/580 Hay Street,"$515,000",Nov 2019,,,,,156,,101,$700pw,Aug 2014
+287,2A/811 HAY STREET,"$240,000",Nov 2019,Apartment,1,1,,,,,$300pw,Aug 2018
+288,6/478 William Street,"$482,388",Nov 2019,Apartment,3,2,2,147,,,$520pw,Aug 2018
+289,22/128 Mounts Bay Road,"$729,500",Nov 2019,Apartment,3,2,2,,,,,
+290,701/9 Victoria Avenue,"$275,000",Nov 2019,Apartment,1,1,1,,,,,
+291,19/8 James Street,"$275,000",Nov 2019,House,2,1,1,533,,,$370pw,Apr 2017
+292,1205/237 Adelaide Terrace,"$465,000",Nov 2019,Apartment,2,2,1,,,,,
+293,5/69 Murray Street,"$680,000",Nov 2019,Apartment,3,1,1,51,,165,,
+294,3/122 Terrace Road,"$205,000",Nov 2019,Apartment,1,1,1,,,,$200pw,Mar 2019
+295,14/120 Terrace Road,"$225,000",Nov 2019,,,,,"1,627",,,$290pw,Mar 2020
+296,52/133 Lincoln Street,"$270,000",Nov 2019,,,,,"3,665",,69,$310pw,Dec 2017
+297,112 Bulwer Street,"$705,000",Nov 2019,,,,,373,,,$580pw,May 2021
+298,33/280 LORD Street,"$397,000",Nov 2019,Apartment,2,2,2,125,,,$490pw,Jan 2019
+299,18/369 Hay Street,"$500,000",Oct 2019,Apartment,3,2,2,"4,726",Realmark Central,99,,

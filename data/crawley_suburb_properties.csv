@@ -1,0 +1,301 @@
+,address,price,sold date,type,bedrooms,bathrooms,car space,agent,rent,rent date,Land size,Building size
+0,73 Fairway,"$1,180,000",Jun 2021,House,2,1,2,Jack Bradshaw,,,,
+1,69 Fairway,"$1,225,000",Jun 2021,House,2,1,2,Brian Neo,,,,
+2,65 Fairway,"$1,225,000",Jun 2021,House,2,1,,Jack Bradshaw,$310pw,Jun 2008,607,
+3,57 Fairway,"$1,650,000",Jun 2021,,,,,Jack Bradshaw,,,607,
+4,55 Fairway,"$1,275,000",Jun 2021,House,3,2,2,Brian Neo,,,607,
+5,15 The Avenue,"$3,650,000",Jun 2021,Apartment,2,1,1,Mark Hay,,,"1,012",
+6,150 Fairway,"$3,500,000",Jun 2021,,,,,Mark Hay,,,809,
+7,6/9-11 Wingfield Avenue,"$920,000",Jun 2021,House,3,2,3,Michelle Kerr,,,154,148
+8,42/3 Park Avenue,"$1,275,000",May 2021,Apartment,3,2,2,Richard Self,"$1,100pw",Mar 2014,"6,588",174
+9,15/22 The Avenue,"$1,455,000",May 2021,Apartment,3,2,2,,$785pw,May 2016,"4,524",169
+10,1/3 Wingfield Avenue,"$1,040,000",Apr 2021,Apartment,,,,Annie McCarthy,,,204,
+11,7/131 Fairway,"$860,000",Apr 2021,House,3,2,2,Michelle Kerr,$670pw,Feb 2021,"1,882",
+12,1/16 The Avenue,"$4,000,000",Mar 2021,Apartment,3,3,4,Peter Robertson,,,310,
+13,5/20 Park Road,"$639,000",Mar 2021,Townhouse,2,1,1,Belinda Airey,$500pw,Nov 2010,86,90
+14,7/28 The Avenue,"$422,000",Feb 2021,Apartment,2,1,2,,$315pw,May 2019,"1,030",67
+15,27/70-72 Broadway,"$320,000",Feb 2021,Apartment,1,1,1,Minrong Lan,,,,
+16,3/64 Broadway,"$485,000",Jan 2021,,,,,David Azzopardi,$500pw,Jan 2021,131,100
+17,12/9 Everett Street,"$395,000",Jan 2021,,,,,,$215pw,Aug 2004,109,90
+18,2/15 COOK STREET,"$635,000",Jan 2021,House,3,1,1,Peter Zambotti,$750pw,Mar 2012,"1,366",118
+19,4/22 Caporn Street,"$360,000",Dec 2020,,,,,,$345pw,Dec 2016,683,
+20,G04/173 Mounts Bay Road,"$2,000,000",Dec 2020,Apartment,,,,,,,271,
+21,6/82 Broadway,"$249,000",Dec 2020,,,,,,,,,
+22,12E/16 Kings Park Avenue,"$1,200,000",Nov 2020,House,3,2,2,,,,190,
+23,9.1/4 Crawley Avenue,"$755,000",Oct 2020,Apartment,3,2,2,Peter & Ali - Turner & Moore Team,$595pw,Dec 2016,202,
+24,118 Broadway,"$1,825,000",Oct 2020,,,,,David Azzopardi,,,880,
+25,7/8 Wingfield Avenue,"$650,000",Oct 2020,Apartment,3,2,2,,$650pw,Jan 2021,123,
+26,1/16 Caporn Street,"$475,000",Oct 2020,,,,,,$500pw,Jul 2015,"2,049",73
+27,10/159 Fairway,"$270,000",Sep 2020,,,,,,$250pw,Sep 2020,,
+28,L108 171/173 Mounts Bay Road,"$725,000",Aug 2020,Apartment,2,2,3,Davide Palermo,,,,
+29,35/17 The Avenue,"$270,000",Aug 2020,,,,,,$370pw,Apr 2021,"2,866",
+30,8/20 Park Road,"$410,000",Jun 2020,,,,,,$420pw,Mar 2015,948,65
+31,8E Park Road,"$525,000",Jun 2020,House,1,1,1,,$500pw,Jan 2019,116,81
+32,6/114 Broadway,"$270,000",Apr 2020,,,,,,$460pw,Jan 2015,76,
+33,1/31 Caporn Street,"$530,000",Apr 2020,,,,,,,,95,102
+34,5/82 Broadway,"$239,000",Apr 2020,,,,,,$240pw,Sep 2016,,
+35,1/139 Fairway,"$540,000",Feb 2020,Townhouse,,,,,,,95,
+36,10/25 The Avenue,"$350,000",Feb 2020,,,,,,$450pw,Feb 2021,"1,850",72
+37,1/4 Kings Park Avenue,"$1,260,000",Jan 2020,,,,,,,,215,250
+38,2/44 Broadway,"$525,000",Dec 2019,Apartment,2,1,2,,$530pw,Oct 2018,104,77
+39,2W/14-18 Kings Park Avenue,"$825,000",Nov 2019,Apartment,3,2,2,,,,176,
+40,8e/14 Kings Park Avenue,"$1,250,000",Nov 2019,Apartment,3,2,2,,,,190,
+41,17e/14 Kings Park Avenue,"$1,290,000",Oct 2019,Apartment,3,2,2,,,,190,
+42,7.1/1 Wingfield Avenue,"$1,030,000",Oct 2019,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,221,
+43,3/4 Kings Park Avenue,"$1,040,000",Sep 2019,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,"$1,190pw",Feb 2021,215,215
+44,1E/21 Park Avenue,"$865,000",Sep 2019,Apartment,3,2,2,,,,443,
+45,3/10 Kings Park Avenue,"$1,550,000",Aug 2019,Apartment,3,4,3,,,,287,187
+46,7E/21 Park Avenue,"$1,225,000",Jul 2019,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,224,224
+47,14/8 MOUNTS BAY ROAD,"$2,750,000",Jun 2019,Apartment,3,2,4,Perth Lifestyle Residential - Lifestyle Is Where I,,,609,609
+48,3/4 Crawley Avenue,"$365,000",Jun 2019,Apartment,1,1,1,Perth Lifestyle Residential - Lifestyle Is Where I,$380pw,May 2018,"3,843",
+49,95 Fairway,"$525,000",Jun 2019,House,2,1,2,Shellabears - Cottesloe,$399pw,Sep 2019,154,
+50,7/9 Everett Street,"$345,000",Apr 2019,,,,,,$370pw,Mar 2019,,
+51,3W/21 Park Avenue,"$1,200,000",Mar 2019,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,234,
+52,3/7 The Avenue,"$800,000",Jan 2019,Townhouse,3,2,2,Collective Property Group WA - COTTESLOE,$750pw,Feb 2021,"1,012",164
+53,105/150 Broadway,"$620,000",Dec 2018,Apartment,2,1,1,Pindan Realty Pty Ltd,,,,
+54,4/152 Broadway,"$390,000",Nov 2018,Apartment,1,1,1,Shellabears - Cottesloe,$350pw,Feb 2021,101,56
+55,3/30 Cook Street,"$675,000",Nov 2018,Townhouse,2,1,2,William Porteous Properties International Pty Lt,,,683,95
+56,1/5 The Avenue,"$1,550,000",Nov 2018,Apartment,3,2,2,Scoop Property - Fremantle,"$1,000pw",Oct 2019,"1,012",
+57,41/1 Wingfield Avenue,"$895,000",Nov 2018,Apartment,4,2,2,The Property Exchange - Subiaco,$820pw,Nov 2020,,
+58,3/159 Fairway,"$265,000",Nov 2018,Apartment,1,1,,Shellabears - Cottesloe,$250pw,Dec 2016,"1,608",
+59,46/3 Park Avenue,"$1,470,000",Oct 2018,House,3,2,2,TM Residential - Dalkeith,,,175,175
+60,1A Park Avenue,"$2,215,000",Sep 2018,House,4,3,3,Perth Lifestyle Residential - Lifestyle Is Where I,"$2,200pw",Nov 2015,187,
+61,3/20 Mounts Bay Road,"$920,000",Aug 2018,Apartment,3,1,2,Wallace Real Estate - Claremont,$560pw,Apr 2021,"1,538",135
+62,11/159 Fairway,"$215,000",Aug 2018,,,,,Bexleys Real Estate - Wembley,$250pw,Jun 2018,"1,608",
+63,10/22 The Avenue,"$1,050,000",Jul 2018,,,,,Bellcourt Property Group - Dalkeith | Shenton Park,$750pw,Jul 2020,142,142
+64,1/48 Broadway,"$515,000",Jul 2018,Apartment,3,2,2,Renouf Real Estate - Swanbourne,$485pw,Mar 2015,,
+65,9/149 Fairway,"$362,100",Jul 2018,,,,,Mack Hall Real Estate - Claremont,$390pw,Dec 2020,846,74
+66,4/4 Crawley Avenue,"$482,000",Jun 2018,Apartment,3,1,1,Airey Real Estate - CLAREMONT,$400pw,May 2020,"3,843",
+67,31 Parkway,"$815,000",Apr 2018,House,3,1,2,Hub Residential - SWANBOURNE,$650pw,Jan 2021,233,117
+68,23A Everett Street,"$950,000",Mar 2018,Townhouse,3,3,2,Knight Frank - Perth,,,156,145
+69,6/44 Broadway,"$545,000",Mar 2018,Apartment,2,1,3,Gordon Davies Real Estate - DALKEITH,,,123,77
+70,40 Everett Street,"$815,000",Mar 2018,House,3,1,,,,,253,117
+71,41/3 Park Avenue,"$1,220,000",Feb 2018,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,246,
+72,4W/16 Kings Park Avenue,"$929,000",Feb 2018,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,190,
+73,123 Fairway,"$818,000",Feb 2018,House,4,1,,,,,160,150
+74,4/124 Broadway,"$350,000",Feb 2018,,,,,Collective Property Group WA - COTTESLOE,$375pw,Nov 2019,883,
+75,8/19 Princess Road,"$295,000",Jan 2018,,,,,Shellabears - Cottesloe,$325pw,Aug 2014,,
+76,2/19 Princess Road,"$300,000",Jan 2018,,,,,Shellabears - Cottesloe,$270pw,Oct 2017,,
+77,5/19 Princess Road,"$307,500",Jan 2018,,,,,,$375pw,Mar 2018,50,50
+78,17/3 Park Avenue,"$1,640,000",Jan 2018,,,,,,,,175,175
+79,5/10 Kings Park Avenue,"$1,700,000",Dec 2017,,,,,,,,274,187
+80,1/151 Fairway,"$490,000",Dec 2017,,,,,Shellabears - Cottesloe,$525pw,Sep 2015,,
+81,2/224 Hampden Road,"$660,000",13 Dec 2017(Auction),Townhouse,2,2,2,Realmark Central,$525pw,Feb 2020,69,76
+82,15W/16 Kings Park Avenue,"$1,410,000",Dec 2017,Apartment,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,190,190
+83,6/60 Broadway,"$500,000",Nov 2017,Apartment,2,1,1,Rossen Real Estate - Nedlands,$420pw,Aug 2018,114,74
+84,82/4 Crawley Avenue,"$840,000",Nov 2017,,,,,LJ Hooker - Dalkeith | Claremont,,,"3,843",
+85,16C Princess Road,"$607,000",Nov 2017,Townhouse,2,2,1,Acton - Dalkeith,$600pw,Jun 2019,,
+86,25 70-72 Broadway,"$337,500",Nov 2017,,,,,Residential West,,,,
+87,6/10 The Avenue,"$850,000",Nov 2017,,,,,Collective Property Group WA - COTTESLOE,,,105,105
+88,1/26 The Avenue,"$849,000",Oct 2017,House,3,2,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,,
+89,8/126 Broadway,"$330,000",Oct 2017,,,,,,,,882,
+90,3/4 Wingfield Avenue,"$875,000",Oct 2017,Townhouse,3,2,2,Shellabears - Cottesloe,,,222,
+91,32/212 Hampden Road,"$252,000",Oct 2017,Apartment,1,1,1,Kempton Azzopardi - Nedlands,$260pw,Dec 2019,,
+92,1/17-23 The Avenue,"$310,000",Oct 2017,Apartment,1,1,1,Acton - Dalkeith,$320pw,May 2012,"2,866",
+93,8/8 Mounts Bay Road,"$2,050,000",Sep 2017,House,3,3,2,Perth Lifestyle Residential - Lifestyle Is Where I,,,284,181
+94,12/10 Kings Park Avenue,"$2,900,000",Sep 2017,,,,,William Porteous Properties International Pty Ltd ,"$1,900pw",Feb 2011,924,187
+95,4/133 Fairway,"$530,000",Aug 2017,Townhouse,2,1,1,LJ Hooker - Dalkeith | Claremont,$400pw,Oct 2016,607,97
+96,7/10 The Avenue,"$1,125,000",Aug 2017,Apartment,3,2,2,Acton - Dalkeith,,,152,152
+97,22/70-72 Broadway,"$253,000",Jul 2017,Apartment,1,1,1,,$285pw,Jan 2019,,
+98,22/70 Broadway,"$253,000",Jul 2017,Apartment,1,1,1,Kempton Azzopardi - Nedlands,,,,
+99,9E/16 Kings Park Avenue,"$1,300,000",Jul 2017,Apartment,3,2,2,Signature Property Group WA - SUBIACO,,,190,
+100,7/10 Kings Park Avenue,"$1,720,000",Jun 2017,Apartment,3,3,3,Vivians Residential Real Estate - MOSMAN PARK,"$1,500pw",Apr 2016,578,187
+101,12/18 The Avenue,"$505,000",Jun 2017,Apartment,2,1,1,Bellcourt Property Group - SHENTON PARK,$425pw,Feb 2018,"2,060",84
+102,9/74 Broadway,"$500,000",May 2017,Apartment,3,1,1,Acton - Dalkeith,$600pw,Feb 2020,883,93
+103,58/3 Park Avenue,"$1,475,000",May 2017,,,,,TM Residential - Dalkeith,$895pw,Oct 2018,175,175
+104,5/18 The Avenue,"$480,000",May 2017,Apartment,2,1,1,MAS Real Estate - Nedlands,$335pw,Jan 2015,"2,059",78
+105,6/18 The Avenue,"$540,000",May 2017,Apartment,2,1,1,MAS Real Estate - Nedlands,$395pw,Mar 2021,76,84
+106,4/15 Cook Street,"$565,000",May 2017,Townhouse,3,1,1,LJ Hooker Claremont,,,102,6
+107,13/48 Broadway,"$400,000",May 2017,Townhouse,2,1,1,Realmark Western Suburbs - NEDLANDS,$380pw,Aug 2020,"1,613",69
+108,35/212 Hampden Road,"$285,000",Apr 2017,,,,,No Agent Property,,,"1,567",
+109,3/166 Broadway,"$2,100,000",Apr 2017,Apartment,4,2,3,William Porteous Properties International Pty Ltd ,"$1,400pw",Oct 2016,368,272
+110,9A Princess Road,"$955,000",Apr 2017,House,3,2,1,Acton North - CITY BEACH,,,286,172
+111,3/121 Fairway,"$800,000",Mar 2017,Townhouse,3,2,1,Acton - Dalkeith,$550pw,Mar 2017,213,109
+112,12/18 Park Road,"$525,000",Mar 2017,Apartment,1,1,1,Mint Real Estate - Claremont,$430pw,Apr 2019,,
+113,8C Park Road,"$550,000",Mar 2017,Townhouse,1,1,1,Kempton Azzopardi - Nedlands,$395pw,May 2017,112,81
+114,5/22 The Avenue,"$1,300,000",Mar 2017,Apartment,2,2,2,Realmark Western Suburbs - NEDLANDS,$770pw,Jul 2015,"4,524",142
+115,10/14 Park Road,"$605,000",Mar 2017,House,3,1,1,Abel Property - Leederville,$440pw,Jul 2020,"2,157",101
+116,1/153 Fairway,"$455,000",Mar 2017,,,,,The Property Exchange - Subiaco,$525pw,Feb 2013,"1,140",55
+117,4/14 Cook Street,"$775,000",Feb 2017,Townhouse,3,2,2,Airey Real Estate,$600pw,Nov 2019,"1,366",125
+118,3/11 The Avenue,"$900,000",Feb 2017,Townhouse,3,2,4,Mack Hall Real Estate - Claremont,$700pw,Aug 2017,"1,012",149
+119,9/25 The Avenue,"$470,000",Feb 2017,,,,,Abel McGrath Property Group - Claremont,$390pw,Nov 2018,"1,850",74
+120,6/14-18 Kings Park Avenue,"$835,000",Feb 2017,House,3,2,2,,,,190,190
+121,6/14 Kings Park Avenue,"$835,000",Feb 2017,Apartment,3,2,2,Acton Cottesloe - Peppermint Grove,,,190,
+122,47/3 Park Avenue,"$1,650,000",Feb 2017,House,3,2,2,Mack Hall Real Estate - Claremont,,,175,175
+123,11e 16 Kings Park Avenue,"$949,500",Feb 2017,,,,,Mack Hall Real Estate - Claremont,,,,
+124,6/166 Broadway,"$3,500,000",Jan 2017,,,,,William Porteous Properties International Pty Ltd ,"$1,750pw",Dec 2016,374,300
+125,1/133 Fairway,"$490,000",Jan 2017,,,,,,,,,87
+126,1/42 Broadway,"$433,000",Dec 2016,Apartment,2,1,1,Realmark Western Suburbs - NEDLANDS,$350pw,Nov 2020,"1,096",85
+127,9/12 Wingfield Avenue,"$840,000",Dec 2016,Apartment,3,2,1,Acton - Dalkeith,$625pw,Nov 2016,"4,918",130
+128,4/18 Park Road,"$707,000",Dec 2016,Apartment,2,2,1,Mint Real Estate - Claremont,,,,
+129,10/9 Everett Street,"$410,000",Nov 2016,Apartment,2,1,1,Rossen Real Estate - Nedlands,,,109,90
+130,1/15 Cook Street,"$625,000",Nov 2016,House,3,1,2,Airey Real Estate,$500pw,Sep 2016,"1,366",116
+131,8/149 Fairway,"$520,000",Nov 2016,Apartment,2,1,1,ACTON Dalkeith,$400pw,Jan 2014,846,69
+132,3/11 Wingfield Avenue,"$945,000",Oct 2016,House,2,1,2,Bexleys Real Estate - Wembley,,,"1,874",
+133,4/60 Broadway,"$475,000",Sep 2016,,,,,Harcourts - Integrity,$495pw,Feb 2017,"1,765",87
+134,29 Parkway,"$805,000",Sep 2016,House,3,1,1,William Porteous Properties International Pty Ltd ,$550pw,Jul 2019,300,117
+135,2W/4 Crawley Avenue,"$695,000",Sep 2016,Apartment,3,2,2,Kempton Azzopardi - Nedlands,,,,
+136,59/3 Park Avenue,"$1,500,000",Aug 2016,Apartment,3,2,3,Vivians Residential Real Estate - MOSMAN PARK,,,175,175
+137,8/17-23 The Avenue,"$327,000",Aug 2016,Apartment,1,1,1,Kempton Azzopardi - Nedlands,$335pw,Jan 2018,"2,866",
+138,8/17 The Avenue,"$327,000",Aug 2016,,,,,,$350pw,Nov 2016,"2,866",
+139,4/158 Broadway,"$322,000",Aug 2016,House,1,1,1,Realmark - Applecross,$310pw,Nov 2019,941,54
+140,1/18 PARK Road,"$735,000",Jul 2016,,,,,,$600pw,Dec 2017,121,
+141,2/18 PARK Road,"$720,000",Jul 2016,,,,,,$650pw,Feb 2021,123,
+142,5/18 PARK Road,"$530,000",Jul 2016,,,,,,$420pw,Feb 2021,,
+143,9/4 Crawley Avenue,"$725,500",Jul 2016,Apartment,2,2,2,Space Real Estate - Cottesloe,,,"3,847",158
+144,13 The Avenue,"$2,300,000",Jul 2016,,,,,Signature Property Group WA - SUBIACO,,,"1,012",
+145,4/20 Mounts Bay Road,"$1,020,000",Jun 2016,House,2,2,2,LJ Hooker - Claremont,$595pw,Jul 2016,"1,540",147
+146,4/16 The Avenue,"$4,800,000",Jun 2016,Apartment,4,3,4,William Porteous Properties International Pty Ltd ,,,416,416
+147,34/3 Park Avenue,"$1,100,000",Jun 2016,House,3,2,2,LJ Hooker - Claremont,,,175,175
+148,7/158 Broadway,"$295,000",May 2016,Apartment,1,1,1,Key Performance Realty - Perth,,,941,9
+149,14/150 Broadway,"$695,000",Apr 2016,Apartment,2,1,1,Indo-Pacific Property - Sage on Broadway,,,,
+150,4/150 Broadway,"$780,000",Apr 2016,Apartment,2,2,1,Indo-Pacific Property - Sage on Broadway,,,,
+151,1/159 Fairway,"$335,000",Apr 2016,,,,,Abode Real Estate - Cottesloe,$300pw,Nov 2019,"1,608",
+152,5/7 Princess Road,"$420,000",Apr 2016,,,,,,$400pw,Dec 2018,683,65
+153,5/1 Kings Park Avenue,"$850,000",Apr 2016,Apartment,2,2,2,TM Residential - Dalkeith,$325pw,Jun 2004,201,201
+154,23/17-23 The Avenue,"$323,000",Apr 2016,House,1,1,1,Acton - Dalkeith,,,,
+155,32/17 The Avenue,"$325,000",Mar 2016,,,,,Abode Real Estate - Cottesloe,$300pw,Jun 2016,"2,866",
+156,9 Myers Street,"$1,025,000",Mar 2016,House,4,2,2,Abel McGrath Property Group - Claremont,,,238,194
+157,3/135 Fairway,"$535,000",Mar 2016,,,,,,$425pw,May 2016,607,87
+158,12/5 Park Avenue,"$750,000",Mar 2016,,,,,,,,"4,918",
+159,20e/14-18 Kings Park Avenue,"$1,390,000",Mar 2016,House,3,2,2,,"$1,150pw",Mar 2015,"5,587",184
+160,3/35 Fairway,"$475,000",Mar 2016,,,,,Kempton Azzopardi - Nedlands,$425pw,Mar 2021,608,61
+161,1G/173 Mounts Bay Road,"$2,200,000",Feb 2016,,,,,,,,,
+162,4/8 Wingfield Avenue,"$785,000",Feb 2016,,,,,,$650pw,Feb 2021,"2,533",144
+163,50/3 Park Avenue,"$1,500,000",Feb 2016,,,,,,,,175,175
+164,226 Hampden Road,"$1,060,000",Dec 2015,,,,,Acton - Dalkeith,,,508,
+165,31 Cook Street,"$1,200,000",Dec 2015,House,3,,,,,,729,
+166,4/48 Broadway,"$435,000",Dec 2015,Townhouse,2,1,1,Renouf Real Estate - Swanbourne,$360pw,Jul 2018,"1,613",69
+167,5/22 Mounts Bay Road,"$2,525,000",Dec 2015,Apartment,3,2,2,Space Real Estate - Cottesloe,"$1,500pw",Oct 2015,"2,390",307
+168,4/3 Park Avenue,"$1,075,000",Dec 2015,Apartment,3,1,2,Abel McGrath The Property People - Leederville,$990pw,Nov 2013,175,175
+169,4/2 Kings Park Avenue,"$2,250,000",Nov 2015,Apartment,4,3,2,Jamie Loh Real Estate - Cottesloe,"$1,450pw",Jan 2021,293,186
+170,6/124 Broadway,"$325,000",Nov 2015,,,,,Kempton Azzopardi - Nedlands,$300pw,Jul 2019,882,
+171,2/3 Wingfield Avenue,"$1,250,000",Nov 2015,Apartment,3,2,2,,$895pw,Mar 2016,267,155
+172,1/20 Mounts Bay Road,"$1,050,000",Oct 2015,,,,,,$650pw,May 2016,202,147
+173,2/26 Cook Street,"$570,000",Sep 2015,,,,,Rossen Real Estate - Nedlands,$495pw,Dec 2016,683,114
+174,147 Fairway,"$2,575,000",Sep 2015,,,,,LJ Hooker - Claremont,,,844,
+175,8/3 Park Avenue,"$1,100,000",Sep 2015,,,,,,,,175,175
+176,40 Broadway,"$2,458,000",Sep 2015,House,8,4,,Anderson Davies Real Estate - Dalkeith,$475pw,Jun 2017,792,
+177,4/159 Fairway,"$345,000",Aug 2015,,,,,ABODE REAL ESTATE - COTTESLOE,,,"1,608",
+178,1/1 Wingfield Avenue,"$950,000",Aug 2015,,,,,,,,221,95
+179,2/112 Broadway,"$400,000",Aug 2015,,,,,,$285pw,Feb 2017,883,
+180,5/126 Broadway,"$170,498",Aug 2015,,,,,,,,882,
+181,4/126 Broadway,"$220,000",Aug 2015,,,,,,,,882,
+182,5/44 Broadway,"$565,000",Aug 2015,Apartment,2,1,1,Realmark Western Suburbs - NEDLANDS,$450pw,Dec 2017,124,77
+183,51/1 Wingfield Avenue,"$950,000",Aug 2015,Apartment,4,2,2,Marron Real Estate - Nedlands,$500pw,Aug 2011,220,190
+184,23/3 Park Avenue,"$1,600,000",Jul 2015,,,,,,,,175,175
+185,10/3 Park Avenue,"$1,165,000",Jul 2015,,,,,,,,175,175
+186,4/9 The Avenue,"$790,000",Jun 2015,Apartment,3,1,1,Acton - Dalkeith,$600pw,Jun 2012,"1,012",120
+187,5/9 Wingfield Avenue,"$1,080,000",Jun 2015,House,3,,,,,,138,
+188,29/5 Park Avenue,"$750,000",May 2015,Apartment,3,2,2,Rossen Real Estate - Nedlands,$700pw,May 2013,"4,918",145
+189,29/5-7 PARK Avenue,"$750,000",May 2015,Apartment,3,1,1,,$700pw,May 2013,145,
+190,1/16A Princess Road,"$550,000",May 2015,,,,,,,,170,
+191,16a Princess Road,"$550,000",May 2015,,,,,Abel McGrath Property Group - Claremont,$390pw,Apr 2017,148,68
+192,27/3 Park Avenue,"$1,375,000",May 2015,,,,,,,,175,175
+193,10/10 Kings Park Avenue,"$1,750,000",May 2015,Apartment,3,3,2,ZSA ZSA Property - PERTH,"$1,600pw",Jun 2012,274,187
+194,16/168 Broadway,"$405,000",May 2015,Apartment,1,1,,Burgess Rawson Residential - Perth,,,"1,412",51
+195,8/131 Fairway,"$775,500",Apr 2015,Townhouse,3,2,2,Scott BJ Properties - Perth,$700pw,Apr 2021,"1,882",130
+196,1/1 Park Avenue,"$950,000",Apr 2015,,,,,,,,"1,001",144
+197,1/2 Wingfield Avenue,"$1,600,000",Apr 2015,Apartment,3,2,2,Acton - Dalkeith,"$1,100pw",Nov 2013,280,140
+198,1/22 The Avenue,"$2,110,000",Apr 2015,Apartment,3,2,2,Acton - Dalkeith,$950pw,Apr 2018,"4,524",163
+199,32 Everett Street,"$1,230,000",Apr 2015,House,2,1,1,Anderson Davies Real Estate - Dalkeith,$650pw,Jan 2013,683,
+200,8/22 Mounts Bay Road,"$2,800,000",Apr 2015,,,,,,"$1,600pw",May 2013,304,218
+201,1/22 KINGS PARK AVENUE,"$2,400,000",Mar 2015,House,3,2,3,TM Residential - Dalkeith,"$1,900pw",Apr 2014,320,368
+202,3/14 Cook Street,"$795,000",28 Mar 2015(Auction),Townhouse,3,2,2,Acton North - CITY BEACH,,,"1,366",120
+203,12/4 Crawley Avenue,"$570,000",Mar 2015,Apartment,1,1,1,,$460pw,Nov 2018,83,85
+204,301/173 Mounts Bay Road,"$5,500,000",Mar 2015,Apartment,3,3,4,William Porteous Properties International Pty Ltd,"$3,500pw",Feb 2015,,452
+205,21E/14 Kings Park Avenue,"$1,050,000",Mar 2015,,,,,,,,,
+206,21E Kings Park Avenue,"$1,050,000",Mar 2015,Apartment,3,2,2,LJ Hooker - Leeming,,,,
+207,21E 16 Kings Park Avenue,"$1,050,000",Mar 2015,Apartment,3,2,2,LJ Hooker - Leeming,,,,
+208,8/152 Broadway,"$420,000",Mar 2015,,,,,Optimus Real Estate - City Beach,$380pw,Dec 2020,973,87
+209,1-24 COOK STREET,"$771,000",Mar 2015,Townhouse,3,2,2,TM Residential - Dalkeith,,,,
+210,1 Cook Street,"$770,880",Mar 2015,Townhouse,3,2,2,TM Residential - Dalkeith,,,,
+211,54/3 Park Avenue,"$1,685,000",Mar 2015,Apartment,3,2,3,Leasing Elite Pty Ltd - West Perth,,,"6,576",175
+212,6/160 Broadway,"$600,000",Mar 2015,Apartment,2,1,1,Acton - Dalkeith,$425pw,Jul 2019,982,
+213,1/24 Cook Street,"$770,880",Mar 2015,Townhouse,3,2,,TM Residential - Dalkeith,$550pw,Jan 2021,114,119
+214,18/22-24 The Avenue,"$1,890,000",Mar 2015,Apartment,3,2,4,House Real Estate - Cottesloe,,,"4,524",161
+215,18/22 The Avenue,"$1,890,000",Feb 2015,,,,,House Real Estate - Cottesloe,,,"4,524",161
+216,2/153 Fairway,"$565,000",Feb 2015,,,,,,$360pw,Feb 2021,"1,140",57
+217,4/1 Park Avenue,"$885,000",Feb 2015,House,3,2,2,Acton Fremantle - East Fremantle,$600pw,Sep 2010,"1,001",156
+218,14E/16 Kings Park Avenue,"$1,225,000",Feb 2015,House,3,2,2,TM Residential - Dalkeith,,,"5,587",190
+219,6/168 Broadway,"$400,000",Feb 2015,,,,,Acton - Dalkeith,,,"1,412",51
+220,2/22 Caporn Street,"$395,000",Jan 2015,Apartment,1,1,1,Port City Real Estate - Fremantle,$360pw,Nov 2016,683,50
+221,1/228 Hampden Road,"$718,000",Dec 2014,,,,,ABODE REAL ESTATE - COTTESLOE,$530pw,Jan 2021,481,107
+222,2/24 Cook Street,"$770,000",Dec 2014,House,4,2,2,Abel McGrath Property Group - Claremont,$650pw,Jan 2008,116,114
+223,5/3 Park Avenue,"$1,000,000",Dec 2014,House,3,2,2,Acton - Dalkeith,$850pw,Feb 2014,"6,576",175
+224,4/70-72 Broadway,"$355,000",Nov 2014,,,,,Residential West,$330pw,May 2016,"1,765",45
+225,4/70 Broadway,"$355,000",Nov 2014,,,,,Residential West,,,"1,765",45
+226,8/16 Caporn Street,"$562,000",Nov 2014,Apartment,2,1,1,Rossen Real Estate - Nedlands,$550pw,May 2014,"2,049",73
+227,34 Everett Street,"$1,600,000",Nov 2014,House,4,2,2,,,,683,197
+228,2/17-23 The Avenue,"$380,000",Nov 2014,House,1,1,1,Acton - Dalkeith,$350pw,Nov 2019,"2,866",
+229,4/16 Caporn Street,"$540,000",Nov 2014,Apartment,2,1,1,Rossen Real Estate - Nedlands,$380pw,Feb 2018,"2,049",73
+230,3/17-23 The Avenue,"$365,000",Nov 2014,House,1,1,1,Acton - Dalkeith,$265pw,Jan 2020,,
+231,4/116 Broadway,"$530,000",Oct 2014,House,2,1,1,Acton - Dalkeith,$400pw,Jan 2021,883,58
+232,5E/14 Kings Park Avenue,"$1,075,000",Oct 2014,Apartment,3,2,2,Mack Hall Real Estate - Claremont,,,"5,587",190
+233,12/70-72 Broadway,"$345,000",Oct 2014,,,,,Acton - Dalkeith,$330pw,Dec 2020,48,
+234,6/8 Wingfield Avenue,"$730,000",Oct 2014,Apartment,3,2,2,Mack Hall Real Estate - Claremont,,,"2,533",145
+235,6/9 The Avenue,"$795,000",Oct 2014,,,,,Acton - Dalkeith,,,"1,012",99
+236,3/16 The Avenue,"$4,000,000",Oct 2014,Apartment,3,3,3,MLG Realty,,,275,275
+237,27/17-23 The Avenue,"$375,000",Oct 2014,House,1,1,1,Acton - Dalkeith,$430pw,Nov 2015,"2,866",
+238,27/17 The Avenue,"$375,000",Oct 2014,,,,,,$430pw,Nov 2014,"2,866",
+239,12/70 Broadway,"$345,000",Sep 2014,,,,,Acton - Dalkeith,,,48,
+240,2/115 Fairway,"$350,000",Sep 2014,Townhouse,3,1,2,,$575pw,Feb 2018,102,108
+241,8/22 The Avenue,"$1,050,000",Sep 2014,,,,,,"$1,000pw",Oct 2017,257,257
+242,6/42 Broadway,"$425,000",Sep 2014,,,,,Residential West,,,"1,096",
+243,3/5 Clark Street,"$650,000",Sep 2014,Townhouse,3,1,1,,$600pw,Sep 2014,"1,425",111
+244,11/22 The Avenue,"$1,465,000",Sep 2014,,,,,,,,165,165
+245,28/3 Park Avenue,"$1,385,000",Aug 2014,Apartment,3,2,2,Shellabears - Cottesloe,"$1,100pw",May 2013,"6,576",19
+246,18/17 The Avenue,"$345,000",Aug 2014,House,1,1,1,,$295pw,Jul 2018,"2,866",
+247,7/16 Caporn Street,"$562,000",Aug 2014,,,,,Acton - Dalkeith,,,"2,049",72
+248,26/70-72 Broadway,"$299,000",Aug 2014,,,,,Ray White - Bursmac & Associates,$360pw,Nov 2015,"1,765",
+249,32/5 Park Avenue,"$810,000",Aug 2014,Apartment,3,2,2,Mack Hall Real Estate - Claremont,$625pw,Sep 2013,"4,918",125
+250,125 Fairway,"$1,512,500",Jul 2014,House,4,2,4,Growth Realty,$525pw,Jun 2020,607,
+251,26/70 Broadway,"$299,000",Jul 2014,,,,,Ray White - Bursmac & Associates,,,"1,765",
+252,87 Fairway,"$1,500,000",Jul 2014,House,3,1,,,,,607,
+253,2/10 Kings Park Avenue,"$1,550,000",Jun 2014,Apartment,3,2,2,The Property Exchange - Subiaco,,,272,185
+254,2/228 Hampden Road,"$650,000",Jun 2014,Townhouse,1,1,1,ABODE REAL ESTATE - COTTESLOE,$415pw,Feb 2021,481,96
+255,1/114 Broadway,"$380,000",Jun 2014,Apartment,2,1,1,Bexleys Real Estate - Wembley,$460pw,Feb 2012,67,
+256,2/20 Princess Road,"$642,000",Jun 2014,Townhouse,2,1,1,Paxton Hoad - Subiaco,$485pw,Nov 2020,85,79
+257,22 Cook Street,"$1,910,000",24 May 2014(Auction),House,3,3,2,Shellabear's - Cottesloe,,,683,358
+258,3/7 Wingfield Avenue,"$1,360,000",May 2014,House,4,2,2,Mack Hall Real Estate - Claremont,$800pw,Sep 2019,"1,168",161
+259,13/8 Wingfield Avenue,"$815,000",May 2014,,,,,,$585pw,Apr 2017,143,138
+260,"4/2,4 Crawley Avenue","$845,000",Apr 2014,Apartment,2,2,2,Acton - Dalkeith,,,,
+261,6/25 The Avenue,"$480,000",Apr 2014,,,,,,$310pw,Aug 2018,64,
+262,15/17 The Avenue,"$338,000",Mar 2014,,,,,,$280pw,Mar 2009,"2,866",
+263,6/159 Fairway,"$352,000",Mar 2014,,,,,Real Estate Express with Andy Brown - Mount Pleasa,$340pw,Feb 2017,"1,608",
+264,99L Fairway,"$625,000",Mar 2014,House,2,,,,,,,
+265,99 Fairway,"$625,000",Mar 2014,House,2,1,2,Realmark Western Suburbs - NEDLANDS,$425pw,Nov 2009,150,97
+266,101 Fairway,"$625,000",Mar 2014,House,2,1,2,Realmark Western Suburbs - NEDLANDS,$400pw,Dec 2020,152,97
+267,101L Fairway,"$625,000",Mar 2014,Townhouse,2,1,1,,,,,97
+268,2/3 Park Avenue,"$760,000",Mar 2014,Apartment,2,1,2,Mack Hall Real Estate - Claremont,$500pw,May 2017,"6,576",107
+269,16/25 The Avenue,"$435,000",Mar 2014,,,,,,$460pw,Apr 2016,"1,850",72
+270,3/16 Caporn Street,"$545,000",Mar 2014,House,2,1,1,Acton Cottesloe - Peppermint Grove,$320pw,Sep 2019,"2,049",73
+271,4/20 Park Road,by,under 2 Weeks** Location & Lifestyle... Tucked away ,Townhouse,2,1,1,Peard Real Estate Leederville - Leederville & Moun,$475pw,Nov 2010,948,86
+272,8/15 Cook Street,"$740,000",Feb 2014,,,,,,$450pw,Apr 2010,110,109
+273,9/10 The Avenue,"$1,160,000",Feb 2014,Apartment,2,1,2,Shellabears Real Estate,,,"3,251",105
+274,1/24 Caporn Street,"$610,000",Feb 2014,,,,,,$430pw,Dec 2011,85,84
+275,4/22 Mounts Bay Road,"$2,475,000",Feb 2014,Apartment,3,2,2,Mack Hall Real Estate - Claremont,,,306,217
+276,145 Fairway,"$970,000",Feb 2014,House,3,2,2,Caporn Young Real Estate,$800pw,Mar 2013,198,125
+277,11/17 The Avenue,"$398,000",Feb 2014,,,,,,,,"2,866",
+278,18 Cook Street,"$1,000,000",Jan 2014,House,3,1,2,Bellcourt Property Group - SHENTON PARK,,,683,157
+279,6/8 Mounts Bay Road,"$2,725,000",Jan 2014,Apartment,3,3,2,Ethos Property - HIGHGATE,,,290,181
+280,35/3 Park Avenue,"$1,230,000",Jan 2014,Apartment,3,1,,,,,175,175
+281,4/42 Broadway,"$495,000",Dec 2013,,,,,MAS Real Estate - Nedlands,$475pw,Apr 2013,"1,096",85
+282,14/8 Wingfield Avenue,"$998,000",Dec 2013,Apartment,3,2,2,Acton - Dalkeith,,,"2,533",144
+283,2/168 Broadway,"$625,000",Dec 2013,Apartment,2,1,1,Acton North - CITY BEACH,$525pw,May 2013,"1,414",65
+284,24/159 Fairway,"$330,000",Dec 2013,,,,,,$260pw,Feb 2020,"1,610",
+285,51/4 Crawley Avenue,"$1,050,000",Nov 2013,Apartment,3,2,2,,,,202,206
+286,9/131 Fairway,"$627,000",Nov 2013,Townhouse,2,2,,,,,129,129
+287,1/14 Park Road,"$625,000",Oct 2013,Townhouse,3,1,1,Kempton Azzopardi - Nedlands,$400pw,Nov 2008,97,
+288,29L Parkway,"$803,000",Oct 2013,House,3,,,,,,,
+289,27 Parkway,"$803,000",Oct 2013,House,3,1,1,Kempton Azzopardi - Nedlands,$475pw,Oct 2020,304,104
+290,53/3 Park Avenue,"$1,340,000",Oct 2013,,,,,Property Selection Realty - North Perth,$875pw,Sep 2017,"6,576",175
+291,2/20 Park Road,"$852,500",Oct 2013,Townhouse,3,2,2,Realmark Central - East Perth,$600pw,Mar 2021,948,116
+292,6/6 Mounts Bay Road,"$2,725,000",Oct 2013,,,,,,,,"2,453",
+293,1/1 Kings Park Avenue,"$1,050,000",Sep 2013,Apartment,3,2,2,Anderson Davies Real Estate - Dalkeith,$700pw,May 2017,"2,111",178
+294,101/4 Crawley Avenue,"$1,400,000",Sep 2013,Apartment,3,2,2,,,,202,206
+295,2/136A Broadway,"$399,000",Sep 2013,Apartment,1,1,1,Shellabears Real Estate,$270pw,Jul 2020,846,
+296,17/159 Fairway,"$300,000",Sep 2013,,,,,,$275pw,Aug 2018,"1,610",
+297,10/68 Broadway,"$381,000",Aug 2013,,,,,MAS Real Estate - Nedlands,$270pw,Sep 2020,883,
+298,3/14 The Avenue,"$2,300,000",Aug 2013,Apartment,3,2,4,Space Real Estate - Cottesloe,"$1,500pw",Nov 2017,"1,867",255
+299,25/4 Crawley Avenue,"$2,300,000",Aug 2013,,,,,,,,"3,843",360
