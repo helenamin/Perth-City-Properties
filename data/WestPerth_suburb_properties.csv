@@ -1,0 +1,301 @@
+,address,price,sold date,rent,rent date,type,bedrooms,bathrooms,car space,Land size,Building size,agent
+0,10/2 Mayfair Street,"$410,000",Aug 2021,$400pw,Jun 2019,Apartment,2,2,1,102,81,
+1,42/33 MALCOLM STREET,"$1,050,000",Jul 2021,"$1,200pw",Feb 2019,House,3,2,2,"1,701",140,
+2,6/16 Carr Street,"$550,000",Jul 2021,,,Townhouse,3,2,2,190,,Ashby Farrell
+3,11/875 Wellington Street,"$110,000",Jul 2021,,,Apartment,,,,,,Daniel Porcaro
+4,6/1 Carr Street,"$442,000",Jul 2021,$575pw,Mar 2021,Apartment,3,1,1,156,88,Annette O'Brien-Oxley
+5,1607/659 Murray,"$610,000",Jul 2021,,,Apartment,2,2,1,,,Ian Fatharly
+6,2/60 Cleaver Street,"$510,000",Jul 2021,$420pw,Jan 2019,,,,,183,119,Peter Hall
+7,5/132 Carr Street,"$480,000",Jul 2021,,,,,,,"2,789",,
+8,11/129 Carr Street,"$420,000",Jul 2021,,,Townhouse,2,1,1,,,
+9,5/146 Carr Street,"$430,000",Jul 2021,$390pw,Nov 2018,,,,,"1,577",83,
+10,22/105 Colin Street,"$700,000",Jun 2021,,,Apartment,3,2,2,155,,Richard Self
+11,5/123C COLIN Street,"$345,000",Jun 2021,$390pw,Jun 2018,Apartment,2,1,1,105,,Claude Iaconi
+12,17/66 Cleaver Street,"$175,000",Jun 2021,$200pw,Sep 2019,,,,,"3,422",,
+13,10/14 Lawley Street,"$198,000",Jun 2021,,,Apartment,1,1,1,,,Darcy Glynn
+14,2/11 Colin Street,"$480,000",Jun 2021,$440pw,Feb 2021,,,,,719,,
+15,16/21 Altona Street,"$591,000",Jun 2021,$550pw,Mar 2017,Apartment,2,2,1,74,,James Thompson
+16,3/143 Carr Street,"$610,000",Jun 2021,$525pw,Jan 2020,Townhouse,3,2,2,897,113,Richard Self
+17,36/7 Delhi Street,"$430,000",Jun 2021,$420pw,May 2019,Apartment,2,2,1,110,82,Annie Kowal
+18,1802/659 Murray Street,"$385,000",Jun 2021,,,Apartment,1,1,1,75,,Joel Cooper
+19,64/1 Carr Street,"$445,000",Jun 2021,,,,,,,117,85,Simon Pigliardo
+20,13/15-19 Carr Street,"$425,000",Jun 2021,$460pw,Sep 2015,Apartment,2,2,1,"6,092",81,Richard Self
+21,8c/1303 Hay Street,"$680,000",May 2021,,,Apartment,2,2,2,161,,Richard Self
+22,213 Vincent Street,"$790,000",May 2021,,,House,3,1,1,319,,Helen Bond
+23,4/14 Lawley Street,"$195,000",May 2021,$250pw,Aug 2018,,,,,54,,Darcy Glynn
+24,30/5 Delhi Street,"$495,000",May 2021,,,Apartment,3,2,1,,,Richard Self
+25,1306/659 Murray Street,"$572,000",May 2021,,,Apartment,,,,115,,
+26,26/36 Kings Park Road,"$360,000",May 2021,$375pw,Aug 2018,Apartment,1,1,1,"2,266",,Suzana Angeleska
+27,10/11 Altona Street,"$500,000",May 2021,$500pw,Apr 2016,Apartment,2,2,1,123,88,Jill McQuoid
+28,1/7 Delhi Street,"$410,000",May 2021,$430pw,Jul 2017,,,,,"3,579",85,
+29,8/4 Delhi Street,"$430,000",Apr 2021,$400pw,Jul 2018,Apartment,2,2,2,"3,242",78,Anil Singh
+30,22 Florence Place,"$790,000",Apr 2021,$775pw,May 2021,Townhouse,3,2,2,195,,Peter Wright
+31,50 Cleaver Street,"$1,080,000",Apr 2021,,,,,,,506,,Matt Seabrook
+32,E12/161 Colin Street,"$825,000",Apr 2021,,,Apartment,,,,234,,Kim Turner
+33,15A Victoria Street,"$755,000",Apr 2021,$450pw,Aug 2014,Townhouse,3,2,2,189,144,Joe Raschilla
+34,68/34 Kings Park Road,"$582,000",Apr 2021,,,Apartment,2,2,1,127,96,Julian Leach
+35,4E/1303 Hay Street,"$360,000",Apr 2021,$350pw,Nov 2018,Apartment,1,1,1,"1,876",68,Matt Seabrook
+36,6/19 Ventnor Avenue,"$395,000",Apr 2021,,,Apartment,2,2,1,100,75,Richard Self
+37,3/2a Janet Street,"$550,000",Apr 2021,$400pw,Jun 2019,Townhouse,3,2,1,510,150,Richard Self
+38,5/32 Cowle Street,"$390,000",Apr 2021,$325pw,Feb 2019,Apartment,1,1,1,78,,Carla Yazmadjian
+39,57/2 Mayfair Street,"$366,000",Apr 2021,$380pw,Apr 2021,Apartment,1,1,1,"2,189",,Brad Triplett
+40,1/11 Colin Street,"$607,500",Apr 2021,$595pw,Nov 2011,Apartment,1,1,2,719,,Emily Garden
+41,43/1178 Hay Street,"$395,000",Mar 2021,,,Apartment,2,1,1,"3,365",56,
+42,3/26 Florence Street,"$570,000",Mar 2021,,,Townhouse,,,,,,Claude Iaconi
+43,10/105 Colin Street,"$320,000",Mar 2021,$350pw,Feb 2021,Apartment,1,1,1,79,,
+44,4/47 Malcolm Street,"$632,500",Mar 2021,,,Apartment,3,2,2,149,97,Andy Thorpe
+45,1/83 Carr Street,"$465,000",Mar 2021,,,,,,,75,75,Claude Iaconi
+46,40/1 Douro Place,"$508,000",Mar 2021,$550pw,Feb 2019,Apartment,2,2,2,125,75,Richard Self
+47,32 Oak Lane,"$485,000",Mar 2021,$550pw,Apr 2021,Townhouse,3,1,1,172,115,Carla Yazmadjian
+48,20/69 Malcolm Street,"$820,000",Mar 2021,,,Apartment,,,,312,,Peter Wright
+49,11/8 OUTRAM Street,"$640,000",Mar 2021,$695pw,Jan 2018,Apartment,2,2,2,129,,Richard Self
+50,13/47 Malcolm Street,"$770,000",Mar 2021,$750pw,May 2020,,,,,,,Carole Saville
+51,7/20 Kingston Avenue,"$320,000",Mar 2021,,,,,,,79,,
+52,13/8 Outram Street,"$730,000",Mar 2021,$550pw,Dec 2016,Apartment,2,2,2,,,Judith Rae
+53,36/38 Kings Park Road,"$377,000",Mar 2021,$470pw,Oct 2016,Apartment,2,1,1,,,Brendon Habak
+54,70/9 Delhi Street,"$830,000",Mar 2021,$975pw,Sep 2019,Apartment,3,2,2,"6,325",182,Richard Self
+55,15/34 Cowle Street,"$600,000",Mar 2021,,,Apartment,,,,,,
+56,120/1178 Hay Street,"$285,000",Mar 2021,$340pw,Apr 2020,Apartment,1,1,1,"3,365",,
+57,58/4 Delhi Street,"$338,000",Mar 2021,$460pw,Mar 2021,,,,,76,52,
+58,209A Vincent Street,"$770,000",Feb 2021,,,Townhouse,3,2,2,159,,Peter Wright
+59,1609/659 Murray Street,"$410,000",Feb 2021,,,Apartment,,,,80,,Cherry Li
+60,24 Florence Street,"$1,700,000",Feb 2021,"$1,600pw",Feb 2017,House,2,1,2,785,252,Claude Iaconi
+61,4/66 Cleaver Street,"$195,000",Feb 2021,$330pw,Jul 2015,Apartment,1,1,1,,,For Sale By Owner (WA)
+62,31 Florence Street,"$1,281,000",Feb 2021,$850pw,Mar 2021,House,4,2,1,577,171,Craig Gaspar
+63,1103 Hay Street,"$1,950,000",Feb 2021,,,,,,,779,,David Azzopardi
+64,76C Carr Street,"$880,000",Feb 2021,,,House,3,2,2,193,149,Simon Pigliardo
+65,610/659 Murray Street,"$470,200",Jan 2021,$450pw,Jul 2018,Apartment,2,1,1,102,,
+66,41 Cowle Street,"$1,230,000",Jan 2021,,,House,,,,890,,
+67,24 Florence Place,"$740,000",Jan 2021,,,Townhouse,,,,187,,Peter Wright
+68,1/8 Prowse Street,"$425,000",Jan 2021,$520pw,Jul 2015,Apartment,2,2,2,132,84,Richard Self
+69,13/48 Outram Street,"$435,000",Jan 2021,,,Apartment,2,2,1,,,Richard Self
+70,34A Cleaver Street,"$780,000",Jan 2021,,,Townhouse,4,3,2,,,Louise Markovic
+71,34C Cleaver Street,"$750,000",Jan 2021,,,Townhouse,3,2,2,,,Louise Markovic
+72,3/2 Outram Street,"$392,000",Jan 2021,$395pw,Feb 2021,,,,,145,,
+73,11/34 Kings Park Road,"$505,000",Jan 2021,,,Apartment,2,2,1,124,90,Richard Self
+74,17/161 Charles Street,"$260,000",Jan 2021,$350pw,May 2011,House,2,1,1,"2,233",,
+75,189 Fitzgerald Street,"$625,000",Jan 2021,$510pw,Feb 2021,House,3,1,1,322,,James Alessi
+76,5/9 Violet Street,"$205,000",Jan 2021,$230pw,Oct 2017,Apartment,1,1,1,,,Joe Raschilla
+77,4C/1303 Hay Street,"$615,000",Jan 2021,$600pw,Oct 2020,Apartment,2,2,2,149,,Richard Self
+78,46/66 Cleaver Street,"$187,000",Jan 2021,$240pw,Dec 2020,,,,,"3,424",40,James Yeoman
+79,10/1 Coolgardie Street,"$360,000",Dec 2020,$500pw,May 2019,,,,,813,70,Alice Yuan
+80,379 Bulwer Street,"$767,500",Dec 2020,$500pw,Jan 2021,House,3,1,1,395,,
+81,18/15-19 Carr Street,"$375,000",Dec 2020,$390pw,Mar 2020,Apartment,2,2,1,"6,092",83,
+82,101/128 Carr Street,"$218,000",Dec 2020,$280pw,Dec 2020,Apartment,2,1,1,56,,Brendon Habak
+83,1/227 Vincent Street,"$142,000",Dec 2020,,,Apartment,1,1,1,"7,688",,Brendon Habak
+84,40/863 Wellington Street,"$380,000",Dec 2020,$415pw,May 2020,,,,,103,69,
+85,34D Cleaver Street,"$770,000",Dec 2020,,,Townhouse,3,2,2,,,Richard Self
+86,76/227 Vincent Street,"$170,000",Dec 2020,,,Apartment,,,,,,
+87,65/1 Carr Street,"$385,000",Dec 2020,,,,,,,119,86,
+88,38/1 Carr Street,"$430,000",Dec 2020,$495pw,Mar 2017,,,,,115,85,
+89,189 Vincent Street,"$675,000",Dec 2020,$350pw,Sep 2019,House,3,1,2,402,,Matthew Jones
+90,34/1 Douro Place,"$493,000",Dec 2020,,,,,,,124,75,
+91,27/1324 Hay Street,"$430,000",Dec 2020,$500pw,Jan 2016,,,,,132,41,
+92,7/132 Carr Street,"$567,500",Dec 2020,,,,,,,82,85,Steve Lorrimar
+93,25 Kingston Avenue,"$680,000",Dec 2020,$450pw,May 2018,,,,,,,Jade Lippiatt
+94,60/6 Campbell Street,"$325,500",Dec 2020,$350pw,Dec 2020,Apartment,1,1,1,,,
+95,3/37 Mount Street,"$790,000",Dec 2020,,,Apartment,,,,130,,
+96,17/227 Vincent Street,"$142,000",Dec 2020,$200pw,Dec 2018,,,,,"7,674",,
+97,7 Janet Street,"$790,000",Nov 2020,$500pw,Nov 2014,House,2,1,2,313,99,Rob Edwards
+98,W7/161 Colin Street,"$276,000",Nov 2020,,,,,,,"1,123",,
+99,22A Kingston Avenue,"$1,155,500",Nov 2020,,,House,4,2,2,379,,
+100,1405/659 Murray Street,"$380,000",Nov 2020,$500pw,Nov 2020,Apartment,1,1,1,75,,
+101,6/20 Walker Avenue,"$417,000",Nov 2020,$475pw,Jan 2021,Apartment,2,1,1,115,,
+102,83/227 Vincent Street,"$155,000",Nov 2020,$230pw,Dec 2018,,,,,"7,674",,
+103,1401/659 Murray Street,"$499,000",Nov 2020,,,Apartment,,,,,,
+104,20/45 Ord Street,"$472,500",Nov 2020,$500pw,Sep 2020,Apartment,2,2,1,,,
+105,16/8 Prowse Street,"$482,000",Nov 2020,$550pw,Jun 2018,,,,,125,80,
+106,2/37 Mount Street,"$780,000",Oct 2020,,,Apartment,,,,,,
+107,39/5 Delhi Street,"$430,000",Oct 2020,$550pw,Nov 2020,Apartment,3,2,1,97,,
+108,13/2 Douro Place,"$460,000",Oct 2020,$450pw,Apr 2020,,,,,138,99,
+109,78/227 Vincent Street,"$176,000",Oct 2020,,,Apartment,,,,,,
+110,67/4 Delhi Street,"$365,000",Oct 2020,$480pw,Jul 2020,,,,,"3,242",81,
+111,100/1178 Hay Street,"$410,000",Oct 2020,$435pw,May 2018,Apartment,2,1,1,"3,365",56,
+112,101/18 Rheola Street,"$342,000",Oct 2020,,,Apartment,2,2,1,,,
+113,29 Cowle Street,"$725,000",Oct 2020,$480pw,Feb 2020,House,2,1,2,761,,Theo Kouroulis
+114,50/48 Havelock Street,"$400,000",Sep 2020,$480pw,Jan 2021,,,,,105,82,
+115,11 Florence Street,"$925,000",Sep 2020,,,House,3,1,1,369,158,
+116,23/863 Wellington Street,"$259,000",Sep 2020,$375pw,May 2021,,,,,"1,244",,
+117,2/48 Outram Street,"$330,000",Sep 2020,$460pw,Jun 2012,Apartment,1,1,1,921,,
+118,548 Newcastle Street,"$860,000",Sep 2020,"$51,450pw",Apr 2012,,,,,521,147,
+119,10/12 Altona Street,"$625,000",Sep 2020,,,Apartment,2,2,2,166,95,Annie McCarthy
+120,7/990 Wellington Street,"$349,000",Aug 2020,$380pw,Jul 2019,,,,,944,,
+121,96/59 Malcolm Street,"$207,000",Aug 2020,$280pw,Dec 2016,,,,,,,
+122,414/36 Mount Street,"$150,000",Aug 2020,$320pw,Jan 2021,Apartment,1,1,,,,Ivan Helman
+123,48/1324 Hay Street,"$390,000",Aug 2020,$390pw,Jun 2017,,,,,111,68,
+124,1/44-48 Cleaver Street,"$245,000",Aug 2020,$310pw,Mar 2021,,,,,"1,520",56,
+125,96/38 Kings Park Road,"$370,000",Aug 2020,$420pw,Feb 2020,Apartment,2,1,2,"4,911",75,
+126,1105/659 Murray Street,"$380,000",Aug 2020,,,Apartment,1,1,1,76,,
+127,2/135 Carr Street,"$480,000",Jul 2020,$645pw,Sep 2019,,,,,"2,674",,
+128,5/611 Murray Street,"$400,000",Jul 2020,$450pw,Mar 2021,Apartment,2,2,1,138,,
+129,17/1142 Hay Street,"$265,000",Jul 2020,$340pw,Jun 2020,Apartment,1,1,1,622,,
+130,14/1020 Wellington Street,"$410,000",Jul 2020,$495pw,Jun 2015,Apartment,2,2,1,131,98,
+131,2/38 Cowle Street,"$340,000",Jul 2020,$350pw,Apr 2019,,,,,84,51,
+132,55 Kingston Avenue,"$979,000",Jul 2020,,,House,3,1,,549,154,
+133,24/1331 Hay Street,"$344,000",Jul 2020,$600pw,Nov 2013,Apartment,2,1,2,746,76,
+134,25 Cowle Street,"$880,000",Jul 2020,,,House,,,,350,,Claude Iaconi
+135,35 Victoria Street,"$458,000",Jul 2020,,,House,1,,,150,98,
+136,35/33 Malcolm Street,"$537,500",Jun 2020,$550pw,Jan 2021,,,,,122,80,
+137,22/4 Delhi Street,"$405,000",Jun 2020,$550pw,May 2019,Apartment,3,2,2,"3,242",98,
+138,16/11 Altona Street,"$380,000",Jun 2020,$525pw,May 2020,House,2,2,1,629,69,
+139,81/59 Malcolm Street,"$285,000",May 2020,$380pw,Nov 2015,Apartment,2,1,1,,,
+140,5/8 Prowse Street,"$470,000",May 2020,$480pw,May 2019,,,,,121,84,
+141,61 Kingston Avenue,"$540,000",May 2020,,,House,2,1,1,,,
+142,17/135 Carr Street,"$440,000",May 2020,$290pw,Oct 2006,,,,,"2,679",,
+143,5/19 Ventnor Avenue,"$485,000",May 2020,$490pw,Nov 2017,Apartment,3,2,1,794,,
+144,1605/659 Murray Street,"$407,500",Apr 2020,$520pw,May 2020,Apartment,1,1,1,64,,Peter Wright
+145,506/659 Murray Street,"$535,000",Apr 2020,$560pw,May 2019,Apartment,2,2,2,77,,
+146,87/38 Kings Park Road,"$345,000",Apr 2020,$315pw,May 2019,Apartment,2,1,1,,,
+147,21/2 Colin Street,"$363,000",Apr 2020,$410pw,Dec 2016,Apartment,2,2,1,,,
+148,11/132 Carr Street,"$435,000",Mar 2020,$200pw,Nov 2005,,,,,"2,788",,
+149,9/19 Ventnor Avenue,"$480,000",Mar 2020,$480pw,Feb 2020,Apartment,3,2,1,,,
+150,31/34 Kings Park Road,"$350,000",Mar 2020,$360pw,Nov 2020,Apartment,1,1,1,"2,267",,
+151,7D/1303 Hay Street,"$421,500",Mar 2020,$380pw,Oct 2017,Apartment,2,1,1,"1,876",69,
+152,4A/1303 Hay Street,"$575,000",Mar 2020,$850pw,Jul 2008,,,,,158,108,
+153,1/1 Coolgardie Street,"$480,000",Mar 2020,,,,,,,813,87,
+154,20 Lawrence Avenue,"$675,000",Mar 2020,,,,,,,232,63,
+155,8/1 Delhi Street,"$540,000",Mar 2020,$500pw,Mar 2020,,,,,174,135,
+156,6/863 Wellington Street,"$325,000",Mar 2020,$420pw,Mar 2018,Apartment,2,2,1,110,70,
+157,54/66 Cleaver Street,"$175,000",Mar 2020,$230pw,Feb 2018,Apartment,1,1,1,"3,422",40,
+158,6/35 Mount Street,"$700,000",Mar 2020,,,Apartment,2,2,2,,,
+159,7/1142 Hay Street,"$255,000",Mar 2020,$330pw,Mar 2020,,,,,622,,
+160,1210/659 Murray Street,"$490,000",Feb 2020,,,Apartment,,,,109,,
+161,3F/1303 Hay Street,"$352,000",Feb 2020,$420pw,Jan 2018,,,,,"1,876",70,
+162,1/47 Mount Street,"$1,800,000",Feb 2020,,,Apartment,3,2,3,,,
+163,5/18 Bellevue Terrace,"$2,000,000",Feb 2020,"$1,200pw",Sep 2020,Apartment,3,2,2,732,279,
+164,1310/659 Murray Street,"$535,000",Jan 2020,$600pw,Jan 2021,Apartment,2,2,1,93,,
+165,14/34 Kings Park Road,"$389,000",Jan 2020,,,,,,,102,75,
+166,1108/659 Murray Street,"$490,000",Jan 2020,,,Apartment,2,2,1,75,,
+167,9/111 Colin Street,"$340,000",Jan 2020,,,,,,,104,58,
+168,12/111 Colin Street,"$510,000",Jan 2020,,,Apartment,2,2,1,"1,447",82,
+169,1410/659 Murray Street,"$505,000",Dec 2019,,,Apartment,,,,106,,
+170,86/9 Delhi Street,"$525,000",Dec 2019,$545pw,Jun 2018,,,,,151,100,
+171,126/1178 Hay Street,"$422,500",Dec 2019,$450pw,Feb 2018,,,,,131,65,
+172,42/9 Delhi Street,"$555,000",Dec 2019,$550pw,Feb 2021,Apartment,3,2,2,,,
+173,49 Victoria Street,"$700,000",Dec 2019,$530pw,Aug 2016,House,3,1,2,,,
+174,1304/659 Murray Street,"$380,000",Dec 2019,$525pw,Dec 2019,Apartment,,,,75,,
+175,6/26 Florence Street,"$482,500",Dec 2019,$400pw,Jul 2019,,,,,187,122,
+176,8 Hammond Street,"$750,000",Nov 2019,$320pw,Oct 2005,House,3,1,,325,134,
+177,37 Carr Street,"$528,300",Nov 2019,$350pw,Sep 2019,House,2,1,,225,,
+178,11/2 Mayfair Street,"$265,000",Nov 2019,$350pw,Jan 2020,Apartment,1,1,1,78,61,
+179,63 Kingston Avenue,"$695,000",Nov 2019,,,House,2,1,1,,,
+180,10/149 Carr Street,"$550,000",Nov 2019,,,Townhouse,3,1,1,,,
+181,82/1178 Hay Street,"$435,000",Nov 2019,$400pw,May 2019,,,,,105,55,
+182,107/1178 Hay Street,"$445,000",Nov 2019,$520pw,Apr 2015,Apartment,2,2,1,114,71,
+183,15/38 Kings Park Road,"$330,000",Nov 2019,$320pw,Jun 2018,,,,,"4,911",75,
+184,73/48 Mount Street,"$445,000",Oct 2019,$400pw,Sep 2020,Apartment,2,1,1,105,68,
+185,6/24 Cliff Street,"$1,075,000",Oct 2019,"$1,400pw",Jul 2011,Apartment,3,2,3,169,158,William Porteous Properties International Pty Ltd 
+186,127 Carr Street,"$678,000",Oct 2019,,,House,2,1,,216,108,
+187,35 Carr Street,"$500,000",Oct 2019,$350pw,Nov 2019,House,2,1,3,225,,Marie du Puy
+188,7/111 Colin Street,"$505,000",Oct 2019,,,Apartment,2,2,1,122,82,Mack Hall Real Estate - Claremont
+189,28/36 Kings Park Road,"$510,000",Oct 2019,$550pw,Mar 2015,Apartment,2,2,1,128,84,
+190,50/147 Charles Street,"$171,000",Sep 2019,,,,,,,"6,268",,
+191,32/9 Delhi Street,"$510,000",Sep 2019,$700pw,Apr 2015,Apartment,3,2,2,154,98,Mack Hall Real Estate - Claremont
+192,18/66 Cleaver Street,"$171,000",Sep 2019,$225pw,Dec 2016,Apartment,1,1,1,"3,422",,Edison Property Residential
+193,25/1331 Hay Street,"$650,000",Sep 2019,$800pw,Aug 2012,Apartment,2,2,2,746,102,
+194,E1/161 Colin Street,"$510,000",Sep 2019,$470pw,Sep 2019,Apartment,2,2,1,,,The Property Exchange - Subiaco
+195,809/659 Murray Street,"$375,000",Sep 2019,,,Apartment,1,1,1,,,Realestate 88 East Perth - EAST PERTH
+196,2/32 Outram Street,"$315,000",Sep 2019,,,,,,,675,67,
+197,69/34 Kings Park Road,"$700,000",Sep 2019,,,Apartment,3,2,2,"1,012",,Airey Real Estate
+198,70/141 Fitzgerald Street,"$370,000",Sep 2019,$380pw,Mar 2018,Apartment,3,2,1,,,Mack Hall Real Estate - Claremont
+199,25/875 Wellington Street,"$120,000",Sep 2019,,,,,,,,,
+200,70 Carr Street,"$660,000",Sep 2019,,,House,3,1,3,384,,
+201,8/146 Carr Street,"$305,000",Aug 2019,$350pw,Mar 2019,,,,,"1,577",83,Xceed Coastal - North
+202,31/16 Kings Park Road,"$560,000",Aug 2019,,,Apartment,3,2,2,,,Peard Real Estate
+203,511/659 Murray Street,"$535,000",Aug 2019,,,Apartment,2,2,1,143,126,Real Estate 88
+204,1008/659 Murray Street,"$500,000",Aug 2019,$490pw,Sep 2019,Apartment,2,2,1,90,,Peter Wright
+205,1603/659 Murray Street,"$405,000",Jul 2019,,,Apartment,1,1,1,68,50,Realestate 88 East Perth - EAST PERTH
+206,5/37 Cleaver Street,"$470,000",Jul 2019,$470pw,Nov 2019,Townhouse,3,1,1,187,120,Avenue One Property Group - Perth
+207,10/2 Colin Street,"$400,000",Jul 2019,$450pw,Oct 2015,Apartment,2,2,1,902,,Mack Hall Real Estate - Claremont
+208,73/4 Delhi Street,"$320,000",Jul 2019,$420pw,Nov 2018,Apartment,1,1,1,"3,242",54,Realestate 88 East Perth - EAST PERTH
+209,27/105 Colin Street,"$415,000",Jul 2019,,,Apartment,2,2,1,"2,253",,Mack Hall Real Estate - Claremont
+210,49/48 Havelock Street,"$420,000",Jun 2019,$475pw,Nov 2019,Apartment,2,2,1,105,82,Ray White - Dalkeith | Claremont
+211,19/141 Fitzgerald Street,"$398,000",Jun 2019,$445pw,Mar 2018,Apartment,3,2,1,,,Realestate 88 Inner City
+212,111/128 Carr Street,"$169,000",Jun 2019,$255pw,Feb 2020,,,,,,,Sell Lease Property - PERTH
+213,51/15-19 Carr Street,"$452,500",Jun 2019,$500pw,Mar 2010,Apartment,2,2,1,"6,092",85,Realestate 88 East Perth - EAST PERTH
+214,2/2 Outram Street,"$410,000",Jun 2019,$380pw,Feb 2019,Apartment,2,2,1,,,Central Estate Agents - Subiaco
+215,11/1020 Wellington Street,"$405,000",Jun 2019,$500pw,Jun 2015,Apartment,2,2,1,,,Growth Realty - Subiaco
+216,11/7 Delhi Street,"$410,000",Jun 2019,$495pw,Mar 2018,Apartment,3,2,1,128,90,Jones Ballard Property Group - Como
+217,2/11 Altona Street,"$1,000,000",Jun 2019,$750pw,May 2017,,,,,168,101,
+218,72/48 MOUNT Street,"$480,000",Jun 2019,,,Apartment,2,1,1,"2,292",84,Realestate 88 East Perth - EAST PERTH
+219,6/59 Mount Street,"$1,700,000",May 2019,,,,,,,193,200,
+220,388 Newcastle Street,"$388,000",May 2019,,,Apartment,2,1,1,,,Realestate 88 Inner City
+221,17/37 Florence Street,"$380,000",May 2019,$295pw,Sep 2017,,,,,,,Property Now - LOGAN RESERVE
+222,1002/659 Murray Street,"$360,000",May 2019,,,Apartment,1,1,1,,,Realestate 88 East Perth
+223,1510/659 Murray Street,"$540,000",May 2019,$620pw,Jun 2019,Apartment,2,2,1,,,Realestate 88 East Perth - EAST PERTH
+224,68/38 Kings Park Road,"$350,000",May 2019,,,Apartment,2,1,1,,,Mack Hall Real Estate - Claremont
+225,23/1331 Hay Street,"$300,000",May 2019,$350pw,Oct 2018,Apartment,1,1,1,725,53,LJ Hooker City Residential -
+226,77/139-141 Fitzgerald Street,"$300,000",Apr 2019,$480pw,Jan 2015,Apartment,2,1,1,98,,OEIJ Property - Perth
+227,1702/659 Murray Street,"$380,000",Apr 2019,,,Apartment,1,1,1,78,,Realestate 88 East Perth - EAST PERTH
+228,1111/659 Murray Street,"$530,000",Apr 2019,,,Apartment,2,2,1,,,Realestate 88 East Perth
+229,36/147 Charles Street,"$220,000",Apr 2019,$260pw,Aug 2017,,,,,"6,268",,Jones Ballard Property Group - Como
+230,12 Janet Street,"$980,000",Apr 2019,$820pw,Feb 2020,House,4,2,2,316,261,Bexleys Real Estate - Wembley
+231,1403/659 Murray Street,"$400,000",Apr 2019,,,Apartment,1,1,1,68,,Realestate 88 East Perth - EAST PERTH
+232,9/4 Delhi Street,"$385,000",Apr 2019,$480pw,Dec 2017,Apartment,2,2,1,"3,242",77,Ray White City Residential (Perth)
+233,12/17 Emerald Terrace,"$425,000",Apr 2019,,,Apartment,2,1,1,113,85,Avenue One Property Group - Perth
+234,1301/659 Murray Street,"$525,000",Apr 2019,,,Apartment,2,2,1,80,,Realestate 88 East Perth
+235,12/2 Outram Street,"$385,000",Mar 2019,$380pw,Jul 2018,Apartment,2,2,1,792,,
+236,11/45 Malcolm Street,"$180,000",Mar 2019,$250pw,Feb 2018,,,,,,,
+237,76/1178 Hay Street,"$440,000",Mar 2019,$450pw,Sep 2016,Apartment,2,1,2,106,57,
+238,11/17 Emerald Terrace,"$430,000",Mar 2019,,,Apartment,2,1,1,106,81,
+239,1902/659 Murray Street,"$390,000",Mar 2019,$500pw,Mar 2021,Apartment,1,1,1,68,,Realestate 88 East Perth
+240,24/2 Mayfair Street,"$410,000",Mar 2019,$440pw,Jan 2019,Apartment,2,2,1,"2,189",,Realestate 88 Inner City
+241,2/191 Vincent Street,"$400,000",Mar 2019,,,Townhouse,3,2,1,206,115,LJ Hooker City Residential -
+242,7/12 Bellevue Terrace,"$6,250,000",Mar 2019,"$2,500pw",Jul 2016,Apartment,4,4,4,503,296,
+243,3/45 Malcolm Street,"$175,000",Feb 2019,$250pw,Sep 2019,,,,,,,KPR Perth
+244,74/141 Fitzgerald Street,"$393,000",Feb 2019,$550pw,May 2016,Apartment,3,2,1,,,Mack Hall Real Estate - Claremont
+245,2006/659 Murray Street,"$620,000",Feb 2019,,,Apartment,2,2,2,129,77,Realestate 88 East Perth
+246,11/71 Mount Street,"$670,000",Feb 2019,$695pw,Dec 2016,Apartment,2,1,2,"2,304",95,William Porteous Properties International Pty Ltd 
+247,22 Kingston Avenue,"$802,500",Feb 2019,,,,,,,,,
+248,28/5 Delhi Street,"$490,000",Feb 2019,$550pw,Mar 2021,Apartment,3,2,1,124,97,Realestate 88 Inner City
+249,806/659 Murray Street,"$540,000",Feb 2019,,,Apartment,2,2,1,,,Realestate 88 East Perth
+250,1508/659 Murray Street,"$540,000",Feb 2019,$625pw,Jul 2020,Apartment,2,2,1,,,Realestate 88 East Perth
+251,1110/659 Murray Street,"$502,000",Feb 2019,$530pw,Sep 2020,Apartment,2,2,1,,,Realestate 88 East Perth
+252,4 Florence Street,"$1,265,000",Feb 2019,,,,,,,200,194,
+253,402/18 Rheola Street,"$390,000",Jan 2019,$900pw,Mar 2015,,,,,930,101,
+254,1/26 Carr Street,"$405,000",Jan 2019,$375pw,Mar 2018,House,1,1,1,94,,ACTON Dalkeith
+255,18/1 Douro Place,"$535,000",Jan 2019,$550pw,Jul 2017,Apartment,2,2,2,"1,780",75,Mack Hall Real Estate - Claremont
+256,47/227 Vincent Street,"$159,000",Jan 2019,,,,,,,,,KPR Perth
+257,1404/659 Murray Street,"$392,500",Jan 2019,,,Apartment,1,1,1,,,Realestate 88 East Perth
+258,118 Carr Street,"$660,000",Jan 2019,$450pw,Jul 2020,,,,,407,,HERE Property - Leederville
+259,3/147 Charles Street,"$231,000",Jan 2019,$345pw,Jun 2019,,,,,"6,268",,Jones Ballard Property Group - Como
+260,16/2 Colin Street,"$375,000",Jan 2019,$450pw,Dec 2019,Apartment,2,2,1,,,Mack Hall Real Estate - Claremont
+261,18/16 Kings Park Road,"$540,000",Jan 2019,,,Apartment,3,2,2,151,,Investors Edge Real Estate - Kenwick
+262,8/1 Coolgardie Street,"$469,000",Jan 2019,$615pw,Apr 2021,,,,,141,87,
+263,1202/659 Murray Street,"$368,000",Dec 2018,,,Apartment,1,1,1,62,,Realestate 88 East Perth
+264,63/66 Cleaver Street,"$150,000",Dec 2018,$240pw,Apr 2019,Apartment,1,1,1,,,Bexleys Real Estate - Wembley
+265,47 Victoria Street,"$578,000",15 Dec 2018(Auction),,,House,3,1,1,330,,Ray White City Residential (Perth)
+266,1/2 Outram Street,"$400,000",Dec 2018,$450pw,Feb 2021,Apartment,2,2,1,121,79,Mack Hall Real Estate - Claremont
+267,402/18 Rheola,"$390,000",Dec 2018,$595pw,Sep 2016,Apartment,2,2,1,,,
+268,207/45 Malcolm Street,"$200,500",Dec 2018,$200pw,Feb 2016,,,,,,,Mark Hay - East Perth
+269,17/21 Altona Street,"$550,000",Dec 2018,,,Apartment,2,2,1,,,
+270,1905/659 Murray Street,"$405,000",Dec 2018,$450pw,Aug 2020,Apartment,1,1,1,,,Realestate 88 East Perth
+271,10/1178 Hay Street,"$297,500",Dec 2018,$320pw,Oct 2018,Apartment,1,1,1,"3,365",,
+272,177C Fitzgerald Street,"$645,000",Dec 2018,$595pw,Dec 2017,Townhouse,3,3,2,202,,Avanti Residential - Subiaco
+273,66 Carr Street,"$670,000",Nov 2018,$550pw,Feb 2012,House,2,1,2,229,,The Property Exchange - Subiaco
+274,2/2A Janet Street,"$568,000",Nov 2018,$500pw,Jan 2019,Townhouse,3,2,1,510,163,Peard Real Estate
+275,404 Bulwer Street,"$800,000",Nov 2018,$600pw,Oct 2014,House,4,1,2,391,,Bellcourt Property Group - SOUTH PERTH
+276,4/18 Bellevue Terrace,"$1,800,000",Nov 2018,"$1,150pw",Dec 2019,Apartment,3,2,2,309,309,Space Real Estate - Cottesloe
+277,4/32 Carr Street,"$715,000",Nov 2018,$650pw,May 2012,Townhouse,3,2,2,"1,013",128,Mack Hall Real Estate - Claremont
+278,72 Cleaver Street,"$870,000",Nov 2018,$600pw,Sep 2011,House,3,1,1,516,,Central Paragon Property - North Perth
+279,2/1 Violet Street,"$620,000",Nov 2018,$450pw,Jan 2011,House,3,1,1,131,120,Tsokos Property - Subiaco
+280,1805/659 Murray Street,"$395,000",Nov 2018,$485pw,Oct 2020,Apartment,1,1,1,68,,Realestate 88 East Perth
+281,76/4 Delhi Street,"$675,000",Nov 2018,$750pw,Jul 2012,Apartment,3,2,2,"3,242",126,Mack Hall Real Estate - Claremont
+282,18 Prospect Place,"$785,000",Nov 2018,$695pw,Feb 2015,House,3,1,,224,,The Perth Property Co. - PERTH
+283,2D/63 Mount Street,"$560,000",Oct 2018,$500pw,Jan 2020,Apartment,1,2,2,115,,Harcourts City Central - PERTH
+284,21/48 Havelock Street,"$410,000",Oct 2018,$370pw,Apr 2020,Apartment,2,2,1,105,82,Mack Hall Real Estate - Claremont
+285,33/9 Delhi Street,"$570,000",Oct 2018,$800pw,Aug 2013,,,,,151,101,Mack Hall Real Estate - Claremont
+286,1303/659 Murray Street,"$340,000",Oct 2018,,,Apartment,1,1,1,,,Realestate 88 Inner City
+287,11/2 Colin Street,"$370,000",Oct 2018,$490pw,Sep 2016,Apartment,2,2,1,902,,Abode Real Estate - Cottesloe
+288,66/66 Cleaver Street,"$169,000",Oct 2018,$295pw,Feb 2021,,,,,,,KPR Perth
+289,15/15-19 Carr Street,"$350,000",Sep 2018,$410pw,Sep 2020,Apartment,2,2,1,,,Realmark Urban - Floreat
+290,15/4 Delhi Street,"$420,000",Sep 2018,$420pw,Oct 2007,House,2,2,1,"3,242",80,Mi Casa Property Boutique
+291,41/33 Malcolm Street,"$1,300,000",Sep 2018,,,Apartment,,,,201,,
+292,8/35 Mount Street,"$600,000",Sep 2018,$525pw,Apr 2018,Apartment,2,2,1,120,,Mack Hall Real Estate - Claremont
+293,394 Bulwer Street,"$860,000",Sep 2018,$800pw,May 2013,House,3,1,2,350,121,Bellcourt Property Group - SOUTH PERTH
+294,18/863 Wellington Street,"$390,000",Sep 2018,$440pw,Jan 2021,Apartment,2,2,1,104,70,Benade Helman - Wembley
+295,18/161 Charles Street,"$330,000",Sep 2018,,,Apartment,2,1,1,"2,233",,ACTON Victoria Park
+296,17/33 Malcolm Street,"$606,000",Aug 2018,$520pw,Sep 2017,,,,,120,76,Caporn Young Estate Agents - Claremont
+297,69/9 Delhi Street,"$635,000",Aug 2018,$575pw,Jul 2016,House,3,2,2,154,101,Mack Hall Real Estate - Claremont
+298,3/28 Carr Street,"$740,000",Aug 2018,,,Townhouse,3,2,2,169,162,Mack Hall Real Estate - Claremont
+299,175/659 Murray Street,"$530,000",Aug 2018,,,Apartment,2,2,1,,,DevelopWise

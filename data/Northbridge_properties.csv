@@ -1,0 +1,301 @@
+,address,price,sold date,rent,rent date,type,bedrooms,bathrooms,car space,Land size,Building size,agent
+0,6/11 Shenton Street,"$440,000",Jul 2021,$475pw,Dec 2017,Apartment,2,1,1,108,84,Claude Iaconi
+1,4/335 Newcastle Street,"$320,000",May 2021,$300pw,Sep 2016,Apartment,1,1,1,627,56,
+2,2/89 Aberdeen Street,"$379,000",May 2021,$380pw,Aug 2019,Apartment,2,1,1,,,Brendon Habak
+3,2/2 Davies Street,"$333,000",May 2021,$330pw,Nov 2018,,,,,501,58,Arash Kalani
+4,39/258-264 Newcastle,"$526,350",May 2021,,,Apartment,,,,,,
+5,43 John Street,"$620,000",May 2021,,,House,2,2,1,,,Claude Iaconi
+6,26/103-105 Francis Street,"$449,000",Apr 2021,,,Apartment,2,1,1,,,James Yeoman
+7,29/89 Aberdeen Street,"$320,000",Apr 2021,$350pw,May 2019,Apartment,1,1,1,,,Brendan Smith
+8,6/103-105 Francis Street,"$310,000",Apr 2021,,,Apartment,,,,,,
+9,16/19 Little Shenton Lane,"$385,000",Apr 2021,$380pw,Mar 2020,,,,,108,,
+10,13/19 Little Shenton Lane,"$410,000",Apr 2021,$360pw,Sep 2019,Apartment,2,1,1,"1,563",,
+11,2/5 Antonas Road,"$210,000",Apr 2021,,,Apartment,2,2,1,"1,187",60,Brad Triplett
+12,2/9 Shenton Street,"$448,000",Jan 2021,$390pw,Sep 2018,Apartment,2,1,1,"1,477",82,
+13,16 Kakulas Crescent,"$1,250,000",Jan 2021,,,House,3,2,2,246,272,Claude Iaconi
+14,15a/120-122 Lake Street,"$360,000",Dec 2020,,,Apartment,,,,,,
+15,1/52 Fitzgerald Street,"$360,000",Nov 2020,$360pw,Sep 2019,,,,,"2,156",84,
+16,8/103 Francis Street,"$380,000",Nov 2020,$550pw,Jun 2015,Apartment,2,2,1,"1,106",,
+17,97/269 James Street,"$418,000",Oct 2020,,,Apartment,2,2,1,,,
+18,40/134 Aberdeen Street,"$365,000",Oct 2020,,,Apartment,,,,122,,
+19,107/228 James Street,"$415,000",Sep 2020,,,Townhouse,3,2,1,158,,
+20,53/134 Aberdeen Street,"$375,000",Sep 2020,$430pw,Apr 2019,Apartment,2,2,1,,,
+21,36/269 JAMES Street,"$290,000",Jul 2020,$390pw,Feb 2019,Apartment,1,1,1,79,,
+22,47/89 Aberdeen Street,"$415,000",Jul 2020,$450pw,Oct 2017,Apartment,2,2,1,,,
+23,17/182 James Street,"$433,000",Jun 2020,$430pw,May 2020,,,,,158,134,
+24,"1-7, 84 Fitzgerald Street","$2,200,000",May 2020,,,Apartment,,,,111,,
+25,1-7 84 Fitzgerald Street,"$2,200,000",May 2020,,,,,,,,,
+26,205/403 Newcastle Street,"$330,000",May 2020,$420pw,May 2020,,,,,"1,209",,
+27,14/5 Antonas Road,"$315,000",Apr 2020,,,,,,,"1,187",69,
+28,77/269 James Street,"$465,000",Feb 2020,,,House,2,2,1,112,,
+29,18/134 Aberdeen Street,"$390,000",Feb 2020,,,,,,,123,88,
+30,8 Little Shenton Lane,"$470,000",Feb 2020,$400pw,Jun 2017,Townhouse,2,1,1,138,,
+31,23/89 Aberdeen Street,"$420,000",Dec 2019,$430pw,Nov 2018,Apartment,2,2,1,,,
+32,21 Little Shenton Lane,"$671,000",Nov 2019,$600pw,Apr 2019,Townhouse,3,2,2,"1,653",122,
+33,18/182 James Street,"$585,000",Nov 2019,,,Apartment,2,2,1,176,,
+34,43/191 James Street,"$295,000",Oct 2019,$350pw,Oct 2018,Apartment,2,1,1,"1,797",75,
+35,24/134 Aberdeen Street,"$410,000",Oct 2019,$400pw,Feb 2018,Apartment,2,2,1,,,
+36,17 Palmerston Street,"$1,353,332",Jul 2019,,,House,5,6,2,243,,
+37,17/19 Little Shenton Lane,"$423,000",Jul 2019,,,Apartment,2,1,1,107,86,Realmark Central
+38,10/10 Pendal Lane SOLD-SOLD,"$475,000",May 2019,,,Apartment,2,2,1,,,Tyler & Sons - Perth
+39,228 Brisbane Street SOLD,"$530,000",May 2019,,,,,,,,,Tyler & Sons - Perth
+40,230 Brisbane Street SOLD,"$515,000",May 2019,,,,,,,67,,Tyler & Sons - Perth
+41,27/103 Francis Street,"$495,000",May 2019,$580pw,Jul 2015,Apartment,2,2,1,107,,
+42,34/134 Aberdeen Street,"$472,000",Apr 2019,,,Apartment,2,2,1,"4,520",100,Realestate 88 East Perth
+43,1/269 Newcastle Street,"$680,000",Mar 2019,$620pw,Nov 2020,Apartment,3,3,2,200,151,Bellcourt Property Group - Shenton Park
+44,90/269 James Street,"$500,000",Feb 2019,$550pw,Nov 2019,Apartment,2,2,1,101,101,Colliers International - Perth
+45,37/269 James Street,"$465,000",Feb 2019,$510pw,Jun 2019,Apartment,2,2,1,113,78,Realestate 88 East Perth - EAST PERTH
+46,111/269 James Street,"$517,000",Feb 2019,$550pw,Jun 2016,Apartment,2,2,2,,,Realmark Central
+47,54/269 James Street,"$480,000",Feb 2019,,,Apartment,2,2,1,113,101,Realestate 88 East Perth
+48,63/269 James Street,"$485,000",Dec 2018,,,Apartment,2,2,1,113,,Realestate 88 East Perth
+49,10 Kakulas Crescent,"$845,000",Dec 2018,$700pw,Dec 2016,House,3,2,2,246,,CavMac Property - Cockburn Central
+50,35/269 James Street,"$458,000",Nov 2018,,,Apartment,2,2,1,113,78,Realestate 88 East Perth
+51,3/222 James Street,"$356,000",Oct 2018,$420pw,May 2018,Apartment,2,1,1,113,87,Realestate 88 East Perth
+52,23/269 James Street,"$455,000",Oct 2018,,,Apartment,2,2,1,,,Colliers International - Perth
+53,99/269 James Street,"$510,000",Oct 2018,$550pw,Dec 2018,Apartment,2,2,1,113,78,Realestate 88 East Perth
+54,55/191 James Street,"$410,000",Oct 2018,$440pw,Oct 2020,Apartment,2,1,1,"1,797",79,Realestate 88 East Perth
+55,81/269 James Street,"$508,000",Sep 2018,,,Apartment,2,2,1,,,Realestate 88 East Perth
+56,26/103 Francis Street,"$405,000",Sep 2018,$510pw,Oct 2016,Apartment,2,1,1,,,Limnios Property Group - Perth
+57,34/89 Aberdeen Street,"$475,000",Sep 2018,,,Apartment,,,,106,,
+58,19/5 Antonas Road,"$408,000",Aug 2018,,,House,2,2,1,132,95,First National Real Estate Druitt & Shead - Scarbo
+59,25/269 James Street,"$453,000",Aug 2018,$420pw,Nov 2019,Apartment,2,2,1,,,Realestate 88 East Perth
+60,2/11 Shenton Street,"$385,000",Jun 2018,$380pw,Jun 2020,,,,,126,84,The Agency - Mount Lawley
+61,3/204 Lake Street,"$480,000",Jun 2018,,,Apartment,2,1,1,137,137,Woodville Property - North Perth
+62,6/222 James Street,"$360,000",Jun 2018,,,Apartment,2,1,1,104,82,The Agency
+63,40/65 Palmerston Street,"$840,000",Jun 2018,$700pw,Aug 2018,Apartment,3,2,2,243,,One Residential - Palmyra
+64,22/269 James Street,"$425,000",May 2018,$450pw,May 2018,House,2,2,1,,,Acton North - CITY BEACH
+65,27/269 James Street,"$310,000",May 2018,$400pw,Jun 2017,Apartment,1,1,1,,,ZSA ZSA Property - PERTH
+66,50/89 Aberdeen Street,"$1,301,934",May 2018,$350pw,Oct 2019,Apartment,2,2,1,,,
+67,42/89 Aberdeen Street,"$1,301,934",May 2018,$375pw,Oct 2020,,,,,,,
+68,44 Francis Street,"$2,860,000",May 2018,,,,,,,488,,
+69,5/11 Shenton Street,"$383,000",Apr 2018,$350pw,Dec 2017,,,,,106,83,ZSA ZSA Property - PERTH
+70,5/182 James Street,"$460,000",Apr 2018,,,Apartment,2,1,1,532,122,For Sale By Owner Australia
+71,33/134 Aberdeen Street,"$385,000",Apr 2018,$400pw,Jun 2019,Apartment,2,2,1,"4,520",,LJ Hooker - City Residential
+72,52/134 Aberdeen Street,"$423,000",Mar 2018,$500pw,Jul 2014,Apartment,2,2,1,,,Realmark Central
+73,1/89 Aberdeen Street,"$500,000",Mar 2018,,,Apartment,2,2,1,,,Pulse Property Group - ROSSMOYNE
+74,108/269 James Street,"$560,000",Mar 2018,$550pw,Jan 2020,Apartment,2,2,2,123,78,Real Estate 88 - East Perth
+75,10/89 Aberdeen Street,"$500,000",Mar 2018,,,Apartment,2,2,1,,,
+76,28/103 Francis Street,"$565,000",Mar 2018,$450pw,Jan 2021,Apartment,2,2,1,,,Limnios Property Group - Perth
+77,79/269 James Street,"$475,000",Feb 2018,,,Apartment,2,2,1,,,Real Estate 88 - East Perth
+78,88/269 James Street,"$490,000",Jan 2018,,,Apartment,2,2,1,113,,Real Estate 88 - East Perth
+79,52/191 James Street,"$350,000",Jan 2018,$475pw,Mar 2020,Apartment,2,1,1,,,Real Estate 88 - East Perth
+80,7/103 Francis Street,"$396,000",Jan 2018,$450pw,Jan 2021,Apartment,2,2,1,,,Limnios Property Group - Perth
+81,1/89 Lake Street,"$650,000",Jan 2018,,,,,,,111,111,
+82,10/43 Shenton Street,"$440,000",Dec 2017,$550pw,Mar 2015,,,,,679,116,Paragon Property - North Perth
+83,36/134 Aberdeen Street,"$475,000",Dec 2017,$550pw,Jun 2018,Apartment,3,2,1,,,South Perth Realty - Kensington
+84,98/269 James Street,"$495,000",Nov 2017,,,Apartment,2,2,2,129,,Real Estate 88 - East Perth
+85,96/269 James Street,"$495,000",Nov 2017,$500pw,Nov 2019,Apartment,2,2,1,,,Real Estate 88 - East Perth
+86,65/134 Aberdeen Street,"$480,000",Nov 2017,,,Apartment,2,2,1,134,,Abel Property - Leederville
+87,6/98 Lake Street,"$407,000",Oct 2017,$380pw,Aug 2017,,,,,103,86,BOSS Real Estate - Northbridge
+88,87/269 James Street,"$490,000",Oct 2017,,,Apartment,2,2,1,122,122,Real Estate 88 - East Perth
+89,93/269 James Street,"$545,000",Oct 2017,$500pw,Nov 2019,Apartment,2,2,1,,,Real Estate 88 - East Perth
+90,5/255 Newcastle Street,"$430,000",Oct 2017,$450pw,Sep 2016,House,2,2,1,523,90,BOSS Real Estate - Northbridge
+91,10/269 James Street,"$479,000",Sep 2017,,,Apartment,2,2,1,112,,Real Estate 88 - East Perth
+92,25 Little Shenton Lane,"$350,000",Sep 2017,$500pw,Jul 2020,,,,,"1,653",157,
+93,37 John Street,"$630,000",Sep 2017,$475pw,Jul 2019,House,3,2,2,188,117,Limnios Property Group - Perth
+94,6 Kakulas Crescent,"$1,150,000",Aug 2017,,,House,4,5,2,246,352,Acton - Mount Lawley
+95,18/269 James Street,"$410,000",Aug 2017,$380pw,Dec 2017,Apartment,1,1,1,,53,Realestate 88 East Perth
+96,29/103 Francis Street,"$450,000",Jul 2017,$530pw,Apr 2015,Apartment,2,1,1,,,Limnios Property Group - Perth
+97,31 John Street,"$540,000",Jul 2017,,,Townhouse,2,1,1,161,104,Bourkes - South Perth
+98,2/1 Shenton Street,"$370,000",Jul 2017,$350pw,Sep 2017,,,,,111,87,@realty
+99,15/5 Antonas Road,"$455,000",Jul 2017,$450pw,Mar 2020,Townhouse,2,2,1,124,98,Realmark Central
+100,8/9 Shenton Street,"$529,000",Jun 2017,$550pw,Oct 2015,,,,,134,108,Abel Property - Leederville
+101,8/154 Aberdeen Street,"$690,000",Jun 2017,$720pw,Aug 2011,Apartment,3,2,1,702,106,Real Estate 88 - East Perth
+102,80/269 James Street,"$530,000",May 2017,,,Apartment,2,2,1,,,Real Estate 88 - East Perth
+103,5/7 Shenton Street,"$376,000",May 2017,$435pw,Mar 2016,Apartment,2,1,1,"1,477",84,ZSA ZSA Property - PERTH
+104,31/260 Newcastle Street,"$550,000",May 2017,,,Apartment,3,2,2,,,BOSS Real Estate - Northbridge
+105,67 Lake Street,"$4,840,000",May 2017,,,,,,,167,500,
+106,65 Lake Street,"$4,840,000",May 2017,,,,,,,167,500,
+107,56/89 Aberdeen Street,"$400,000",Apr 2017,,,Apartment,1,1,1,,,Baltinas - NORTHBRIDGE
+108,6/60 Fitzgerald Street,"$370,000",Apr 2017,$390pw,Oct 2015,Apartment,2,1,1,"2,156",84,NTY Property Group Maylands
+109,19/98 Lake Street,"$415,000",Apr 2017,$520pw,Jul 2015,,,,,103,86,BOSS Real Estate - Northbridge
+110,21/103 Francis Street,"$582,500",Mar 2017,$580pw,Aug 2015,House,2,2,1,103,,Limnios Property Group - Perth
+111,12/335 Newcastle Street,"$280,000",Mar 2017,$330pw,Sep 2016,Apartment,1,1,1,627,61,Bourkes - South Perth
+112,58/89 Aberdeen Street,"$1,100,000",Mar 2017,$410pw,Sep 2019,Apartment,2,2,1,,,
+113,55/89 Aberdeen Street,"$1,100,000",Mar 2017,$400pw,Nov 2018,Apartment,2,2,1,,,
+114,39/89 Aberdeen Street,"$1,100,000",Mar 2017,$445pw,May 2018,Apartment,2,2,1,,,
+115,185-187 William Street,"$5,200,000",Mar 2017,,,,,,,620,501,JLL - Perth
+116,9/98 Lake Street,"$410,000",Mar 2017,$520pw,Jan 2017,,,,,103,103,BOSS Real Estate - Northbridge
+117,9/101 Francis Street,"$693,000",Feb 2017,,,,,,,188,142,
+118,4/20 Pendal Lane,"$486,000",Feb 2017,$700pw,Jul 2013,Apartment,3,2,1,130,99,BOSS Real Estate - Northbridge
+119,109/269 James Street,"$410,000",Feb 2017,,,Apartment,1,1,1,,82,Real Estate 88 - East Perth
+120,70/269 James Street,"$545,000",Feb 2017,,,Apartment,2,2,1,,,Real Estate 88 - East Perth
+121,11/5 Antonas Road,"$346,000",Feb 2017,$390pw,Apr 2016,Apartment,1,1,1,"1,187",67,Avenue One Property Group - Perth
+122,59/228 James Street,"$150,000",Feb 2017,,,,,,,,,
+123,405/403 Newcastle Street,"$395,000",Jan 2017,$550pw,May 2013,,,,,"1,210",72,Real Estate 88 - East Perth
+124,73/269 James Street,"$390,000",Jan 2017,,,Apartment,1,1,1,,,Real Estate 88 - East Perth
+125,2/134-138 Aberdeen Street,"$435,000",Jan 2017,$520pw,Feb 2012,,,,,135,91,
+126,2/134 Aberdeen Street,"$435,000",Jan 2017,$450pw,Dec 2020,Apartment,2,2,1,"4,520",91,NTY Property Group Maylands
+127,408/403 Newcastle Street,"$355,000",Dec 2016,$430pw,Jun 2019,Apartment,2,2,1,"1,212",,Vlahos Realty
+128,10/182 James Street,"$375,000",Dec 2016,$380pw,Dec 2020,Apartment,2,1,1,531,67,Abel McGrath the Property People - Leederville
+129,92/269 James Street,"$570,000",Dec 2016,,,Apartment,2,2,1,116,82,Real Estate 88 - East Perth
+130,8/269 James Street,"$535,000",Nov 2016,$480pw,Oct 2019,Apartment,2,2,1,,,Real Estate 88 - East Perth
+131,28/134 Aberdeen Street,"$505,000",Nov 2016,$385pw,Jun 2020,Apartment,2,2,1,,,Realmark Central
+132,2/52 Fitzgerald Street,"$435,000",Nov 2016,$525pw,Mar 2015,Apartment,2,1,1,"2,156",124,Tyler & Sons - Perth
+133,203/403 Newcastle Street,"$375,000",Oct 2016,,,Apartment,1,2,1,"1,209",70,Blackburne Residential Property - WA Blackburne Re
+134,12 Little Shenton Lane,"$538,000",Sep 2016,$420pw,Oct 2016,House,2,1,2,"1,477",,Martino Property Group
+135,311/403 Newcastle Street,"$370,000",24 Sep 2016(Auction),$450pw,Apr 2016,Apartment,2,2,1,"1,210",74,Grange Realty Group - Victoria Park
+136,5/220 James Street,"$370,000",Sep 2016,$420pw,Sep 2016,Apartment,2,1,1,104,82,Realmark Central - East Perth
+137,22/191 James Street,"$330,000",Sep 2016,$400pw,Mar 2021,Apartment,2,1,1,"1,797",68,Ray White South Perth
+138,17/103 Francis Street,"$470,000",Sep 2016,$550pw,May 2015,Apartment,2,2,1,,,Limnios Property Group - Perth
+139,62/269 JAMES Street,"$520,000",Sep 2016,,,,,,,115,,
+140,28/250 Beaufort Street,"$444,000",Aug 2016,,,,,,,,,Airey Real Estate - CLAREMONT
+141,18/103 Francis Street,"$465,000",Aug 2016,$395pw,Sep 2019,Apartment,2,2,1,,,Limnios Property Group - Perth
+142,53/269 JAMES Street,"$510,000",Aug 2016,$450pw,Nov 2017,Apartment,2,2,1,120,,
+143,1/134 Aberdeen Street,"$482,500",Jul 2016,$395pw,Aug 2017,Apartment,2,2,1,"4,520",91,NTY Property Group Maylands
+144,61/269 JAMES Street,"$520,000",Jul 2016,,,,,,,112,,
+145,307/403 Newcastle Street,"$410,000",Jun 2016,,,Apartment,2,2,1,"1,209",72,The Property Exchange - Subiaco
+146,283 William Street,"$3,400,000",Jun 2016,,,,,,,942,,
+147,43/269 James Street,"$575,000",May 2016,$550pw,Feb 2018,Apartment,2,2,1,117,,Real Estate 88 - East Perth
+148,269 James Street,"$550,000",May 2016,$550pw,Jan 2017,Apartment,2,2,1,554,540,Colliers International - PERTH
+149,52/269 James Street,"$540,375",May 2016,,,Apartment,2,2,1,,,Real Estate 88 - East Perth
+150,100 Lake Street,"$1,550,000",Apr 2016,,,,,,,417,288,
+151,10/103 Francis Street,"$353,000",Mar 2016,$400pw,Mar 2021,Apartment,1,1,1,,,Limnios Property Group - Perth
+152,134 Roe Street,"$5,225,000",Mar 2016,,,,,,,"1,208",1161,Burgess Rawson - Perth
+153,8/134 Aberdeen Street,"$495,000",Mar 2016,$550pw,Apr 2015,Apartment,2,2,1,"4,520",95,Beaufort Realty - Mount Lawley
+154,115/269 James Street,"$616,000",Mar 2016,$550pw,Sep 2016,Apartment,2,2,2,80,80,Real Estate 88 - East Perth
+155,19 Palmerston Street,"$1,250,000",Feb 2016,"$1,500pw",Nov 2010,House,4,4,2,243,,Raine & Horne - North Perth
+156,44/89 Aberdeen Street,"$410,000",Feb 2016,$400pw,Oct 2018,Apartment,1,1,1,,,
+157,43/134 Aberdeen Street,"$480,000",Feb 2016,$440pw,May 2016,Apartment,2,2,1,123,123,BOSS Real Estate - Northbridge
+158,8/134-138 Aberdeen Street,"$495,000",Jan 2016,$550pw,Apr 2015,House,2,2,1,"4,520",95,
+159,3/5 Antonas Road,"$287,810",Jan 2016,,,Apartment,1,1,1,"1,187",60,Realmark Central - East Perth
+160,5/45 Shenton Street,"$575,000",Jan 2016,$545pw,Aug 2019,Apartment,3,3,1,156,134,Sell Lease Property
+161,43/228 James Street,"$275,000",Dec 2015,$320pw,Sep 2016,Apartment,1,1,1,"2,519",51,Paragon Property - North Perth
+162,12/89 Lake Street,"$500,000",Dec 2015,$480pw,Jan 2019,Apartment,2,2,1,119,119,BOSS Real Estate - Northbridge
+163,51/269 James Street,"$550,000",Dec 2015,,,Apartment,2,2,1,,,Real Estate 88 - East Perth
+164,57/191 James Street,"$435,000",Nov 2015,,,Apartment,2,1,1,100,100,Sell Lease Property
+165,4/48 Fitzgerald Street,"$418,000",Nov 2015,$380pw,Dec 2019,Apartment,2,2,1,"2,156",89,Realmark Central - East Perth
+166,41/269 James Street,"$545,000",Nov 2015,,,Apartment,2,2,1,,,Colliers International - PERTH
+167,4/9 Shenton Street,"$410,000",Oct 2015,$460pw,Jul 2015,Apartment,2,1,1,"1,477",82,NTY Property Group - East Perth
+168,2/164 Aberdeen Street,"$589,000",Oct 2015,,,Apartment,2,2,2,115,115,BOSS Real Estate - Northbridge
+169,120 Aberdeen Street,"$275,000",Oct 2015,,,,,,,513,148,
+170,310/403 Newcastle Street,"$465,000",Oct 2015,$550pw,Sep 2015,Apartment,2,2,1,"1,210",70,Realmark Central - East Perth
+171,6/134 Aberdeen Street,"$490,000",Sep 2015,$600pw,Sep 2014,Apartment,2,2,1,"4,520",136,Mark Hay - East Perth
+172,100/269 James Street,"$435,000",Sep 2015,$360pw,Sep 2016,Apartment,1,1,1,,52,Real Estate 88 - East Perth
+173,6/134-138 Aberdeen Street,"$490,000",Aug 2015,$550pw,Oct 2014,,,,,"4,520",,
+174,1/50 Fitzgerald Street,"$432,000",Aug 2015,$420pw,Jul 2015,Apartment,2,1,1,124,124,Mark Hay - East Perth
+175,45 Francis Street,"$101,000,000",Aug 2015,,,,,,,"6,767",340,
+176,8 Parker Street,"$1,100,000",Aug 2015,,,House,,,,311,,
+177,17/98 Lake Street,"$525,000",Aug 2015,$550pw,Apr 2011,Apartment,3,2,1,150,109,Realmark Central - East Perth
+178,11/103 Francis Street,"$515,000",Jul 2015,$550pw,May 2015,Apartment,2,2,1,,,Limnios Property Group - Perth
+179,11/103-105 Francis Street,"$515,000",Jul 2015,$550pw,Jun 2015,,,,,"1,106",,
+180,3/103-105 Francis Street,"$510,000",Jul 2015,$530pw,Jul 2015,,,,,"1,106",,
+181,2/17 Shenton Street,"$480,000",Jul 2015,$430pw,Mar 2020,,,,,113,89,
+182,42/269 JAMES Street,"$540,000",Jul 2015,,,,,,,116,,
+183,34/191 James Street,"$438,000",Jun 2015,$420pw,Apr 2016,Apartment,2,1,1,"1,797",88,Beaufort Realty - Mount Lawley
+184,114/269 JAMES Street,"$652,500",Jun 2015,,,,,,,132,,
+185,64/269 James Street,"$440,000",Jun 2015,,,Apartment,1,1,1,,52,Real Estate 88 - East Perth
+186,104 Aberdeen Street,"$1,630,000",Jun 2015,,,,,,,460,253,
+187,22/134 Aberdeen Street,"$480,000",Jun 2015,$450pw,Aug 2020,Apartment,2,2,1,"4,520",,Realmark - Applecross
+188,5 John Street,"$608,000",Jun 2015,$540pw,Nov 2014,House,2,1,1,"2,048",104,Abel McGrath the Property People - Leederville
+189,48 Lake Street,"$1,870,000",May 2015,"$109,000pw",Sep 2015,,,,,567,376,
+190,30/269 JAMES Street,"$555,000",May 2015,$550pw,Jul 2016,Apartment,2,2,1,116,,
+191,132 Aberdeen Street,"$980,000",May 2015,,,House,5,2,2,257,250,
+192,26/134 Aberdeen Street,"$522,000",May 2015,$430pw,May 2020,Apartment,2,2,1,"4,520",,Limnios Property Group - Perth
+193,22/134-138 ABERDEEN Street,"$480,000",May 2015,$470pw,Jan 2012,,,,,122,,
+194,29/269 James Street,"$550,000",Apr 2015,,,Apartment,2,2,1,,80,Real Estate 88 - East Perth
+195,116/269 JAMES Street,"$652,500",Apr 2015,$470pw,Apr 2020,Apartment,2,2,2,128,,
+196,39/269 James Street,"$400,000",Apr 2015,$420pw,Mar 2021,Apartment,1,1,1,,53,Colliers International - Perth
+197,100 Aberdeen Street,"$1,500,000",Mar 2015,,,,,,,575,,
+198,44/269 James Street,"$430,000",Feb 2015,$365pw,Apr 2019,Apartment,1,1,1,,,Real Estate 88 - East Perth
+199,54/154 Newcastle Street,"$525,000",Feb 2015,,,Apartment,2,2,1,,,Nicheliving Real Estate - Perth
+200,7/2 Davies Street,"$542,000",Feb 2015,$500pw,Jan 2017,Apartment,2,2,1,501,91,Abel McGrath the Property People - Leederville
+201,6/7 Shenton Street,"$510,000",Feb 2015,$450pw,Nov 2020,Apartment,2,1,1,"1,477",110,Abel McGrath the Property People - Leederville
+202,5/101 Francis Street,"$605,000",Feb 2015,,,,,,,170,142,
+203,16/269 JAMES Street,"$430,000",Jan 2015,$350pw,Sep 2018,,,,,105,,
+204,202/403 Newcastle Street,"$489,000",Jan 2015,$470pw,Sep 2014,Apartment,2,2,1,"1,209",74,Professionals Michael Johnson and Co - Mt Lawley
+205,65/269 JAMES Street,"$602,500",Jan 2015,$450pw,Apr 2019,,,,,116,,
+206,32/258-264 Newcastle Street,"$795,000",Jan 2015,$700pw,May 2016,Apartment,3,2,2,183,151,BOSS Real Estate - Northbridge
+207,44/191 James Street,"$420,000",Dec 2014,$425pw,Jan 2021,Apartment,2,1,1,"1,797",,Radi Estates - INGLEWOOD
+208,110/269 JAMES Street,"$667,500",Nov 2014,$630pw,Feb 2018,Apartment,2,2,2,127,,
+209,19/269 JAMES Street,"$405,000",Nov 2014,$320pw,Oct 2017,,,,,,,
+210,56/269 JAMES Street,"$595,000",Nov 2014,$480pw,Aug 2018,,,,,117,,
+211,110/403 Newcastle Street,"$469,000",Nov 2014,$380pw,Sep 2017,Apartment,2,2,1,"1,209",74,Abel McGrath the Property People - Leederville
+212,31/269 JAMES Street,"$395,000",Nov 2014,$375pw,Aug 2018,Apartment,1,1,1,,,
+213,76/269 JAMES Street,"$430,000",Nov 2014,$360pw,May 2019,,,,,,,
+214,67/269 JAMES Street,"$425,000",Nov 2014,$350pw,Aug 2018,Apartment,1,1,1,,,
+215,101/269 JAMES Street,"$632,500",Nov 2014,$530pw,Apr 2021,Apartment,2,2,1,117,,
+216,94/269 JAMES Street,"$440,000",Nov 2014,$370pw,Sep 2020,Apartment,1,1,1,,,
+217,24/269 JAMES Street,"$405,000",Nov 2014,$330pw,Jun 2019,Apartment,1,1,1,,,
+218,9/182 James Street,"$470,000",Oct 2014,$360pw,Nov 2019,Apartment,2,1,1,532,81,Abel McGrath the Property People - Leederville
+219,1/101 Francis Street,"$462,000",Oct 2014,,,,,,,110,84,
+220,16/5 Antonas Road,"$640,000",Oct 2014,$680pw,Jan 2021,Apartment,3,2,2,"1,187",125,Real Estate 88 - East Perth
+221,32/154 Newcastle Street,"$425,000",Sep 2014,,,Apartment,1,1,1,,,Nicheliving Real Estate - Perth
+222,3/101 Francis Street,"$638,000",Aug 2014,,,,,,,172,152,
+223,239 James Street,"$4,280,000",Aug 2014,,,,,,,686,682,
+224,233 James Street,"$4,280,000",Aug 2014,,,,,,,686,682,
+225,7/17 Shenton Street,"$585,000",Aug 2014,$420pw,Mar 2018,Apartment,2,2,1,"2,048",133,Wright Real Estate - Scarborough
+226,38/134-138 Aberdeen Street,"$546,000",Jul 2014,$420pw,Mar 2018,Apartment,2,2,11,,,
+227,38/134 Aberdeen Street,"$546,000",Jul 2014,$600pw,Jun 2012,Apartment,2,2,2,"4,520",,Abel McGrath the Property People - Leederville
+228,4/45 Shenton Street,"$530,000",Jul 2014,,,,,,,307,88,Perth Metro Property Group - OSBORNE PARK
+229,116 James Street,"$5,600,000",Jul 2014,,,,,,,923,705,Davey Real Estate - North Beach
+230,12/5 Antonas Road,"$595,000",Jul 2014,$400pw,Sep 2020,Apartment,2,2,1,107,80,MLG Realty - EAST PERTH
+231,26/191 James Street,"$480,000",Jul 2014,$390pw,Dec 2017,Apartment,2,1,1,"1,797",79,Abel McGrath the Property People - Leederville
+232,20/134 Aberdeen Street,"$560,000",Jul 2014,$550pw,May 2016,Apartment,2,2,1,"4,520",,NTY Property Group - East Perth
+233,12/151 Brisbane Street,"$429,000",Jun 2014,$375pw,Jul 2017,House,1,1,2,94,55,"Professionals Michael Johnson and Co - Mt Lawley, "
+234,100 James Street,"$17,710,000",Jun 2014,,,,,,,570,,
+235,7/10 Pendal Lane,"$516,000",May 2014,$400pw,Feb 2020,Apartment,2,2,1,,,Abel McGrath the Property People - Leederville
+236,1/222 James Street,"$632,500",May 2014,,,,,,,113,98,
+237,3A/301 William Street,"$610,000",Apr 2014,,,Apartment,2,1,1,,137,Mark Hay - East Perth
+238,3A/305 William Street,"$610,000",Apr 2014,$425pw,Jan 2021,Apartment,2,1,1,137,137,Mark Hay - East Perth
+239,3/45 Shenton Street,"$535,000",Apr 2014,$400pw,Nov 2019,Apartment,2,2,1,307,88,Abel McGrath the Property People - Leederville
+240,7/154 Newcastle Street,"$642,500",Apr 2014,,,Apartment,2,2,1,,,Realmark Central - East Perth
+241,156-158 Aberdeen Street,"$2,575,000",Apr 2014,,,House,5,3,4,980,,William Porteous Properties International Pty Ltd
+242,8 Kakulas Crescent,"$1,365,000",29 Mar 2014(Auction),,,House,3,3,2,246,345,Port City Real Estate - Fremantle
+243,156 Aberdeen Street,"$2,575,000",Mar 2014,,,House,5,3,4,980,266,
+244,10/258-264 Newcastle Street,"$575,000",Mar 2014,$650pw,Jan 2014,Apartment,2,2,1,,,BOSS Real Estate - Northbridge
+245,63/134 Aberdeen Street,"$542,000",Mar 2014,$440pw,Mar 2020,Apartment,2,2,1,"4,520",,Limnios Property Group - Perth
+246,313-315 William Street,"$280,000",Mar 2014,,,,,,,174,163,
+247,123 Aberdeen Street,"$1,285,000",Mar 2014,,,House,8,2,,574,,Abel McGrath the Property People - Leederville
+248,12a/182 James Street,"$490,000",Mar 2014,$400pw,Apr 2019,,,,,532,67,Abel McGrath the Property People - Leederville
+249,7/255 Newcastle Street,"$1,150,000",Feb 2014,,,,,,,191,191,
+250,36/191 James Street,"$475,000",Feb 2014,$415pw,Apr 2016,,,,,"1,797",79,Abel McGrath the Property People - Leederville
+251,39/134 Aberdeen Street,"$549,000",Feb 2014,$415pw,Nov 2017,Apartment,2,2,1,"4,520",,Ray White - Accord
+252,6/71 Parry Street,"$455,000",Feb 2014,,,Apartment,1,1,1,,65,Realwest Property - Subiaco
+253,1/219 Newcastle Street,"$790,000",Feb 2014,,,,,,,254,158,
+254,223 Newcastle Street,"$645,000",Feb 2014,$380pw,May 2017,House,2,1,1,582,113,Limnios Property Group - Perth
+255,219 Newcastle Street,"$790,000",Feb 2014,,,House,3,2,2,582,158,Limnios Property Group - Perth
+256,221 Newcastle Street,"$640,000",Feb 2014,$450pw,Apr 2011,House,2,1,1,582,108,Limnios Property Group - Perth
+257,206/403 Newcastle Street,"$510,000",Feb 2014,$390pw,Apr 2019,Apartment,2,2,1,"1,209",,Northside Residential - Greenwood
+258,13/182 James Street,"$490,000",Feb 2014,,,Apartment,2,1,,199,67,
+259,7/89 Lake Street,"$575,000",Jan 2014,$630pw,May 2013,Apartment,3,2,1,914,106,Abel McGrath the Property People - Leederville
+260,402/403 Newcastle Street,"$515,000",Jan 2014,$410pw,Jul 2019,Apartment,2,2,1,"1,212",99,Mair and Co
+261,53/239 Pier Street,"$393,000",Jan 2014,,,Apartment,1,1,1,,,Realmark Central - East Perth
+262,3/62 Fitzgerald Street,"$360,250",Jan 2014,,,,,,,83,69,
+263,10/5 Antonas Road,"$440,000",Jan 2014,,,House,1,1,,"1,187",67,Capital First National - Alexander Heights
+264,30/403 Newcastle Street,"$509,000",2014,,,,,,,"1,210",,
+265,7/48 Fitzgerald Street,"$475,000",2014,$450pw,Mar 2011,,,,,"2,156",89,
+266,21 Little Shenton L,"$785,000",Dec 2013,,,Townhouse,3,2,2,"1,653",,Nicheliving Real Estate - Perth
+267,3/226 James Street,"$420,000",Dec 2013,$320pw,Dec 2018,Apartment,1,1,1,89,72,MLG Realty - EAST PERTH
+268,90 Aberdeen Street,"$5,000,000",Dec 2013,,,,,,,468,143,
+269,84 Aberdeen Street,"$5,000,000",Dec 2013,,,,,,,"1,879",,
+270,3/154 Aberdeen Street,"$467,500",Nov 2013,,,Apartment,1,1,1,702,58,Abel McGrath the Property People - Leederville
+271,59/89 Aberdeen Street,"$630,000",Nov 2013,$550pw,Mar 2020,Apartment,2,2,1,,,
+272,51/89 Aberdeen Street,"$620,000",Nov 2013,$400pw,Dec 2020,Apartment,2,2,1,,,Velo - Northbridge
+273,51 89 Aberdeen Street,"$620,000",Nov 2013,,,,,,,,,
+274,23 Fitzgerald Street,"$6,000,000",Nov 2013,,,,,,,461,,
+275,21 Fitzgerald Street,"$6,000,000",Nov 2013,,,,,,,367,,
+276,19 Fitzgerald Street,"$6,000,000",Nov 2013,,,,,,,367,,
+277,15 Fitzgerald Street,"$6,000,000",Nov 2013,,,,,,,368,499,
+278,17/134 Aberdeen Street,"$540,000",Nov 2013,$400pw,Jul 2017,Apartment,2,2,1,"4,520",88,NTY Property Group - East Perth
+279,309/403 Newcastle Street,"$510,000",Nov 2013,$390pw,Apr 2018,Apartment,2,2,1,"1,209",72,Abel McGrath the Property People - Leederville
+280,1/1 Shenton Street,"$1,325,000",Nov 2013,,,,,,,308,293,
+281,4/89 Aberdeen Street,"$595,000",Oct 2013,$395pw,Jun 2019,Apartment,2,2,1,,,
+282,5/19 Little Shenton L,"$615,000",Oct 2013,,,,,,,"1,563",,LJ Hooker - Mirrabooka
+283,2/19 Little Shenton Lane,"$480,000",Oct 2013,$395pw,May 2020,Apartment,2,1,2,155,,Limnios Property Group - Perth
+284,5/19 Little Shenton Lane,"$615,000",Oct 2013,,,,,,,"1,563",,LJ Hooker - Mirrabooka
+285,15/145 Newcastle Street,"$630,000",Oct 2013,,,Apartment,3,2,1,,,Realmark Central - East Perth
+286,7 Davies Street,"$1,025,000",Sep 2013,,,House,3,2,2,255,227,Abel McGrath the Property People - Leederville
+287,38/89 Aberdeen Street,"$515,000",Sep 2013,$370pw,Oct 2018,Apartment,2,1,1,,,
+288,20/10 Pendal Lane,"$565,000",Sep 2013,,,Apartment,2,2,2,126,891,MLG Realty - EAST PERTH
+289,403/403 Newcastle Street,"$535,000",Aug 2013,$380pw,Jun 2019,Apartment,2,2,1,"1,209",,Realmark Central - East Perth
+290,312/403 Newcastle Street,"$502,500",Aug 2013,$560pw,Oct 2013,Apartment,2,2,1,"1,209",,Realmark Central - East Perth
+291,40/10 PENDAL LANE,"$590,000",Aug 2013,$780pw,Jan 2013,Apartment,2,2,2,130,,MLG Realty - EAST PERTH
+292,89 Aberdeen Street,"$3,450,000",Aug 2013,$450pw,Jul 2018,,,,,"1,064",134,
+293,25/20 Pendal Lane,"$724,999",Jul 2013,$590pw,Feb 2018,Townhouse,3,2,2,,,For Sale By Owner Australia
+294,21/145 Newcastle Street,"$614,000",Jul 2013,,,Apartment,3,2,1,,,Realmark Central - East Perth
+295,18/76 Newcastle Street,"$535,000",Jul 2013,$530pw,Jan 2014,Apartment,2,2,1,,,Abel Property - Leederville
+296,2/226 James Street,"$600,000",Jul 2013,,,,,,,96,70,
+297,1/226 James Street,"$600,000",Jul 2013,,,,,,,84,70,
+298,10/89 Lake Street,"$590,000",Jun 2013,$540pw,Nov 2011,Apartment,3,2,1,914,122,BOSS Real Estate - Northbridge
+299,13/10 Pendal Lane,"$560,000",Jun 2013,,,Apartment,2,2,1,117,100,MLG Realty - EAST PERTH
