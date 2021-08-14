@@ -3,62 +3,61 @@ address,suburb,state,postcode,full_address,price,sold date,type,bedrooms,bathroo
 69 Fairway,Crawley,WA,6009,69 Fairway Crawley WA 6009,"$1,225,000",Jun-21,House,2,1,2,607,,1926,$500pw,Aug-21,Brian Neo,-31.9818697,115.8153668
 65 Fairway,Crawley,WA,6009,65 Fairway Crawley WA 6009,"$1,225,000",Jun-21,House,2,1,2,607,77,1921,$310pw,Jun-08,Jack Bradshaw,-31.9817455,115.8153668
 57 Fairway,Crawley,WA,6009,57 Fairway Crawley WA 6009,"$1,650,000",Jun-21,Apartment,10,4,6,607,81,1965,$167pw,Oct-15,Jack Bradshaw,-31.98118,115.8153
-55 Fairway,Crawley,WA,6009,55 Fairway Crawley WA 6009,"$1,275,000",Jun-21,House,3,2,2,607,164,1948,,,Brian Neo,-31.9810515,115.8153206
+55 Fairway,Crawley,WA,6009,55 Fairway Crawley WA 6009,"$1,275,000",Jun-21,House,3,2,2,607,164,1948,0,0,Brian Neo,-31.9810515,115.8153206
 15 The Avenue,Crawley,WA,6009,15 The Avenue Crawley WA 6009,"$3,650,000",Jun-21,Apartment,2,1,1,"1,012",,,$230pw,Aug-20,Mark Hay,-31.9874563,115.8163374
 150 Fairway,Crawley,WA,6009,150 Fairway Crawley WA 6009,"$3,500,000",Jun-21,Apartment,1,1,1,809,,1964,$220pw,Dec-19,Mark Hay,-31.9871338,115.8161063
-6/9-11 Wingfield Avenue,Crawley,WA,6009,6/9-11 Wingfield Avenue Crawley WA 6009,"$920,000",Jun-21,House,3,2,3,154,148,1972,,,Michelle Kerr,-31.97265,115.82405
+6/9-11 Wingfield Avenue,Crawley,WA,6009,6/9-11 Wingfield Avenue Crawley WA 6009,"$920,000",Jun-21,House,3,2,3,154,148,1972,0,0,Michelle Kerr,-31.97265,115.82405
 42/3 Park Avenue,Crawley,WA,6009,42/3 Park Avenue Crawley WA 6009,"$1,275,000",May-21,Apartment,3,2,2,"6,588",174,1983,"$1,100pw",Mar-14,Richard Self,-31.9716501,115.8253265
-15/22 The Avenue,Crawley,WA,6009,15/22 The Avenue Crawley WA 6009,"$1,455,000",May-21,Apartment,3,2,2,"4,524",169,1981,$785pw,May-16,,-31.98849,115.81646
+15/22 The Avenue,Crawley,WA,6009,15/22 The Avenue Crawley WA 6009,"$1,455,000",May-21,Apartment,3,2,2,"4,524",169,1981,$785pw,May-16,not recorded,-31.98849,115.81646
 1/3 Wingfield Avenue,Crawley,WA,6009,1/3 Wingfield Avenue Crawley WA 6009,"$1,040,000",Apr-21,Apartment,3,1,2,204,155,1982,$650pw,Oct-15,Annie McCarthy,-31.97325,115.8245
 7/131 Fairway,Crawley,WA,6009,7/131 Fairway Crawley WA 6009,"$860,000",Apr-21,House,3,2,2,159,130,2000,$670pw,Feb-21,Michelle Kerr,-31.9854781,115.8154361
-1/16 The Avenue,Crawley,WA,6009,1/16 The Avenue Crawley WA 6009,"$4,000,000",Mar-21,Apartment,3,3,4,310,297,1987,,,Peter Robertson,-31.9882144,115.8171153
+1/16 The Avenue,Crawley,WA,6009,1/16 The Avenue Crawley WA 6009,"$4,000,000",Mar-21,Apartment,3,3,4,310,297,1987,0,0,Peter Robertson,-31.9882144,115.8171153
 5/20 Park Road,Crawley,WA,6009,5/20 Park Road Crawley WA 6009,"$639,000",Mar-21,Townhouse,2,1,1,86,90,2004,$500pw,Nov-10,Belinda Airey,-31.9747065,115.8140265
-7/28 The Avenue,Crawley,WA,6009,7/28 The Avenue Crawley WA 6009,"$422,000",Feb-21,Apartment,2,1,1,65,59,1964,$315pw,May-19,,-31.9885707,115.8157828
-27/70-72 Broadway,Crawley,WA,6009,27/70-72 Broadway Crawley WA 6009,"$320,000",Feb-21,Apartment,1,1,1,47,45,1964,,,Minrong Lan,-31.9821596,115.8148497
+7/28 The Avenue,Crawley,WA,6009,7/28 The Avenue Crawley WA 6009,"$422,000",Feb-21,Apartment,2,1,1,65,59,1964,$315pw,May-19,not recorded,-31.9885707,115.8157828
+27/70-72 Broadway,Crawley,WA,6009,27/70-72 Broadway Crawley WA 6009,"$320,000",Feb-21,Apartment,1,1,1,47,45,1964,0,0,Minrong Lan,-31.9821596,115.8148497
 3/64 Broadway,Crawley,WA,6009,3/64 Broadway Crawley WA 6009,"$485,000",Jan-21,Apartment,3,1,2,131,100,1990,$500pw,Jan-21,David Azzopardi,-31.9815604,115.8147891
-12/9 Everett Street,Crawley,WA,6009,12/9 Everett Street Crawley WA 6009,"$395,000",Jan-21,Apartment,2,1,1,109,90,1969,$215pw,Aug-04,,-31.985855,115.8158922
+12/9 Everett Street,Crawley,WA,6009,12/9 Everett Street Crawley WA 6009,"$395,000",Jan-21,Apartment,2,1,1,109,90,1969,$215pw,Aug-04,not recorded,-31.985855,115.8158922
 2/15 COOK STREET,Crawley,WA,6009,2/15 COOK STREET Crawley WA 6009,"$635,000",Jan-21,House,3,1,1,119,116,1981,$750pw,Mar-12,Peter Zambotti,-31.9837438,115.8161756
-4/22 Caporn Street,Crawley,WA,6009,4/22 Caporn Street Crawley WA 6009,"$360,000",Dec-20,Apartment,1,1,1,50,50,1958,$345pw,Dec-16,,-31.9842231,115.8166378
-G04/173 Mounts Bay Road,Crawley,WA,6009,G04/173 Mounts Bay Road Crawley WA 6009,"$2,000,000",Dec-20,Apartment,3,2,3,271,,,,,,-31.9652303,115.8395818
-6/82 Broadway,Crawley,WA,6009,6/82 Broadway Crawley WA 6009,"$249,000",Dec-20,Apartment,1,1,1,46,43,1967,,,,-31.9833427,115.814874
-12E/16 Kings Park Avenue,Crawley,WA,6009,12E/16 Kings Park Avenue Crawley WA 6009,"$1,200,000",Nov-20,House,3,2,2,190,,,,,,-31.9716011,115.8263162
+4/22 Caporn Street,Crawley,WA,6009,4/22 Caporn Street Crawley WA 6009,"$360,000",Dec-20,Apartment,1,1,1,50,50,1958,$345pw,Dec-16,not recorded,-31.9842231,115.8166378
+G04/173 Mounts Bay Road,Crawley,WA,6009,G04/173 Mounts Bay Road Crawley WA 6009,"$2,000,000",Dec-20,Apartment,3,2,3,271,,,0,0,not recorded,-31.9652303,115.8395818
+6/82 Broadway,Crawley,WA,6009,6/82 Broadway Crawley WA 6009,"$249,000",Dec-20,Apartment,1,1,1,46,43,1967,0,0,not recorded,-31.9833427,115.814874
+12E/16 Kings Park Avenue,Crawley,WA,6009,12E/16 Kings Park Avenue Crawley WA 6009,"$1,200,000",Nov-20,House,3,2,2,190,,,0,0,not recorded,-31.9716011,115.8263162
 9.1/4 Crawley Avenue,Crawley,WA,6009,9.1/4 Crawley Avenue Crawley WA 6009,"$755,000",Oct-20,Apartment,3,2,2,202,,1970,$595pw,Dec-16,Peter & Ali - Turner & Moore Team,-31.9734066,115.8240093
 118 Broadway,Crawley,WA,6009,118 Broadway Crawley WA 6009,"$1,825,000",Oct-20,Apartment,,8,8,880,77,1939,$210pw,Sep-16,David Azzopardi,-31.9852103,115.8148584
-7/8 Wingfield Avenue,Crawley,WA,6009,7/8 Wingfield Avenue Crawley WA 6009,"$650,000",Oct-20,Apartment,3,2,2,123,121,1979,$650pw,Jan-21,,-31.9725016,115.8249336
-1/16 Caporn Street,Crawley,WA,6009,1/16 Caporn Street Crawley WA 6009,"$475,000",Oct-20,Apartment,,1,1,73,73,1969,$500pw,Jul-15,,-31.9840682,115.8159214
-10/159 Fairway,Crawley,WA,6009,10/159 Fairway Crawley WA 6009,"$270,000",Sep-20,Apartment,1,1,1,41,35,1964,$250pw,Sep-20,,-31.9874827,115.8156441
-L108 171/173 Mounts Bay Road,Crawley,WA,6009,L108 171/173 Mounts Bay Road Crawley WA 6009,"$725,000",Aug-20,Apartment,2,2,3,142,,,,,Davide Palermo,-31.965028,115.8406902
-35/17 The Avenue,Crawley,WA,6009,35/17 The Avenue Crawley WA 6009,"$270,000",Aug-20,Apartment,1,1,1,41,41,1963,$370pw,Apr-21,,-31.9878111,115.8158643
-8/20 Park Road,Crawley,WA,6009,8/20 Park Road Crawley WA 6009,"$410,000",Jun-20,Apartment,1,1,1,76,65,2004,$420pw,Mar-15,,-31.9747065,115.8140265
-8E Park Road,Crawley,WA,6009,8E Park Road Crawley WA 6009,"$525,000",Jun-20,House,1,1,1,116,81,1999,$500pw,Jan-19,,-31.97478,115.81486
-6/114 Broadway,Crawley,WA,6009,6/114 Broadway Crawley WA 6009,"$270,000",Apr-20,Apartment,2,1,0,76,76,1963,$460pw,Jan-15,,-31.9847962,115.8148584
-1/31 Caporn Street,Crawley,WA,6009,1/31 Caporn Street Crawley WA 6009,"$530,000",Apr-20,Townhouse,3,1,1,95,102,1981,,,,-31.98472,115.81743
-5/82 Broadway,Crawley,WA,6009,5/82 Broadway Crawley WA 6009,"$239,000",Apr-20,Unit,1,1,1,46,43,1967,$240pw,Sep-16,,-31.9833427,115.814874
-1/139 Fairway,Crawley,WA,6009,1/139 Fairway Crawley WA 6009,"$540,000",Feb-20,Townhouse,2,1,2,95,100,1978,,,,-31.9859381,115.8153206
-10/25 The Avenue,Crawley,WA,6009,10/25 The Avenue Crawley WA 6009,"$350,000",Feb-20,Unit,2,1,1,74,72,1965,$430pw,Feb-21,,-31.9879772,115.8152744
-1/4 Kings Park Avenue,Crawley,WA,6009,1/4 Kings Park Avenue Crawley WA 6009,"$1,260,000",Jan-20,Unit,3,2,2,215,212,1982,,,,-31.9724813,115.8265512
-2/44 Broadway,Crawley,WA,6009,2/44 Broadway Crawley WA 6009,"$525,000",Dec-19,Apartment,2,1,2,104,77,1980,$530pw,Oct-18,,-31.9795783,115.8148584
-2W/14-18 Kings Park Avenue,Crawley,WA,6009,2W/14-18 Kings Park Avenue Crawley WA 6009,"$825,000",Nov-19,Apartment,3,2,2,190,190,1972,$850pw,Sep-17,,-31.9716011,115.8263162
-8e/14 Kings Park Avenue,Crawley,WA,6009,8e/14 Kings Park Avenue Crawley WA 6009,"$1,250,000",Nov-19,Apartment,3,2,2,190,190,1972,,,,-31.9716011,115.8263162
-17e/14 Kings Park Avenue,Crawley,WA,6009,17e/14 Kings Park Avenue Crawley WA 6009,"$1,290,000",Oct-19,Apartment,3,2,2,190,190,1972,,,,-31.9716011,115.8263162
-7.1/1 Wingfield Avenue,Crawley,WA,6009,7.1/1 Wingfield Avenue Crawley WA 6009,"$1,030,000",Oct-19,Apartment,3,2,2,221,,,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9734071,115.8248643
+7/8 Wingfield Avenue,Crawley,WA,6009,7/8 Wingfield Avenue Crawley WA 6009,"$650,000",Oct-20,Apartment,3,2,2,123,121,1979,$650pw,Jan-21,not recorded,-31.9725016,115.8249336
+1/16 Caporn Street,Crawley,WA,6009,1/16 Caporn Street Crawley WA 6009,"$475,000",Oct-20,Apartment,,1,1,73,73,1969,$500pw,Jul-15,not recorded,-31.9840682,115.8159214
+10/159 Fairway,Crawley,WA,6009,10/159 Fairway Crawley WA 6009,"$270,000",Sep-20,Apartment,1,1,1,41,35,1964,$250pw,Sep-20,not recorded,-31.9874827,115.8156441
+L108 171/173 Mounts Bay Road,Crawley,WA,6009,L108 171/173 Mounts Bay Road Crawley WA 6009,"$725,000",Aug-20,Apartment,2,2,3,142,,,0,0,Davide Palermo,-31.965028,115.8406902
+35/17 The Avenue,Crawley,WA,6009,35/17 The Avenue Crawley WA 6009,"$270,000",Aug-20,Apartment,1,1,1,41,41,1963,$370pw,Apr-21,not recorded,-31.9878111,115.8158643
+8/20 Park Road,Crawley,WA,6009,8/20 Park Road Crawley WA 6009,"$410,000",Jun-20,Apartment,1,1,1,76,65,2004,$420pw,Mar-15,not recorded,-31.9747065,115.8140265
+8E Park Road,Crawley,WA,6009,8E Park Road Crawley WA 6009,"$525,000",Jun-20,House,1,1,1,116,81,1999,$500pw,Jan-19,not recorded,-31.97478,115.81486
+6/114 Broadway,Crawley,WA,6009,6/114 Broadway Crawley WA 6009,"$270,000",Apr-20,Apartment,2,1,0,76,76,1963,$460pw,Jan-15,not recorded,-31.9847962,115.8148584
+1/31 Caporn Street,Crawley,WA,6009,1/31 Caporn Street Crawley WA 6009,"$530,000",Apr-20,Townhouse,3,1,1,95,102,1981,0,0,not recorded,-31.98472,115.81743
+5/82 Broadway,Crawley,WA,6009,5/82 Broadway Crawley WA 6009,"$239,000",Apr-20,Unit,1,1,1,46,43,1967,$240pw,Sep-16,not recorded,-31.9833427,115.814874
+1/139 Fairway,Crawley,WA,6009,1/139 Fairway Crawley WA 6009,"$540,000",Feb-20,Townhouse,2,1,2,95,100,1978,0,0,not recorded,-31.9859381,115.8153206
+10/25 The Avenue,Crawley,WA,6009,10/25 The Avenue Crawley WA 6009,"$350,000",Feb-20,Unit,2,1,1,74,72,1965,$430pw,Feb-21,not recorded,-31.9879772,115.8152744
+1/4 Kings Park Avenue,Crawley,WA,6009,1/4 Kings Park Avenue Crawley WA 6009,"$1,260,000",Jan-20,Unit,3,2,2,215,212,1982,0,0,not recorded,-31.9724813,115.8265512
+2/44 Broadway,Crawley,WA,6009,2/44 Broadway Crawley WA 6009,"$525,000",Dec-19,Apartment,2,1,2,104,77,1980,$530pw,Oct-18,not recorded,-31.9795783,115.8148584
+2W/14-18 Kings Park Avenue,Crawley,WA,6009,2W/14-18 Kings Park Avenue Crawley WA 6009,"$825,000",Nov-19,Apartment,3,2,2,190,190,1972,$850pw,Sep-17,not recorded,-31.9716011,115.8263162
+8e/14 Kings Park Avenue,Crawley,WA,6009,8e/14 Kings Park Avenue Crawley WA 6009,"$1,250,000",Nov-19,Apartment,3,2,2,190,190,1972,0,0,not recorded,-31.9716011,115.8263162
+17e/14 Kings Park Avenue,Crawley,WA,6009,17e/14 Kings Park Avenue Crawley WA 6009,"$1,290,000",Oct-19,Apartment,3,2,2,190,190,1972,0,0,not recorded,-31.9716011,115.8263162
 3/4 Kings Park Avenue,Crawley,WA,6009,3/4 Kings Park Avenue Crawley WA 6009,"$1,040,000",Sep-19,Apartment,3,2,2,215,212,1982,"$1,190pw",Feb-21,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9724813,115.8265512
-1E/21 Park Avenue,Crawley,WA,6009,1E/21 Park Avenue Crawley WA 6009,"$865,000",Sep-19,Apartment,3,2,2,443,,1982,,,,-31.9727717,115.8235009
-3/10 Kings Park Avenue,Crawley,WA,6009,3/10 Kings Park Avenue Crawley WA 6009,"$1,550,000",Aug-19,Apartment,3,2,2,287,187,1999,,,,-31.9720917,115.8263432
-7E/21 Park Avenue,Crawley,WA,6009,7E/21 Park Avenue Crawley WA 6009,"$1,225,000",Jul-19,Apartment,3,2,2,224,224,1982,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9727717,115.8235009
-14/8 MOUNTS BAY ROAD,Crawley,WA,6009,14/8 MOUNTS BAY ROAD Crawley WA 6009,"$2,750,000",Jun-19,Apartment,3,2,4,609,609,2006,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9728146,115.8260659
+1E/21 Park Avenue,Crawley,WA,6009,1E/21 Park Avenue Crawley WA 6009,"$865,000",Sep-19,Apartment,3,2,2,443,,1982,0,0,not recorded,-31.9727717,115.8235009
+3/10 Kings Park Avenue,Crawley,WA,6009,3/10 Kings Park Avenue Crawley WA 6009,"$1,550,000",Aug-19,Apartment,3,2,2,287,187,1999,0,0,not recorded,-31.9720917,115.8263432
+7E/21 Park Avenue,Crawley,WA,6009,7E/21 Park Avenue Crawley WA 6009,"$1,225,000",Jul-19,Apartment,3,2,2,224,224,1982,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9727717,115.8235009
+14/8 MOUNTS BAY ROAD,Crawley,WA,6009,14/8 MOUNTS BAY ROAD Crawley WA 6009,"$2,750,000",Jun-19,Apartment,3,2,4,609,609,2006,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9728146,115.8260659
 3/4 Crawley Avenue,Crawley,WA,6009,3/4 Crawley Avenue Crawley WA 6009,"$365,000",Jun-19,Apartment,1,1,1,77,74,1970,$380pw,May-18,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9734066,115.8240093
 95 Fairway,Crawley,WA,6009,95 Fairway Crawley WA 6009,"$525,000",Jun-19,House,2,1,2,154,97,1982,$399pw,Sep-19,Shellabears - Cottesloe,-31.9833583,115.8153139
-7/9 Everett Street,Crawley,WA,6009,7/9 Everett Street Crawley WA 6009,"$345,000",Apr-19,Unit,2,1,1,109,90,1969,$370pw,Mar-19,,-31.985855,115.8158922
-3W/21 Park Avenue,Crawley,WA,6009,3W/21 Park Avenue Crawley WA 6009,"$1,200,000",Mar-19,Apartment,3,2,2,234,,1982,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9727717,115.8235009
+7/9 Everett Street,Crawley,WA,6009,7/9 Everett Street Crawley WA 6009,"$345,000",Apr-19,Unit,2,1,1,109,90,1969,$370pw,Mar-19,not recorded,-31.985855,115.8158922
+3W/21 Park Avenue,Crawley,WA,6009,3W/21 Park Avenue Crawley WA 6009,"$1,200,000",Mar-19,Apartment,3,2,2,234,,1982,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9727717,115.8235009
 3/7 The Avenue,Crawley,WA,6009,3/7 The Avenue Crawley WA 6009,"$800,000",Jan-19,Townhouse,3,2,2,"1,012",164,1979,$750pw,Feb-21,Collective Property Group WA - COTTESLOE,-31.986956,115.8169147
-105/150 Broadway,Crawley,WA,6009,105/150 Broadway Crawley WA 6009,"$620,000",Dec-18,Apartment,2,1,1,,,,,,Pindan Realty Pty Ltd,-31.9873445,115.8147082
+105/150 Broadway,Crawley,WA,6009,105/150 Broadway Crawley WA 6009,"$620,000",Dec-18,Apartment,2,1,1,,,,0,0,Pindan Realty Pty Ltd,-31.9873445,115.8147082
 4/152 Broadway,Crawley,WA,6009,4/152 Broadway Crawley WA 6009,"$390,000",Nov-18,Apartment,1,1,1,101,70,1958,$350pw,Feb-21,Shellabears - Cottesloe,-31.9874163,115.8149971
-3/30 Cook Street,Crawley,WA,6009,3/30 Cook Street Crawley WA 6009,"$675,000",Nov-18,Townhouse,2,1,2,144,102,1965,,,William Porteous Properties International Pty Lt,-31.9831714,115.8172848
+3/30 Cook Street,Crawley,WA,6009,3/30 Cook Street Crawley WA 6009,"$675,000",Nov-18,Townhouse,2,1,2,144,102,1965,0,0,William Porteous Properties International Pty Lt,-31.9831714,115.8172848
 1/5 The Avenue,Crawley,WA,6009,1/5 The Avenue Crawley WA 6009,"$1,550,000",Nov-18,Apartment,3,2,2,"1,012",,,"$1,000pw",Oct-19,Scoop Property - Fremantle,-31.9867649,115.8170118
 41/1 Wingfield Avenue,Crawley,WA,6009,41/1 Wingfield Avenue Crawley WA 6009,"$895,000",Nov-18,Apartment,4,2,2,221,221,1968,$820pw,Nov-20,The Property Exchange - Subiaco,-31.9734071,115.8248643
 3/159 Fairway,Crawley,WA,6009,3/159 Fairway Crawley WA 6009,"$265,000",Nov-18,Apartment,1,1,,53,41,1964,$250pw,Dec-16,Shellabears - Cottesloe,-31.9874827,115.8156441
-46/3 Park Avenue,Crawley,WA,6009,46/3 Park Avenue Crawley WA 6009,"$1,470,000",Oct-18,House,3,2,2,175,175,1983,,,TM Residential - Dalkeith,-31.9716501,115.8253265
+46/3 Park Avenue,Crawley,WA,6009,46/3 Park Avenue Crawley WA 6009,"$1,470,000",Oct-18,House,3,2,2,175,175,1983,0,0,TM Residential - Dalkeith,-31.9716501,115.8253265
 1A Park Avenue,Crawley,WA,6009,1A Park Avenue Crawley WA 6009,"$2,215,000",Sep-18,House,4,3,3,210,197,2012,"$2,200pw",Nov-15,Perth Lifestyle Residential - Lifestyle Is Where I,-31.971214,115.8260843
 3/20 Mounts Bay Road,Crawley,WA,6009,3/20 Mounts Bay Road Crawley WA 6009,"$920,000",Aug-18,Apartment,3,1,2,"1,538",135,,$560pw,Apr-21,Wallace Real Estate - Claremont,-31.9738389,115.8244021
 11/159 Fairway,Crawley,WA,6009,11/159 Fairway Crawley WA 6009,"$215,000",Aug-18,Unit,1,1,1,35,35,1964,$250pw,Jun-18,Bexleys Real Estate - Wembley,-31.9874827,115.8156441
@@ -67,49 +66,47 @@ L108 171/173 Mounts Bay Road,Crawley,WA,6009,L108 171/173 Mounts Bay Road Crawle
 9/149 Fairway,Crawley,WA,6009,9/149 Fairway Crawley WA 6009,"$362,100",Jul-18,Unit,2,1,1,69,74,1974,$390pw,Dec-20,Mack Hall Real Estate - Claremont,-31.9867763,115.8152744
 4/4 Crawley Avenue,Crawley,WA,6009,4/4 Crawley Avenue Crawley WA 6009,"$482,000",Jun-18,Apartment,3,1,1,87,91,1970,$400pw,May-20,Airey Real Estate - CLAREMONT,-31.9734066,115.8240093
 31 Parkway,Crawley,WA,6009,31 Parkway Crawley WA 6009,"$815,000",Apr-18,House,3,1,2,233,117,,$650pw,Jan-21,Hub Residential - SWANBOURNE,-31.9852063,115.8179349
-23A Everett Street,Crawley,WA,6009,23A Everett Street Crawley WA 6009,"$950,000",Mar-18,Townhouse,3,3,2,156,145,2004,,,Knight Frank - Perth,-31.9856021,115.816766
-6/44 Broadway,Crawley,WA,6009,6/44 Broadway Crawley WA 6009,"$545,000",Mar-18,Apartment,2,1,1,123,77,1980,,,Gordon Davies Real Estate - DALKEITH,-31.9795783,115.8148584
-40 Everett Street,Crawley,WA,6009,40 Everett Street Crawley WA 6009,"$815,000",Mar-18,House,3,1,,257,117,1969,$300pw,Sep-15,,-31.9852139,115.8178302
-41/3 Park Avenue,Crawley,WA,6009,41/3 Park Avenue Crawley WA 6009,"$1,220,000",Feb-18,Apartment,3,2,2,175,175,1983,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716501,115.8253265
-4W/16 Kings Park Avenue,Crawley,WA,6009,4W/16 Kings Park Avenue Crawley WA 6009,"$929,000",Feb-18,Apartment,3,2,2,190,,,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716011,115.8263162
-123 Fairway,Crawley,WA,6009,123 Fairway Crawley WA 6009,"$818,000",Feb-18,House,4,1,,160,150,1956,,,,-31.9851509,115.8154634
+23A Everett Street,Crawley,WA,6009,23A Everett Street Crawley WA 6009,"$950,000",Mar-18,Townhouse,3,3,2,156,145,2004,0,0,Knight Frank - Perth,-31.9856021,115.816766
+6/44 Broadway,Crawley,WA,6009,6/44 Broadway Crawley WA 6009,"$545,000",Mar-18,Apartment,2,1,1,123,77,1980,0,0,Gordon Davies Real Estate - DALKEITH,-31.9795783,115.8148584
+40 Everett Street,Crawley,WA,6009,40 Everett Street Crawley WA 6009,"$815,000",Mar-18,House,3,1,,257,117,1969,$300pw,Sep-15,not recorded,-31.9852139,115.8178302
+41/3 Park Avenue,Crawley,WA,6009,41/3 Park Avenue Crawley WA 6009,"$1,220,000",Feb-18,Apartment,3,2,2,175,175,1983,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716501,115.8253265
+4W/16 Kings Park Avenue,Crawley,WA,6009,4W/16 Kings Park Avenue Crawley WA 6009,"$929,000",Feb-18,Apartment,3,2,2,190,,,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716011,115.8263162
+123 Fairway,Crawley,WA,6009,123 Fairway Crawley WA 6009,"$818,000",Feb-18,House,4,1,,160,150,1956,0,0,not recorded,-31.9851509,115.8154634
 4/124 Broadway,Crawley,WA,6009,4/124 Broadway Crawley WA 6009,"$350,000",Feb-18,Unit,2,1,1,68,65,1958,$375pw,Nov-19,Collective Property Group WA - COTTESLOE,-31.9859143,115.8148584
 8/19 Princess Road,Crawley,WA,6009,8/19 Princess Road Crawley WA 6009,"$295,000",Jan-18,Unit,1,1,1,50,65,1966,$325pw,Aug-14,Shellabears - Cottesloe,-31.9861638,115.8165684
 2/19 Princess Road,Crawley,WA,6009,2/19 Princess Road Crawley WA 6009,"$300,000",Jan-18,Unit,1,1,1,50,50,1966,$270pw,Oct-17,Shellabears - Cottesloe,-31.9861638,115.8165684
-5/19 Princess Road,Crawley,WA,6009,5/19 Princess Road Crawley WA 6009,"$307,500",Jan-18,Unit,1,1,1,50,50,1966,$375pw,Mar-18,,-31.9861638,115.8165684
-17/3 Park Avenue,Crawley,WA,6009,17/3 Park Avenue Crawley WA 6009,"$1,640,000",Jan-18,Unit,3,1,2,175,175,1983,,,,-31.9716501,115.8253265
-5/10 Kings Park Avenue,Crawley,WA,6009,5/10 Kings Park Avenue Crawley WA 6009,"$1,700,000",Dec-17,Unit,3,3,2,274,187,1999,,,,-31.9720917,115.8263432
+5/19 Princess Road,Crawley,WA,6009,5/19 Princess Road Crawley WA 6009,"$307,500",Jan-18,Unit,1,1,1,50,50,1966,$375pw,Mar-18,not recorded,-31.9861638,115.8165684
+17/3 Park Avenue,Crawley,WA,6009,17/3 Park Avenue Crawley WA 6009,"$1,640,000",Jan-18,Unit,3,1,2,175,175,1983,0,0,not recorded,-31.9716501,115.8253265
+5/10 Kings Park Avenue,Crawley,WA,6009,5/10 Kings Park Avenue Crawley WA 6009,"$1,700,000",Dec-17,Unit,3,3,2,274,187,1999,0,0,not recorded,-31.9720917,115.8263432
 1/151 Fairway,Crawley,WA,6009,1/151 Fairway Crawley WA 6009,"$490,000",Dec-17,Unit,2,1,1,83,80,1964,$525pw,Sep-15,Shellabears - Cottesloe,-31.9869219,115.8153668
-2/224 Hampden Road,Crawley,WA,6009,2/224 Hampden Road Crawley WA 6009,"$660,000",13 Dec 2017(Auction),Townhouse,2,2,1,69,82,2004,$525pw,Feb-20,Realmark Central,-31.9750768,115.8136568
-15W/16 Kings Park Avenue,Crawley,WA,6009,15W/16 Kings Park Avenue Crawley WA 6009,"$1,410,000",Dec-17,Apartment,3,2,2,190,190,,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716011,115.8263162
+2/224 Hampden Road,Crawley,WA,6009,2/224 Hampden Road Crawley WA 6009,"$660,000",13-Dec-17,Townhouse,2,2,1,69,82,2004,$525pw,Feb-20,Realmark Central,-31.9750768,115.8136568
+15W/16 Kings Park Avenue,Crawley,WA,6009,15W/16 Kings Park Avenue Crawley WA 6009,"$1,410,000",Dec-17,Apartment,3,2,2,190,190,,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9716011,115.8263162
 6/60 Broadway,Crawley,WA,6009,6/60 Broadway Crawley WA 6009,"$500,000",Nov-17,Apartment,2,1,1,114,97,1938,$450pw,Jun-21,Rossen Real Estate - Nedlands,-31.9813176,115.8148584
 82/4 Crawley Avenue,Crawley,WA,6009,82/4 Crawley Avenue Crawley WA 6009,"$840,000",Nov-17,Unit,2,2,2,158,162,1970,$620pw,Jun-09,LJ Hooker - Dalkeith | Claremont,-31.9734066,115.8240093
 16C Princess Road,Crawley,WA,6009,16C Princess Road Crawley WA 6009,"$607,000",Nov-17,Townhouse,2,2,1,172,95,1938,$600pw,Jun-19,Acton - Dalkeith,-31.98662,115.81676
-25 70-72 Broadway,Crawley,WA,6009,25 70-72 Broadway Crawley WA 6009,"$337,500",Nov-17,Unit,1,1,1,44,46,1964,,,Residential West,-31.9821596,115.8148497
-6/10 The Avenue,Crawley,WA,6009,6/10 The Avenue Crawley WA 6009,"$850,000",Nov-17,Unit,2,2,2,105,105,1979,,,Collective Property Group WA - COTTESLOE,-31.9874558,115.8174619
-1/26 The Avenue,Crawley,WA,6009,1/26 The Avenue Crawley WA 6009,"$849,000",Oct-17,House,3,2,2,110,110,1985,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9884991,115.8159214
-8/126 Broadway,Crawley,WA,6009,8/126 Broadway Crawley WA 6009,"$330,000",Oct-17,Commercial,,,1,91,82,,,,,-31.9860891,115.8149176
-3/4 Wingfield Avenue,Crawley,WA,6009,3/4 Wingfield Avenue Crawley WA 6009,"$875,000",Oct-17,Townhouse,3,2,2,222,176,,,,Shellabears - Cottesloe,-31.9729712,115.8254511
+25 70-72 Broadway,Crawley,WA,6009,25 70-72 Broadway Crawley WA 6009,"$337,500",Nov-17,Unit,1,1,1,44,46,1964,0,0,Residential West,-31.9821596,115.8148497
+6/10 The Avenue,Crawley,WA,6009,6/10 The Avenue Crawley WA 6009,"$850,000",Nov-17,Unit,2,2,2,105,105,1979,0,0,Collective Property Group WA - COTTESLOE,-31.9874558,115.8174619
+1/26 The Avenue,Crawley,WA,6009,1/26 The Avenue Crawley WA 6009,"$849,000",Oct-17,House,3,2,2,110,110,1985,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9884991,115.8159214
+3/4 Wingfield Avenue,Crawley,WA,6009,3/4 Wingfield Avenue Crawley WA 6009,"$875,000",Oct-17,Townhouse,3,2,2,222,176,,0,0,Shellabears - Cottesloe,-31.9729712,115.8254511
 32/212 Hampden Road,Crawley,WA,6009,32/212 Hampden Road Crawley WA 6009,"$252,000",Oct-17,Apartment,1,1,1,39,39,1968,$260pw,Dec-19,Kempton Azzopardi - Nedlands,-31.9749067,115.8137723
 1/17-23 The Avenue,Crawley,WA,6009,1/17-23 The Avenue Crawley WA 6009,"$310,000",Oct-17,Apartment,1,1,1,41,45,1963,$350pw,Mar-21,Acton - Dalkeith,-31.9878111,115.8158643
-8/8 Mounts Bay Road,Crawley,WA,6009,8/8 Mounts Bay Road Crawley WA 6009,"$2,050,000",Sep-17,House,3,3,2,284,181,2006,,,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9728146,115.8260659
+8/8 Mounts Bay Road,Crawley,WA,6009,8/8 Mounts Bay Road Crawley WA 6009,"$2,050,000",Sep-17,House,3,3,2,284,181,2006,0,0,Perth Lifestyle Residential - Lifestyle Is Where I,-31.9728146,115.8260659
 12/10 Kings Park Avenue,Crawley,WA,6009,12/10 Kings Park Avenue Crawley WA 6009,"$2,900,000",Sep-17,Unit,3,3,6,462,187,,"$1,900pw",Aug-11,William Porteous Properties International Pty Ltd ,-31.9720917,115.8263432
 4/133 Fairway,Crawley,WA,6009,4/133 Fairway Crawley WA 6009,"$530,000",Aug-17,Townhouse,2,1,1,104,97,1980,$400pw,Jan-21,LJ Hooker - Dalkeith | Claremont,-31.9856896,115.8153206
-7/10 The Avenue,Crawley,WA,6009,7/10 The Avenue Crawley WA 6009,"$1,125,000",Aug-17,Apartment,3,2,2,152,152,1979,,,Acton - Dalkeith,-31.9874558,115.8174619
-22/70-72 Broadway,Crawley,WA,6009,22/70-72 Broadway Crawley WA 6009,"$253,000",Jul-17,Apartment,1,1,1,48,48,1964,$285pw,Jan-19,,-31.9821596,115.8148497
+7/10 The Avenue,Crawley,WA,6009,7/10 The Avenue Crawley WA 6009,"$1,125,000",Aug-17,Apartment,3,2,2,152,152,1979,0,0,Acton - Dalkeith,-31.9874558,115.8174619
 22/70 Broadway,Crawley,WA,6009,22/70 Broadway Crawley WA 6009,"$253,000",Jul-17,Apartment,1,1,1,48,48,1964,$285pw,Jan-19,Kempton Azzopardi - Nedlands,-31.9821596,115.8148497
-9E/16 Kings Park Avenue,Crawley,WA,6009,9E/16 Kings Park Avenue Crawley WA 6009,"$1,300,000",Jul-17,Apartment,3,2,2,190,,,,,Signature Property Group WA - SUBIACO,-31.9716011,115.8263162
+9E/16 Kings Park Avenue,Crawley,WA,6009,9E/16 Kings Park Avenue Crawley WA 6009,"$1,300,000",Jul-17,Apartment,3,2,2,190,,,0,0,Signature Property Group WA - SUBIACO,-31.9716011,115.8263162
 7/10 Kings Park Avenue,Crawley,WA,6009,7/10 Kings Park Avenue Crawley WA 6009,"$1,720,000",Jun-17,Apartment,3,3,3,289,187,1999,"$1,350pw",Jun-16,Vivians Residential Real Estate - MOSMAN PARK,-31.9720917,115.8263432
 12/18 The Avenue,Crawley,WA,6009,12/18 The Avenue Crawley WA 6009,"$505,000",Jun-17,Apartment,2,1,1,76,84,1968,$350pw,Jun-18,Bellcourt Property Group - SHENTON PARK,-31.9881326,115.8168458
 9/74 Broadway,Crawley,WA,6009,9/74 Broadway Crawley WA 6009,"$500,000",May-17,Apartment,3,1,1,91,91,1966,$600pw,Feb-20,Acton - Dalkeith,-31.9826014,115.8148584
 58/3 Park Avenue,Crawley,WA,6009,58/3 Park Avenue Crawley WA 6009,"$1,475,000",May-17,Apartment,3,2,2,175,175,,$895pw,Oct-18,TM Residential - Dalkeith,-31.9716501,115.8253265
 5/18 The Avenue,Crawley,WA,6009,5/18 The Avenue Crawley WA 6009,"$480,000",May-17,Apartment,2,1,1,70,78,1968,$420pw,Jul-21,MAS Real Estate - Nedlands,-31.9881326,115.8168458
 6/18 The Avenue,Crawley,WA,6009,6/18 The Avenue Crawley WA 6009,"$540,000",May-17,Apartment,2,1,1,76,76,1968,$390pw,Jul-21,MAS Real Estate - Nedlands,-31.9881326,115.8168458
-4/15 Cook Street,Crawley,WA,6009,4/15 Cook Street Crawley WA 6009,"$565,000",May-17,Townhouse,3,1,1,102,107,1981,,,LJ Hooker Claremont,-31.9837438,115.8161756
+4/15 Cook Street,Crawley,WA,6009,4/15 Cook Street Crawley WA 6009,"$565,000",May-17,Townhouse,3,1,1,102,107,1981,0,0,LJ Hooker Claremont,-31.9837438,115.8161756
 13/48 Broadway,Crawley,WA,6009,13/48 Broadway Crawley WA 6009,"$400,000",May-17,Townhouse,2,1,1,66,69,1982,$380pw,Aug-20,Realmark Western Suburbs - NEDLANDS,-31.97997,115.81486
-35/212 Hampden Road,Crawley,WA,6009,35/212 Hampden Road Crawley WA 6009,"$285,000",Apr-17,Unit,1,1,1,39,39,1968,,,No Agent Property,-31.9749067,115.8137723
+35/212 Hampden Road,Crawley,WA,6009,35/212 Hampden Road Crawley WA 6009,"$285,000",Apr-17,Unit,1,1,1,39,39,1968,0,0,No Agent Property,-31.9749067,115.8137723
 3/166 Broadway,Crawley,WA,6009,3/166 Broadway Crawley WA 6009,"$2,100,000",Apr-17,Apartment,4,3,3,368,300,1990,"$1,200pw",Dec-16,William Porteous Properties International Pty Ltd ,-31.9886302,115.8161756
-9A Princess Road,Crawley,WA,6009,9A Princess Road Crawley WA 6009,"$955,000",Apr-17,House,3,2,1,267,132,1974,,,Acton North - CITY BEACH,-31.98613,115.81728
+9A Princess Road,Crawley,WA,6009,9A Princess Road Crawley WA 6009,"$955,000",Apr-17,House,3,2,1,267,132,1974,0,0,Acton North - CITY BEACH,-31.98613,115.81728
 3/121 Fairway,Crawley,WA,6009,3/121 Fairway Crawley WA 6009,"$800,000",Mar-17,Townhouse,3,2,1,213,115,2000,$550pw,Apr-17,Acton - Dalkeith,-31.9849969,115.8154592
 12/18 Park Road,Crawley,WA,6009,12/18 Park Road Crawley WA 6009,"$525,000",Mar-17,Apartment,1,1,1,97,61,2016,$370pw,May-19,Mint Real Estate - Claremont,-31.9749,115.81419
 8C Park Road,Crawley,WA,6009,8C Park Road Crawley WA 6009,"$550,000",Mar-17,Townhouse,1,1,1,112,81,2001,$395pw,May-17,Kempton Azzopardi - Nedlands,-31.97478,115.81486
@@ -119,106 +116,99 @@ L108 171/173 Mounts Bay Road,Crawley,WA,6009,L108 171/173 Mounts Bay Road Crawle
 4/14 Cook Street,Crawley,WA,6009,4/14 Cook Street Crawley WA 6009,"$775,000",Feb-17,Townhouse,3,2,2,123,123,1984,$600pw,Jan-20,Airey Real Estate,-31.98314,115.8160661
 3/11 The Avenue,Crawley,WA,6009,3/11 The Avenue Crawley WA 6009,"$900,000",Feb-17,Townhouse,3,2,2,270,149,1996,$625pw,Oct-17,Mack Hall Real Estate - Claremont,-31.9870635,115.8164969
 9/25 The Avenue,Crawley,WA,6009,9/25 The Avenue Crawley WA 6009,"$470,000",Feb-17,Unit,2,1,1,74,70,1965,$370pw,Oct-20,Abel McGrath Property Group - Claremont,-31.9879772,115.8152744
-6/14-18 Kings Park Avenue,Crawley,WA,6009,6/14-18 Kings Park Avenue Crawley WA 6009,"$835,000",Feb-17,Apartment,3,2,2,190,190,1972,,,,-31.9716011,115.8263162
-6/14 Kings Park Avenue,Crawley,WA,6009,6/14 Kings Park Avenue Crawley WA 6009,"$835,000",Feb-17,Apartment,3,2,2,190,190,1972,,,Acton Cottesloe - Peppermint Grove,-31.9716011,115.8263162
-47/3 Park Avenue,Crawley,WA,6009,47/3 Park Avenue Crawley WA 6009,"$1,650,000",Feb-17,Apartment,3,2,2,175,175,1983,,,Mack Hall Real Estate - Claremont,-31.9716501,115.8253265
+6/14 Kings Park Avenue,Crawley,WA,6009,6/14 Kings Park Avenue Crawley WA 6009,"$835,000",Feb-17,Apartment,3,2,2,190,190,1972,0,0,Acton Cottesloe - Peppermint Grove,-31.9716011,115.8263162
+47/3 Park Avenue,Crawley,WA,6009,47/3 Park Avenue Crawley WA 6009,"$1,650,000",Feb-17,Apartment,3,2,2,175,175,1983,0,0,Mack Hall Real Estate - Claremont,-31.9716501,115.8253265
 11e 16 Kings Park Avenue,Crawley,WA,6009,11e 16 Kings Park Avenue Crawley WA 6009,"$949,500",Feb-17,Apartment,3,2,2,,,1972,$895pw,31/12/2019,Mack Hall Real Estate - Claremont,-31.9716011,115.8263162
 6/166 Broadway,Crawley,WA,6009,6/166 Broadway Crawley WA 6009,"$3,500,000",Jan-17,Unit,4,2,3,374,374,1990,"$1,750pw",Jan-17,William Porteous Properties International Pty Ltd ,-31.9886302,115.8161756
-1/133 Fairway,Crawley,WA,6009,1/133 Fairway Crawley WA 6009,"$490,000",Jan-17,Unit,2,1,1,90,87,1980,,,,-31.9856896,115.8153206
+1/133 Fairway,Crawley,WA,6009,1/133 Fairway Crawley WA 6009,"$490,000",Jan-17,Unit,2,1,1,90,87,1980,0,0,not recorded,-31.9856896,115.8153206
 1/42 Broadway,Crawley,WA,6009,1/42 Broadway Crawley WA 6009,"$433,000",Dec-16,Apartment,2,1,1,85,85,1965,$350pw,Nov-20,Realmark Western Suburbs - NEDLANDS,-31.9872078,115.8148788
 9/12 Wingfield Avenue,Crawley,WA,6009,9/12 Wingfield Avenue Crawley WA 6009,"$840,000",Dec-16,Apartment,3,1,1,127,130,1975,$625pw,Nov-16,Acton - Dalkeith,-31.9720194,115.8246309
-4/18 Park Road,Crawley,WA,6009,4/18 Park Road Crawley WA 6009,"$707,000",Dec-16,Apartment,2,2,1,120,92,2016,,,Mint Real Estate - Claremont,-31.9749,115.81419
+4/18 Park Road,Crawley,WA,6009,4/18 Park Road Crawley WA 6009,"$707,000",Dec-16,Apartment,2,2,1,120,92,2016,0,0,Mint Real Estate - Claremont,-31.9749,115.81419
 10/9 Everett Street,Crawley,WA,6009,10/9 Everett Street Crawley WA 6009,"$410,000",Nov-16,Apartment,2,1,1,109,90,1969,$395pw,Jul-20,Rossen Real Estate - Nedlands,-31.985855,115.8158922
 1/15 Cook Street,Crawley,WA,6009,1/15 Cook Street Crawley WA 6009,"$625,000",Nov-16,Unit,3,1,2,122,116,1981,$500pw,Oct-16,Airey Real Estate,-31.9837438,115.8161756
 8/149 Fairway,Crawley,WA,6009,8/149 Fairway Crawley WA 6009,"$520,000",Nov-16,Apartment,2,1,1,74,69,1974,$400pw,Jan-14,ACTON Dalkeith,-31.9867763,115.8152744
-3/11 Wingfield Avenue,Crawley,WA,6009,3/11 Wingfield Avenue Crawley WA 6009,"$945,000",Oct-16,House,2,1,2,145,145,1972,,,Bexleys Real Estate - Wembley,-31.9726468,115.8240514
+3/11 Wingfield Avenue,Crawley,WA,6009,3/11 Wingfield Avenue Crawley WA 6009,"$945,000",Oct-16,House,2,1,2,145,145,1972,0,0,Bexleys Real Estate - Wembley,-31.9726468,115.8240514
 4/60 Broadway,Crawley,WA,6009,4/60 Broadway Crawley WA 6009,"$475,000",Sep-16,Unit,2,1,1,119,87,1940,$495pw,Feb-17,Harcourts - Integrity,-31.9813176,115.8148584
 29 Parkway,Crawley,WA,6009,29 Parkway Crawley WA 6009,"$805,000",Sep-16,House,3,1,1,301,163,1969,$550pw,Jul-19,William Porteous Properties International Pty Ltd ,-31.9850549,115.8178291
-2W/4 Crawley Avenue,Crawley,WA,6009,2W/4 Crawley Avenue Crawley WA 6009,"$695,000",Sep-16,Apartment,3,2,2,202,,1970,,,Kempton Azzopardi - Nedlands,-31.9734066,115.8240093
-59/3 Park Avenue,Crawley,WA,6009,59/3 Park Avenue Crawley WA 6009,"$1,500,000",Aug-16,Apartment,3,2,3,175,175,1983,,,Vivians Residential Real Estate - MOSMAN PARK,-31.9716501,115.8253265
+2W/4 Crawley Avenue,Crawley,WA,6009,2W/4 Crawley Avenue Crawley WA 6009,"$695,000",Sep-16,Apartment,3,2,2,202,,1970,0,0,Kempton Azzopardi - Nedlands,-31.9734066,115.8240093
+59/3 Park Avenue,Crawley,WA,6009,59/3 Park Avenue Crawley WA 6009,"$1,500,000",Aug-16,Apartment,3,2,3,175,175,1983,0,0,Vivians Residential Real Estate - MOSMAN PARK,-31.9716501,115.8253265
 8/17-23 The Avenue,Crawley,WA,6009,8/17-23 The Avenue Crawley WA 6009,"$327,000",Aug-16,Apartment,1,1,1,45,41,1963,$365pw,Jun-21,Kempton Azzopardi - Nedlands,-31.9878111,115.8158643
-8/17 The Avenue,Crawley,WA,6009,8/17 The Avenue Crawley WA 6009,"$327,000",Aug-16,Apartment,1,1,1,45,41,1963,$365pw,Jun-21,,-31.9878111,115.8158643
 4/158 Broadway,Crawley,WA,6009,4/158 Broadway Crawley WA 6009,"$322,000",Aug-16,Unit,1,1,1,52,54,1961,$300pw,Jan-20,Realmark - Applecross,-31.9875932,115.8151357
-1/18 PARK Road,Crawley,WA,6009,1/18 PARK Road Crawley WA 6009,"$735,000",Jul-16,Unit,2,1,1,121,92,2016,$600pw,Dec-17,,-31.9749,115.81419
-2/18 PARK Road,Crawley,WA,6009,2/18 PARK Road Crawley WA 6009,"$720,000",Jul-16,Unit,2,2,1,123,93,2016,$650pw,Feb-21,,-31.9749,115.81419
-5/18 PARK Road,Crawley,WA,6009,5/18 PARK Road Crawley WA 6009,"$530,000",Jul-16,Townhouse,1,1,1,98,61,2016,$460pw,Mar-21,,-31.9749,115.81419
+1/18 PARK Road,Crawley,WA,6009,1/18 PARK Road Crawley WA 6009,"$735,000",Jul-16,Unit,2,1,1,121,92,2016,$600pw,Dec-17,not recorded,-31.9749,115.81419
+2/18 PARK Road,Crawley,WA,6009,2/18 PARK Road Crawley WA 6009,"$720,000",Jul-16,Unit,2,2,1,123,93,2016,$650pw,Feb-21,not recorded,-31.9749,115.81419
+5/18 PARK Road,Crawley,WA,6009,5/18 PARK Road Crawley WA 6009,"$530,000",Jul-16,Townhouse,1,1,1,98,61,2016,$460pw,Mar-21,not recorded,-31.9749,115.81419
 9/4 Crawley Avenue,Crawley,WA,6009,9/4 Crawley Avenue Crawley WA 6009,"$725,500",Jul-16,Apartment,3,2,4,"3,847",158,1970,$595pw,Jan-17,Space Real Estate - Cottesloe,-31.9734066,115.8240093
-13 The Avenue,Crawley,WA,6009,13 The Avenue Crawley WA 6009,"$2,300,000",Jul-16,Unit,4,3,2,"1,012",,1951,,,Signature Property Group WA - SUBIACO,-31.9874248,115.8164904
+13 The Avenue,Crawley,WA,6009,13 The Avenue Crawley WA 6009,"$2,300,000",Jul-16,Unit,4,3,2,"1,012",,1951,0,0,Signature Property Group WA - SUBIACO,-31.9874248,115.8164904
 4/20 Mounts Bay Road,Crawley,WA,6009,4/20 Mounts Bay Road Crawley WA 6009,"$1,020,000",Jun-16,Unit,2,2,2,175,147,1969,$595pw,Aug-16,LJ Hooker - Claremont,-31.9738389,115.8244021
-4/16 The Avenue,Crawley,WA,6009,4/16 The Avenue Crawley WA 6009,"$4,800,000",Jun-16,Unit,4,3,4,416,416,1987,,,William Porteous Properties International Pty Ltd ,-31.9882144,115.8171153
-34/3 Park Avenue,Crawley,WA,6009,34/3 Park Avenue Crawley WA 6009,"$1,100,000",Jun-16,Unit,3,2,2,175,175,1983,,,LJ Hooker - Claremont,-31.9716501,115.8253265
-7/158 Broadway,Crawley,WA,6009,7/158 Broadway Crawley WA 6009,"$295,000",May-16,Apartment,1,1,1,52,54,1961,,,Key Performance Realty - Perth,-31.9875932,115.8151357
-14/150 Broadway,Crawley,WA,6009,14/150 Broadway Crawley WA 6009,"$695,000",Apr-16,Apartment,2,1,1,,,,,,Indo-Pacific Property - Sage on Broadway,-31.9873445,115.8147082
-4/150 Broadway,Crawley,WA,6009,4/150 Broadway Crawley WA 6009,"$780,000",Apr-16,Apartment,2,2,1,,,,,,Indo-Pacific Property - Sage on Broadway,-31.9873445,115.8147082
+4/16 The Avenue,Crawley,WA,6009,4/16 The Avenue Crawley WA 6009,"$4,800,000",Jun-16,Unit,4,3,4,416,416,1987,0,0,William Porteous Properties International Pty Ltd ,-31.9882144,115.8171153
+34/3 Park Avenue,Crawley,WA,6009,34/3 Park Avenue Crawley WA 6009,"$1,100,000",Jun-16,Unit,3,2,2,175,175,1983,0,0,LJ Hooker - Claremont,-31.9716501,115.8253265
+7/158 Broadway,Crawley,WA,6009,7/158 Broadway Crawley WA 6009,"$295,000",May-16,Apartment,1,1,1,52,54,1961,0,0,Key Performance Realty - Perth,-31.9875932,115.8151357
+14/150 Broadway,Crawley,WA,6009,14/150 Broadway Crawley WA 6009,"$695,000",Apr-16,Apartment,2,1,1,,,,0,0,Indo-Pacific Property - Sage on Broadway,-31.9873445,115.8147082
+4/150 Broadway,Crawley,WA,6009,4/150 Broadway Crawley WA 6009,"$780,000",Apr-16,Apartment,2,2,1,,,,0,0,Indo-Pacific Property - Sage on Broadway,-31.9873445,115.8147082
 1/159 Fairway,Crawley,WA,6009,1/159 Fairway Crawley WA 6009,"$335,000",Apr-16,Apartment,1,1,1,"1,022",54,,$300pw,Nov-19,Abode Real Estate - Cottesloe,-31.9874827,115.8156441
-5/7 Princess Road,Crawley,WA,6009,5/7 Princess Road Crawley WA 6009,"$420,000",Apr-16,Unit,2,1,1,65,65,1957,$400pw,Dec-18,,-31.9861385,115.8174466
+5/7 Princess Road,Crawley,WA,6009,5/7 Princess Road Crawley WA 6009,"$420,000",Apr-16,Unit,2,1,1,65,65,1957,$400pw,Dec-18,not recorded,-31.9861385,115.8174466
 5/1 Kings Park Avenue,Crawley,WA,6009,5/1 Kings Park Avenue Crawley WA 6009,"$850,000",Apr-16,Apartment,2,2,2,201,160,1967,$750pw,Apr-16,TM Residential - Dalkeith,-31.9725436,115.8257886
 23/17-23 The Avenue,Crawley,WA,6009,23/17-23 The Avenue Crawley WA 6009,"$323,000",Apr-16,Unit,1,1,0,41,45,1963,$350pw,Mar-21,Acton - Dalkeith,-31.9878111,115.8158643
 32/17 The Avenue,Crawley,WA,6009,32/17 The Avenue Crawley WA 6009,"$325,000",Mar-16,Unit,1,1,1,41,45,1963,$320pw,Oct-20,Abode Real Estate - Cottesloe,-31.9878111,115.8158643
-9 Myers Street,Crawley,WA,6009,9 Myers Street Crawley WA 6009,"$1,025,000",Mar-16,House,4,2,2,238,194,1995,,,Abel McGrath Property Group - Claremont,-31.9825853,115.8151704
-3/135 Fairway,Crawley,WA,6009,3/135 Fairway Crawley WA 6009,"$535,000",Mar-16,Unit,2,1,1,85,87,1979,$425pw,May-16,,-31.9858552,115.8153206
-12/5 Park Avenue,Crawley,WA,6009,12/5 Park Avenue Crawley WA 6009,"$750,000",Mar-16,Unit,3,1,2,143,125,1975,,,,-31.97202,115.82463
-20e/14-18 Kings Park Avenue,Crawley,WA,6009,20e/14-18 Kings Park Avenue Crawley WA 6009,"$1,390,000",Mar-16,House,3,2,4,190,184,1972,"$1,100pw",Apr-15,,-31.9716011,115.8263162
+9 Myers Street,Crawley,WA,6009,9 Myers Street Crawley WA 6009,"$1,025,000",Mar-16,House,4,2,2,238,194,1995,0,0,Abel McGrath Property Group - Claremont,-31.9825853,115.8151704
+3/135 Fairway,Crawley,WA,6009,3/135 Fairway Crawley WA 6009,"$535,000",Mar-16,Unit,2,1,1,85,87,1979,$425pw,May-16,not recorded,-31.9858552,115.8153206
+12/5 Park Avenue,Crawley,WA,6009,12/5 Park Avenue Crawley WA 6009,"$750,000",Mar-16,Unit,3,1,2,143,125,1975,0,0,not recorded,-31.97202,115.82463
+20e/14-18 Kings Park Avenue,Crawley,WA,6009,20e/14-18 Kings Park Avenue Crawley WA 6009,"$1,390,000",Mar-16,House,3,2,4,190,184,1972,"$1,100pw",Apr-15,not recorded,-31.9716011,115.8263162
 3/35 Fairway,Crawley,WA,6009,3/35 Fairway Crawley WA 6009,"$475,000",Mar-16,Unit,2,1,1,105,61,1937,$430pw,Mar-21,Kempton Azzopardi - Nedlands,-31.9798719,115.815413
-1G/173 Mounts Bay Road,Crawley,WA,6009,1G/173 Mounts Bay Road Crawley WA 6009,"$2,200,000",Feb-16,,,,,,,,,,,-31.9652303,115.8395818
-4/8 Wingfield Avenue,Crawley,WA,6009,4/8 Wingfield Avenue Crawley WA 6009,"$785,000",Feb-16,Unit,3,2,2,148,144,1979,$650pw,Jul-21,,-31.9725016,115.8249336
-50/3 Park Avenue,Crawley,WA,6009,50/3 Park Avenue Crawley WA 6009,"$1,500,000",Feb-16,Unit,3,2,2,175,175,1983,,,,-31.9716501,115.8253265
-226 Hampden Road,Crawley,WA,6009,226 Hampden Road Crawley WA 6009,"$1,060,000",Dec-15,Unit,3,2,1,187,116,2018,,,Acton - Dalkeith,-31.9751809,115.8137492
-31 Cook Street,Crawley,WA,6009,31 Cook Street Crawley WA 6009,"$1,200,000",Dec-15,House,3,3,1,729,,1940,,,,-31.983711,115.8174697
+4/8 Wingfield Avenue,Crawley,WA,6009,4/8 Wingfield Avenue Crawley WA 6009,"$785,000",Feb-16,Unit,3,2,2,148,144,1979,$650pw,Jul-21,not recorded,-31.9725016,115.8249336
+50/3 Park Avenue,Crawley,WA,6009,50/3 Park Avenue Crawley WA 6009,"$1,500,000",Feb-16,Unit,3,2,2,175,175,1983,0,0,not recorded,-31.9716501,115.8253265
+226 Hampden Road,Crawley,WA,6009,226 Hampden Road Crawley WA 6009,"$1,060,000",Dec-15,Unit,3,2,1,187,116,2018,0,0,Acton - Dalkeith,-31.9751809,115.8137492
+31 Cook Street,Crawley,WA,6009,31 Cook Street Crawley WA 6009,"$1,200,000",Dec-15,House,3,3,1,729,,1940,0,0,not recorded,-31.983711,115.8174697
 4/48 Broadway,Crawley,WA,6009,4/48 Broadway Crawley WA 6009,"$435,000",Dec-15,Townhouse,2,1,1,"1,613",69,,$360pw,Jul-18,Renouf Real Estate - Swanbourne,-31.97997,115.81486
 5/22 Mounts Bay Road,Crawley,WA,6009,5/22 Mounts Bay Road Crawley WA 6009,"$2,525,000",Dec-15,Apartment,3,2,2,307,218,2004,"$1,500pw",Oct-15,Space Real Estate - Cottesloe,-31.9739431,115.8241095
 4/3 Park Avenue,Crawley,WA,6009,4/3 Park Avenue Crawley WA 6009,"$1,075,000",Dec-15,Apartment,3,2,2,175,175,1983,$990pw,Nov-13,Abel McGrath The Property People - Leederville,-31.9716501,115.8253265
 4/2 Kings Park Avenue,Crawley,WA,6009,4/2 Kings Park Avenue Crawley WA 6009,"$2,250,000",Nov-15,Apartment,3,3,2,293,186,2005,"$1,450pw",Jan-21,Jamie Loh Real Estate - Cottesloe,-31.972553,115.8267596
 6/124 Broadway,Crawley,WA,6009,6/124 Broadway Crawley WA 6009,"$325,000",Nov-15,Unit,2,1,1,68,68,1958,$300pw,Sep-19,Kempton Azzopardi - Nedlands,-31.9859143,115.8148584
-2/3 Wingfield Avenue,Crawley,WA,6009,2/3 Wingfield Avenue Crawley WA 6009,"$1,250,000",Nov-15,Apartment,3,1,2,267,155,1982,$895pw,Apr-16,,-31.97325,115.8245
-1/20 Mounts Bay Road,Crawley,WA,6009,1/20 Mounts Bay Road Crawley WA 6009,"$1,050,000",Oct-15,Unit,3,1,2,202,147,1969,$550pw,Jul-16,,-31.9738389,115.8244021
+2/3 Wingfield Avenue,Crawley,WA,6009,2/3 Wingfield Avenue Crawley WA 6009,"$1,250,000",Nov-15,Apartment,3,1,2,267,155,1982,$895pw,Apr-16,not recorded,-31.97325,115.8245
+1/20 Mounts Bay Road,Crawley,WA,6009,1/20 Mounts Bay Road Crawley WA 6009,"$1,050,000",Oct-15,Unit,3,1,2,202,147,1969,$550pw,Jul-16,not recorded,-31.9738389,115.8244021
 2/26 Cook Street,Crawley,WA,6009,2/26 Cook Street Crawley WA 6009,"$570,000",Sep-15,Townhouse,2,1,1,84,84,1981,$495pw,Jan-17,Rossen Real Estate - Nedlands,-31.9832261,115.8169382
-147 Fairway,Crawley,WA,6009,147 Fairway Crawley WA 6009,"$2,575,000",Sep-15,Apartment,2,1,1,845,,,,,LJ Hooker - Claremont,-31.9866107,115.8152744
-8/3 Park Avenue,Crawley,WA,6009,8/3 Park Avenue Crawley WA 6009,"$1,100,000",Sep-15,Unit,3,2,2,175,175,1983,,,,-31.9716501,115.8253265
+147 Fairway,Crawley,WA,6009,147 Fairway Crawley WA 6009,"$2,575,000",Sep-15,Apartment,2,1,1,845,,,0,0,LJ Hooker - Claremont,-31.9866107,115.8152744
+8/3 Park Avenue,Crawley,WA,6009,8/3 Park Avenue Crawley WA 6009,"$1,100,000",Sep-15,Unit,3,2,2,175,175,1983,0,0,not recorded,-31.9716501,115.8253265
 40 Broadway,Crawley,WA,6009,40 Broadway Crawley WA 6009,"$2,458,000",Sep-15,House,8,4,,792,,1938,$475pw,Jun-17,Anderson Davies Real Estate - Dalkeith,-31.9790587,115.8145811
-4/159 Fairway,Crawley,WA,6009,4/159 Fairway Crawley WA 6009,"$345,000",Aug-15,Unit,1,1,1,52,41,1964,,,ABODE REAL ESTATE - COTTESLOE,-31.9874827,115.8156441
-1/1 Wingfield Avenue,Crawley,WA,6009,1/1 Wingfield Avenue Crawley WA 6009,"$950,000",Aug-15,Unit,2,1,1,221,191,1968,$445pw,Jul-16,,-31.9734071,115.8248643
-2/112 Broadway,Crawley,WA,6009,2/112 Broadway Crawley WA 6009,"$400,000",Aug-15,Unit,1,1,1,53,59,1955,$285pw,Feb-17,,-31.9846475,115.8150664
-5/126 Broadway,Crawley,WA,6009,5/126 Broadway Crawley WA 6009,"$170,498",Aug-15,Unit,,,1,38,35,1963,,,,-31.9860755,115.814974
-4/126 Broadway,Crawley,WA,6009,4/126 Broadway Crawley WA 6009,"$220,000",Aug-15,Unit,,,1,44,44,,$100pw,Oct-18,,-31.9860755,115.814974
+4/159 Fairway,Crawley,WA,6009,4/159 Fairway Crawley WA 6009,"$345,000",Aug-15,Unit,1,1,1,52,41,1964,0,0,ABODE REAL ESTATE - COTTESLOE,-31.9874827,115.8156441
+1/1 Wingfield Avenue,Crawley,WA,6009,1/1 Wingfield Avenue Crawley WA 6009,"$950,000",Aug-15,Unit,2,1,1,221,191,1968,$445pw,Jul-16,not recorded,-31.9734071,115.8248643
+2/112 Broadway,Crawley,WA,6009,2/112 Broadway Crawley WA 6009,"$400,000",Aug-15,Unit,1,1,1,53,59,1955,$285pw,Feb-17,not recorded,-31.9846475,115.8150664
+5/126 Broadway,Crawley,WA,6009,5/126 Broadway Crawley WA 6009,"$170,498",Aug-15,Unit,,,1,38,35,1963,0,0,not recorded,-31.9860755,115.814974
+4/126 Broadway,Crawley,WA,6009,4/126 Broadway Crawley WA 6009,"$220,000",Aug-15,Unit,,,1,44,44,,$100pw,Oct-18,not recorded,-31.9860755,115.814974
 5/44 Broadway,Crawley,WA,6009,5/44 Broadway Crawley WA 6009,"$565,000",Aug-15,Apartment,2,1,1,124,70,1980,$450pw,Jan-18,Realmark Western Suburbs - NEDLANDS,-31.9795783,115.8148584
 51/1 Wingfield Avenue,Crawley,WA,6009,51/1 Wingfield Avenue Crawley WA 6009,"$950,000",Aug-15,Apartment,4,2,2,221,221,1968,$820pw,Dec-20,Marron Real Estate - Nedlands,-31.9734071,115.8248643
-23/3 Park Avenue,Crawley,WA,6009,23/3 Park Avenue Crawley WA 6009,"$1,600,000",Jul-15,Unit,3,1,2,175,175,1983,$550pw,May-01,,-31.9716501,115.8253265
-10/3 Park Avenue,Crawley,WA,6009,10/3 Park Avenue Crawley WA 6009,"$1,165,000",Jul-15,Unit,3,1,2,175,175,1983,,,,-31.9716501,115.8253265
+23/3 Park Avenue,Crawley,WA,6009,23/3 Park Avenue Crawley WA 6009,"$1,600,000",Jul-15,Unit,3,1,2,175,175,1983,$550pw,May-01,not recorded,-31.9716501,115.8253265
+10/3 Park Avenue,Crawley,WA,6009,10/3 Park Avenue Crawley WA 6009,"$1,165,000",Jul-15,Unit,3,1,2,175,175,1983,0,0,not recorded,-31.9716501,115.8253265
 4/9 The Avenue,Crawley,WA,6009,4/9 The Avenue Crawley WA 6009,"$790,000",Jun-15,Apartment,3,1,1,120,99,1981,$600pw,Jun-12,Acton - Dalkeith,-31.987076,115.8167533
-5/9 Wingfield Avenue,Crawley,WA,6009,5/9 Wingfield Avenue Crawley WA 6009,"$1,080,000",Jun-15,Townhouse,3,1,2,138,138,1972,,,,-31.97265,115.82405
+5/9 Wingfield Avenue,Crawley,WA,6009,5/9 Wingfield Avenue Crawley WA 6009,"$1,080,000",Jun-15,Townhouse,3,1,2,138,138,1972,0,0,not recorded,-31.97265,115.82405
 29/5 Park Avenue,Crawley,WA,6009,29/5 Park Avenue Crawley WA 6009,"$750,000",May-15,Apartment,3,2,2,145,125,1975,$660pw,Jul-14,Rossen Real Estate - Nedlands,-31.97202,115.82463
-29/5-7 PARK Avenue,Crawley,WA,6009,29/5-7 PARK Avenue Crawley WA 6009,"$750,000",May-15,Apartment,3,2,1,145,125,1975,$660pw,Jul-14,,-31.97202,115.82463
-1/16A Princess Road,Crawley,WA,6009,1/16A Princess Road Crawley WA 6009,"$550,000",May-15,Unit,1,1,1,170,68,1950,$390pw,Apr-17,,-31.98662,115.81676
+1/16A Princess Road,Crawley,WA,6009,1/16A Princess Road Crawley WA 6009,"$550,000",May-15,Unit,1,1,1,170,68,1950,$390pw,Apr-17,not recorded,-31.98662,115.81676
 16a Princess Road,Crawley,WA,6009,16a Princess Road Crawley WA 6009,"$550,000",May-15,Unit,1,1,1,170,68,1950,$390pw,Apr-17,Abel McGrath Property Group - Claremont,-31.98662,115.81676
-27/3 Park Avenue,Crawley,WA,6009,27/3 Park Avenue Crawley WA 6009,"$1,375,000",May-15,Unit,3,1,1,175,175,1983,$700pw,Jun-06,,-31.9716501,115.8253265
+27/3 Park Avenue,Crawley,WA,6009,27/3 Park Avenue Crawley WA 6009,"$1,375,000",May-15,Unit,3,1,1,175,175,1983,$700pw,Jun-06,not recorded,-31.9716501,115.8253265
 10/10 Kings Park Avenue,Crawley,WA,6009,10/10 Kings Park Avenue Crawley WA 6009,"$1,750,000",May-15,Apartment,3,3,2,274,187,1999,"$1,600pw",Jun-12,ZSA ZSA Property - PERTH,-31.9720917,115.8263432
-16/168 Broadway,Crawley,WA,6009,16/168 Broadway Crawley WA 6009,"$405,000",May-15,Apartment,1,1,,49,51,1963,,,Burgess Rawson Residential - Perth,-31.9891014,115.8161987
+16/168 Broadway,Crawley,WA,6009,16/168 Broadway Crawley WA 6009,"$405,000",May-15,Apartment,1,1,,49,51,1963,0,0,Burgess Rawson Residential - Perth,-31.9891014,115.8161987
 8/131 Fairway,Crawley,WA,6009,8/131 Fairway Crawley WA 6009,"$775,500",Apr-15,Townhouse,3,2,2,204,130,2000,$700pw,Apr-21,Scott BJ Properties - Perth,-31.9854781,115.8154361
-1/1 Park Avenue,Crawley,WA,6009,1/1 Park Avenue Crawley WA 6009,"$950,000",Apr-15,House,3,2,2,149,144,1974,,,,-31.9712007,115.8262508
+1/1 Park Avenue,Crawley,WA,6009,1/1 Park Avenue Crawley WA 6009,"$950,000",Apr-15,House,3,2,2,149,144,1974,0,0,not recorded,-31.9712007,115.8262508
 1/2 Wingfield Avenue,Crawley,WA,6009,1/2 Wingfield Avenue Crawley WA 6009,"$1,600,000",Apr-15,Apartment,3,2,2,280,140,1997,"$1,100pw",Feb-14,Acton - Dalkeith,-31.9732495,115.8253034
 1/22 The Avenue,Crawley,WA,6009,1/22 The Avenue Crawley WA 6009,"$2,110,000",Apr-15,Apartment,3,2,2,163,163,1981,$895pw,May-18,Acton - Dalkeith,-31.98849,115.81646
 32 Everett Street,Crawley,WA,6009,32 Everett Street Crawley WA 6009,"$1,230,000",Apr-15,House,2,1,1,683,118,1920,$650pw,Jan-13,Anderson Davies Real Estate - Dalkeith,-31.9851748,115.8173079
-8/22 Mounts Bay Road,Crawley,WA,6009,8/22 Mounts Bay Road Crawley WA 6009,"$2,800,000",Apr-15,Unit,3,2,2,304,218,2004,"$1,600pw",May-13,,-31.9739431,115.8241095
+8/22 Mounts Bay Road,Crawley,WA,6009,8/22 Mounts Bay Road Crawley WA 6009,"$2,800,000",Apr-15,Unit,3,2,2,304,218,2004,"$1,600pw",May-13,not recorded,-31.9739431,115.8241095
 1/22 KINGS PARK AVENUE,Crawley,WA,6009,1/22 KINGS PARK AVENUE Crawley WA 6009,"$2,400,000",Mar-15,House,3,2,3,368,227,2014,"$1,900pw",Apr-14,TM Residential - Dalkeith,-31.9713269,115.8257655
-3/14 Cook Street,Crawley,WA,6009,3/14 Cook Street Crawley WA 6009,"$795,000",28 Mar 2015(Auction),Townhouse,3,2,2,158,120,1984,,,Acton North - CITY BEACH,-31.98314,115.8160661
-12/4 Crawley Avenue,Crawley,WA,6009,12/4 Crawley Avenue Crawley WA 6009,"$570,000",Mar-15,Apartment,1,1,1,83,85,1970,$400pw,Aug-20,,-31.9734066,115.8240093
+3/14 Cook Street,Crawley,WA,6009,3/14 Cook Street Crawley WA 6009,"$795,000",28-Mar-15,Townhouse,3,2,2,158,120,1984,0,0,Acton North - CITY BEACH,-31.98314,115.8160661
+12/4 Crawley Avenue,Crawley,WA,6009,12/4 Crawley Avenue Crawley WA 6009,"$570,000",Mar-15,Apartment,1,1,1,83,85,1970,$400pw,Aug-20,not recorded,-31.9734066,115.8240093
 301/173 Mounts Bay Road,Crawley,WA,6009,301/173 Mounts Bay Road Crawley WA 6009,"$5,500,000",Mar-15,Apartment,3,3,4,,452,,"$3,500pw",Feb-15,William Porteous Properties International Pty Ltd,-31.9652303,115.8395818
-21E/14 Kings Park Avenue,Crawley,WA,6009,21E/14 Kings Park Avenue Crawley WA 6009,"$1,050,000",Mar-15,Apartment,3,2,2,190,190,1972,,,,-31.9716011,115.8263162
-21E Kings Park Avenue,Crawley,WA,6009,21E Kings Park Avenue Crawley WA 6009,"$1,050,000",Mar-15,Apartment,3,2,2,190,190,1972,,,LJ Hooker - Leeming,-31.9723194,115.825668
-21E 16 Kings Park Avenue,Crawley,WA,6009,21E 16 Kings Park Avenue Crawley WA 6009,"$1,050,000",Mar-15,Apartment,3,2,2,190,190,1972,,,LJ Hooker - Leeming,-31.9716011,115.8263162
+21E/14 Kings Park Avenue,Crawley,WA,6009,21E/14 Kings Park Avenue Crawley WA 6009,"$1,050,000",Mar-15,Apartment,3,2,2,190,190,1972,0,0,not recorded,-31.9716011,115.8263162
 8/152 Broadway,Crawley,WA,6009,8/152 Broadway Crawley WA 6009,"$420,000",Mar-15,Unit,1,1,2,87,56,1958,$380pw,Jan-21,Optimus Real Estate - City Beach,-31.9874163,115.8149971
 1-24 COOK STREET,Crawley,WA,6009,1-24 COOK STREET Crawley WA 6009,"$771,000",Mar-15,Townhouse,3,2,2,114,119,1981,$550pw,Feb-21,TM Residential - Dalkeith,-31.9832148,115.8167995
 1/14 Cook Street,Crawley,WA,6009,1/14 Cook Street Crawley WA 6009,"$770,880",Mar-15,Townhouse,3,2,2,120,120,1984,$500pw,Sep-20,TM Residential - Dalkeith,-31.98314,115.8160661
-54/3 Park Avenue,Crawley,WA,6009,54/3 Park Avenue Crawley WA 6009,"$1,685,000",Mar-15,Apartment,3,1,3,175,175,1983,,,Leasing Elite Pty Ltd - West Perth,-31.9716501,115.8253265
+54/3 Park Avenue,Crawley,WA,6009,54/3 Park Avenue Crawley WA 6009,"$1,685,000",Mar-15,Apartment,3,1,3,175,175,1983,0,0,Leasing Elite Pty Ltd - West Perth,-31.9716501,115.8253265
 6/160 Broadway,Crawley,WA,6009,6/160 Broadway Crawley WA 6009,"$600,000",Mar-15,Apartment,2,1,1,69,69,1977,$425pw,Aug-19,Acton - Dalkeith,-31.9878417,115.8151357
 1/24 Cook Street,Crawley,WA,6009,1/24 Cook Street Crawley WA 6009,"$770,880",Mar-15,Townhouse,3,2,2,114,119,1981,$550pw,Feb-21,TM Residential - Dalkeith,-31.9832148,115.8167995
-18/22-24 The Avenue,Crawley,WA,6009,18/22-24 The Avenue Crawley WA 6009,"$1,890,000",Mar-15,Apartment,3,2,4,161,161,1981,,,House Real Estate - Cottesloe,-31.98849,115.81646
-18/22 The Avenue,Crawley,WA,6009,18/22 The Avenue Crawley WA 6009,"$1,890,000",Mar-15,Apartment,3,2,4,161,161,1981,,,House Real Estate - Cottesloe,-31.98849,115.81646
-2/153 Fairway,Crawley,WA,6009,2/153 Fairway Crawley WA 6009,"$565,000",Feb-15,Unit,2,1,1,55,57,1964,$360pw,Feb-21,,-31.9871904,115.8152744
+18/22 The Avenue,Crawley,WA,6009,18/22 The Avenue Crawley WA 6009,"$1,890,000",Mar-15,Apartment,3,2,4,161,161,1981,0,0,House Real Estate - Cottesloe,-31.98849,115.81646
+2/153 Fairway,Crawley,WA,6009,2/153 Fairway Crawley WA 6009,"$565,000",Feb-15,Unit,2,1,1,55,57,1964,$360pw,Feb-21,not recorded,-31.9871904,115.8152744
 4/1 Park Avenue,Crawley,WA,6009,4/1 Park Avenue Crawley WA 6009,"$885,000",Feb-15,House,3,2,2,144,156,1974,$600pw,Sep-10,Acton Fremantle - East Fremantle,-31.9712007,115.8262508
-14E/16 Kings Park Avenue,Crawley,WA,6009,14E/16 Kings Park Avenue Crawley WA 6009,"$1,225,000",Feb-15,Unit,3,1,2,190,190,1972,,,TM Residential - Dalkeith,-31.9716011,115.8263162
-6/168 Broadway,Crawley,WA,6009,6/168 Broadway Crawley WA 6009,"$400,000",Feb-15,Unit,1,1,1,49,51,1963,,,Acton - Dalkeith,-31.9891014,115.8161987
+14E/16 Kings Park Avenue,Crawley,WA,6009,14E/16 Kings Park Avenue Crawley WA 6009,"$1,225,000",Feb-15,Unit,3,1,2,190,190,1972,0,0,TM Residential - Dalkeith,-31.9716011,115.8263162
+6/168 Broadway,Crawley,WA,6009,6/168 Broadway Crawley WA 6009,"$400,000",Feb-15,Unit,1,1,1,49,51,1963,0,0,Acton - Dalkeith,-31.9891014,115.8161987
 2/22 Caporn Street,Crawley,WA,6009,2/22 Caporn Street Crawley WA 6009,"$395,000",Jan-15,Apartment,1,1,3,50,58,1958,$320pw,Jan-17,Port City Real Estate - Fremantle,-31.9842231,115.8166378
 1/228 Hampden Road,Crawley,WA,6009,1/228 Hampden Road Crawley WA 6009,"$718,000",Dec-14,Townhouse,2,2,1,179,107,2000,$530pw,Jan-21,ABODE REAL ESTATE - COTTESLOE,-31.9753253,115.8136568
 2/24 Cook Street,Crawley,WA,6009,2/24 Cook Street Crawley WA 6009,"$770,000",Dec-14,Townhouse,4,2,2,116,114,1981,$650pw,Jan-08,Abel McGrath Property Group - Claremont,-31.9832148,115.8167995
@@ -226,76 +216,74 @@ L108 171/173 Mounts Bay Road,Crawley,WA,6009,L108 171/173 Mounts Bay Road Crawle
 4/70-72 Broadway,Crawley,WA,6009,4/70-72 Broadway Crawley WA 6009,"$355,000",Nov-14,Unit,1,1,1,45,45,1964,$330pw,Jul-16,Residential West,-31.9821596,115.8148497
 4/70 Broadway,Crawley,WA,6009,4/70 Broadway Crawley WA 6009,"$355,000",Nov-14,Unit,1,1,1,45,45,1964,$330pw,Jul-16,Residential West,-31.9821596,115.8148497
 8/16 Caporn Street,Crawley,WA,6009,8/16 Caporn Street Crawley WA 6009,"$562,000",Nov-14,Apartment,2,1,1,73,73,1969,$550pw,May-14,Rossen Real Estate - Nedlands,-31.9840682,115.8159214
-34 Everett Street,Crawley,WA,6009,34 Everett Street Crawley WA 6009,"$1,600,000",Nov-14,House,4,2,2,683,197,1921,,,,-31.98513,115.81759
+34 Everett Street,Crawley,WA,6009,34 Everett Street Crawley WA 6009,"$1,600,000",Nov-14,House,4,2,2,683,197,1921,0,0,not recorded,-31.98513,115.81759
 2/17-23 The Avenue,Crawley,WA,6009,2/17-23 The Avenue Crawley WA 6009,"$380,000",Nov-14,Unit,1,1,1,41,45,1963,$350pw,Mar-21,Acton - Dalkeith,-31.9878111,115.8158643
 4/16 Caporn Street,Crawley,WA,6009,4/16 Caporn Street Crawley WA 6009,"$540,000",Nov-14,Apartment,2,1,1,73,73,1969,$380pw,Feb-18,Rossen Real Estate - Nedlands,-31.9840682,115.8159214
 3/17-23 The Avenue,Crawley,WA,6009,3/17-23 The Avenue Crawley WA 6009,"$365,000",Nov-14,Unit,1,1,1,41,45,1963,$265pw,Feb-20,Acton - Dalkeith,-31.9878111,115.8158643
 4/116 Broadway,Crawley,WA,6009,4/116 Broadway Crawley WA 6009,"$530,000",Oct-14,House,2,1,1,58,61,1950,$400pw,Apr-21,Acton - Dalkeith,-31.9849361,115.8148815
 5E/14 Kings Park Avenue,Crawley,WA,6009,5E/14 Kings Park Avenue Crawley WA 6009,"$1,075,000",Oct-14,Apartment,3,2,2,190,190,1972,$1000pw,May-13,Mack Hall Real Estate - Claremont,-31.9716011,115.8263162
 12/70-72 Broadway,Crawley,WA,6009,12/70-72 Broadway Crawley WA 6009,"$345,000",Oct-14,Unit,1,1,1,48,44,1965,$330pw,Jan-21,Acton - Dalkeith,-31.9821596,115.8148497
-6/8 Wingfield Avenue,Crawley,WA,6009,6/8 Wingfield Avenue Crawley WA 6009,"$730,000",Oct-14,Apartment,3,2,2,149,145,1979,,,Mack Hall Real Estate - Claremont,-31.9725016,115.8249336
-6/9 The Avenue,Crawley,WA,6009,6/9 The Avenue Crawley WA 6009,"$795,000",Oct-14,Unit,3,1,1,121,99,1981,,,Acton - Dalkeith,-31.987076,115.8167533
-3/16 The Avenue,Crawley,WA,6009,3/16 The Avenue Crawley WA 6009,"$4,000,000",Oct-14,Apartment,3,3,3,275,275,1987,,,MLG Realty,-31.9882144,115.8171153
-27/17-23 The Avenue,Crawley,WA,6009,27/17-23 The Avenue Crawley WA 6009,"$375,000",Oct-14,Unit,1,1,1,41,45,1963,$430pw,Dec-15,Acton - Dalkeith,-31.9878111,115.8158643
+6/8 Wingfield Avenue,Crawley,WA,6009,6/8 Wingfield Avenue Crawley WA 6009,"$730,000",Oct-14,Apartment,3,2,2,149,145,1979,0,0,Mack Hall Real Estate - Claremont,-31.9725016,115.8249336
+6/9 The Avenue,Crawley,WA,6009,6/9 The Avenue Crawley WA 6009,"$795,000",Oct-14,Unit,3,1,1,121,99,1981,0,0,Acton - Dalkeith,-31.987076,115.8167533
+3/16 The Avenue,Crawley,WA,6009,3/16 The Avenue Crawley WA 6009,"$4,000,000",Oct-14,Apartment,3,3,3,275,275,1987,0,0,MLG Realty,-31.9882144,115.8171153
 27/17 The Avenue,Crawley,WA,6009,27/17 The Avenue Crawley WA 6009,"$375,000",Oct-14,Unit,1,1,1,41,45,1963,$430pw,Dec-15,Acton - Dalkeith,-31.9878111,115.8158643
 12/70 Broadway,Crawley,WA,6009,12/70 Broadway Crawley WA 6009,"$345,000",Sep-14,Unit,1,1,1,48,44,1965,$330pw,Jan-21,Acton - Dalkeith,-31.9821596,115.8148497
-2/115 Fairway,Crawley,WA,6009,2/115 Fairway Crawley WA 6009,"$350,000",Sep-14,Townhouse,3,2,1,102,108,1981,$450pw,Mar-18,,-31.9846756,115.815413
-8/22 The Avenue,Crawley,WA,6009,8/22 The Avenue Crawley WA 6009,"$1,050,000",Sep-14,Apartment,4,2,1,257,257,1981,"$1,000pw",Oct-17,,-31.98849,115.81646
+2/115 Fairway,Crawley,WA,6009,2/115 Fairway Crawley WA 6009,"$350,000",Sep-14,Townhouse,3,2,1,102,108,1981,$450pw,Mar-18,not recorded,-31.9846756,115.815413
+8/22 The Avenue,Crawley,WA,6009,8/22 The Avenue Crawley WA 6009,"$1,050,000",Sep-14,Apartment,4,2,1,257,257,1981,"$1,000pw",Oct-17,not recorded,-31.98849,115.81646
 6/42 Broadway,Crawley,WA,6009,6/42 Broadway Crawley WA 6009,"$425,000",Sep-14,Unit,1,1,1,75,70,1965,$375pw,Jul-15,Residential West,-31.979407,115.8147891
-3/5 Clark Street,Crawley,WA,6009,3/5 Clark Street Crawley WA 6009,"$650,000",Sep-14,Townhouse,3,1,1,121,111,1982,$600pw,Sep-14,,-31.97873,115.81514
-11/22 The Avenue,Crawley,WA,6009,11/22 The Avenue Crawley WA 6009,"$1,465,000",Sep-14,Unit,2,2,1,165,165,1981,,,,-31.98849,115.81646
+3/5 Clark Street,Crawley,WA,6009,3/5 Clark Street Crawley WA 6009,"$650,000",Sep-14,Townhouse,3,1,1,121,111,1982,$600pw,Sep-14,not recorded,-31.97873,115.81514
+11/22 The Avenue,Crawley,WA,6009,11/22 The Avenue Crawley WA 6009,"$1,465,000",Sep-14,Unit,2,2,1,165,165,1981,0,0,not recorded,-31.98849,115.81646
 28/3 Park Avenue,Crawley,WA,6009,28/3 Park Avenue Crawley WA 6009,"$1,385,000",Aug-14,Apartment,3,2,2,175,175,1983,"$1,100pw",May-13,Shellabears - Cottesloe,-31.9716501,115.8253265
-18/17 The Avenue,Crawley,WA,6009,18/17 The Avenue Crawley WA 6009,"$345,000",Aug-14,Unit,1,1,1,42,42,1963,$320pw,Mar-21,,-31.9878111,115.8158643
-7/16 Caporn Street,Crawley,WA,6009,7/16 Caporn Street Crawley WA 6009,"$562,000",Aug-14,Unit,2,1,1,73,73,1969,,,Acton - Dalkeith,-31.9840682,115.8159214
+18/17 The Avenue,Crawley,WA,6009,18/17 The Avenue Crawley WA 6009,"$345,000",Aug-14,Unit,1,1,1,42,42,1963,$320pw,Mar-21,not recorded,-31.9878111,115.8158643
+7/16 Caporn Street,Crawley,WA,6009,7/16 Caporn Street Crawley WA 6009,"$562,000",Aug-14,Unit,2,1,1,73,73,1969,0,0,Acton - Dalkeith,-31.9840682,115.8159214
 26/70-72 Broadway,Crawley,WA,6009,26/70-72 Broadway Crawley WA 6009,"$299,000",Aug-14,Unit,1,1,1,44,44,,$360pw,Nov-15,Ray White - Bursmac & Associates,-31.9821596,115.8148497
 32/5 Park Avenue,Crawley,WA,6009,32/5 Park Avenue Crawley WA 6009,"$810,000",Aug-14,Apartment,3,2,2,125,122,1975,$595pw,Nov-13,Mack Hall Real Estate - Claremont,-31.97202,115.82463
 125 Fairway,Crawley,WA,6009,125 Fairway Crawley WA 6009,"$1,512,500",Jul-14,House,4,2,4,607,,,$525pw,Jun-20,Growth Realty,-31.9853069,115.8153668
-26/70 Broadway,Crawley,WA,6009,26/70 Broadway Crawley WA 6009,"$299,000",Jul-14,Unit,1,1,1,44,44,,,,Ray White - Bursmac & Associates,-31.9821596,115.8148497
-87 Fairway,Crawley,WA,6009,87 Fairway Crawley WA 6009,"$1,500,000",Jul-14,House,3,1,1,607,118,1926,,,,-31.9829878,115.8153668
-2/10 Kings Park Avenue,Crawley,WA,6009,2/10 Kings Park Avenue Crawley WA 6009,"$1,550,000",Jun-14,Apartment,3,2,2,272,187,1999,,,The Property Exchange - Subiaco,-31.9720917,115.8263432
+26/70 Broadway,Crawley,WA,6009,26/70 Broadway Crawley WA 6009,"$299,000",Jul-14,Unit,1,1,1,44,44,,0,0,Ray White - Bursmac & Associates,-31.9821596,115.8148497
+87 Fairway,Crawley,WA,6009,87 Fairway Crawley WA 6009,"$1,500,000",Jul-14,House,3,1,1,607,118,1926,0,0,not recorded,-31.9829878,115.8153668
+2/10 Kings Park Avenue,Crawley,WA,6009,2/10 Kings Park Avenue Crawley WA 6009,"$1,550,000",Jun-14,Apartment,3,2,2,272,187,1999,0,0,The Property Exchange - Subiaco,-31.9720917,115.8263432
 2/228 Hampden Road,Crawley,WA,6009,2/228 Hampden Road Crawley WA 6009,"$650,000",Jun-14,Townhouse,1,1,1,157,96,2000,$415pw,Feb-21,ABODE REAL ESTATE - COTTESLOE,-31.9753253,115.8136568
 1/114 Broadway,Crawley,WA,6009,1/114 Broadway Crawley WA 6009,"$380,000",Jun-14,Apartment,2,1,1,67,67,1963,$460pw,Feb-12,Bexleys Real Estate - Wembley,-31.9847962,115.8148584
 2/20 Princess Road,Crawley,WA,6009,2/20 Princess Road Crawley WA 6009,"$642,000",Jun-14,Townhouse,2,1,1,85,79,1973,$485pw,Nov-20,Paxton Hoad - Subiaco,-31.9866582,115.8127561
-22 Cook Street,Crawley,WA,6009,22 Cook Street Crawley WA 6009,"$1,910,000",24 May 2014(Auction),House,3,3,2,683,358,2005,,,Shellabear's - Cottesloe,-31.9830893,115.8166147
+22 Cook Street,Crawley,WA,6009,22 Cook Street Crawley WA 6009,"$1,910,000",24-May-14,House,3,3,2,683,358,2005,0,0,Shellabear's - Cottesloe,-31.9830893,115.8166147
 3/7 Wingfield Avenue,Crawley,WA,6009,3/7 Wingfield Avenue Crawley WA 6009,"$1,360,000",May-14,House,4,2,2,385,161,1989,$750pw,Dec-19,Mack Hall Real Estate - Claremont,-31.97289,115.82424
-13/8 Wingfield Avenue,Crawley,WA,6009,13/8 Wingfield Avenue Crawley WA 6009,"$815,000",May-14,Apartment,3,2,2,143,138,1979,$585pw,Nov-17,,-31.9725016,115.8249336
-"4/2,4 Crawley Avenue",Crawley,WA,6009,"4/2,4 Crawley Avenue Crawley WA 6009","$845,000",Apr-14,Apartment,2,2,2,,,,,,Acton - Dalkeith,-31.9741251,115.8238476
-6/25 The Avenue,Crawley,WA,6009,6/25 The Avenue Crawley WA 6009,"$480,000",Apr-14,Unit,2,1,1,64,64,1965,$310pw,Dec-18,,-31.9879772,115.8152744
-15/17 The Avenue,Crawley,WA,6009,15/17 The Avenue Crawley WA 6009,"$338,000",Mar-14,Unit,1,1,1,41,45,1963,$280pw,Mar-09,,-31.9878111,115.8158643
+13/8 Wingfield Avenue,Crawley,WA,6009,13/8 Wingfield Avenue Crawley WA 6009,"$815,000",May-14,Apartment,3,2,2,143,138,1979,$585pw,Nov-17,not recorded,-31.9725016,115.8249336
+"4/2,4 Crawley Avenue",Crawley,WA,6009,"4/2,4 Crawley Avenue Crawley WA 6009","$845,000",Apr-14,Apartment,2,2,2,,,,0,0,Acton - Dalkeith,-31.9741251,115.8238476
+6/25 The Avenue,Crawley,WA,6009,6/25 The Avenue Crawley WA 6009,"$480,000",Apr-14,Unit,2,1,1,64,64,1965,$310pw,Dec-18,not recorded,-31.9879772,115.8152744
+15/17 The Avenue,Crawley,WA,6009,15/17 The Avenue Crawley WA 6009,"$338,000",Mar-14,Unit,1,1,1,41,45,1963,$280pw,Mar-09,not recorded,-31.9878111,115.8158643
 6/159 Fairway,Crawley,WA,6009,6/159 Fairway Crawley WA 6009,"$352,000",Mar-14,Unit,1,1,1,54,35,1964,$300pw,May-18,Real Estate Express with Andy Brown - Mount Pleasa,-31.9874827,115.8156441
-99L Fairway,Crawley,WA,6009,99L Fairway Crawley WA 6009,"$625,000",Mar-14,House,2,1,2,150,94,1980,$425pw,Jan-10,,-31.9834144,115.8152719
 99 Fairway,Crawley,WA,6009,99 Fairway Crawley WA 6009,"$625,000",Mar-14,House,2,1,2,150,94,1980,$425pw,Jan-10,Realmark Western Suburbs - NEDLANDS,-31.9834258,115.8153228
 101 Fairway,Crawley,WA,6009,101 Fairway Crawley WA 6009,"$625,000",Mar-14,Townhouse,2,1,2,152,97,1982,$400pw,Jan-21,Realmark Western Suburbs - NEDLANDS,-31.9834602,115.8153215
-101L Fairway,Crawley,WA,6009,101L Fairway Crawley WA 6009,"$625,000",Mar-14,Townhouse,2,1,1,152,97,1982,$400pw,Jan-21,,-31.9834456,115.8152721
+101L Fairway,Crawley,WA,6009,101L Fairway Crawley WA 6009,"$625,000",Mar-14,Townhouse,2,1,1,152,97,1982,$400pw,Jan-21,not recorded,-31.9834456,115.8152721
 2/3 Park Avenue,Crawley,WA,6009,2/3 Park Avenue Crawley WA 6009,"$760,000",Mar-14,Apartment,2,1,2,107,107,1983,$500pw,Jun-17,Mack Hall Real Estate - Claremont,-31.9716501,115.8253265
-16/25 The Avenue,Crawley,WA,6009,16/25 The Avenue Crawley WA 6009,"$435,000",Mar-14,Apartment,2,1,1,74,74,1965,$320pw,Sep-20,,-31.9879772,115.8152744
+16/25 The Avenue,Crawley,WA,6009,16/25 The Avenue Crawley WA 6009,"$435,000",Mar-14,Apartment,2,1,1,74,74,1965,$320pw,Sep-20,not recorded,-31.9879772,115.8152744
 3/16 Caporn Street,Crawley,WA,6009,3/16 Caporn Street Crawley WA 6009,"$545,000",Mar-14,Unit,2,1,1,73,73,1969,$320pw,Sep-19,Acton Cottesloe - Peppermint Grove,-31.9840682,115.8159214
 4/20 Park Road,Crawley,WA,6009,4/20 Park Road Crawley WA 6009,"$550,000",Feb-14,Townhouse,2,1,1,156,86,2004,$475pw,Dec-10,Peard Real Estate Leederville - Leederville & Moun,-31.9747065,115.8140265
-8/15 Cook Street,Crawley,WA,6009,8/15 Cook Street Crawley WA 6009,"$740,000",Feb-14,Unit,3,2,1,110,109,1981,$480pw,Mar-20,,-31.9837438,115.8161756
-9/10 The Avenue,Crawley,WA,6009,9/10 The Avenue Crawley WA 6009,"$1,160,000",Feb-14,Apartment,2,1,2,105,105,1979,,,Shellabears Real Estate,-31.9874558,115.8174619
-1/24 Caporn Street,Crawley,WA,6009,1/24 Caporn Street Crawley WA 6009,"$610,000",Feb-14,Apartment,2,1,2,85,85,1979,$430pw,Dec-11,,-31.9841258,115.8167995
-4/22 Mounts Bay Road,Crawley,WA,6009,4/22 Mounts Bay Road Crawley WA 6009,"$2,475,000",Feb-14,Apartment,3,2,2,306,218,2004,,,Mack Hall Real Estate - Claremont,-31.9739431,115.8241095
+8/15 Cook Street,Crawley,WA,6009,8/15 Cook Street Crawley WA 6009,"$740,000",Feb-14,Unit,3,2,1,110,109,1981,$480pw,Mar-20,not recorded,-31.9837438,115.8161756
+9/10 The Avenue,Crawley,WA,6009,9/10 The Avenue Crawley WA 6009,"$1,160,000",Feb-14,Apartment,2,1,2,105,105,1979,0,0,Shellabears Real Estate,-31.9874558,115.8174619
+1/24 Caporn Street,Crawley,WA,6009,1/24 Caporn Street Crawley WA 6009,"$610,000",Feb-14,Apartment,2,1,2,85,85,1979,$430pw,Dec-11,not recorded,-31.9841258,115.8167995
+4/22 Mounts Bay Road,Crawley,WA,6009,4/22 Mounts Bay Road Crawley WA 6009,"$2,475,000",Feb-14,Apartment,3,2,2,306,218,2004,0,0,Mack Hall Real Estate - Claremont,-31.9739431,115.8241095
 145 Fairway,Crawley,WA,6009,145 Fairway Crawley WA 6009,"$970,000",Feb-14,House,3,2,2,198,125,2002,$800pw,Mar-13,Caporn Young Real Estate,-31.98628,115.81544
-11/17 The Avenue,Crawley,WA,6009,11/17 The Avenue Crawley WA 6009,"$398,000",Feb-14,Unit,1,1,1,41,45,1963,,,,-31.9878111,115.8158643
+11/17 The Avenue,Crawley,WA,6009,11/17 The Avenue Crawley WA 6009,"$398,000",Feb-14,Unit,1,1,1,41,45,1963,0,0,not recorded,-31.9878111,115.8158643
 18 Cook Street,Crawley,WA,6009,18 Cook Street Crawley WA 6009,"$1,000,000",Jan-14,House,3,1,2,683,117,1935,$560pw,Dec-15,Bellcourt Property Group - SHENTON PARK,-31.983191,115.8163374
-6/8 Mounts Bay Road,Crawley,WA,6009,6/8 Mounts Bay Road Crawley WA 6009,"$2,725,000",Jan-14,Apartment,3,3,2,290,181,2006,,,Ethos Property - HIGHGATE,-31.9728146,115.8260659
-35/3 Park Avenue,Crawley,WA,6009,35/3 Park Avenue Crawley WA 6009,"$1,230,000",Jan-14,Apartment,3,1,1,175,175,1983,,,,-31.9716501,115.8253265
+6/8 Mounts Bay Road,Crawley,WA,6009,6/8 Mounts Bay Road Crawley WA 6009,"$2,725,000",Jan-14,Apartment,3,3,2,290,181,2006,0,0,Ethos Property - HIGHGATE,-31.9728146,115.8260659
+35/3 Park Avenue,Crawley,WA,6009,35/3 Park Avenue Crawley WA 6009,"$1,230,000",Jan-14,Apartment,3,1,1,175,175,1983,0,0,not recorded,-31.9716501,115.8253265
 4/42 Broadway,Crawley,WA,6009,4/42 Broadway Crawley WA 6009,"$495,000",Dec-13,Apartment,2,1,1,103,102,1965,$475pw,Apr-13,MAS Real Estate - Nedlands,-31.979407,115.8147891
-14/8 Wingfield Avenue,Crawley,WA,6009,14/8 Wingfield Avenue Crawley WA 6009,"$998,000",Dec-13,Apartment,3,2,2,150,144,1979,,,Acton - Dalkeith,-31.9725016,115.8249336
+14/8 Wingfield Avenue,Crawley,WA,6009,14/8 Wingfield Avenue Crawley WA 6009,"$998,000",Dec-13,Apartment,3,2,2,150,144,1979,0,0,Acton - Dalkeith,-31.9725016,115.8249336
 2/168 Broadway,Crawley,WA,6009,2/168 Broadway Crawley WA 6009,"$625,000",Dec-13,Apartment,2,1,1,65,68,1963,$525pw,May-13,Acton North - CITY BEACH,-31.9891014,115.8161987
-24/159 Fairway,Crawley,WA,6009,24/159 Fairway Crawley WA 6009,"$330,000",Dec-13,Unit,1,1,1,35,41,1964,$260pw,Feb-20,,-31.9874827,115.8156441
-51/4 Crawley Avenue,Crawley,WA,6009,51/4 Crawley Avenue Crawley WA 6009,"$1,050,000",Nov-13,Apartment,3,2,2,202,206,1970,,,,-31.9734066,115.8240093
-9/131 Fairway,Crawley,WA,6009,9/131 Fairway Crawley WA 6009,"$627,000",Nov-13,Townhouse,2,1,2,208,117,2000,,,,-31.9854781,115.8154361
+24/159 Fairway,Crawley,WA,6009,24/159 Fairway Crawley WA 6009,"$330,000",Dec-13,Unit,1,1,1,35,41,1964,$260pw,Feb-20,not recorded,-31.9874827,115.8156441
+51/4 Crawley Avenue,Crawley,WA,6009,51/4 Crawley Avenue Crawley WA 6009,"$1,050,000",Nov-13,Apartment,3,2,2,202,206,1970,0,0,not recorded,-31.9734066,115.8240093
+9/131 Fairway,Crawley,WA,6009,9/131 Fairway Crawley WA 6009,"$627,000",Nov-13,Townhouse,2,1,2,208,117,2000,0,0,not recorded,-31.9854781,115.8154361
 1/14 Park Road,Crawley,WA,6009,1/14 Park Road Crawley WA 6009,"$625,000",Oct-13,Townhouse,3,1,1,97,100,1977,$490pw,Feb-18,Kempton Azzopardi - Nedlands,-31.97485,115.81448
-29L Parkway,Crawley,WA,6009,29L Parkway Crawley WA 6009,"$803,000",Oct-13,House,3,1,2,301,163,1969,$500pw,Sep-19,,-31.9850089,115.8178526
+29L Parkway,Crawley,WA,6009,29L Parkway Crawley WA 6009,"$803,000",Oct-13,House,3,1,2,301,163,1969,$500pw,Sep-19,not recorded,-31.9850089,115.8178526
 27 Parkway,Crawley,WA,6009,27 Parkway Crawley WA 6009,"$803,000",Oct-13,House,3,1,1,305,104,1980,$450pw,Dec-20,Kempton Azzopardi - Nedlands,-31.9849639,115.817829
 53/3 Park Avenue,Crawley,WA,6009,53/3 Park Avenue Crawley WA 6009,"$1,340,000",Oct-13,Apartment,3,2,2,175,175,1983,$850pw,Nov-17,Property Selection Realty - North Perth,-31.9716501,115.8253265
 2/20 Park Road,Crawley,WA,6009,2/20 Park Road Crawley WA 6009,"$852,500",Oct-13,Townhouse,3,2,2,233,116,2004,$600pw,Mar-21,Realmark Central - East Perth,-31.9747065,115.8140265
-6/8 Mounts Bay Road,Crawley,WA,6009,6/8 Mounts Bay Road Crawley WA 6009,"$2,725,000",Oct-13,Apartment,3,3,2,290,181,2006,,,,-31.9728146,115.8260659
+6/8 Mounts Bay Road,Crawley,WA,6009,6/8 Mounts Bay Road Crawley WA 6009,"$2,725,000",Oct-13,Apartment,3,3,2,290,181,2006,0,0,not recorded,-31.9728146,115.8260659
 1/1 Kings Park Avenue,Crawley,WA,6009,1/1 Kings Park Avenue Crawley WA 6009,"$1,050,000",Sep-13,Apartment,3,2,2,202,178,1967,$700pw,May-17,Anderson Davies Real Estate - Dalkeith,-31.9725436,115.8257886
-101/4 Crawley Avenue,Crawley,WA,6009,101/4 Crawley Avenue Crawley WA 6009,"$1,400,000",Sep-13,Apartment,3,2,2,202,206,1970,,,,-31.9734066,115.8240093
+101/4 Crawley Avenue,Crawley,WA,6009,101/4 Crawley Avenue Crawley WA 6009,"$1,400,000",Sep-13,Apartment,3,2,2,202,206,1970,0,0,not recorded,-31.9734066,115.8240093
 2/136A Broadway,Crawley,WA,6009,2/136A Broadway Crawley WA 6009,"$399,000",Sep-13,Apartment,1,1,1,55,45,1964,$270pw,Jul-20,Shellabears Real Estate,-31.9867582,115.8148815
-17/159 Fairway,Crawley,WA,6009,17/159 Fairway Crawley WA 6009,"$300,000",Sep-13,Unit,1,1,1,34,41,1964,$315pw,Jul-21,,-31.9874827,115.8156441
+17/159 Fairway,Crawley,WA,6009,17/159 Fairway Crawley WA 6009,"$300,000",Sep-13,Unit,1,1,1,34,41,1964,$315pw,Jul-21,not recorded,-31.9874827,115.8156441
 10/68 Broadway,Crawley,WA,6009,10/68 Broadway Crawley WA 6009,"$381,000",Aug-13,Unit,1,1,1,71,50,1963,$270pw,Sep-20,MAS Real Estate - Nedlands,-31.9819388,115.8148584
 3/14 The Avenue,Crawley,WA,6009,3/14 The Avenue Crawley WA 6009,"$2,300,000",Aug-13,Apartment,3,2,4,381,248,1988,"$1,500pw",Feb-18,Space Real Estate - Cottesloe,-31.9880186,115.8172539
-25/4 Crawley Avenue,Crawley,WA,6009,25/4 Crawley Avenue Crawley WA 6009,"$2,300,000",Aug-13,Apartment,3,4,0,360,360,1970,,,,-31.9734066,115.8240093
+25/4 Crawley Avenue,Crawley,WA,6009,25/4 Crawley Avenue Crawley WA 6009,"$2,300,000",Aug-13,Apartment,3,4,0,360,360,1970,0,0,not recorded,-31.9734066,115.8240093
