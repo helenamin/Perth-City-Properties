@@ -1,0 +1,301 @@
+﻿address,suburb,state,postcode,full_address,price,sold date,type,bedrooms,bathrooms,car space,Land size,Building size,Year Built,rent,rent date,agent
+318/2 Moreau Parade,East Perth,WA,6004,318/2 Moreau Parade East Perth WA 6004,"$539,000",Aug-21,Apartment,2,2,1,111,86,2015,,,
+54/193 Hay Street,East Perth,WA,6004,54/193 Hay Street East Perth WA 6004,"$295,000",Aug-21,Apartment,2,1,1,99,86,2000,,,Joel Cooper
+30 Joel Terrace,East Perth,WA,6004,30 Joel Terrace East Perth WA 6004,"$1,100,000",Jul-21,House,5,2,2,454,,1994,,,Nadija Begovich
+10/38 Fielder Street,East Perth,WA,6004,10/38 Fielder Street East Perth WA 6004,"$429,000",Jul-21,Apartment,2,1,1,131,150,2009,$450pw,Sep-18,Brendan Smith
+36/78 Terrace Road,East Perth,WA,6004,36/78 Terrace Road East Perth WA 6004,"$700,000",Jul-21,Apartment,2,2,2,152,100,2005,$800pw,Jul-13,Jasmyn Wright
+10/1 Henry Lawson Walk,East Perth,WA,6004,10/1 Henry Lawson Walk East Perth WA 6004,"$960,000",Jul-21,Apartment,3,2,2,196,143,1999,$700pw,Apr-14,Brendan Smith
+151/151 Adelaide Terrace,East Perth,WA,6004,151/151 Adelaide Terrace East Perth WA 6004,"$636,000",Jul-21,Apartment,2,2,1,134,100,2008,$590pw,Jul-18,Cherry Li
+147/143 Adelaide Terrace,East Perth,WA,6004,147/143 Adelaide Terrace East Perth WA 6004,"$300,000",Jul-21,Apartment,1,1,1,67,40,2011,$375pw,May-19,Rick Milankov
+7B/29 Trafalgar Road,East Perth,WA,6004,7B/29 Trafalgar Road East Perth WA 6004,"$2,750,000",Jul-21,Apartment,4,2,2,431,247,2002,"$2,200pw",Nov-11,Brendan Smith
+13/11 Bennett Street,East Perth,WA,6004,13/11 Bennett Street East Perth WA 6004,"$460,000",Jul-21,Apartment,2,2,1,131,97,2008,$520pw,Aug-13,
+11/43 Wickham Street,East Perth,WA,6004,11/43 Wickham Street East Perth WA 6004,"$460,000",Jul-21,Apartment,2,2,1,108,68,2014,$500pw,Jul-16,Brendan Smith
+47B Trafalgar Road,East Perth,WA,6004,47B Trafalgar Road East Perth WA 6004,"$869,000",Jul-21,House,3,2,1,530,152,2000,$520pw,Jan-20,Brendan Smith
+73/18 Wellington Street,East Perth,WA,6004,73/18 Wellington Street East Perth WA 6004,"$480,000",Jul-21,Apartment,2,2,1,113,81,2011,$510pw,Sep-18,
+8/153 Kensington Street,East Perth,WA,6004,8/153 Kensington Street East Perth WA 6004,"$388,000",Jul-21,Apartment,2,2,1,124,85,2010,,,Brendan Smith
+607/108 Terrace Road,East Perth,WA,6004,607/108 Terrace Road East Perth WA 6004,"$839,000",Jul-21,Apartment,3,2,1,148,119,2003,$725pw,Dec-16,Peter Wright
+33/7-9 Bennett Street,East Perth,WA,6004,33/7-9 Bennett Street East Perth WA 6004,"$400,000",Jul-21,Apartment,2,2,1,110,87,2002,$460pw,Dec-19,Chris O'Brien
+9/112-122 Goderich Street,East Perth,WA,6004,9/112-122 Goderich Street East Perth WA 6004,"$180,000",Jul-21,Apartment,1,1,1,50,40,1968,$240pw,Nov-17,Larry Gallagher
+Lot 186 16 Gardiner Street,East Perth,WA,6004,Lot 186 16 Gardiner Street East Perth WA 6004,"$1,000,000",Jul-21,Land,,,,733,,,,,John Edwards
+16 Gardiner Street,East Perth,WA,6004,16 Gardiner Street East Perth WA 6004,"$1,000,000",Jul-21,House,2,1,1,732,92,1930,$335pw,Apr-16,
+1810/8 Adelaide Terrace,East Perth,WA,6004,1810/8 Adelaide Terrace East Perth WA 6004,"$518,888",Jun-21,Apartment,2,1,1,74,74,2014,,,
+20/18 Wellington Street,East Perth,WA,6004,20/18 Wellington Street East Perth WA 6004,"$415,000",Jun-21,Apartment,2,2,1,117,79,2011,,,Brendon Habak
+3106/63 Adelaide Terrace,East Perth,WA,6004,3106/63 Adelaide Terrace East Perth WA 6004,"$605,000",Jun-21,Apartment,2,2,1,97,70,2019,,,Peter Wright
+8/2 Henry Lawson Walk,East Perth,WA,6004,8/2 Henry Lawson Walk East Perth WA 6004,"$743,000",Jun-21,Apartment,3,2,2,170,127,1999,$630pw,Mar-19,Brendan Smith
+807/251 Hay Street,East Perth,WA,6004,807/251 Hay Street East Perth WA 6004,"$335,000",Jun-21,Apartment,2,1,1,105,84,2007,$390pw,May-18,
+67/149-151 Adelaide Terrace,East Perth,WA,6004,67/149-151 Adelaide Terrace East Perth WA 6004,"$500,000",Jun-21,Apartment,2,2,1,131,97,2008,,,
+95/181 Adelaide Terrace,East Perth,WA,6004,95/181 Adelaide Terrace East Perth WA 6004,"$832,500",Jun-21,Apartment,3,2,2,180,114,2012,$795pw,Dec-19,Brendon Habak
+505/35 Bronte Street,East Perth,WA,6004,505/35 Bronte Street East Perth WA 6004,"$410,000",Jun-21,Apartment,1,1,1,80,50,2018,,,
+5/40 Wellington Street,East Perth,WA,6004,5/40 Wellington Street East Perth WA 6004,"$350,000",Jun-21,Apartment,3,1,1,107,91,1993,$400pw,Jul-19,Ryan Joseph
+76/125 Wellington Street,East Perth,WA,6004,76/125 Wellington Street East Perth WA 6004,"$355,000",Jun-21,Apartment,3,1,1,123,93,2000,$400pw,Sep-16,
+609/251 Hay Street,East Perth,WA,6004,609/251 Hay Street East Perth WA 6004,"$373,000",Jun-21,Apartment,2,2,1,91,79,2007,$400pw,Oct-16,
+201/9 Tully Road,East Perth,WA,6004,201/9 Tully Road East Perth WA 6004,"$535,000",Jun-21,Apartment,2,2,1,143,71,2019,,,Brendan Smith
+26/43 Wickham Street,East Perth,WA,6004,26/43 Wickham Street East Perth WA 6004,"$365,000",Jun-21,Apartment,1,1,1,50,50,2014,$375pw,May-20,Peter Wright
+603/108 Terrace Road,East Perth,WA,6004,603/108 Terrace Road East Perth WA 6004,"$730,000",Jun-21,Apartment,2,2,1,130,98,2003,$700pw,Apr-15,Jasmyn Wright
+37 Arden Street,East Perth,WA,6004,37 Arden Street East Perth WA 6004,"$1,685,000",Jun-21,House,4,2,2,204,205,1996,$750pw,Aug-15,ANGELA SHENG
+2501/8 Adelaide Terrace,East Perth,WA,6004,2501/8 Adelaide Terrace East Perth WA 6004,"$2,000,000",Jun-21,Apartment,4,3,2,230,230,2014,,,Jasmyn Wright
+18/208 Adelaide Terrace,East Perth,WA,6004,18/208 Adelaide Terrace East Perth WA 6004,"$565,000",Jun-21,Apartment,3,2,2,136,95,2014,$500pw,Sep-19,Brad Triplett
+3108/63 Adelaide Terrace,East Perth,WA,6004,3108/63 Adelaide Terrace East Perth WA 6004,"$780,000",Jun-21,Apartment,2,2,1,110,77,2019,,,Peter Wright
+602/251 Hay Street,East Perth,WA,6004,602/251 Hay Street East Perth WA 6004,"$345,000",Jun-21,Apartment,2,1,1,81,68,2007,$350pw,Oct-19,Tim Whall
+11/108-112 Royal Street,East Perth,WA,6004,11/108-112 Royal Street East Perth WA 6004,"$489,500",Jun-21,Apartment,2,2,1,120,89,1999,,,Emily Garden
+106/131 Adelaide Terrace,East Perth,WA,6004,106/131 Adelaide Terrace East Perth WA 6004,"$589,000",Jun-21,Apartment,3,2,2,161,111,2007,$550pw,Mar-19,Daniel Colbert
+503/35 Bronte Street,East Perth,WA,6004,503/35 Bronte Street East Perth WA 6004,"$395,000",May-21,Apartment,1,1,1,81,50,2018,,,Chris O'Brien
+502/9 Tully Road,East Perth,WA,6004,502/9 Tully Road East Perth WA 6004,"$405,000",May-21,Apartment,1,1,1,84,47,2019,,,Brendan Smith
+16/123 Wellington Street,East Perth,WA,6004,16/123 Wellington Street East Perth WA 6004,"$390,000",May-21,Apartment,2,2,1,105,74,2000,,,Nik Zounis
+603/63 Adelaide Terrace,East Perth,WA,6004,603/63 Adelaide Terrace East Perth WA 6004,"$510,000",May-21,Apartment,2,2,1,109,71,2019,,,Peter Wright
+24A Kensington Street,East Perth,WA,6004,24A Kensington Street East Perth WA 6004,"$952,000",May-21,Townhouse,3,3,2,114,166,2001,,,Brendan Smith
+18/37 Brown Street,East Perth,WA,6004,18/37 Brown Street East Perth WA 6004,"$535,000",May-21,Apartment,2,2,1,110,93,2000,$450pw,Sep-19,Brendan Smith
+1/30 Bronte Street,East Perth,WA,6004,1/30 Bronte Street East Perth WA 6004,"$420,000",May-21,Apartment,2,1,1,117,88,1998,,,
+15 Haig Park Circle,East Perth,WA,6004,15 Haig Park Circle East Perth WA 6004,"$1,900,000",May-21,House,4,3,3,175,300,2002,,,Brendan Smith
+21/35 Wellington Street,East Perth,WA,6004,21/35 Wellington Street East Perth WA 6004,"$350,000",May-21,Apartment,1,1,1,70,53,2015,,,
+48/128 Adelaide Terrace,East Perth,WA,6004,48/128 Adelaide Terrace East Perth WA 6004,"$425,000",May-21,Apartment,2,2,1,118,82,2007,$490pw,Mar-21,Cherry Li
+18/1 Henry Lawson Walk,East Perth,WA,6004,18/1 Henry Lawson Walk East Perth WA 6004,"$699,000",May-21,Apartment,2,2,1,139,107,1999,$500pw,Jan-20,Brendan Smith
+40/34 East Parade,East Perth,WA,6004,40/34 East Parade East Perth WA 6004,"$419,000",May-21,Apartment,1,1,1,87,53,2018,,,Peter Wright
+13/118 Royal Street,East Perth,WA,6004,13/118 Royal Street East Perth WA 6004,"$600,000",May-21,Apartment,2,2,2,162,122,2006,$525pw,Jul-20,Brendan Smith
+81/42 Terrace Road,East Perth,WA,6004,81/42 Terrace Road East Perth WA 6004,"$465,000",May-21,Apartment,1,2,1,110,74,2002,$700pw,Jan-13,Tony Choong
+11/28 Bronte Street,East Perth,WA,6004,11/28 Bronte Street East Perth WA 6004,"$500,000",May-21,Apartment,3,2,2,135,94,2001,,,
+5/5 Bramal Street,East Perth,WA,6004,5/5 Bramal Street East Perth WA 6004,"$485,000",May-21,Apartment,2,2,1,138,97,2016,,,Chris Kots
+35/11 Bennett Street,East Perth,WA,6004,35/11 Bennett Street East Perth WA 6004,"$270,000",May-21,Apartment,1,1,1,87,58,2008,$420pw,Mar-17,Melissa Crash
+19/52 Wickham Street,East Perth,WA,6004,19/52 Wickham Street East Perth WA 6004,"$620,000",May-21,Apartment,3,3,2,116,92,2012,$620pw,Apr-16,Daniel Porcaro
+1007/108 Terrace Road,East Perth,WA,6004,1007/108 Terrace Road East Perth WA 6004,"$850,000",May-21,Apartment,3,2,1,147,119,2003,,,Peter Wright
+1 Gardiner Street,East Perth,WA,6004,1 Gardiner Street East Perth WA 6004,"$1,530,000",May-21,House,3,1,2,883,148,1920,,,
+108/90 Terrace Road,East Perth,WA,6004,108/90 Terrace Road East Perth WA 6004,"$1,290,000",May-21,Apartment,3,3,2,199,136,2013,,,
+1904/63 Adelaide Terrace,East Perth,WA,6004,1904/63 Adelaide Terrace East Perth WA 6004,"$425,000",May-21,Apartment,1,1,1,80,47,2019,,,Peter Wright
+72/193 Hay Street,East Perth,WA,6004,72/193 Hay Street East Perth WA 6004,"$275,000",May-21,Apartment,2,1,1,97,82,2000,,,Joel Cooper
+31/7 Bennett Street,East Perth,WA,6004,31/7 Bennett Street East Perth WA 6004,"$425,000",May-21,Apartment,2,2,1,114,91,2002,,,Josh Roberts
+64/128 Adelaide Terrace,East Perth,WA,6004,64/128 Adelaide Terrace East Perth WA 6004,"$290,000",May-21,Apartment,1,1,1,82,52,2006,$430pw,Apr-09,Cherry Li
+9/2 Goderich Street,East Perth,WA,6004,9/2 Goderich Street East Perth WA 6004,"$340,000",May-21,Apartment,2,1,1,84,87,1982,$350pw,May-16,James Teh
+43/30 Bishops Row,East Perth,WA,6004,43/30 Bishops Row East Perth WA 6004,"$437,500",May-21,Apartment,3,1,1,118,93,2000,$450pw,Mar-21,Brendon Habak
+11/25 Haig Park Circle,East Perth,WA,6004,11/25 Haig Park Circle East Perth WA 6004,"$885,000",Apr-21,Apartment,3,2,2,180,130,2000,$585pw,Mar-18,
+8 Vanguard Terrace,East Perth,WA,6004,8 Vanguard Terrace East Perth WA 6004,"$3,000,000",Apr-21,House,4,4,2,213,363,2000,,,Brent Compton
+18/9 Tully Road,East Perth,WA,6004,18/9 Tully Road East Perth WA 6004,"$380,000",Apr-21,Apartment,2,2,1,117,71,2018,,,Willie Lim
+55/11 Regal Place,East Perth,WA,6004,55/11 Regal Place East Perth WA 6004,"$295,000",Apr-21,Apartment,2,1,1,86,73,1999,$375pw,Feb-21,Veljko Lazovic
+5/151 Adelaide Terrace,East Perth,WA,6004,5/151 Adelaide Terrace East Perth WA 6004,"$455,000",Apr-21,Apartment,2,2,1,148,88,2008,$450pw,Apr-18,Josh Roberts
+72/273 Hay Street,East Perth,WA,6004,72/273 Hay Street East Perth WA 6004,"$276,000",Apr-21,Apartment,2,1,1,101,75,2002,$400pw,Feb-21,
+81/273 HAY STREET,East Perth,WA,6004,81/273 HAY STREET East Perth WA 6004,"$290,000",Apr-21,Apartment,2,1,1,99,73,2002,$375pw,Jan-17,Steve Lally
+17/175 Hay Street,East Perth,WA,6004,17/175 Hay Street East Perth WA 6004,"$405,000",Apr-21,Apartment,2,2,1,107,81,2005,$450pw,Jul-19,
+38/99-105 Wellington Street,East Perth,WA,6004,38/99-105 Wellington Street East Perth WA 6004,"$349,500",Apr-21,Apartment,2,1,1,116,86,1995,,,
+9/100 Terrace Road,East Perth,WA,6004,9/100 Terrace Road East Perth WA 6004,"$785,000",Apr-21,Apartment,3,2,2,193,123,2009,$800pw,Dec-20,Peter Wright
+23/18 Forrest Avenue,East Perth,WA,6004,23/18 Forrest Avenue East Perth WA 6004,"$580,000",Apr-21,Apartment,4,2,2,115,113,1990,$520pw,Nov-10,Brad Triplett
+98/148 Adelaide Terrace,East Perth,WA,6004,98/148 Adelaide Terrace East Perth WA 6004,"$590,000",Apr-21,Apartment,2,2,2,127,81,2009,$500pw,Oct-18,
+303/9 Tully Road,East Perth,WA,6004,303/9 Tully Road East Perth WA 6004,"$510,000",Apr-21,Apartment,2,2,1,124,70,2019,,,Brendan Smith
+1503/8 Adelaide Terrace,East Perth,WA,6004,1503/8 Adelaide Terrace East Perth WA 6004,"$450,000",Apr-21,Apartment,2,1,1,68,68,2014,,,Chris O'Brien
+1809/63 Adelaide Terrace,East Perth,WA,6004,1809/63 Adelaide Terrace East Perth WA 6004,"$640,000",Apr-21,Apartment,2,2,1,109,76,2019,,,Cherry Li
+14/17 Wickham Street,East Perth,WA,6004,14/17 Wickham Street East Perth WA 6004,"$450,000",Apr-21,Apartment,2,2,1,102,72,2019,$460pw,Aug-20,Brad Raynor
+6/17 Wickham Street,East Perth,WA,6004,6/17 Wickham Street East Perth WA 6004,"$256,000",Apr-21,Apartment,1,1,1,95,55,2019,,,Brad Triplett
+30C/22 Nile Street,East Perth,WA,6004,30C/22 Nile Street East Perth WA 6004,"$360,000",Apr-21,Apartment,2,2,1,63,63,2004,,,Brendon Habak
+99/189 Adelaide Terrace,East Perth,WA,6004,99/189 Adelaide Terrace East Perth WA 6004,"$880,000",Apr-21,Apartment,3,2,2,195,111,2017,,,Callum Davidson
+30/11 Bennett Street,East Perth,WA,6004,30/11 Bennett Street East Perth WA 6004,"$399,000",Apr-21,Apartment,2,2,1,132,97,2008,$400pw,Sep-19,
+6/7-9 Bennett Street,East Perth,WA,6004,6/7-9 Bennett Street East Perth WA 6004,"$388,000",Apr-21,Apartment,2,2,1,108,85,2002,$385pw,Oct-19,Brendon Habak
+111/181 Adelaide Terrace,East Perth,WA,6004,111/181 Adelaide Terrace East Perth WA 6004,"$542,000",Apr-21,Apartment,2,2,1,121,83,2012,$675pw,Apr-21,
+7/2 Moreau Parade,East Perth,WA,6004,7/2 Moreau Parade East Perth WA 6004,"$360,000",Mar-21,Apartment,1,1,1,90,52,2015,,,Brad Triplett
+9/193 Hay Street,East Perth,WA,6004,9/193 Hay Street East Perth WA 6004,"$270,000",Mar-21,Apartment,2,1,1,93,70,2000,,,
+6 Flagstaff Lane,East Perth,WA,6004,6 Flagstaff Lane East Perth WA 6004,"$1,235,000",Mar-21,House,3,2,2,160,165,1999,$700pw,Aug-15,Brendan Smith
+14/3 Hay Street,East Perth,WA,6004,14/3 Hay Street East Perth WA 6004,"$780,000",Mar-21,Apartment,3,3,2,264,143,2009,"$1,200pw",Aug-12,
+12 Little Brown Street,East Perth,WA,6004,12 Little Brown Street East Perth WA 6004,"$585,000",Mar-21,Townhouse,2,1,1,150,102,1997,,,
+3/17 Wickham Street,East Perth,WA,6004,3/17 Wickham Street East Perth WA 6004,"$240,000",Mar-21,Apartment,1,1,0,85,51,2019,,,Brad Triplett
+907/251 Hay Street,East Perth,WA,6004,907/251 Hay Street East Perth WA 6004,"$650,000",Mar-21,Apartment,2,2,1,144,108,2007,,,Brendon Habak
+46/18 Wellington Street,East Perth,WA,6004,46/18 Wellington Street East Perth WA 6004,"$445,000",Mar-21,Apartment,2,2,1,118,79,2011,$565pw,Oct-11,
+3 & 4/46 Joel Terrace,East Perth,WA,6004,3 & 4/46 Joel Terrace East Perth WA 6004,"$425,000",Mar-21,Land,,,,200,,,,,Adam Naumovski
+138/181 Adelaide Terrace,East Perth,WA,6004,138/181 Adelaide Terrace East Perth WA 6004,"$569,000",Mar-21,Apartment,2,2,1,118,84,2012,$600pw,Jun-19,Peter Wright
+55/123 Wellington Street,East Perth,WA,6004,55/123 Wellington Street East Perth WA 6004,"$410,000",Mar-21,Apartment,3,1,1,121,93,2000,$495pw,May-17,Chris O'Brien
+49/34 East Parade,East Perth,WA,6004,49/34 East Parade East Perth WA 6004,"$415,000",Mar-21,Apartment,1,1,1,96,53,2018,,,Peter Wright
+705/9 Tully Road,East Perth,WA,6004,705/9 Tully Road East Perth WA 6004,"$460,000",Mar-21,Apartment,2,1,1,89,58,2019,,,Brendan Smith
+37/43 Wickham Street,East Perth,WA,6004,37/43 Wickham Street East Perth WA 6004,"$475,000",Mar-21,Apartment,2,2,2,107,71,2014,$650pw,May-15,Brent Morfesse
+63 Henry Lawson Walk,East Perth,WA,6004,63 Henry Lawson Walk East Perth WA 6004,"$687,500",Mar-21,Townhouse,2,2,2,183,111,,$600pw,Sep-15,Brendan Smith
+38/190 Hay Street,East Perth,WA,6004,38/190 Hay Street East Perth WA 6004,"$340,000",Mar-21,Apartment,2,1,1,101,82,2002,,,Berny Wales
+70/131-137 Adelaide Terrace,East Perth,WA,6004,70/131-137 Adelaide Terrace East Perth WA 6004,"$545,000",Mar-21,Apartment,3,2,2,145,96,2007,,,
+51/170 Adelaide Terrace,East Perth,WA,6004,51/170 Adelaide Terrace East Perth WA 6004,"$402,000",Mar-21,Apartment,2,1,1,120,91,2002,,,Brendan Smith
+902/112 Goderich Street,East Perth,WA,6004,902/112 Goderich Street East Perth WA 6004,"$182,000",Mar-21,Apartment,1,1,1,50,50,1968,$250pw,Jan-21,Steven Chapelhow
+72/189 Adelaide Terrace,East Perth,WA,6004,72/189 Adelaide Terrace East Perth WA 6004,"$660,000",Mar-21,Apartment,2,2,1,143,82,2017,,,Peter Wright
+20/17 Wickham Street,East Perth,WA,6004,20/17 Wickham Street East Perth WA 6004,"$350,000",Mar-21,Apartment,1,1,1,80,55,2019,,,Brad Raynor
+1108/8 Adelaide Terrace,East Perth,WA,6004,1108/8 Adelaide Terrace East Perth WA 6004,"$610,000",Mar-21,Apartment,2,2,1,143,105,2014,$795pw,Mar-16,
+8F/22 Nile Street,East Perth,WA,6004,8F/22 Nile Street East Perth WA 6004,"$365,000",Mar-21,Apartment,2,2,1,62,62,2004,,,Kristian Novatsis
+15/34 East Parade,East Perth,WA,6004,15/34 East Parade East Perth WA 6004,"$515,000",Mar-21,Apartment,2,2,1,115,78,2018,,,Peter Wright
+405/108 Terrace Road,East Perth,WA,6004,405/108 Terrace Road East Perth WA 6004,"$730,000",Mar-21,Apartment,2,2,2,143,98,2003,$770pw,Mar-21,Jasmyn Wright
+104/149-151 Adelaide Terrace,East Perth,WA,6004,104/149-151 Adelaide Terrace East Perth WA 6004,"$499,000",Mar-21,Apartment,2,2,1,123,95,2008,,,Brad Mantle
+60/181 Adelaide Terrace,East Perth,WA,6004,60/181 Adelaide Terrace East Perth WA 6004,"$780,000",Mar-21,Apartment,3,2,2,178,114,2012,$875pw,Feb-19,Brendon Habak
+6/128 Brown Street,East Perth,WA,6004,6/128 Brown Street East Perth WA 6004,"$418,000",Feb-21,Apartment,2,2,1,112,86,2009,$440pw,Oct-16,Clinton Edwards
+301/108 Bennett Street,East Perth,WA,6004,301/108 Bennett Street East Perth WA 6004,"$380,000",Feb-21,Apartment,2,2,1,104,75,2016,$400pw,Jun-20,
+83/128 Adelaide Terrace,East Perth,WA,6004,83/128 Adelaide Terrace East Perth WA 6004,"$418,500",Feb-21,Apartment,2,2,1,111,82,2006,$430pw,Apr-18,
+29/98 Terrace Road,East Perth,WA,6004,29/98 Terrace Road East Perth WA 6004,"$690,000",Feb-21,Apartment,2,2,2,145,85,2009,,,Peter Wright
+80/78 Terrace Road,East Perth,WA,6004,80/78 Terrace Road East Perth WA 6004,"$746,000",Feb-21,Apartment,2,2,2,152,100,2005,$700pw,May-17,Tim Whall
+201/108 Bennett Street,East Perth,WA,6004,201/108 Bennett Street East Perth WA 6004,"$380,000",Feb-21,Apartment,2,2,1,103,75,2016,$465pw,Sep-16,Richard Mathlin
+17/193 Hay Street,East Perth,WA,6004,17/193 Hay Street East Perth WA 6004,"$269,000",Feb-21,Apartment,2,1,1,95,70,2000,,,Veljko Lazovic
+64/118 Adelaide Terrace,East Perth,WA,6004,64/118 Adelaide Terrace East Perth WA 6004,"$426,000",Feb-21,Apartment,2,2,1,107,76,2009,$456pw,Nov-20,
+56/78 Terrace Road,East Perth,WA,6004,56/78 Terrace Road East Perth WA 6004,"$615,000",Feb-21,Apartment,2,2,2,152,100,2005,$630pw,Sep-16,
+19/34 East Parade,East Perth,WA,6004,19/34 East Parade East Perth WA 6004,"$445,000",Feb-21,Apartment,2,1,1,113,65,2018,,,Peter Wright
+47 Wellington Street,East Perth,WA,6004,47 Wellington Street East Perth WA 6004,"$765,000",Feb-21,House,3,1,1,617,105,1920,,,
+66/123 Wellington Street,East Perth,WA,6004,66/123 Wellington Street East Perth WA 6004,"$390,000",Feb-21,Apartment,3,1,1,126,96,2000,$450pw,Dec-17,Zero Commission Australia
+17/40 Wellington Street,East Perth,WA,6004,17/40 Wellington Street East Perth WA 6004,"$345,000",Feb-21,Apartment,2,1,1,96,81,1993,,,Josh Roberts
+11/42-52 Terrace Road,East Perth,WA,6004,11/42-52 Terrace Road East Perth WA 6004,"$582,500",Feb-21,Apartment,2,2,1,142,107,2002,,,Chris O'Brien
+401/108 Bennett Street,East Perth,WA,6004,401/108 Bennett Street East Perth WA 6004,"$380,000",Feb-21,Apartment,2,2,1,104,75,2016,,,
+31/188 Adelaide Terrace,East Perth,WA,6004,31/188 Adelaide Terrace East Perth WA 6004,"$295,000",Feb-21,Apartment,1,1,1,85,53,2007,$400pw,Mar-21,Peter Wright
+54/35 Wellington Street,East Perth,WA,6004,54/35 Wellington Street East Perth WA 6004,"$430,000",Feb-21,Apartment,2,2,1,103,71,2015,$500pw,Apr-20,Steven Erceg
+203/35 Bronte Street,East Perth,WA,6004,203/35 Bronte Street East Perth WA 6004,"$380,000",Feb-21,Apartment,1,1,1,79,50,2018,$350pw,Nov-18,Joshua Leader
+11/22 Brown Street,East Perth,WA,6004,11/22 Brown Street East Perth WA 6004,"$392,500",Feb-21,Apartment,1,1,1,106,65,2011,,,Brendon Habak
+11/193 Hay Street,East Perth,WA,6004,11/193 Hay Street East Perth WA 6004,"$300,000",Feb-21,Apartment,2,1,1,96,71,2000,,,Brendon Habak
+202/189 Adelaide Terrace,East Perth,WA,6004,202/189 Adelaide Terrace East Perth WA 6004,"$808,000",Jan-21,Apartment,2,2,1,125,84,2017,$780pw,Oct-20,Cherry Li
+10/50 Royal Street,East Perth,WA,6004,10/50 Royal Street East Perth WA 6004,"$970,000",Jan-21,Apartment,3,2,2,185,125,2013,,,Brendan Smith
+21/50 Trafalgar Road,East Perth,WA,6004,21/50 Trafalgar Road East Perth WA 6004,"$1,085,000",Jan-21,Apartment,3,2,3,351,191,1998,$775pw,Oct-09,
+84/131 Adelaide Terrace,East Perth,WA,6004,84/131 Adelaide Terrace East Perth WA 6004,"$400,000",Jan-21,Apartment,2,2,1,124,83,2007,$480pw,Apr-18,Josh Roberts
+52/100 Terrace Road,East Perth,WA,6004,52/100 Terrace Road East Perth WA 6004,"$630,000",Jan-21,Apartment,2,2,2,137,82,2009,$590pw,Dec-20,Graeme Correy
+1A/29 Trafalgar Road,East Perth,WA,6004,1A/29 Trafalgar Road East Perth WA 6004,"$1,100,000",Jan-21,Apartment,3,2,2,272,165,2002,,,Brendan Smith
+47/175 Hay Street,East Perth,WA,6004,47/175 Hay Street East Perth WA 6004,"$3,820,000",Jan-21,Apartment,2,2,1,109,81,2005,$400pw,Feb-19,Paul Owen
+12/47 Forrest Avenue,East Perth,WA,6004,12/47 Forrest Avenue East Perth WA 6004,"$607,000",Jan-21,Apartment,2,2,2,179,126,1987,$700pw,Dec-12,Brendan Smith
+36/193 Hay Street,East Perth,WA,6004,36/193 Hay Street East Perth WA 6004,"$265,000",Jan-21,Apartment,2,1,1,95,72,2000,$320pw,May-18,
+42/43 Wickham Street,East Perth,WA,6004,42/43 Wickham Street East Perth WA 6004,"$465,000",Jan-21,Apartment,2,2,1,105,71,2014,,,Nick Holt
+12/33 Royal Street,East Perth,WA,6004,12/33 Royal Street East Perth WA 6004,"$1,100,000",Jan-21,Apartment,4,2,2,288,204,2001,$850pw,Oct-10,Brendan Smith
+3/78 Terrace Road,East Perth,WA,6004,3/78 Terrace Road East Perth WA 6004,"$750,000",Jan-21,Apartment,2,2,2,164,103,2005,,,Brent Compton
+2/22 Saunders Street,East Perth,WA,6004,2/22 Saunders Street East Perth WA 6004,"$442,332",Jan-21,Apartment,2,1,1,116,77,2001,,,
+7/20 Saunders Street,East Perth,WA,6004,7/20 Saunders Street East Perth WA 6004,"$445,000",Jan-21,Apartment,2,1,1,103,77,2001,$480pw,May-14,Brendan Smith
+1105/63 Adelaide Terrace,East Perth,WA,6004,1105/63 Adelaide Terrace East Perth WA 6004,"$370,000",Jan-21,Apartment,1,1,1,80,47,2019,,,Peter Wright
+21/1 Henry Lawson Walk,East Perth,WA,6004,21/1 Henry Lawson Walk East Perth WA 6004,"$1,080,000",Jan-21,Apartment,4,2,2,219,160,1999,$650pw,May-17,Brendan Smith
+21/65 Wittenoom Street,East Perth,WA,6004,21/65 Wittenoom Street East Perth WA 6004,"$485,000",Jan-21,Apartment,2,2,2,126,81,2001,$490pw,Jan-21,Brendan Smith
+72/131 Adelaide Terrace,East Perth,WA,6004,72/131 Adelaide Terrace East Perth WA 6004,"$399,000",Jan-21,Apartment,2,2,1,115,83,2007,$465pw,Aug-16,Fab Forneris
+52/34 East Parade,East Perth,WA,6004,52/34 East Parade East Perth WA 6004,"$395,000",Jan-21,Apartment,1,1,0,85,52,2018,,,Peter Wright
+107/90 Terrace Road,East Perth,WA,6004,107/90 Terrace Road East Perth WA 6004,"$910,000",Jan-21,Apartment,2,2,2,161,103,2013,,,Jasmyn Wright
+2/273 Hay Street,East Perth,WA,6004,2/273 Hay Street East Perth WA 6004,"$250,000",Jan-21,Apartment,2,1,0,83,75,2002,$350pw,Jan-21,Steven Chapelhow
+11/49-53 Bronte Street,East Perth,WA,6004,11/49-53 Bronte Street East Perth WA 6004,"$349,000",Jan-21,Apartment,2,1,1,96,66,1996,,,Brendon Habak
+43/88 Terrace Road,East Perth,WA,6004,43/88 Terrace Road East Perth WA 6004,"$1,900,000",Dec-20,Apartment,3,2,2,237,145,2015,"$1,250pw",Jan-21,
+2507/63 Adelaide Terrace,East Perth,WA,6004,2507/63 Adelaide Terrace East Perth WA 6004,"$695,000",Dec-20,Apartment,2,2,1,110,76,2019,$750pw,Dec-20,Peter Wright
+71/98 Terrace Road,East Perth,WA,6004,71/98 Terrace Road East Perth WA 6004,"$3,000,000",Dec-20,Apartment,4,3,3,649,269,2009,$430pw,Aug-17,
+44/42 Terrace Road,East Perth,WA,6004,44/42 Terrace Road East Perth WA 6004,"$1,205,000",Dec-20,Apartment,3,3,2,252,161,2002,"$1,200pw",Apr-20,Tim Whall
+4/23 Wellington Street,East Perth,WA,6004,4/23 Wellington Street East Perth WA 6004,"$279,000",Dec-20,Apartment,2,1,1,105,78,1996,$300pw,Jun-19,
+51/189 Adelaide Terrace,East Perth,WA,6004,51/189 Adelaide Terrace East Perth WA 6004,"$800,000",Dec-20,Apartment,3,2,2,193,111,2017,,,
+602/63 Adelaide Terrace,East Perth,WA,6004,602/63 Adelaide Terrace East Perth WA 6004,"$525,000",Dec-20,Apartment,2,2,1,115,76,2019,$510pw,Sep-19,
+50/123 Wellington Street,East Perth,WA,6004,50/123 Wellington Street East Perth WA 6004,"$368,000",Dec-20,Apartment,3,1,1,121,93,2000,,,
+21/273 Hay Street,East Perth,WA,6004,21/273 Hay Street East Perth WA 6004,"$342,000",Dec-20,Apartment,2,1,1,107,76,2002,$750pw,Jan-13,
+15/43 Wickham Street,East Perth,WA,6004,15/43 Wickham Street East Perth WA 6004,"$475,000",Dec-20,Apartment,2,2,2,108,64,2014,,,
+1/47 Tully Road,East Perth,WA,6004,1/47 Tully Road East Perth WA 6004,"$442,000",Dec-20,Apartment,2,2,1,348,77,2010,$390pw,May-20,
+6/26 Saunders Street,East Perth,WA,6004,6/26 Saunders Street East Perth WA 6004,"$475,000",Dec-20,Apartment,2,2,1,116,95,2001,$450pw,Apr-19,
+28/259-269 Hay Street,East Perth,WA,6004,28/259-269 Hay Street East Perth WA 6004,"$340,000",Dec-20,Apartment,2,2,1,115,82,2005,,,
+7/2 Bremer Promenade,East Perth,WA,6004,7/2 Bremer Promenade East Perth WA 6004,"$351,500",Dec-20,Apartment,1,1,1,97,64,2009,$420pw,Nov-20,
+5/17 Wickham Street,East Perth,WA,6004,5/17 Wickham Street East Perth WA 6004,"$320,000",Dec-20,Apartment,2,2,1,131,73,2019,,,
+121/181 Adelaide Terrace,East Perth,WA,6004,121/181 Adelaide Terrace East Perth WA 6004,"$630,000",Dec-20,Apartment,2,2,2,140,86,2012,$750pw,Jan-21,
+1/2A Goderich Street,East Perth,WA,6004,1/2A Goderich Street East Perth WA 6004,"$450,000",Dec-20,Apartment,2,2,1,161,87,2003,,,
+17/42-52 Terrace Road,East Perth,WA,6004,17/42-52 Terrace Road East Perth WA 6004,"$450,000",Nov-20,Apartment,1,1,1,110,77,2002,,,
+50/22 Nile Street,East Perth,WA,6004,50/22 Nile Street East Perth WA 6004,"$299,000",Nov-20,Apartment,2,2,1,62,62,2004,$500pw,Sep-14,
+45/188 Adelaide Terrace,East Perth,WA,6004,45/188 Adelaide Terrace East Perth WA 6004,"$390,000",Nov-20,House,2,2,1,114,84,2007,$450pw,Aug-20,
+22/18 Wellington Street,East Perth,WA,6004,22/18 Wellington Street East Perth WA 6004,"$391,850",Nov-20,Apartment,2,2,1,109,81,2011,$390pw,Dec-16,
+23/7 Bronte Street,East Perth,WA,6004,23/7 Bronte Street East Perth WA 6004,"$460,000",Nov-20,Apartment,3,2,1,121,94,2003,$440pw,Dec-15,
+505/108 Terrace Road,East Perth,WA,6004,505/108 Terrace Road East Perth WA 6004,"$730,000",Nov-20,Apartment,2,2,2,141,98,2003,$700pw,Jan-21,
+36B/22 Nile Street,East Perth,WA,6004,36B/22 Nile Street East Perth WA 6004,"$347,500",Nov-20,Apartment,2,2,1,62,62,2004,,,
+2/175 Hay Street,East Perth,WA,6004,2/175 Hay Street East Perth WA 6004,"$435,000",Nov-20,Apartment,3,2,1,165,98,2005,$450pw,Jan-18,
+166/181 Adelaide Terrace,East Perth,WA,6004,166/181 Adelaide Terrace East Perth WA 6004,"$595,000",Nov-20,Apartment,2,2,2,128,84,2012,$700pw,Dec-20,
+501/108 Bennett Street,East Perth,WA,6004,501/108 Bennett Street East Perth WA 6004,"$390,000",Nov-20,Apartment,2,2,1,104,75,2016,,,
+1505/8 Adelaide Terrace,East Perth,WA,6004,1505/8 Adelaide Terrace East Perth WA 6004,"$455,000",Nov-20,Apartment,2,1,1,108,74,2014,$590pw,Jul-15,
+20/118 Royal Street,East Perth,WA,6004,20/118 Royal Street East Perth WA 6004,"$650,000",Nov-20,Apartment,2,2,2,176,130,2006,$595pw,Jul-20,
+601/108 Bennett Street,East Perth,WA,6004,601/108 Bennett Street East Perth WA 6004,"$395,000",Nov-20,Apartment,2,2,1,104,75,2016,$425pw,Nov-19,
+11 Bakery Lane,East Perth,WA,6004,11 Bakery Lane East Perth WA 6004,"$990,000",Nov-20,House,3,2,2,161,190,2003,$800pw,Sep-07,
+3/24 Constitution Street,East Perth,WA,6004,3/24 Constitution Street East Perth WA 6004,"$910,000",Nov-20,Apartment,3,2,2,309,132,196,,,Brendan Smith
+17/125 Wellington Street,East Perth,WA,6004,17/125 Wellington Street East Perth WA 6004,"$390,000",Nov-20,Apartment,3,1,1,124,94,2000,,,
+58/259-269 Hay Street,East Perth,WA,6004,58/259-269 Hay Street East Perth WA 6004,"$470,000",Nov-20,Apartment,2,2,1,117,82,2005,$550pw,Nov-20,
+9/47 Forrest Avenue,East Perth,WA,6004,9/47 Forrest Avenue East Perth WA 6004,"$577,000",Nov-20,Apartment,2,2,2,176,131,1987,$550pw,Aug-18,
+12/34 East Parade,East Perth,WA,6004,12/34 East Parade East Perth WA 6004,"$483,000",Nov-20,Apartment,2,1,1,151,73,2018,,,
+109/45 Adelaide Terrace,East Perth,WA,6004,109/45 Adelaide Terrace East Perth WA 6004,"$174,500",Nov-20,Apartment,1,1,1,184,46,1945,$250pw,Jul-20,
+68/100 Terrace Road,East Perth,WA,6004,68/100 Terrace Road East Perth WA 6004,"$620,000",Nov-20,Apartment,2,2,2,140,87,2009,$625pw,Jul-19,
+15/11 Regal Place,East Perth,WA,6004,15/11 Regal Place East Perth WA 6004,"$225,000",Nov-20,Apartment,2,1,1,96,73,1999,$290pw,May-19,
+102/42-52 Terrace Road,East Perth,WA,6004,102/42-52 Terrace Road East Perth WA 6004,"$731,000",Nov-20,Apartment,2,2,1,143,107,2002,$560pw,Aug-20,Peter Wright
+9/273 Hay Street,East Perth,WA,6004,9/273 Hay Street East Perth WA 6004,"$292,000",Nov-20,Apartment,2,1,1,97,69,2002,$465pw,Feb-12,
+56/123 Wellington Street,East Perth,WA,6004,56/123 Wellington Street East Perth WA 6004,"$350,000",Oct-20,Apartment,3,1,1,119,93,2000,$390pw,Sep-19,
+1/190 Hay Street,East Perth,WA,6004,1/190 Hay Street East Perth WA 6004,"$310,000",Oct-20,Apartment,2,2,1,109,91,2002,,,
+413/45 Adelaide Terrace,East Perth,WA,6004,413/45 Adelaide Terrace East Perth WA 6004,"$198,000",Oct-20,Apartment,1,1,1,184,46,1945,$300pw,Oct-20,
+71/148 Adelaide Terrace,East Perth,WA,6004,71/148 Adelaide Terrace East Perth WA 6004,"$560,000",Oct-20,Apartment,2,2,2,125,81,2009,$610pw,Aug-20,
+411/2 Moreau Parade,East Perth,WA,6004,411/2 Moreau Parade East Perth WA 6004,"$335,000",Oct-20,Apartment,1,1,1,92,65,2015,$425pw,Apr-19,
+110/90 Terrace Road,East Perth,WA,6004,110/90 Terrace Road East Perth WA 6004,"$795,000",Oct-20,Apartment,2,2,2,156,101,2013,$800pw,Sep-20,Peter Wright
+12/39 Brown Street,East Perth,WA,6004,12/39 Brown Street East Perth WA 6004,"$435,000",Oct-20,Apartment,2,2,1,122,93,2000,$430pw,Apr-17,
+42/138 Adelaide Terrace,East Perth,WA,6004,42/138 Adelaide Terrace East Perth WA 6004,"$150,000",Oct-20,Apartment,1,1,1,29,29,1950,$240pw,Mar-19,
+403/9 Tully Road,East Perth,WA,6004,403/9 Tully Road East Perth WA 6004,"$480,000",Oct-20,Apartment,2,2,1,123,70,2019,,,
+213/8 Moreau Parade,East Perth,WA,6004,213/8 Moreau Parade East Perth WA 6004,"$340,000",Oct-20,Apartment,0,1,1,134,37,2016,$490pw,Jun-19,
+16/82 Royal Street,East Perth,WA,6004,16/82 Royal Street East Perth WA 6004,"$375,000",Oct-20,Apartment,2,1,1,103,83,1998,$410pw,Mar-20,
+17/143 Adelaide Terrace,East Perth,WA,6004,17/143 Adelaide Terrace East Perth WA 6004,"$300,000",Oct-20,Apartment,1,1,1,89,48,2011,$360pw,Jan-19,
+6/155 Adelaide Terrace,East Perth,WA,6004,6/155 Adelaide Terrace East Perth WA 6004,"$307,500",Oct-20,Apartment,1,1,1,109,62,2010,$350pw,Jun-20,
+140/143 Adelaide Terrace,East Perth,WA,6004,140/143 Adelaide Terrace East Perth WA 6004,"$272,500",Oct-20,Apartment,1,1,1,66,40,2011,$350pw,Sep-20,
+8/151 Adelaide Terrace,East Perth,WA,6004,8/151 Adelaide Terrace East Perth WA 6004,"$445,000",Oct-20,Apartment,2,2,1,138,89,2008,,,
+2404/63 Adelaide Terrace,East Perth,WA,6004,2404/63 Adelaide Terrace East Perth WA 6004,"$425,000",Oct-20,Apartment,1,1,1,80,47,2019,$580pw,Oct-20,
+2/46 Joel Terrace,East Perth,WA,6004,2/46 Joel Terrace East Perth WA 6004,"$430,000",Oct-20,Land,,,,203,,,,,
+4 Constitution Street,East Perth,WA,6004,4 Constitution Street East Perth WA 6004,"$719,000",Oct-20,Townhouse,3,2,2,206,110,1996,$590pw,Nov-19,Peter Wright
+8/22 Eastbrook Terrace,East Perth,WA,6004,8/22 Eastbrook Terrace East Perth WA 6004,"$890,000",Oct-20,Apartment,3,2,2,185,134,2007,,,Helen Bond
+67/18 Wellington Street,East Perth,WA,6004,67/18 Wellington Street East Perth WA 6004,"$292,500",Oct-20,Apartment,1,1,1,89,58,2011,$300pw,Oct-17,
+605/108 Terrace Road,East Perth,WA,6004,605/108 Terrace Road East Perth WA 6004,"$770,000",Sep-20,Apartment,2,2,1,129,98,2003,,,Jasmyn Wright
+4 Flagstaff Lane,East Perth,WA,6004,4 Flagstaff Lane East Perth WA 6004,Prior,"the heart of East Perth, the opportunity created for you is obvious. From the picturesque lane way...more",House,3,2,2,160,,1999,,,
+312/45 Adelaide Terrace,East Perth,WA,6004,312/45 Adelaide Terrace East Perth WA 6004,"$220,000",Sep-20,Apartment,1,1,1,184,46,1945,$250pw,Dec-18,
+1/50 Trafalgar Road,East Perth,WA,6004,1/50 Trafalgar Road East Perth WA 6004,"$920,000",Sep-20,Apartment,3,2,2,305,136,1998,$650pw,Sep-18,Brendon Habak
+90/189 Adelaide Terrace,East Perth,WA,6004,90/189 Adelaide Terrace East Perth WA 6004,"$660,000",Sep-20,Apartment,2,2,1,124,107,2017,,,
+73/189 Adelaide Terrace,East Perth,WA,6004,73/189 Adelaide Terrace East Perth WA 6004,"$570,000",Sep-20,Apartment,2,2,1,119,81,2017,,,
+1802/63 Adelaide Terrace,East Perth,WA,6004,1802/63 Adelaide Terrace East Perth WA 6004,"$670,000",Sep-20,Apartment,2,2,1,115,76,2019,,,
+190/143 Adelaide Terrace,East Perth,WA,6004,190/143 Adelaide Terrace East Perth WA 6004,"$560,000",Sep-20,Apartment,3,2,2,149,96,2011,$660pw,Jun-20,
+27/20 Royal Street,East Perth,WA,6004,27/20 Royal Street East Perth WA 6004,"$755,000",Sep-20,Apartment,2,2,2,167,103,2001,,,Brendan Smith
+2004/63 Adelaide Terrace,East Perth,WA,6004,2004/63 Adelaide Terrace East Perth WA 6004,"$420,000",Sep-20,Apartment,1,1,1,80,47,2019,,,
+91/189 Adelaide Terrace,East Perth,WA,6004,91/189 Adelaide Terrace East Perth WA 6004,"$595,000",Sep-20,Apartment,2,2,1,119,81,2017,,,
+34/148 Adelaide Terrace,East Perth,WA,6004,34/148 Adelaide Terrace East Perth WA 6004,"$445,000",Sep-20,Apartment,2,2,2,125,81,2009,$470pw,Mar-19,
+105 Zebina Street,East Perth,WA,6004,105 Zebina Street East Perth WA 6004,"$802,000",Sep-20,House,3,1,3,491,131,1930,,,Paul Owen
+Lot 1 of 46 Joel Terrace,East Perth,WA,6004,Lot 1 of 46 Joel Terrace East Perth WA 6004,"$440,000",Sep-20,House,3,2,2,216,200,1925,,,
+2/25 Haig Park Circle,East Perth,WA,6004,2/25 Haig Park Circle East Perth WA 6004,"$800,000",Sep-20,Apartment,2,2,1,181,122,2000,$650pw,Jan-13,
+21/49-53 Bronte Street,East Perth,WA,6004,21/49-53 Bronte Street East Perth WA 6004,"$335,000",Sep-20,Apartment,2,1,1,94,66,1996,$350pw,Aug-20,
+12/151 Adelaide Terrace,East Perth,WA,6004,12/151 Adelaide Terrace East Perth WA 6004,"$445,000",Sep-20,Apartment,2,2,1,138,88,2008,,,
+130/189 Adelaide Terrace,East Perth,WA,6004,130/189 Adelaide Terrace East Perth WA 6004,"$650,000",Sep-20,Apartment,2,2,1,125,84,2018,,,
+6/2A Goderich Street,East Perth,WA,6004,6/2A Goderich Street East Perth WA 6004,"$363,000",Sep-20,Apartment,2,2,1,148,87,2003,$600pw,Aug-14,
+41/123 Wellington Street,East Perth,WA,6004,41/123 Wellington Street East Perth WA 6004,"$395,000",Sep-20,Apartment,3,2,1,121,94,2000,$550pw,Jun-11,
+40/35 Wellington Street,East Perth,WA,6004,40/35 Wellington Street East Perth WA 6004,"$309,500",Sep-20,Apartment,1,1,1,83,51,2015,$400pw,Jun-15,
+605/63 Adelaide Terrace,East Perth,WA,6004,605/63 Adelaide Terrace East Perth WA 6004,"$365,000",Sep-20,Apartment,1,1,1,80,47,2019,$460pw,Jan-21,
+59/269 Hay Street,East Perth,WA,6004,59/269 Hay Street East Perth WA 6004,by,the funky cosmopolitan complex located on Hay Street East Perth has everything you need for the ultimate inner city lifestyle....more,Apartment,2,2,1,"1,595",80,,$475pw,Nov-18,
+56/189 Adelaide Terrace,East Perth,WA,6004,56/189 Adelaide Terrace East Perth WA 6004,"$550,000",Sep-20,Apartment,2,2,1,113,80,2005,,,
+183/143 Adelaide Terrace,East Perth,WA,6004,183/143 Adelaide Terrace East Perth WA 6004,"$270,000",Sep-20,Apartment,1,1,1,66,40,2011,$325pw,Dec-19,
+50/118 Adelaide Terrace,East Perth,WA,6004,50/118 Adelaide Terrace East Perth WA 6004,"$375,000",Sep-20,Apartment,2,2,1,123,79,2009,$500pw,Oct-18,
+71/118 Adelaide Terrace,East Perth,WA,6004,71/118 Adelaide Terrace East Perth WA 6004,"$395,000",Aug-20,Apartment,2,2,1,122,79,2009,$450pw,Jul-20,
+12 Wittenoom Street,East Perth,WA,6004,12 Wittenoom Street East Perth WA 6004,"$1,190,000",Aug-20,House,4,2,3,234,250,2002,$750pw,Jan-12,
+45/175 Hay Street,East Perth,WA,6004,45/175 Hay Street East Perth WA 6004,"$420,000",Aug-20,Apartment,3,2,1,129,98,2005,,,
+5/24 Constitution Street,East Perth,WA,6004,5/24 Constitution Street East Perth WA 6004,"$822,725",Aug-20,Apartment,3,2,2,266,130,1996,$695pw,Aug-20,Brendan Smith
+9/82 Royal Street,East Perth,WA,6004,9/82 Royal Street East Perth WA 6004,"$625,000",Aug-20,Apartment,3,2,2,123,123,1998,,,Brendan Smith
+23/88 Terrace Road,East Perth,WA,6004,23/88 Terrace Road East Perth WA 6004,"$1,280,000",Aug-20,Apartment,3,2,2,246,145,2015,"$1,450pw",Mar-19,
+64/193 Hay Street,East Perth,WA,6004,64/193 Hay Street East Perth WA 6004,"$269,000",Aug-20,Apartment,2,1,1,100,75,2000,,,
+9/1 Royal Street,East Perth,WA,6004,9/1 Royal Street East Perth WA 6004,"$1,190,000",Aug-20,Apartment,4,3,3,328,232,1999,$900pw,Apr-17,
+416/8 Moreau Parade,East Perth,WA,6004,416/8 Moreau Parade East Perth WA 6004,"$245,000",Aug-20,Apartment,1,1,1,90,66,2016,,,
+65/123 Wellington Street,East Perth,WA,6004,65/123 Wellington Street East Perth WA 6004,"$319,000",Aug-20,Apartment,2,1,1,106,79,2000,$395pw,Oct-17,
+48/175 Hay Street,East Perth,WA,6004,48/175 Hay Street East Perth WA 6004,"$420,000",Aug-20,Apartment,3,2,1,136,98,2005,$545pw,Jan-17,
+39/193 Hay Street,East Perth,WA,6004,39/193 Hay Street East Perth WA 6004,"$258,000",Aug-20,House,2,1,1,95,70,2000,,,
+44 Tully Road,East Perth,WA,6004,44 Tully Road East Perth WA 6004,"$1,050,000",Aug-20,House,3,2,2,246,209,2003,,,
+15/47 Forrest Avenue,East Perth,WA,6004,15/47 Forrest Avenue East Perth WA 6004,"$575,000",Jul-20,Apartment,2,1,2,182,126,1987,,,
+50 Wittenoom Street,East Perth,WA,6004,50 Wittenoom Street East Perth WA 6004,"$950,000",Jul-20,House,4,3,2,198,217,2003,$730pw,Mar-20,Brendan Smith
+201/122 Brown Street,East Perth,WA,6004,201/122 Brown Street East Perth WA 6004,"$375,000",Jul-20,Apartment,2,1,1,84,60,2015,,,
+602/35 Bronte Street,East Perth,WA,6004,602/35 Bronte Street East Perth WA 6004,"$495,000",Jul-20,Apartment,2,2,1,109,71,2018,,,
+25/99-105 WELLINGTON Street,East Perth,WA,6004,25/99-105 WELLINGTON Street East Perth WA 6004,"$316,000",Jul-20,Apartment,2,1,1,146,85,1995,$360pw,Mar-20,
+186/143 Adelaide Terrace,East Perth,WA,6004,186/143 Adelaide Terrace East Perth WA 6004,"$450,000",Jul-20,Apartment,2,2,2,123,78,2011,$520pw,Apr-19,
+2/52 Wickham Street,East Perth,WA,6004,2/52 Wickham Street East Perth WA 6004,"$470,000",Jul-20,Apartment,3,2,1,122,91,2012,$485pw,Jul-18,
+40 Kensington Street,East Perth,WA,6004,40 Kensington Street East Perth WA 6004,"$950,000",Jul-20,House,3,2,2,237,183,2001,$650pw,Oct-11,
+4/70 Wittenoom Street,East Perth,WA,6004,4/70 Wittenoom Street East Perth WA 6004,"$275,000",Jul-20,Shop,0,0,1,65,51,2010,,,
+25/2 Goderich Street,East Perth,WA,6004,25/2 Goderich Street East Perth WA 6004,"$352,500",Jul-20,Apartment,2,1,2,84,84,1982,$440pw,Mar-21,
+59/43 Wickham Street,East Perth,WA,6004,59/43 Wickham Street East Perth WA 6004,"$486,888",Jul-20,Apartment,2,2,2,115,69,2014,$430pw,Nov-19,
+31/11 Regal Place,East Perth,WA,6004,31/11 Regal Place East Perth WA 6004,"$260,000",Jul-20,Apartment,2,1,1,91,70,1999,$320pw,Apr-20,
+23 Victory Terrace,East Perth,WA,6004,23 Victory Terrace East Perth WA 6004,"$975,000",Jul-20,House,3,3,2,161,245,2000,"$1,000pw",Nov-16,
+11/20 Royal Street,East Perth,WA,6004,11/20 Royal Street East Perth WA 6004,"$640,000",Jul-20,Apartment,3,2,2,193,135,2001,,,
+85/189 Adelaide Terrace,East Perth,WA,6004,85/189 Adelaide Terrace East Perth WA 6004,"$590,000",Jul-20,Apartment,2,2,1,119,81,2017,,,
+24 Victory Terrace,East Perth,WA,6004,24 Victory Terrace East Perth WA 6004,"$1,545,000",Jul-20,House,4,3,2,285,309,2000,,,
+29/123 Wellington Street,East Perth,WA,6004,29/123 Wellington Street East Perth WA 6004,"$395,000",Jul-20,Apartment,2,1,1,175,94,2000,$700pw,Dec-12,
+17/78 Terrace Road,East Perth,WA,6004,17/78 Terrace Road East Perth WA 6004,"$825,000",Jun-20,Apartment,3,2,2,222,143,2005,$750pw,Jun-17,
+65/273 Hay Street,East Perth,WA,6004,65/273 Hay Street East Perth WA 6004,"$290,000",Jun-20,Apartment,2,1,1,101,76,2002,$400pw,Jul-16,
+8/178 Bennett Street,East Perth,WA,6004,8/178 Bennett Street East Perth WA 6004,"$500,000",Jun-20,Apartment,3,2,2,150,105,2006,$500pw,May-20,
+6/34 East Parade,East Perth,WA,6004,6/34 East Parade East Perth WA 6004,"$365,000",Jun-20,Apartment,1,1,1,86,52,2018,,,
+54/273 Hay Street,East Perth,WA,6004,54/273 Hay Street East Perth WA 6004,"$270,000",Jun-20,Apartment,2,1,1,107,76,2002,$440pw,Jun-10,
+3/104 Brown Street,East Perth,WA,6004,3/104 Brown Street East Perth WA 6004,"$610,000",Jun-20,Apartment,3,2,1,217,170,2008,$500pw,May-17,
+611/8 Moreau Parade,East Perth,WA,6004,611/8 Moreau Parade East Perth WA 6004,"$538,500",Jun-20,Apartment,2,2,1,130,79,2016,,,
+24/90 Terrace Road,East Perth,WA,6004,24/90 Terrace Road East Perth WA 6004,"$730,000",Jun-20,Apartment,2,2,2,156,102,2013,$675pw,Sep-20,Peter Wright
+7/175 Hay Street,East Perth,WA,6004,7/175 Hay Street East Perth WA 6004,"$400,000",Jun-20,Apartment,3,2,1,139,98,2004,$410pw,Apr-20,
+711/9 Tully Road,East Perth,WA,6004,711/9 Tully Road East Perth WA 6004,"$735,000",Jun-20,Apartment,3,2,2,169,94,2019,,,
+4/175 Hay street,East Perth,WA,6004,4/175 Hay street East Perth WA 6004,"$420,000",Jun-20,Apartment,3,2,1,133,98,2005,$575pw,May-19,
+15/7 Bennett Street,East Perth,WA,6004,15/7 Bennett Street East Perth WA 6004,"$365,000",Jun-20,Apartment,2,2,1,112,87,2002,$425pw,Mar-19,
+209/9 Tully Road,East Perth,WA,6004,209/9 Tully Road East Perth WA 6004,"$350,000",Jun-20,Apartment,1,1,1,81,48,2019,,,
+176/181 Adelaide Terrace,East Perth,WA,6004,176/181 Adelaide Terrace East Perth WA 6004,"$650,000",Jun-20,Apartment,2,2,2,123,83,2012,$800pw,Mar-15,Brad Triplett
+3006/63 Adelaide Terrace,East Perth,WA,6004,3006/63 Adelaide Terrace East Perth WA 6004,"$600,000",May-20,Apartment,2,2,1,98,70,2019,,,
+306/251 Hay Street,East Perth,WA,6004,306/251 Hay Street East Perth WA 6004,"$227,000",May-20,House,1,1,0,75,67,2007,$310pw,Dec-17,
+133/189 Adelaide Terrace,East Perth,WA,6004,133/189 Adelaide Terrace East Perth WA 6004,"$655,000",May-20,Apartment,2,2,1,118,81,2017,,,
+17/39 Bronte Street,East Perth,WA,6004,17/39 Bronte Street East Perth WA 6004,"$445,000",May-20,Townhouse,3,2,2,168,105,1990,$390pw,Apr-20,
+6/32 Fielder Street,East Perth,WA,6004,6/32 Fielder Street East Perth WA 6004,"$640,000",May-20,House,3,2,2,210,128,2007,,,
+66/20 Royal Street,East Perth,WA,6004,66/20 Royal Street East Perth WA 6004,"$310,000",May-20,Apartment,1,1,1,85,63,2001,$380pw,Oct-18,
+44/20 Royal Street,East Perth,WA,6004,44/20 Royal Street East Perth WA 6004,"$600,000",May-20,Apartment,2,2,2,139,97,2001,$550pw,May-20,
+10/208 Adelaide Terrace,East Perth,WA,6004,10/208 Adelaide Terrace East Perth WA 6004,"$411,000",May-20,Apartment,2,2,1,107,78,2014,$525pw,May-17,
+212/106 Terrace Road,East Perth,WA,6004,212/106 Terrace Road East Perth WA 6004,"$289,000",May-20,Apartment,2,1,1,52,52,1945,$320pw,Mar-18,
+1/34 East Parade,East Perth,WA,6004,1/34 East Parade East Perth WA 6004,"$400,000",May-20,Apartment,1,1,1,93,61,2018,,,
+401/9 Tully Road,East Perth,WA,6004,401/9 Tully Road East Perth WA 6004,"$370,000",Apr-20,Apartment,1,1,1,84,48,2019,,,
