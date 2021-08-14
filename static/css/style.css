@@ -1,0 +1,133 @@
+/*  Base styles */
+body {
+  padding: 0;
+  margin: 0;
+
+}
+
+#map {
+  height: 1200px !important;
+  width: 1600px !important;
+  text-align: center;
+
+}
+
+
+
+.zoom-box {
+  top: 22%; 
+  transform: translate(40%, 100%);
+  position: absolute;
+  margin-top: 20px;
+  padding: 16px;
+  padding-bottom: 3px;
+  font: 16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  z-index: 9999;
+  text-align: center;
+}
+
+.zoom-button {
+  border-radius: 3px;
+  background-color: rgba(27, 27, 27, 0.2);
+  font-size: 14px Arial, Helvetica, sans-serif;
+  padding: 4px;
+  margin-bottom: 5px;
+  width: 100%;
+  margin-right: 0px;
+  margin-left: 0px;
+  text-align: center;
+}
+
+.pulse {
+  animation: blinker 1s linear infinite;
+  box-shadow: 0 0 5px 10px #555;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0.3;
+  }
+}
+
+/* Arrow tip for the toolTip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 40px;
+  width: 100%;
+  line-height: 0.5;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  text-align: center;
+  content: "\25B8";
+  left: 51%;
+  top: 30%;
+  /* this stops the flickering on-and-off with mouse move */
+  pointer-events: none!important; 
+}
+
+hr {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+/* Currently selected axix */
+.axis-label {
+  font-weight: 300;
+  /* color: #979595f8; */
+}
+
+.axis-label.x-label.selected {
+  font-weight: 600 !important;
+  color: 'black'!important;
+  fill: 'black' !important;
+}
+
+.axis-label.y-label.selected {
+  font-weight: 600 !important;
+  /* color: 'black' !important;
+  fill: 'black' !important; */
+}
+
+.selected {
+  fill: 'black' !important;
+}
+
+.axis-label:hover {
+  font-weight: 600 !important;
+}
+
+#search-header {
+  translate: (0,50);
+  background-color: #eeeeee !important;
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  vertical-align: center;
+  height: 50%;
+}
+
+#outer-box {
+  background-color: #eeeeee !important;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#inner-box {
+  background-color: #ffffff !important;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 40px; 
+  display: inline-block;
+}
+
+#logo {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
