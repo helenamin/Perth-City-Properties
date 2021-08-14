@@ -16,7 +16,6 @@ address,suburb,state,postcode,full_address,price,sold date,type,bedrooms,bathroo
 607/108 Terrace Road,East Perth,WA,6004,607/108 Terrace Road East Perth WA 6004,"$839,000",Jul-21,Apartment,3,2,1,148,119,2003,$725pw,Dec-16,Peter Wright,-31.9600184,115.8677491
 33/7-9 Bennett Street,East Perth,WA,6004,33/7-9 Bennett Street East Perth WA 6004,"$400,000",Jul-21,Apartment,2,2,1,110,87,2002,$460pw,Dec-19,Chris O'Brien,-31.96037,115.87071
 9/112-122 Goderich Street,East Perth,WA,6004,9/112-122 Goderich Street East Perth WA 6004,"$180,000",Jul-21,Apartment,1,1,1,50,40,1968,$240pw,Nov-17,Larry Gallagher,-31.9563378,115.8702339
-Lot 186 16 Gardiner Street,East Perth,WA,6004,Lot 186 16 Gardiner Street East Perth WA 6004,"$1,000,000",Jul-21,Land,,,,733,,,,,John Edwards,-31.9406893,115.8799709
 16 Gardiner Street,East Perth,WA,6004,16 Gardiner Street East Perth WA 6004,"$1,000,000",Jul-21,House,2,1,1,732,92,1930,$335pw,Apr-16,,-31.9406893,115.8799709
 1810/8 Adelaide Terrace,East Perth,WA,6004,1810/8 Adelaide Terrace East Perth WA 6004,"$518,888",Jun-21,Apartment,2,1,1,74,74,2014,,,,-31.96126,115.8771577
 20/18 Wellington Street,East Perth,WA,6004,20/18 Wellington Street East Perth WA 6004,"$415,000",Jun-21,Apartment,2,2,1,117,79,2011,,,Brendon Habak,-31.9563843,115.8748959
@@ -96,7 +95,6 @@ Lot 186 16 Gardiner Street,East Perth,WA,6004,Lot 186 16 Gardiner Street East Pe
 3/17 Wickham Street,East Perth,WA,6004,3/17 Wickham Street East Perth WA 6004,"$240,000",Mar-21,Apartment,1,1,0,85,51,2019,,,Brad Triplett,-31.9550656,115.8761358
 907/251 Hay Street,East Perth,WA,6004,907/251 Hay Street East Perth WA 6004,"$650,000",Mar-21,Apartment,2,2,1,144,108,2007,,,Brendon Habak,-31.9583649,115.8708987
 46/18 Wellington Street,East Perth,WA,6004,46/18 Wellington Street East Perth WA 6004,"$445,000",Mar-21,Apartment,2,2,1,118,79,2011,$565pw,Oct-11,,-31.9563843,115.8748959
-3 & 4/46 Joel Terrace,East Perth,WA,6004,3 & 4/46 Joel Terrace East Perth WA 6004,"$425,000",Mar-21,Land,,,,200,,,,,Adam Naumovski,37.09024,-95.712891
 138/181 Adelaide Terrace,East Perth,WA,6004,138/181 Adelaide Terrace East Perth WA 6004,"$569,000",Mar-21,Apartment,2,2,1,118,84,2012,$600pw,Jun-19,Peter Wright,-31.9596519,115.8708104
 55/123 Wellington Street,East Perth,WA,6004,55/123 Wellington Street East Perth WA 6004,"$410,000",Mar-21,Apartment,3,1,1,121,93,2000,$495pw,May-17,Chris O'Brien,-31.9560914,115.8709157
 49/34 East Parade,East Perth,WA,6004,49/34 East Parade East Perth WA 6004,"$415,000",Mar-21,Apartment,1,1,1,96,53,2018,,,Peter Wright,-31.9502251,115.8771398
@@ -214,7 +212,6 @@ Lot 186 16 Gardiner Street,East Perth,WA,6004,Lot 186 16 Gardiner Street East Pe
 140/143 Adelaide Terrace,East Perth,WA,6004,140/143 Adelaide Terrace East Perth WA 6004,"$272,500",Oct-20,Apartment,1,1,1,66,40,2011,$350pw,Sep-20,,-31.9602744,115.8722775
 8/151 Adelaide Terrace,East Perth,WA,6004,8/151 Adelaide Terrace East Perth WA 6004,"$445,000",Oct-20,Apartment,2,2,1,138,89,2008,,,,-31.9601109,115.8717923
 2404/63 Adelaide Terrace,East Perth,WA,6004,2404/63 Adelaide Terrace East Perth WA 6004,"$425,000",Oct-20,Apartment,1,1,1,80,47,2019,$580pw,Oct-20,,-31.9611813,115.8749575
-2/46 Joel Terrace,East Perth,WA,6004,2/46 Joel Terrace East Perth WA 6004,"$430,000",Oct-20,Land,,,,203,,,,,,-31.94308,115.87993
 4 Constitution Street,East Perth,WA,6004,4 Constitution Street East Perth WA 6004,"$719,000",Oct-20,Townhouse,3,2,2,206,110,1996,$590pw,Nov-19,Peter Wright,-31.95414,115.8813
 8/22 Eastbrook Terrace,East Perth,WA,6004,8/22 Eastbrook Terrace East Perth WA 6004,"$890,000",Oct-20,Apartment,3,2,2,185,134,2007,,,Helen Bond,-31.9527009,115.8762513
 67/18 Wellington Street,East Perth,WA,6004,67/18 Wellington Street East Perth WA 6004,"$292,500",Oct-20,Apartment,1,1,1,89,58,2011,$300pw,Oct-17,,-31.9563843,115.8748959
@@ -265,7 +262,6 @@ Lot 1 of 46 Joel Terrace,East Perth,WA,6004,Lot 1 of 46 Joel Terrace East Perth 
 186/143 Adelaide Terrace,East Perth,WA,6004,186/143 Adelaide Terrace East Perth WA 6004,"$450,000",Jul-20,Apartment,2,2,2,123,78,2011,$520pw,Apr-19,,-31.9602744,115.8722775
 2/52 Wickham Street,East Perth,WA,6004,2/52 Wickham Street East Perth WA 6004,"$470,000",Jul-20,Apartment,3,2,1,122,91,2012,$485pw,Jul-18,,-31.9540785,115.8745099
 40 Kensington Street,East Perth,WA,6004,40 Kensington Street East Perth WA 6004,"$950,000",Jul-20,House,3,2,2,237,183,2001,$650pw,Oct-11,,-31.9498697,115.8776152
-4/70 Wittenoom Street,East Perth,WA,6004,4/70 Wittenoom Street East Perth WA 6004,"$275,000",Jul-20,Shop,0,0,1,65,51,2010,,,,-31.9535264,115.8745869
 25/2 Goderich Street,East Perth,WA,6004,25/2 Goderich Street East Perth WA 6004,"$352,500",Jul-20,Apartment,2,1,2,84,84,1982,$440pw,Mar-21,,-31.9578615,115.8750383
 59/43 Wickham Street,East Perth,WA,6004,59/43 Wickham Street East Perth WA 6004,"$486,888",Jul-20,Apartment,2,2,2,115,69,2014,$430pw,Nov-19,,-31.95475,115.87484
 31/11 Regal Place,East Perth,WA,6004,31/11 Regal Place East Perth WA 6004,"$260,000",Jul-20,Apartment,2,1,1,91,70,1999,$320pw,Apr-20,,-31.9537877,115.8770599
