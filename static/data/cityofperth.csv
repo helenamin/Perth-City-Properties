@@ -1,4 +1,4 @@
-,address,suburb,state,postcode,full_address,price,sold_date,type,bedrooms,bathrooms,car_space,land_size,building_size,built_date,rent,rent_date,agent,lat,lng
+,address,suburb,state,postcode,full_address,price,sold_date,property_type,bedrooms,bathrooms,car_space,land_size,building_size,built_date,rent,rent_date,agent,lat,lng
 0,1/10 Pendal Lane,Perth,WA,6000,1/10 Pendal Lane Perth WA 6000,359000.0,2020-01-08,Apartment,2.0,2.0,1.0,96.0,90.0,2003-01-01,470.0,2010-01-06,not recorded,-31.943275099999997,115.8560119
 1,1/10 Wright Street,Perth,WA,6000,1/10 Wright Street Perth WA 6000,355000.0,2020-01-04,Townhouse,2.0,1.0,1.0,62.0,62.0,1979-01-01,340.0,2018-01-10,not recorded,-31.940382399999997,115.8737132
 2,1/308 Stirling Street,Perth,WA,6000,1/308 Stirling Street Perth WA 6000,325000.0,2021-01-05,Unit,2.0,1.0,1.0,59.0,59.0,1965-01-01,300.0,2012-01-04,Peter Thomas,-31.942237899999995,115.86943570000001
