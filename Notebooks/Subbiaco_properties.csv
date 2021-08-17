@@ -1,0 +1,301 @@
+,address,price,sold date,rent,rent date,type,bedrooms,bathrooms,car space,Land size,Building size,agent
+0,9/3 Brigid Road,"$505,000",Aug 2021,$450pw,May 2019,Apartment,1,1,1,"3,437",75,Carl McNeill
+1,36/2 Wexford Street,"$410,000",Aug 2021,$400pw,May 2021,,,,,158,65,Sean Roberts
+2,244 Heytesbury Road,"$1,710,000",Aug 2021,,,House,,,,,,Kirk Bellerby
+3,54/1 Station Street,"$575,000",Aug 2021,$770pw,Dec 2014,Apartment,2,2,2,166,110,Cameron McGregor
+4,59 Heytesbury Road,"$1,800,000",Jul 2021,,,House,3,2,,354,144,
+5,13/172 Bagot Road,"$406,000",Jul 2021,,,Apartment,2,1,1,"1,467",,Samantha Payne
+6,407/18 Atkinson Road,"$325,000",Jul 2021,,,Apartment,1,1,1,,,Brad Raynor
+7,59/1 Station Street,"$545,000",Jul 2021,,,Apartment,2,1,1,"7,942",110,
+8,1/210 Bagot Road,"$550,000",Jul 2021,"$24,950pw",Apr 2016,Apartment,2,2,1,703,,Michelle Ralph
+9,14 Hamilton Street,"$810,000",Jul 2021,,,Townhouse,3,2,3,370,120,Mark Merenda
+10,14 Mere View Way,"$1,285,000",Jul 2021,$850pw,Aug 2018,House,3,2,2,200,,Andy Thorpe
+11,1/3 Brigid Road,"$535,000",Jul 2021,$500pw,Jan 2020,Apartment,2,2,1,103,99,Belinda Airey
+12,170 Townshend Road,"$1,680,000",Jul 2021,,,House,3,2,,447,,Suzy Costanzo
+13,89 Gloster Street,"$1,850,000",Jul 2021,$590pw,Feb 2020,House,4,1,4,521,,Suzy Costanzo
+14,25 Sadlier Street,"$1,150,000",Jul 2021,,,House,3,1,1,,,Suzy Costanzo
+15,42/2 Wexford Street,"$620,000",Jul 2021,$525pw,Feb 2018,,,,,143,50,
+16,17/1 Brigid Road,"$650,000",Jul 2021,$530pw,Oct 2018,Apartment,2,2,2,141,87,Graham Joyce
+17,3/2A Campbell Street,"$678,000",Jul 2021,$560pw,Jul 2021,Apartment,2,1,1,706,,Andy Thorpe
+18,1 Trillo Road,"$1,900,000",Jul 2021,"$1,500pw",May 2021,House,4,2,2,300,285,George Allen
+19,110/30 Hood Street,"$560,000",Jul 2021,,,Apartment,,,,75,,Jayson Watson
+20,4/35 Rupert Street,"$400,000",Jun 2021,$380pw,Jun 2019,Apartment,2,1,1,"1,214",,Belinda Airey
+21,26 Rossello Lane,"$2,200,000",Jun 2021,,,House,4,,,185,,
+22,6 Gloster Street,"$1,940,000",Jun 2021,$850pw,Mar 2015,House,3,2,2,492,,Suzy Costanzo
+23,2/188 Churchill Avenue,"$888,000",Jun 2021,,,,,,,165,120,
+24,35/1 Sheen Street,"$600,000",Jun 2021,$575pw,Dec 2016,Apartment,2,2,2,133,87,Michelle Ralph
+25,102/15 Roydhouse Street,"$390,000",Jun 2021,$410pw,Nov 2018,Apartment,1,1,1,,,Emily Garden
+26,304 Bagot Road,"$1,005,000",Jun 2021,$600pw,Apr 2021,House,3,1,2,241,,
+27,2/1 Brigid Road,"$515,000",Jun 2021,$600pw,Jun 2014,,,,,137,76,
+28,1 Old Jacaranda Way,"$1,700,000",Jun 2021,"$2,000pw",Feb 2011,House,5,3,2,470,334,Michael Hoad
+29,45/2 Wexford Street,"$630,000",Jun 2021,$495pw,Feb 2020,,,,,152,65,Clare Nation
+30,39 Bagot Road,"$1,480,000",Jun 2021,,,House,3,1,3,353,161,Kym and Shane Vasile
+31,8 Tallow Tree Crescent,"$1,100,000",May 2021,$720pw,Jan 2016,Townhouse,3,2,2,892,,Paula Banwell
+32,65D Hay Street,"$615,000",May 2021,$550pw,Feb 2019,Apartment,2,2,1,752,173,Clare Nation
+33,177 Park Street,"$1,250,000",May 2021,,,House,2,1,2,349,,Andrew Cooper
+34,51/1 Station Street,"$380,000",May 2021,,,,,,,84,,Cameron McGregor
+35,3/2 Agnew Way,"$575,000",May 2021,$570pw,Jun 2021,Apartment,2,2,1,141,111,Brendon Habak
+36,87 Olive Street,"$1,330,000",May 2021,$820pw,Mar 2020,House,2,1,1,251,135,
+37,175A Gloster Street,"$2,050,000",May 2021,,,House,3,2,2,,,Suzy Costanzo
+38,107/18 Atkinson Road,"$410,000",May 2021,$450pw,Jul 2021,Apartment,,,,,,Josh Roberts
+39,17/2 Wexford Street,"$595,000",May 2021,$500pw,May 2016,Apartment,2,2,2,162,,Samantha Payne
+40,147 Roberts Road,"$1,200,000",May 2021,,,House,3,2,2,468,147,Emma Milner
+41,42 Coolgardie Street,"$1,410,000",May 2021,$695pw,Jul 2017,House,3,1,3,374,122,Suzy Costanzo
+42,153 Railway Road,"$945,000",May 2021,$700pw,Jun 2021,House,3,2,2,387,,Clare Nation
+43,9/193 Park Street,"$447,000",May 2021,,,,,,,"1,053",,
+44,91 Gloster Street,"$1,550,000",May 2021,$660pw,Aug 2015,House,4,2,2,"5,360",,Niki Peinke
+45,9/4 Centro Avenue,"$535,000",May 2021,$485pw,Sep 2019,,,,,146,125,Anil Singh
+46,1/291 Churchill Avenue,"$980,000",May 2021,,,Townhouse,3,3,2,101,116,Suzy Costanzo
+47,13 Atkinson Road,"$1,625,000",May 2021,,,,,,,235,,
+48,2 Price Street,"$1,180,000",May 2021,$850pw,Mar 2021,House,3,2,2,260,,
+49,8/317 Churchill Avenue,"$740,000",May 2021,$600pw,Aug 2020,Apartment,2,2,2,185,132,Belinda Airey
+50,408/18 Atkinson Road,"$324,000",May 2021,,,Apartment,1,1,1,,,Brad Raynor
+51,3/183 Roberts Road,"$917,500",May 2021,$675pw,Dec 2008,Townhouse,2,3,2,"1,629",,Leanne O'Leary
+52,27 Hay Street,"$795,000",May 2021,,,House,,,,,,
+53,410/2 Wembley Court,"$330,000",Apr 2021,$380pw,Nov 2020,Apartment,1,1,1,54,,Paull Dickson
+54,5 Browne Street,"$1,705,000",Apr 2021,,,House,2,,,554,,Jen Lowe
+55,516/30 Hood Street,"$420,000",Apr 2021,$375pw,May 2017,Apartment,1,1,1,,,Clare Nation
+56,3/454 Roberts Road,"$730,000",Apr 2021,$625pw,Mar 2020,,,,,187,146,
+57,3A View Street,"$1,400,000",Apr 2021,$620pw,Jul 2018,House,3,2,1,382,,Niki Peinke
+58,202/18 Atkinson Road,"$358,000",Apr 2021,,,Apartment,1,1,1,68,,Brad Raynor
+59,4 Coral Tree Avenue,"$1,385,000",Apr 2021,"$1,000pw",Oct 2007,House,3,2,2,200,,Susan Taylor
+60,44 Derby Road,"$776,000",Apr 2021,$620pw,Jun 2021,Townhouse,1,2,2,135,,
+61,1 Ellen Street,"$805,000",Apr 2021,,,Townhouse,2,2,2,158,88,Clare Nation
+62,40 Olive Street,"$1,350,000",Apr 2021,$950pw,Jun 2018,House,4,2,2,272,231,
+63,5/11 Brigid Road,"$340,000",Apr 2021,$420pw,Jun 2015,Apartment,1,1,1,"3,019",,Clare Nation
+64,56/1 Sheen Street,"$335,000",Apr 2021,$340pw,Feb 2018,,,,,"3,397",,
+65,1 Leccino Lane,"$279,300",Apr 2021,,,Apartment,,,,,,
+66,3/150 Hay Street,"$485,000",Apr 2021,$450pw,Apr 2019,Apartment,1,1,1,658,91,Niki Peinke
+67,8/199 Barker Road,"$875,000",Apr 2021,$650pw,May 2014,,,,,"1,094",103,Samantha Payne
+68,306/1 Wexford Street,"$395,000",Apr 2021,$375pw,Dec 2016,Apartment,1,1,1,,,Emily Garden
+69,20 Rawson Street,"$1,625,000",Apr 2021,,,House,3,1,1,,,
+70,202/16 Atkinson Road,"$640,000",Apr 2021,$550pw,Apr 2021,Apartment,2,2,2,68,,Brad Raynor
+71,67 Hensman Road,"$1,800,000",Apr 2021,,,House,3,,,554,160,
+72,157 Railway Road,"$920,000",Mar 2021,$450pw,Sep 2018,House,2,1,2,386,,Samantha Payne
+73,22 Browne Street,"$1,540,000",Mar 2021,$425pw,Jul 2020,House,3,1,1,554,,
+74,101/74 Price Street,"$710,000",Mar 2021,,,Apartment,,,,73,,Kate Gale
+75,314/18 Atkinson Road,"$310,000",Mar 2021,,,Apartment,1,1,1,,,Brad Raynor
+76,8 Price Street,"$880,000",Mar 2021,$795pw,Dec 2008,Townhouse,4,3,2,227,182,Berny Wales
+77,5/276 Barker Road,"$398,000",Mar 2021,$420pw,May 2021,Apartment,1,1,1,366,75,Simon Pigliardo
+78,1/110 Subiaco Road,"$460,000",Mar 2021,,,Townhouse,2,1,1,86,75,Ivan Helman
+79,315/18 Atkinson Road,"$475,000",Mar 2021,,,Apartment,2,1,2,,,Brad Raynor
+80,8/295 Roberts Road,"$625,000",Mar 2021,$495pw,Mar 2010,Townhouse,2,1,2,185,82,Clare Nation
+81,10/346 BARKER Road,"$632,500",Feb 2021,$550pw,Nov 2019,Apartment,2,2,1,181,,Niki Peinke
+82,G01/16 Atkinson Road,"$420,000",Feb 2021,,,Apartment,2,1,2,68,,Brad Raynor
+83,23/102 Townshend Road,"$330,000",Feb 2021,$380pw,Feb 2015,Apartment,1,1,1,"1,625",,Clare Nation
+84,129 Heytesbury Road,"$2,500,000",Feb 2021,,,House,,,,794,,Craig Gaspar
+85,5 Clare Lane,"$1,393,000",Feb 2021,$900pw,Jun 2017,House,3,2,2,200,,Suzy Costanzo
+86,280 Nicholson Road,"$1,240,000",Feb 2021,,,House,4,1,2,445,447,Suzy Costanzo
+87,74 Hensman Road,"$1,620,000",Feb 2021,,,House,3,2,2,374,204,Craig Gaspar
+88,5/380 Roberts Road,"$545,000",Jan 2021,$475pw,Jun 2017,Apartment,2,2,2,144,89,Arash Kalani
+89,611/74 Price Street,"$479,000",Jan 2021,,,Apartment,,,,,,
+90,201 Hamersley Road,"$2,175,000",Jan 2021,,,House,4,2,2,488,,
+91,38 Mere View Way,"$1,260,000",Jan 2021,,,House,4,2,2,,,Niki Peinke
+92,67 Rowland Street,"$1,188,000",Jan 2021,,,House,3,2,2,170,160,Clare Nation
+93,204/16 Atkinson Road,"$585,000",Jan 2021,,,Apartment,2,1,2,68,,Brad Raynor
+94,212 Townshend Road,"$813,000",Jan 2021,,,,,,,396,,Samantha Payne
+95,1/76 Subiaco Road,"$209,000",Dec 2020,$245pw,Sep 2018,,,,,,,
+96,34/3 Brigid Road,"$550,000",Dec 2020,,,,,,,165,110,
+97,21 clare Lane,"$1,910,000",Dec 2020,,,House,4,3,3,284,,
+98,611/26 Hood Street,"$620,000",Dec 2020,$625pw,Jun 2016,Apartment,2,2,2,,,Sven Robertson
+99,40 Axon Street,"$740,000",Dec 2020,,,Townhouse,3,1,2,115,111,Niki Peinke
+100,2/4 Brigid Road,"$1,060,000",Dec 2020,$890pw,Jan 2021,,,,,228,160,Niki Peinke
+101,20 Mere View Way,"$1,210,000",Dec 2020,,,House,3,,,185,208,
+102,102/16 Atkinson Road,"$610,000",Dec 2020,,,Apartment,2,2,1,,,
+103,23/23 Railway Road,"$575,000",Dec 2020,,,Apartment,2,2,2,,,
+104,513/30 Hood Street,"$539,000",Nov 2020,$500pw,Sep 2019,Apartment,2,2,2,133,,
+105,601/74 Price Street,"$1,550,000",Nov 2020,,,Apartment,3,2,4,260,,Vangelis Katsaitis
+106,158 Nicholson Road,"$1,450,000",Nov 2020,,,House,2,1,,522,178,
+107,21 Proclamation Street,"$1,200,000",Nov 2020,$600pw,Apr 2020,House,3,1,2,515,,Simon McGrath
+108,4/68-70 SUBIACO Road,"$480,000",Nov 2020,$410pw,Apr 2019,Townhouse,2,1,1,"1,214",75,
+109,8/1 Brigid Road,"$630,000",Nov 2020,$600pw,Jul 2019,,,,,135,89,
+110,12/11 Heytesbury Road,"$535,000",Nov 2020,$495pw,Aug 2018,Apartment,2,1,1,"1,676",,
+111,322/26 Hood Street,"$448,000",Nov 2020,$480pw,May 2019,,,,,72,,Samantha Payne
+112,308/10 Rokeby Road,"$625,000",Nov 2020,,,Apartment,,,,88,,
+113,252 Heytesbury Road,"$1,950,000",Nov 2020,,,House,3,1,2,660,,
+114,75 Rupert Street,"$1,460,000",Oct 2020,,,House,3,1,2,222,213,Christopher Dee
+115,11/9 Salvado Road,"$330,000",Oct 2020,$350pw,Jan 2019,,,,,"3,396",,
+116,4/9 Brigid Road,"$328,000",Oct 2020,$350pw,Apr 2019,,,,,"3,019",,
+117,10 Hamilton Street,"$620,000",Oct 2020,$600pw,Nov 2020,Townhouse,3,2,,,,
+118,153b Roberts Road,"$597,000",Oct 2020,$600pw,Apr 2021,Townhouse,2,1,2,477,68,Clare Nation
+119,16/100-108 Subiaco Road,"$352,000",Oct 2020,$390pw,Dec 2020,Apartment,2,1,2,,,
+120,22 Park Street,"$1,330,000",Oct 2020,,,House,2,,,334,109,
+121,3/21 Rowland Street,"$545,000",Oct 2020,$500pw,Jan 2021,Apartment,2,2,2,"2,261",93,
+122,3/382 Roberts Road,"$560,000",Oct 2020,$620pw,Dec 2013,Apartment,2,2,2,143,143,
+123,2/278 Barker Road,"$542,000",Oct 2020,$550pw,May 2018,,,,,366,88,
+124,81 Rupert Street,"$1,530,000",Oct 2020,,,House,3,2,2,,,
+125,18 Raphael Street,"$787,000",Oct 2020,,,Townhouse,3,1,2,96,,
+126,1 White Place,"$753,000",Oct 2020,,,House,3,2,,261,118,
+127,208/10 Rokeby Road,"$599,000",Oct 2020,,,Apartment,,,,94,,
+128,8/454 Roberts Road,"$360,000",Oct 2020,,,,,,,"1,301",76,
+129,170 Gloster Street,"$750,000",Oct 2020,,,House,2,1,2,218,,
+130,1/2 Brigid Road,"$1,050,000",Oct 2020,,,Apartment,3,2,2,182,228,
+131,9/2 Centro Avenue,"$550,000",Sep 2020,$550pw,Dec 2015,,,,,"1,013",126,
+132,324/10 Rokeby Road,"$440,000",Sep 2020,,,Apartment,,,,55,,
+133,99 Rowland Street,"$830,000",Sep 2020,$500pw,Dec 2016,House,3,1,1,178,96,Niki Peinke
+134,14 Lawler Street,"$1,110,000",Sep 2020,,,House,3,2,2,284,170,
+135,3/225 Bagot Road,"$556,000",Sep 2020,$550pw,May 2011,,,,,"1,417",86,
+136,82 Hensman Road,"$1,077,000",Sep 2020,,,House,3,1,2,374,,
+137,104/15 Roydhouse Street,"$485,000",Sep 2020,$530pw,Nov 2020,Apartment,2,2,1,102,,
+138,11/33 Hood Street,"$582,000",Sep 2020,$750pw,Jun 2015,Apartment,2,2,2,973,,
+139,108/26 Hood Street,"$580,000",Sep 2020,$560pw,May 2020,Apartment,2,2,2,,,
+140,26 Price Street,"$1,295,000",Sep 2020,"$1,100pw",Mar 2015,House,4,3,2,245,,
+141,333 Roberts Road,"$1,025,000",Sep 2020,,,House,3,2,1,280,157,
+142,1307/10 Rokeby Road,"$890,000",Sep 2020,,,Apartment,,,,118,,Blackburne Team
+143,404/16 Atkinson Road,"$599,000",Sep 2020,,,Apartment,2,2,1,,,
+144,402/16 Atkinson Road,"$600,000",Sep 2020,$500pw,Sep 2020,Apartment,2,2,1,,,
+145,21 Raphael Street,"$975,000",Sep 2020,$600pw,Jun 2018,House,3,1,2,218,145,Clare Nation
+146,102 Gloster Street,"$1,475,000",Sep 2020,$900pw,Jan 2013,House,4,2,2,605,,
+147,8/219 Barker Road,"$785,000",Sep 2020,$495pw,Oct 2009,,,,,"1,676",,
+148,153 Heytesbury Road,"$1,700,000",Sep 2020,,,House,4,1,,522,,Christos Tsokos
+149,409/18 Atkinson Road,"$469,000",Aug 2020,,,Apartment,2,1,2,68,,Glenn O'Connor-Smith
+150,22 Raphael Street,"$638,000",Aug 2020,$550pw,May 2014,Townhouse,2,1,2,91,,
+151,60 Salisbury Street,"$1,320,000",Aug 2020,$700pw,Sep 2020,House,3,1,1,322,,Niki Peinke
+152,184 Park Street,"$1,065,000",Aug 2020,,,House,3,1,2,354,,
+153,2/19 Robinson Street,"$618,000",Aug 2020,,,,,,,,,
+154,26/222 Hay Street,"$293,500",Aug 2020,$360pw,Sep 2020,Apartment,2,1,1,88,,
+155,6/137 Roberts Road,"$545,000",Aug 2020,$390pw,Jan 2019,Townhouse,2,1,2,"1,463",124,
+156,274 Barker Road,"$1,140,000",Jul 2020,,,House,2,1,1,451,,
+157,404/74 Price Street,"$787,500",Jul 2020,,,Apartment,,,,,,
+158,3 Rawson Street,"$1,420,000",Jul 2020,$480pw,Jun 2011,House,4,2,2,465,,
+159,83 Bagot Road,"$955,000",Jul 2020,,,House,3,1,,353,,
+160,58 Denis Street,"$800,000",Jul 2020,,,House,3,,,188,112,Niki Peinke
+161,32 Gloster Street,"$1,900,000",Jul 2020,,,House,4,2,2,521,,
+162,118 Heytesbury Road,"$1,375,000",Jul 2020,,,House,3,2,2,443,127,
+163,10/137 Roberts Road,"$473,100",Jun 2020,$350pw,Oct 2018,,,,,118,76,
+164,45 Union Street,"$1,280,000",Jun 2020,,,House,3,1,2,353,160,
+165,142 Hensman Road,"$810,000",Jun 2020,,,House,3,1,,413,,
+166,17/200 Rokeby Road,"$615,000",Jun 2020,$595pw,Mar 2020,,,,,139,114,
+167,15/21 Rowland Street,"$480,000",Jun 2020,$500pw,Jan 2021,Apartment,2,2,2,141,,
+168,9 Laurino Terrace,"$1,005,000",Jun 2020,,,House,3,2,2,"2,006",280,
+169,108 Denis Street,"$844,000",Jun 2020,$795pw,Feb 2014,,,,,"1,392",124,
+170,12 Coleraine Street,"$1,150,000",Jun 2020,$800pw,Apr 2018,House,4,2,1,343,,
+171,13/27 Hood Street,"$375,000",May 2020,$490pw,Mar 2012,,,,,"1,263",,
+172,93 Redfern Street,"$1,500,000",May 2020,,,House,4,,,544,,
+173,73 Townshend Road,"$875,000",Apr 2020,$600pw,Aug 2011,House,2,2,2,304,130,Niki Peinke
+174,34 Axon Street,"$870,000",Apr 2020,$545pw,Apr 2017,House,2,1,1,409,90,
+175,257 Heytesbury Road,"$950,000",Mar 2020,$395pw,May 2020,House,2,1,2,491,,
+176,59A Bagot Road,"$1,075,000",Mar 2020,$750pw,Aug 2021,House,3,2,2,246,,
+177,5/72 Subiaco Road,"$440,000",Mar 2020,$310pw,Apr 2018,House,2,1,1,,,
+178,103/26 HOOD Street,"$255,300",Mar 2020,,,,,,,,,
+179,8 Brigid Road,"$950,000",Mar 2020,$750pw,Nov 2019,Townhouse,3,2,2,253,190,Annette O'Brien-Oxley
+180,262 York Street,"$1,085,000",Mar 2020,$625pw,Jun 2017,House,2,1,1,406,108,
+181,399 Bagot Road,"$1,015,000",Mar 2020,$800pw,Oct 2012,House,3,3,2,259,,Niki Peinke
+182,10 Kings Road,"$1,010,000",Feb 2020,,,House,3,1,,353,,Niki Peinke
+183,31/1 Roydhouse Street,"$450,000",Feb 2020,,,,,,,122,121,
+184,44 Salisbury Street,"$1,000,000",Feb 2020,$550pw,Mar 2012,House,2,1,1,361,94,
+185,129 Townshend Road,"$1,130,000",Feb 2020,$700pw,Apr 2010,House,3,2,,304,,
+186,10/72 Subiaco Road,"$320,000",Jan 2020,$450pw,Aug 2016,Townhouse,2,1,1,"1,259",,
+187,17 Chester Street,"$1,820,000",Jan 2020,"$1,250pw",Feb 2020,House,5,3,2,448,290,
+188,70/3 Sheen Street,"$360,000",Jan 2020,$415pw,Feb 2019,,,,,"3,396",,
+189,219/5 Wunderlich Road,"$608,200",Jan 2020,,,Apartment,2,2,2,77,,
+190,18/431 Bagot Road,"$480,000",Jan 2020,$400pw,Feb 2018,Townhouse,3,1,1,138,,
+191,212/1 Wexford Street,"$372,500",Jan 2020,$410pw,Jul 2019,Apartment,1,1,1,,,
+192,10/29 Hood Street,"$525,000",Dec 2019,,,Apartment,2,1,1,102,89,
+193,1/99 Roberts Road,"$450,000",Dec 2019,$550pw,Jul 2021,,,,,804,73,
+194,1/11 Brigid Road,"$410,000",Dec 2019,$370pw,Apr 2019,Apartment,2,1,1,,,
+195,10/222 Hay Street,"$417,500",Dec 2019,$620pw,Apr 2021,,,,,"4,309",82,
+196,8 Atkinson Road,"$1,570,000",Dec 2019,"$1,225pw",Feb 2015,House,3,2,2,293,257,
+197,509/30 Hood Street,"$507,500",Dec 2019,,,Apartment,,,,,,
+198,10/200 Rokeby Road,"$860,000",Dec 2019,"$1,100pw",May 2011,,,,,"2,005",125,
+199,152 Nicholson Road,"$1,642,000",Dec 2019,,,House,2,1,,522,185,
+200,11 Finlayson Street,"$1,815,000",Dec 2019,,,House,3,1,,353,,
+201,317/5 Wunderlich Road,"$405,000",Dec 2019,,,Apartment,1,1,2,56,,
+202,101 Park Street,"$1,250,000",Dec 2019,$565pw,Sep 2018,House,3,1,2,370,,
+203,8/7 Centro Avenue,"$1,150,000",Nov 2019,"$1,250pw",Jul 2009,Apartment,3,2,2,280,204,
+204,56 Gloster Street,"$2,010,000",Nov 2019,,,House,6,2,,575,274,
+205,119/5 Wunderlich Road,"$590,000",Nov 2019,,,Apartment,2,2,2,,,
+206,1/11 Heytesbury Road,"$505,000",Nov 2019,$450pw,May 2021,,,,,,,
+207,68 Rupert Street,"$1,460,000",Nov 2019,,,House,3,1,1,322,151,
+208,21/431 BAGOT Road,"$700,000",Nov 2019,,,Townhouse,3,1,1,"3,614",,
+209,316A Rokeby Road,"$1,700,000",Nov 2019,,,House,3,2,2,323,,Jody Fewster
+210,9/346 Barker Road,"$630,000",Nov 2019,,,,,,,91,93,
+211,71 Rowland Street,"$1,180,000",Nov 2019,$850pw,May 2017,House,3,2,2,167,,Niki Peinke
+212,57 Gloster Street,"$1,315,000",Nov 2019,,,House,2,1,,574,,
+213,3/2 White Place,"$485,000",Nov 2019,$425pw,Jan 2018,Townhouse,2,2,1,771,91,
+214,5/256 York Street,"$575,000",Nov 2019,$500pw,Jun 2017,,,,,812,,
+215,325 Roberts Road,"$1,150,000",Nov 2019,,,House,2,2,3,437,132,
+216,214/74 Price Street,"$266,500",Nov 2019,,,Apartment,1,1,,,,
+217,204 Hamersley Road,"$1,750,000",Nov 2019,,,House,4,2,2,517,,
+218,3/384 Roberts Road,"$450,000",Nov 2019,$450pw,Oct 2019,,,,,127,95,
+219,32-34 Park Street,"$871,000",Nov 2019,,,House,2,2,,336,,Niki Peinke
+220,28-30 Park Street,"$871,000",Nov 2019,,,,,,,334,,Niki Peinke
+221,185 Hamersley Road,"$1,920,000",Nov 2019,$950pw,Aug 2017,House,4,3,2,440,295,The Property Exchange - Subiaco
+222,11 Old Jacaranda Way,"$1,019,000",Nov 2019,,,House,3,2,2,202,,
+223,1/202 Nicholson Road,"$415,000",Oct 2019,$475pw,Mar 2015,Apartment,1,1,1,77,,
+224,163 Hamersley Road,"$1,240,000",Oct 2019,$695pw,Mar 2011,House,3,1,,359,145,The Property Exchange - Subiaco
+225,121 Salvado Road,"$1,116,500",Oct 2019,,,House,3,3,2,306,,
+226,9/161 Roberts Road,"$440,000",Oct 2019,$350pw,Jan 2020,Townhouse,2,1,1,74,,
+227,75/1 Station Street (Enter at 1 Roydhouse St),"$529,900",Oct 2019,,,Apartment,2,2,1,,,
+228,4/305 Churchill Avenue,"$612,000",Oct 2019,$440pw,May 2016,Townhouse,3,2,1,,,The Property Exchange - Subiaco
+229,410/74 Price Street,"$273,000",Oct 2019,,,Apartment,1,1,1,,,
+230,608/30 Hood Street,"$515,000",Oct 2019,,,Apartment,2,2,2,,,Mack Hall Real Estate - Claremont
+231,226 Barker Road,"$750,000",Oct 2019,,,House,3,1,1,193,106,
+232,22/222 Hay Street,"$250,000",Oct 2019,$360pw,Aug 2017,Apartment,2,1,1,80,,Bexleys Real Estate - Wembley
+233,18/222 Hay Street,"$405,000",Oct 2019,,,Apartment,3,2,,94,82,Christos Tsokos
+234,109 Coghlan Road,"$908,000",Oct 2019,,,House,2,1,4,329,,
+235,251 Hamersley Road,"$1,350,000",Oct 2019,,,House,3,2,1,491,199,
+236,6/253 Churchill Avenue,"$645,000",Oct 2019,$550pw,Mar 2017,Townhouse,3,1,1,112,,Hub Residential
+237,3/218 York Street,"$280,000",Oct 2019,$300pw,May 2019,Apartment,2,1,1,,,
+238,3/276 Barker Road,"$391,000",Oct 2019,$400pw,Apr 2020,Townhouse,1,1,1,125,80,Riverside Real Estate - Mosman Park
+239,21 Lawler Street,"$2,060,000",Oct 2019,,,House,4,2,2,607,253,The Property Exchange - Subiaco
+240,86 Lawler Street,"$1,075,000",Oct 2019,$870pw,Feb 2015,House,3,1,1,391,156,The Property Exchange - Subiaco
+241,1/26 Hood Street,"$620,000",Sep 2019,,,Apartment,2,2,2,81,,Exclusive Property Perth - LEEDERVILLE
+242,264 Nicholson Road,"$900,000",Sep 2019,$460pw,Apr 2019,House,2,1,2,491,,Attree Real Estate - Southern River
+243,129 Lawler Street,"$1,070,000",Sep 2019,"$1,000pw",Sep 2014,House,4,2,3,353,206,Caporn Young Estate Agents - Claremont
+244,256 Nicholson Road,"$1,400,000",Sep 2019,,,House,4,2,2,491,,
+245,5/370 Barker Road,"$600,000",Sep 2019,$550pw,Nov 2013,House,3,1,1,"3,461",100,Mint Real Estate - Claremont
+246,14/2 Wembley Court,"$295,000",Sep 2019,$310pw,Dec 2018,Apartment,1,1,1,,,
+247,117 Thomas Street,"$950,000",Sep 2019,,,House,3,1,,353,,
+248,43 Bedford Avenue,"$1,770,000",Aug 2019,"$1,100pw",Apr 2017,House,3,2,2,358,267,
+249,13/102 Townshend Road,"$275,000",Aug 2019,$300pw,Jul 2019,Apartment,1,1,1,"1,625",,The Property Exchange - Subiaco
+250,1/2A Campbell Street,"$540,000",Aug 2019,$555pw,Nov 2013,Apartment,2,1,1,,,The Property Exchange - Subiaco
+251,82 Lawler Street,"$1,560,000",Aug 2019,"$1,000pw",Oct 2016,House,3,2,1,458,,The Property Exchange - Subiaco
+252,4/345 Barker Road,"$420,000",Aug 2019,$420pw,Nov 2018,,,,,598,,Tsokos Property - Subiaco
+253,213/74 Price Street,"$279,500",Aug 2019,,,Apartment,1,1,1,,,Realmark Central
+254,80/1 Station Street,"$350,000",Aug 2019,$450pw,Apr 2021,Apartment,1,1,1,"7,942",64,The Property Exchange - Subiaco
+255,32 Mere View Way,"$1,150,000",Jul 2019,$875pw,Jun 2019,House,3,2,2,200,177,Space Real Estate - Cottesloe
+256,2/1 Alvan Street,"$860,000",Jul 2019,,,Apartment,3,3,2,"1,482",235,Caporn Young Estate Agents - Claremont
+257,66 Rupert Street,"$1,250,000",Jul 2019,$640pw,Mar 2010,House,3,1,,322,,
+258,289 Railway Road,"$875,000",Jul 2019,,,House,3,1,2,409,,The Perth Property Co. - PERTH
+259,93 Rupert Street,"$1,325,000",Jul 2019,$800pw,Jul 2019,House,4,2,2,352,,Sale By Home Owner - Australia
+260,209/30 Hood Street,"$525,000",Jul 2019,$525pw,Aug 2017,Apartment,2,2,2,124,75,
+261,156 Nicholson Road,"$1,685,000",Jul 2019,,,House,2,1,1,521,,
+262,11/172 Bagot Road,"$352,000",Jul 2019,$330pw,Jul 2018,Apartment,2,1,1,"1,467",,Mack Hall Real Estate - Claremont
+263,20 Coolgardie Street,"$910,000",Jul 2019,,,,,,,332,,Abel McGrath Property Group
+264,77 Rupert Street,"$1,410,000",Jul 2019,,,House,3,3,2,222,,Abel McGrath Property Group
+265,1/63 Heytesbury Road,"$900,000",Jul 2019,$750pw,Feb 2010,Townhouse,4,2,1,727,,First National Genesis - MOUNT HAWTHORN
+266,51 Lawler Street,"$2,400,000",Jul 2019,,,House,6,3,2,580,,Abel McGrath Property Group
+267,317/30 Hood Street,"$512,000",Jul 2019,,,Apartment,2,2,2,104,,
+268,48 Mere View Way,"$1,100,000",Jul 2019,$925pw,Aug 2017,House,4,2,2,200,,Abel McGrath Property Group
+269,11A Raphael Street,"$1,050,000",Jun 2019,,,Townhouse,3,2,2,250,,
+270,32 Coolgardie Street,"$1,125,000",Jun 2019,$650pw,Jun 2017,House,3,1,2,374,,The Property Exchange - Subiaco
+271,6/276 Barker Road,"$390,000",Jun 2019,$425pw,Jan 2021,Townhouse,1,1,1,366,75,Benade Helman - Wembley
+272,24 Kershaw Street,"$1,500,000",Jun 2019,,,House,3,2,3,323,,
+273,24 Campbell Street,"$1,060,000",Jun 2019,$650pw,Jun 2019,House,3,1,1,353,,Space Real Estate - Cottesloe
+274,26 Lawler Street,"$1,650,000",Jun 2019,,,House,3,1,2,607,,Caporn Young Estate Agents - Claremont
+275,415/74 Price Street,"$305,500",Jun 2019,,,Apartment,2,1,1,,,Realmark Central
+276,7 Jasmine Avenue,"$1,300,000",Jun 2019,"$1,250pw",Jan 2015,House,3,2,2,207,,
+277,2/137 Roberts Road,"$440,000",Jun 2019,$400pw,Dec 2017,,,,,"1,463",61,
+278,610/74 Price Street,"$799,000",Jun 2019,,,,,,,147,,Mint Real Estate - Claremont
+279,189 Hamersley Road,"$2,050,000",Jun 2019,,,House,4,3,2,440,264,The Property Exchange - Subiaco
+280,11/23 Hensman Road,"$295,000",May 2019,,,,,,,"1,488",,
+281,"Level 1, 3/381 Barker Road","$350,000",May 2019,,,,,,,,,
+282,8/431 Bagot Road,"$595,000",May 2019,$520pw,May 2019,Townhouse,3,2,2,111,111,
+283,21/346 Barker Road,"$830,000",May 2019,$600pw,Aug 2018,House,3,2,2,"1,291",106,Space Real Estate - Cottesloe
+284,5/225 Bagot Road,"$480,000",May 2019,$430pw,Jun 2018,Apartment,2,1,1,113,86,Abel McGrath Property Group
+285,91 Rupert Street,"$800,000",May 2019,$380pw,Jan 2008,House,2,1,2,233,95,Central Estate Agents - Subiaco
+286,6/25 Proclamation Street,"$475,000",May 2019,,,Townhouse,2,1,1,80,85,
+287,41 Salisbury Street,"$1,400,000",May 2019,,,House,2,1,1,341,,
+288,283 Roberts Road,"$830,000",Apr 2019,$700pw,Oct 2016,House,4,1,2,"2,415",153,
+289,135 Gloster Street,"$2,075,000",Apr 2019,,,House,4,2,2,576,,
+290,3/381 Barker Road,"$350,000",Apr 2019,$350pw,Nov 2019,,,,,"2,793",,
+291,4/199 Barker Road,"$440,000",Apr 2019,$425pw,May 2015,,,,,,,
+292,7/7 Brigid Road,"$349,000",Apr 2019,$400pw,Sep 2014,,,,,"3,019",,The Property Exchange - Subiaco
+293,311/74 Price Street,"$325,000",Apr 2019,,,Apartment,2,1,1,,,Realmark Central
+294,411/74 Price Street,"$325,000",Apr 2019,,,Apartment,2,1,1,,,Realmark Central
+295,310/74 Price Street,"$299,000",Apr 2019,,,Apartment,1,1,1,,,
+296,23 Heytesbury Road,"$1,675,000",Apr 2019,,,House,4,2,1,,,Space Real Estate - Cottesloe
+297,118 Barker Road,"$1,540,000",Apr 2019,,,House,4,2,1,,,
+298,11 Union Street,"$1,410,000",Apr 2019,,,House,3,2,1,539,,
+299,10/76 Subiaco Road,"$225,000",Mar 2019,$279pw,Jun 2019,Apartment,1,1,1,"2,657",42,Avanti Residential - Subiaco
