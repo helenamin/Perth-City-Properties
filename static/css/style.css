@@ -12,7 +12,18 @@ body {
 
 }
 
+.prediction {
+  max-width: 500px;
+	margin: 0 auto;
+	background:#011627ff;
+	padding: 15px;
+	border-radius: 3px;
+	display: flex;
+	box-shadow: 0 0 5px #011627ff;}
 
+#inputfields {
+  font: 16px Helvetica;
+}
 
 .zoom-box {
   top: 22%; 
