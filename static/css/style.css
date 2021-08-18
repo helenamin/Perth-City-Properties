@@ -11,11 +11,9 @@ body {
   text-align: center;
 
 }
-
 .prediction {
-  max-width: 500px;
+  max-width: 250px;
 	margin: 0 auto;
-	background:#011627ff;
 	padding: 15px;
 	border-radius: 3px;
 	display: flex;
@@ -24,6 +22,12 @@ body {
 #inputfields {
   font: 16px Helvetica;
 }
+
+.preserve-3d {
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+}
+
 
 /* For the Submit Button in the Prediction field */
 
@@ -35,7 +39,7 @@ body {
     top: 50%;
     left: 50%;
     margin-top: -25px;
-    margin-left: -100px;
+    margin-left: -110px;
     width: 80px;
     height: 50px;
     text-align: center;
@@ -51,7 +55,7 @@ body {
 }
 
 .submit {
-    width: 33%;
+    width: 15%;
     height: 100px;
     float: left;
     background-color: #eeeeee;
