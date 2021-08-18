@@ -27,9 +27,32 @@ body {
 
 /* For the Submit Button in the Prediction field */
 
+.button_base {
+    margin: 0;
+    border: 0;
+    font-size: 14px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -100px;
+    width: 80px;
+    height: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-user-select: none;
+    cursor: default;
+}
+
+.button_base:hover {
+    cursor: pointer;
+}
+
 .submit {
     width: 33%;
-    height: 200px;
+    height: 100px;
     float: left;
     background-color: #eeeeee;
     border: 10px;
@@ -114,14 +137,6 @@ body {
     -moz-transform: rotateX(-90deg);
 }
 
-/* ### ### ### 06 */
-.b06_3d_swap {
-    perspective: 500px;
-    -webkit-perspective: 500px;
-    -moz-perspective: 500px;
-    transform-style: preserve-3d;
-    -webkit-transform-style: preserve-3d;
-}
 
 .zoom-box {
   top: 22%; 
