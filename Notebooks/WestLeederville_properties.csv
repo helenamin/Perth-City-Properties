@@ -1,0 +1,301 @@
+,address,price,sold date,type,bedrooms,bathrooms,car space,Land size,agent,rent,rent date,Building size
+0,9/21 Northwood Street,"$680,000",Aug 2021,Apartment,,,,143,Craig Gaspar,,,
+1,4/32 Cambridge Street,"$237,000",Jul 2021,Apartment,1,1,1,"4,059",Emma Taylor 0421331468,,,
+2,8/3 Rosslyn Street,"$1,020,000",Jul 2021,Apartment,3,2,1,646,Ivan Helman,$900pw,Jun 2014,121
+3,71A Tate Street,"$750,000",Jul 2021,,,,,,Craig Gaspar,,,
+4,19 Caddy Avenue,"$945,000",Jul 2021,House,,,,359,,,,
+5,2a Joseph Street,"$1,060,000",Jul 2021,House,4,2,1,355,Craig Gaspar,,,147
+6,7 Nicholson Street,"$800,000",Jul 2021,House,2,1,,304,,$400pw,Jan 2011,
+7,214 Railway Parade,"$1,045,000",Jun 2021,House,3,1,2,465,Craig Gaspar,$550pw,Oct 2018,169
+8,15 Rosmunde Court,"$1,625,000",Jun 2021,House,,,,740,,,,
+9,4/47 Cambridge Street,"$605,000",May 2021,,,,,"1,619",,$450pw,Nov 2016,100
+10,78 Woolwich Street,"$1,270,000",May 2021,House,4,1,1,315,Craig Gaspar,,,
+11,3/71 Cambridge Street,"$635,750",Apr 2021,Townhouse,3,1,2,"1,620",Ivan Helman,$595pw,Feb 2020,
+12,84B Woolwich Street,"$1,472,000",Apr 2021,House,,,,243,Craig Gaspar,"$1,350pw",May 2021,
+13,30/21 Northwood Street,"$380,000",Apr 2021,Apartment,,,,64,Craig Gaspar,,,
+14,45/110 Cambridge Street,"$435,000",Mar 2021,Apartment,1,1,1,93,Craig Gaspar,$420pw,Nov 2019,
+15,143 Tower Street,"$945,000",Mar 2021,House,2,,,324,Michelle McGill,,,
+16,17 Holyrood Street,"$1,300,000",Mar 2021,House,3,1,,411,Libby Bridge,,,134
+17,7/17 Lake Monger Drive,"$730,000",Mar 2021,Townhouse,3,2,1,255,Ivan Helman,$650pw,Oct 2013,155
+18,50/50 Cambridge Street,"$315,000",Mar 2021,Apartment,2,1,1,"4,048",,$330pw,Feb 2019,
+19,18 Blencowe Street,"$1,000,000",Feb 2021,House,3,1,,325,Craig Gaspar,$525pw,Mar 2021,
+20,13B Joseph Street,"$858,000",Feb 2021,House,,,,,Ivan Helman,,,
+21,190 Railway Parade,"$239,000",Feb 2021,Apartment,,,,,Zero Commission Australia,,,
+22,12/29-33 Cambridge Street,"$350,000",Feb 2021,Apartment,2,1,1,69,Louise Simonette,,,69
+23,4/31 Connaught Street,"$550,000",Feb 2021,Apartment,2,2,2,,,$500pw,Nov 2019,
+24,116C Kimberley Street,"$1,100,000",Feb 2021,House,4,3,,365,David Brewer,"$1,000pw",Nov 2020,186
+25,10/75 Cambridge Street,"$210,000",Jan 2021,,,,,"1,620",Max Denn,$300pw,Jan 2021,
+26,98/172 Railway Parade,"$500,000",Jan 2021,Apartment,,,,,,,,
+27,14/37 Cambridge Street,"$185,000",Jan 2021,,,,,"1,000",,$280pw,Jul 2016,
+28,132B Cambridge Street,"$585,000",Jan 2021,Townhouse,2,2,2,379,Ray Jennings,$450pw,Apr 2017,112
+29,134A Cambridge Street,"$595,000",Jan 2021,,,,,209,Ray Jennings,,,
+30,82 Woolwich Street,"$1,180,000",Jan 2021,House,3,1,2,243,Craig Gaspar,$680pw,Dec 2014,147
+31,28-30 CAMBRIDGE STREET,"$2,250,000",Jan 2021,House,4,2,2,809,Vangelis Katsaitis,,,
+32,107/85 Cambridge Street,"$560,000",Jan 2021,Apartment,3,2,2,86,Gino de Mori,$550pw,Sep 2019,
+33,32 Ruislip Street,"$1,420,000",Dec 2020,House,3,,,446,,,,
+34,114/172 Railway Parade,"$505,000",Dec 2020,Apartment,,,,,,,,
+35,106/172 Railway Parade,"$500,000",Dec 2020,Apartment,,,,,,,,
+36,188 Railway Parade,"$935,000",Dec 2020,House,4,1,4,433,Ingrid Bradshaw,$640pw,Jun 2019,
+37,429 Vincent Street West,"$1,380,000",Dec 2020,House,4,2,2,267,,,,
+38,132 St Leonards Avenue,"$1,595,000",Dec 2020,,,,,375,,,,125
+39,6 Barrington Street,"$1,066,000",Dec 2020,House,3,2,2,232,,,,
+40,42A Joseph Street,"$1,010,000",Nov 2020,House,3,1,,380,Michelle McGill,$550pw,May 2016,
+41,120a St Leonards Avenue,"$933,000",Nov 2020,,,,,267,,,,144
+42,29 Antrim Street,"$740,000",Nov 2020,House,3,1,2,304,Ivan Helman,,,
+43,122/172 Railway Parade,"$490,000",Nov 2020,Apartment,,,,,,,,
+44,90a Woolwich Street,"$488,000",Nov 2020,,,,,188,,,,
+45,137/172 Railway Parade,"$525,000",Oct 2020,Apartment,,,,,,,,
+46,68 Woolwich Street,"$1,255,000",Oct 2020,House,3,1,1,361,Craig Gaspar,,,
+47,104 Tate Street,"$1,900,000",Oct 2020,House,4,3,2,613,,,,
+48,44/190-192 Railway Parade,"$255,000",Oct 2020,Apartment,2,1,1,,,,,
+49,94 Tate Street,"$1,550,000",Oct 2020,House,3,1,,613,,,,
+50,107 Tower Street,"$595,000",Oct 2020,,,,,,,$450pw,Apr 2011,
+51,413 Vincent Street West,"$1,235,000",Oct 2020,House,,,,645,,,,
+52,50/172 Railway Parade,"$495,000",Sep 2020,Apartment,,,,,,,,
+53,7 Glen Street,"$930,000",Sep 2020,House,4,1,,314,,,,
+54,125b St Leonards Avenue,"$1,585,000",Sep 2020,House,4,2,2,335,,,,294
+55,96 Kimberley Street,"$1,510,000",Sep 2020,House,3,1,,416,,$510pw,Oct 2009,295
+56,18 Kerr Street,"$661,000",Sep 2020,House,,,,264,,,,106
+57,78B Mccourt Street,"$1,375,000",Sep 2020,House,3,2,2,306,,,,236
+58,11B Joseph Street,"$760,000",Sep 2020,House,,,,380,,,,
+59,21 Kimberley Street,"$768,000",Aug 2020,House,,,,354,,,,
+60,42 Kimberley Street,"$1,085,000",Aug 2020,House,4,2,2,374,,,,
+61,26/172 Railway Parade,"$475,000",Aug 2020,Apartment,,,,,,,,
+62,2B Warwick Street,"$1,035,000",Aug 2020,House,3,2,2,231,Phillip Harvey,$925pw,Nov 2018,
+63,19/110 Cambridge Street,"$540,000",Aug 2020,Apartment,,,,148,,,,
+64,20 Tate Street,"$1,411,000",Aug 2020,House,3,2,,612,,$650pw,Sep 2008,
+65,31 Tate Street,"$1,035,000",Aug 2020,House,,,,612,,,,
+66,49/172 Railway Parade,"$490,000",Jul 2020,Apartment,,,,,,,,
+67,3 Holyrood Street,"$1,750,000",Jul 2020,House,3,1,1,429,,$450pw,Jun 2007,
+68,7/18 Abbotsford Street,"$444,000",Jul 2020,Apartment,2,1,1,"1,074",,$390pw,Nov 2018,85
+69,129/172 Railway Parade,"$513,000",Jul 2020,Apartment,,,,,,,,
+70,64 Kimberley Street,"$1,625,000",Jul 2020,House,5,2,1,498,,,,
+71,105/172 Railway Parade,"$470,000",Jul 2020,Apartment,,,,,,,,
+72,3/148 Cambridge Street,"$487,000",Jun 2020,Townhouse,3,1,2,135,,$395pw,Nov 2016,
+73,42/172 Railway Parade,"$488,000",Jun 2020,Apartment,,,,82,,,,
+74,58/172 Railway Parade,"$505,000",Jun 2020,Apartment,,,,,,,,
+75,98 St Leonards Avenue,"$990,000",Jun 2020,House,3,1,,332,Craig Gaspar,,,132
+76,13/29 Cambridge Street,"$295,000",Jun 2020,,,,,,,$320pw,Feb 2018,
+77,23 Joseph Street,"$1,610,000",Jun 2020,House,3,1,1,688,,,,
+78,7/26-28 St Leonards Avenue,"$310,000",Jun 2020,Apartment,2,1,1,82,,,,
+79,89/172 Railway Parade,"$460,000",May 2020,Apartment,,,,82,,,,
+80,120B St Leonards Avenue,"$840,000",May 2020,House,,,,,Ivan Helman,,,
+81,107A St Leonards Avenue,"$1,300,000",May 2020,House,3,3,2,335,Craig Gaspar,$895pw,Dec 2015,
+82,157 Tower Street,"$1,095,000",May 2020,House,3,2,2,410,,,,185
+83,130/172 Railway Parade,"$510,000",Apr 2020,Apartment,2,2,2,126,,,,
+84,99 St Leonards Avenue,"$1,460,000",Apr 2020,House,3,2,6,670,,,,
+85,114A St Leonards Avenue,"$1,620,000",Mar 2020,House,3,3,3,376,,,,280
+86,85 Northwood Street,"$2,500,000",Mar 2020,House,3,2,2,649,,,,333
+87,125B Tower Street,"$649,000",Mar 2020,House,3,2,2,230,,$525pw,Feb 2020,97
+88,22 Kimberley Street,"$860,000",Mar 2020,House,2,1,3,374,,$440pw,Aug 2008,92
+89,133 Northwood Street,"$865,000",Mar 2020,House,3,1,2,372,,,,
+90,94/172 Railway Parade,"$505,000",Mar 2020,Apartment,2,2,1,82,,,,
+91,81/172 Railway Parade,"$460,000",Mar 2020,Apartment,2,2,1,82,,,,
+92,97 McCourt Street,"$1,300,000",Feb 2020,House,4,3,2,522,Ingrid Bradshaw,,,
+93,56/172 Railway Parade,"$530,000",Feb 2020,Apartment,2,2,2,,,,,
+94,20 Tara Vista,"$1,725,000",Feb 2020,House,4,2,2,"1,004",,,,
+95,24/50 Cambridge Street,"$171,000",Feb 2020,Apartment,1,1,1,"4,048",,,,
+96,12/50 Cambridge Street,"$169,000",Jan 2020,Apartment,1,1,1,"4,048",,$250pw,Feb 2018,
+97,27B Blencowe Street,"$465,000",Jan 2020,Townhouse,1,1,1,138,,$400pw,Jun 2018,
+98,403 Vincent Street West,"$990,000",Jan 2020,House,2,1,2,490,,,,120
+99,72 Tate Street,"$1,360,000",Jan 2020,House,3,2,2,306,,,,
+100,70 TATE STREET,"$1,385,000",Jan 2020,House,3,2,2,306,,,,
+101,9B Kimberley Street,"$950,000",Dec 2019,House,3,2,2,345,,$675pw,Nov 2019,
+102,135/172 Railway Parade,"$570,000",Dec 2019,Apartment,2,1,2,132,,,,
+103,48 Blencowe Street,"$2,050,000",Dec 2019,House,4,2,3,650,,,,215
+104,99/172 Railway Parade,"$475,000",Nov 2019,Apartment,2,2,1,,,,,
+105,3 Glen Street,"$1,035,000",Nov 2019,House,3,2,2,313,,,,198
+106,1/37 Cambridge Street,"$190,000",Nov 2019,,,,,"1,000",,$250pw,Aug 2018,
+107,137 Tower Street,"$1,100,000",Nov 2019,House,3,,,410,,,,122
+108,16 Kimberley,"$755,000",Oct 2019,House,2,1,,374,John Hunter,,,
+109,76 Northwood Street,"$1,330,000",Oct 2019,House,4,2,2,360,,"$1,800pw",Aug 2011,205
+110,90 Woolwich Street,"$739,000",Oct 2019,House,1,1,1,341,,$650pw,Nov 2019,
+111,395 Vincent Street,"$1,005,000",Oct 2019,House,3,2,2,,,,,
+112,92 Blencowe Street,"$2,510,000",Oct 2019,House,4,3,2,"1,088",,,,363
+113,42C Joseph Street,"$1,500,000",Sep 2019,House,4,3,3,271,,,,
+114,318 Railway Parade,"$800,000",Sep 2019,House,2,2,2,326,The Property Exchange - Subiaco,$625pw,Jun 2019,
+115,5/18 Abbotsford Street,"$525,000",Sep 2019,Townhouse,2,2,2,"1,074",Benade Helman - Wembley,$450pw,Feb 2010,88
+116,20/172 Railway Parade,"$500,000",Sep 2019,Apartment,2,2,1,,,,,
+117,86 Blencowe Street,"$1,396,000",Sep 2019,House,3,1,5,649,,$495pw,Nov 2019,
+118,96A McCourt Street,"$1,075,000",Aug 2019,House,3,2,2,,The Property Exchange - Subiaco,$740pw,Jan 2018,
+119,35/172 Railway Parade,"$470,000",Aug 2019,Apartment,2,2,1,,,,,
+120,27/172 Railway Parade,"$460,000",Aug 2019,Apartment,2,2,1,,Realestate 88 Inner City,$565pw,Dec 2020,
+121,1 Lake Monger Drive,"$930,000",Aug 2019,House,3,1,2,382,Bexleys Real Estate - Wembley,$560pw,Sep 2019,
+122,26A Joseph Street,"$1,100,000",Aug 2019,House,3,1,2,379,Edison Property Residential,,,147
+123,83 St Leonards Avenue,"$1,350,000",Aug 2019,House,4,2,3,612,,$925pw,Jan 2021,
+124,3/137 Cambridge Street,"$320,000",Aug 2019,,,,,983,Mark Hay - East Perth,$450pw,Jun 2014,
+125,44/190 Railway Parade,"$190,000",Aug 2019,,,,,,KPR Perth,,,
+126,48/172 Railway Parade,"$510,000",Jul 2019,Apartment,2,2,1,,DevelopWise,,,
+127,41 Coldstream Street,"$900,000",Jul 2019,House,2,2,2,409,Edison Property Residential,$700pw,Oct 2014,170
+128,6/3 Rosslyn Street,"$610,000",Jul 2019,Apartment,3,2,1,,Benade Helman - Wembley,$750pw,Apr 2016,
+129,91 Northwood Street,"$2,100,000",Jul 2019,House,4,3,2,650,Caporn Young Estate Agents - Claremont,,,214
+130,85 St Leonards Avenue,"$755,000",Jul 2019,House,2,1,,306,,,,
+131,2/77 Cambridge Street,"$575,000",Jul 2019,Townhouse,3,1,2,207,Mack Hall Real Estate - Claremont,$450pw,Jul 2018,95
+132,58 Kimberley Street,"$1,320,000",Jul 2019,House,3,1,1,498,Caporn Young Estate Agents - Claremont,,,159
+133,26B Joseph Street,"$1,180,000",Jun 2019,House,4,3,2,270,,,,314
+134,11/172 Railway Parade,"$460,000",Jun 2019,Apartment,2,2,1,,Realestate 88 Inner City,,,
+135,20 Kimberley Street,"$1,075,000",Jun 2019,House,4,1,1,375,,$800pw,Dec 2013,135
+136,17 Joseph Street,"$1,825,000",May 2019,House,5,2,2,678,Edison Property Residential - NORTH PERTH,,,
+137,113 Kimberley Street,"$875,000",May 2019,House,2,1,1,414,Caporn Young Estate Agents - Claremont,,,
+138,21A Connaught Street,"$920,000",Apr 2019,Townhouse,3,2,2,337,Caporn Young Estate Agents - Claremont,,,161
+139,8 Barrington Street,"$1,210,000",Apr 2019,House,4,2,2,390,,,,226
+140,12 Connaught Street,"$1,080,000",Mar 2019,House,4,2,2,427,,$650pw,Jan 2012,189
+141,3 Rosmunde Court,"$1,250,000",Feb 2019,House,4,2,2,520,Caporn Young Estate Agents - Claremont,,,
+142,26 Ruislip Street,"$1,150,000",Feb 2019,House,3,2,2,379,Caporn Young Estate Agents - Claremont,,,
+143,4 Warwick Street,"$875,000",Feb 2019,House,3,1,2,316,Caporn Young Estate Agents - Claremont,$600pw,Mar 2019,129
+144,1B Abbotsford Street,"$360,000",Feb 2019,House,1,1,,168,Mod Property Group - SUCCESS,,,
+145,3A Newnham Street,"$1,030,000",Jan 2019,Townhouse,3,2,2,442,,$650pw,Mar 2019,166
+146,126/172 Railway Parade,"$535,500",Jan 2019,Apartment,2,2,1,,Realestate 88 Inner City,$550pw,May 2019,
+147,4/200 Railway Parade,"$260,000",Jan 2019,,,,,"1,685",Mack Hall - Applecross,$320pw,Jan 2021,67
+148,12/200 Railway Parade,"$280,000",Dec 2018,Apartment,2,1,1,"1,685",Benade Helman - Wembley,$330pw,Apr 2017,
+149,144 Woolwich Street,"$700,000",Dec 2018,House,4,1,2,286,Caporn Young Estate Agents - Claremont,,,
+150,4A Clune Avenue,"$2,000,000",Dec 2018,House,3,2,2,307,Caporn Young Estate Agents - Claremont,,,242
+151,56/40 Cambridge Street,"$205,000",Dec 2018,Apartment,1,1,1,,Benade Helman - Wembley,$240pw,Mar 2019,
+152,10 Barrington Street,"$1,279,000",Nov 2018,House,4,3,2,384,Benade Helman - Wembley,,,218
+153,9/122 Kimberley Street,"$345,000",Nov 2018,Apartment,1,1,1,,Bellmerenda Real Estate,$420pw,Dec 2020,
+154,27 Carlton Street,"$1,340,000",Nov 2018,House,3,2,1,433,Caporn Young Estate Agents - Claremont,,,
+155,101A St Leonards Avenue,"$1,275,000",Nov 2018,House,3,3,2,336,Caporn Young Estate Agents - Claremont,"$1,150pw",Nov 2017,235
+156,42/32 Cambridge Street,"$205,000",Nov 2018,Apartment,1,1,1,"4,051",Mark Hay - East Perth,$240pw,Jun 2020,
+157,131/172 Railway Parade,"$535,000",Nov 2018,Apartment,2,2,1,,DevelopWise,,,
+158,138/172 Railway Parade,"$550,000",Nov 2018,Apartment,2,2,2,,DevelopWise,,,
+159,3 St Leonards Avenue,"$1,375,000",Nov 2018,House,3,2,1,615,Caporn Young Estate Agents - Claremont,$770pw,Jan 2008,162
+160,107/172 Railway Parade,"$495,000",Oct 2018,Apartment,2,2,1,,Realestate 88 Inner City,$580pw,Nov 2020,
+161,123 Kimberley Street,"$1,260,000",Oct 2018,House,3,1,3,486,Caporn Young Estate Agents - Claremont,$900pw,Apr 2008,170
+162,4/10 Kimberley Street,"$687,500",Oct 2018,Townhouse,3,2,2,191,Abel Property - Leederville,$690pw,Jun 2014,121
+163,71 Tate Street,"$1,208,000",20 Oct 2018(Auction),House,4,2,,584,,,,
+164,79B Woolwich Street,"$515,000",Oct 2018,Townhouse,1,1,1,,ACTON Cottesloe,$420pw,Feb 2016,
+165,41 Ruislip Street,"$1,150,000",Oct 2018,House,3,2,2,271,Caporn Young Estate Agents - Claremont,,,150
+166,90/172 Railway Parade,"$475,000",Oct 2018,Apartment,2,2,1,,Realestate 88 Inner City,,,
+167,6 Glen Street,"$890,000",Oct 2018,House,2,2,4,248,Benade Helman - Wembley,,,
+168,1/71 Cambridge Street,"$570,000",Oct 2018,Townhouse,3,1,2,108,The Property Exchange - Subiaco,,,111
+169,4/122 Kimberley Street,"$370,000",Sep 2018,Apartment,1,1,1,,Realmark Urban - Floreat,,,
+170,125 Blencowe Street,"$1,460,000",Sep 2018,House,4,2,2,381,Bellcourt Property Group - Shenton Park,"$1,300pw",Jun 2011,
+171,6/71 Cambridge Street,"$530,000",Sep 2018,Townhouse,3,1,2,,Ken Baker Real Estate - Claremont,,,
+172,5/34-36 McCourt Street,"$560,000",Sep 2018,Townhouse,3,1,1,,The Property Exchange - Subiaco,$490pw,May 2018,
+173,51 Blencowe Street,"$1,850,000",Sep 2018,House,5,2,3,649,Mint Real Estate - Claremont,,,236
+174,19 Kimberley Street,"$860,000",Aug 2018,House,3,2,2,354,Squires Real Estate - Maylands,$700pw,Jan 2020,
+175,73/172 Railway Parade,"$485,000",Aug 2018,Apartment,2,2,1,,DevelopWise,,,
+176,83 Northwood Street,"$1,360,000",Aug 2018,House,3,2,,619,Dempsey Real Estate - South Perth,$550pw,Feb 2020,
+177,57A Northwood Street,"$1,300,000",Aug 2018,House,3,2,2,325,Caporn Young Estate Agents - Claremont,,,229
+178,11B Caddy Avenue,"$1,250,000",Aug 2018,House,3,3,2,231,Growth Realty - Subiaco,,,
+179,4 75 Cambridge Street,"$240,000",Aug 2018,Apartment,1,1,1,"1,620",ACTON Central,,,
+180,48 Northwood Street,"$925,000",Aug 2018,House,3,2,4,243,Benade Helman - Wembley,,,132
+181,23/21 Northwood Street,"$445,000",Aug 2018,,,,,,Acton Projects - SOUTH PERTH,$490pw,Nov 2020,
+182,62 Kimberley Street,"$1,105,000",Jul 2018,House,3,1,2,261,One Agency - North,,,
+183,2/145 Cambridge Street,"$300,000",Jul 2018,Apartment,2,1,1,,Bellmerenda Real Estate,,,
+184,11 Warwick Street,"$750,000",Jul 2018,House,4,2,2,772,Gow Property - Jolimont,$500pw,Aug 2018,
+185,49 Blencowe Street,"$2,200,000",Jul 2018,House,4,2,6,660,Benade Helman - Wembley,"$1,800pw",Mar 2016,165
+186,9/10 Southport Street,"$610,000",Jun 2018,Apartment,3,2,2,972,The Property Exchange - Subiaco,,,
+187,2/145-147 Cambridge Street,"$300,000",Jun 2018,,,,,66,,,,70
+188,41 Blencowe Street,"$1,985,000",Jun 2018,House,4,2,2,773,Caporn Young Estate Agents - Claremont,"$1,300pw",Aug 2018,210
+189,127 Northwood Street,"$1,500,000",Jun 2018,House,4,1,1,995,Ron Farris Real Estate Pty Ltd - South Perth,$450pw,Nov 2018,
+190,5/3 Rosslyn Street,"$695,000",May 2018,Apartment,3,2,1,646,Benade Helman - Wembley,,,121
+191,43 Coldstream Street,"$750,000",May 2018,House,3,3,2,296,Abel McGrath Property Group - Claremont,$695pw,Oct 2014,121
+192,74/172 Railway Parade,"$460,000",May 2018,Apartment,2,2,1,,Burgess Rawson (WA) Pty Ltd - Perth,,,82
+193,93B Northwood Street,"$1,150,000",May 2018,House,4,2,2,309,Centro Estates - Subiaco,,,
+194,9/29 Cambridge Street,"$315,000",May 2018,Apartment,2,1,1,,Benade Helman - Wembley,$345pw,Oct 2017,
+195,65 Woolwich Street,"$820,000",May 2018,House,2,1,2,220,Celsius Property - EAST VICTORIA PARK,$530pw,May 2018,150
+196,100A Kimberley Street,"$860,000",May 2018,House,3,2,2,292,M&M Property Consultant - Leederville,$650pw,Sep 2016,148
+197,76A Kimberley Street,"$1,250,000",Apr 2018,House,3,2,2,233,ALTONA PROPERTY GROUP,,,210
+198,9/29-33 Cambridge Street,"$315,000",Apr 2018,,,,,"2,619",,$360pw,Sep 2017,69
+199,46 Kimberley Street,"$1,125,000",Apr 2018,House,3,1,1,451,Caporn Young Estate Agents - Claremont,$720pw,Apr 2018,190
+200,57/110 Cambridge Street,"$810,000",Mar 2018,,,,,,Abel McGrath Property Group - Claremont,$695pw,Sep 2020,
+201,51 Cambridge Street,"$725,000",Mar 2018,House,3,3,,514,Benade Helman - Wembley,,,
+202,40/110 Cambridge Street,"$597,788",Mar 2018,Apartment,2,2,2,,Aviva Property,$520pw,Dec 2016,
+203,20 Bernard Street,"$1,400,000",Mar 2018,House,3,2,2,240,M&M Property Consultant - Leederville,$990pw,Apr 2018,188
+204,93 Kimberley Street,"$1,110,000",Mar 2018,House,3,2,2,416,Benade Helman - Wembley,,,
+205,142 Cambridge Street,"$1,475,000",Mar 2018,,,,,682,,,,
+206,8/75 Cambridge Street,"$230,000",Mar 2018,,,,,"1,620",Liquid Property - Subiaco,$230pw,Oct 2018,
+207,5/47 Cambridge Street,"$630,000",Mar 2018,Townhouse,3,1,2,185,Ron Farris Real Estate Pty Ltd - South Perth,,,100
+208,15/122 Kimberley Street,"$535,000",Mar 2018,Apartment,2,2,2,,,,,
+209,117A St Leonards Avenue,"$858,000",Mar 2018,Townhouse,4,2,2,348,Abel Property - Leederville,$680pw,Aug 2016,
+210,7/31 Connaught Street,"$515,000",Feb 2018,Apartment,2,2,1,,Bellmerenda Real Estate,,,
+211,5/26 St Leonards Avenue,"$635,000",Feb 2018,Apartment,3,1,2,,Realmark - Coastal,$575pw,Oct 2020,
+212,9/50 Oxford Close,"$643,500",Feb 2018,,,,,140,,,,
+213,6/31 Connaught Street,"$520,000",Feb 2018,Apartment,2,2,2,,Bellmerenda Real Estate,,,
+214,58/40 Cambridge Street,"$213,000",Feb 2018,,,,,"4,049",Avenue One Property Group - Perth,$185pw,Aug 2018,
+215,142 Woolwich Street,"$1,400,000",Feb 2018,House,4,3,2,316,Benade Helman - Wembley,"$1,400pw",Feb 2018,
+216,5/26-28 St Leonards Avenue,"$635,000",Feb 2018,,,,,207,,$550pw,Mar 2018,100
+217,68 St Leonards Avenue,"$2,000,000",Feb 2018,House,3,2,1,650,,,,215
+218,13/122 Kimberley Street,"$535,000",Feb 2018,Apartment,2,2,2,,Altitude Real Estate - Subiaco,$490pw,May 2020,
+219,16/122 Kimberley Street,"$550,000",Feb 2018,Apartment,2,2,2,,Altitude Real Estate - Subiaco,,,
+220,24 Ruislip Street,"$2,270,000",Jan 2018,House,4,2,2,733,Caporn Young Estate Agents - Claremont,,,329
+221,47/172 Railway Parade,"$350,000",Jan 2018,Apartment,1,1,1,,,$400pw,Sep 2019,
+222,68 Kimberley Street,"$955,000",Jan 2018,House,3,2,1,267,Caporn Young Estate Agents - Claremont,,,153
+223,30/172 Railway Parade,"$350,000",Jan 2018,Apartment,1,1,1,,Burgess Rawson (WA) Pty Ltd - Perth,$440pw,Feb 2019,79
+224,7/3 Rosslyn Street,"$900,000",Dec 2017,Apartment,3,2,1,264,Caporn Young Estate Agents - Claremont,,,122
+225,39 Joseph Street,"$1,725,000",Dec 2017,House,5,2,3,688,Acton Cottesloe - Peppermint Grove,,,243
+226,22 Joseph Street,"$1,250,000",Dec 2017,House,3,2,1,584,Caporn Young Estate Agents - Claremont,$450pw,Aug 2016,217
+227,4/51 Tate Street,"$302,000",Dec 2017,Apartment,2,1,1,"1,270",M&M Property Consultant - Leederville,$250pw,Jan 2011,
+228,92 Tate Street,"$1,710,000",Dec 2017,House,5,3,2,613,Realty Lane - NORTH BEACH,,,170
+229,12/122 Kimberley Street,"$539,000",Dec 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,$480pw,Mar 2018,
+230,51/40 Cambridge Street,"$332,000",Dec 2017,Apartment,2,1,1,"4,049",Benade Helman - Wembley,$350pw,Sep 2020,64
+231,2/17 Lake Monger Drive,"$755,000",Dec 2017,Townhouse,3,2,2,"2,337",Realmark Central,,,142
+232,9 Glen Street,"$1,245,000",Dec 2017,House,4,2,1,628,Abel Property - Leederville,,,103
+233,51B St Leonards Avenue,"$1,750,000",Dec 2017,House,4,3,2,306,Caporn Young Estate Agents - Claremont,,,268
+234,27 Brighton Street,"$760,000",Nov 2017,House,3,1,,312,Bellcourt Property Group - Dalkeith | Shenton Park,$615pw,Apr 2015,
+235,18/122 Kimberley Street,"$555,000",Nov 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,,,
+236,67 Woolwich Street,"$1,030,000",Nov 2017,House,3,1,1,368,Caporn Young Estate Agents - Claremont,,,114
+237,15a Caddy Avenue,"$1,700,000",Nov 2017,House,4,3,2,359,Growth Realty - Subiaco,"$1,100pw",Feb 2019,213
+238,78 St Leonards Avenue,"$1,615,000",25 Nov 2017(Auction),House,3,2,,647,Abel Property - Leederville,,,288
+239,17/122 Kimberley Street,"$550,000",Nov 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,,,
+240,62/172 Railway Parade,"$345,000",Nov 2017,Apartment,1,1,1,,Burgess Rawson Residential - Perth,$385pw,May 2017,
+241,7 Caddy Avenue,"$960,000",Nov 2017,House,3,1,1,347,Abel Property Subiaco,$460pw,Nov 2010,
+242,11/122 Kimberley Street,"$545,000",Nov 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,$510pw,Oct 2020,
+243,4 Caddy Avenue,"$940,000",Nov 2017,House,3,2,2,345,Caporn Young Estate Agents - Claremont,,,165
+244,71 Kimberley Street,"$1,910,000",Nov 2017,House,4,2,2,721,Altitude Real Estate - Subiaco,,,315
+245,1/122 Kimberley Street,"$628,000",Nov 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,,,
+246,10/122 Kimberley Street,"$649,000",Nov 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,$550pw,Mar 2019,
+247,76B Kimberley Street,"$1,200,500",Oct 2017,House,3,2,2,223,ALTONA PROPERTY GROUP,,,
+248,104/172 Railway Parade,"$375,000",Oct 2017,Apartment,1,1,1,,Burgess Rawson Projects - PERTH,,,
+249,29 Carlton Street,"$1,100,000",Oct 2017,House,3,1,1,433,Caporn Young Estate Agents - Claremont,$695pw,Aug 2021,129
+250,12/50 Oxford Close,"$1,800,000",Oct 2017,,,,,874,,,,
+251,7/119 Kimberley Street,"$320,000",Oct 2017,,,,,240,,$465pw,Aug 2019,104
+252,8/122 Kimberley Street,"$425,000",Oct 2017,Apartment,2,2,2,,Realmark Urban - Subiaco,,,
+253,10/172 Railway Parade,"$527,500",Oct 2017,Apartment,2,2,1,,,$575pw,Jan 2021,
+254,144 Tower Street,"$1,260,000",Oct 2017,House,4,2,,294,Abel Property - Leederville,$880pw,Jul 2019,217
+255,10/196 Railway Parade,"$325,000",Sep 2017,,,,,67,Benade Helman - Wembley,,,70
+256,1/31 Connaught Street,"$592,500",Sep 2017,Apartment,2,2,2,,Bellmerenda Real Estate,,,
+257,9/3-7 Abbotsford Street,"$325,000",Sep 2017,,,,,"2,251",M&M Property Consultant - Leederville,$350pw,Nov 2020,
+258,5/31 Connaught Street,"$560,000",Sep 2017,Apartment,2,2,2,,Bellmerenda Real Estate,$430pw,Jul 2020,
+259,76C Kimberley Street,"$1,200,000",Sep 2017,House,3,2,2,223,ALTONA PROPERTY GROUP,,,
+260,45/172` Railway Parade,"$585,000",Sep 2017,Apartment,2,2,1,87,Burgess Rawson Projects - PERTH,,,
+261,148 Tower Street,"$752,500",Sep 2017,House,3,1,,294,One Agency West Coast - FLOREAT,,,116
+262,9/31 Connaught Street,"$545,000",Aug 2017,Apartment,2,2,1,,Bellmerenda Real Estate,,,
+263,4/172 Railway Parade,"$525,000",Aug 2017,Apartment,2,2,1,82,Burgess Rawson (WA) Pty Ltd - Perth,$480pw,Sep 2017,82
+264,5A Ruislip Street,"$1,085,000",Aug 2017,House,3,2,2,243,Mint Real Estate - Claremont,,,160
+265,8 Southport Street,"$1,156,000",17 Aug 2017(Auction),,,,,468,Burgess Rawson - Perth,,,360
+266,7 Holyrood Street,"$1,100,000",Aug 2017,House,4,2,2,429,Abel Property - Leederville,$650pw,May 2019,120
+267,4/10 Southport Street,"$420,000",Jul 2017,,,,,972,Acton - Dalkeith,,,106
+268,15 Tara Vista,"$800,000",Jul 2017,,,,,803,,,,
+269,55a Woolwich Street,"$885,000",Jul 2017,House,3,2,2,267,Acton Cottesloe - Peppermint Grove,$530pw,Feb 2011,109
+270,326A Railway Parade,"$275,000",Jul 2017,House,4,2,2,,,,,
+271,14/172 Railway Parade,"$367,000",Jul 2017,Apartment,1,1,1,,Burgess Rawson (WA) Pty Ltd - Perth,,,
+272,63 Blencowe Street,"$2,200,000",Jul 2017,House,4,3,2,503,Caporn Young Estate Agents - Claremont,,,
+273,25/212 Railway Parade,"$390,000",Jul 2017,,,,,"4,143",Acton Cottesloe - Peppermint Grove,$325pw,Mar 2017,59
+274,27/21 Northwood Street,"$505,000",Jul 2017,Apartment,2,1,,,Psaros Realty - West Leederville,,,
+275,3 Kerr Street,"$661,880",Jul 2017,House,2,1,,304,Lena Burrows,$460pw,Aug 2017,
+276,16/50 Cambridge Street,"$195,000",Jun 2017,Apartment,1,1,1,"4,048",Paxton Hoad - Cottesloe,$300pw,Mar 2021,40
+277,23 Cambridge Street,"$850,000",Jun 2017,House,3,1,4,539,Benade Helman - Wembley,,,100
+278,73/50 Cambridge Street,"$192,000",Jun 2017,Apartment,1,1,1,,Mack Hall Real Estate - Claremont,$285pw,Nov 2018,
+279,1/29 Cambridge Street,"$390,000",Jun 2017,Apartment,2,1,1,,Perth Property Partners - CITY BEACH,$360pw,Dec 2020,
+280,5/21 Northwood Street,"$554,000",Jun 2017,Apartment,2,2,,,Psaros Realty - West Leederville,$470pw,Mar 2020,
+281,14/3-7 Abbotsford Street,"$325,000",May 2017,,,,,"2,251",Internet Realty - Kingsley,$350pw,Oct 2020,65
+282,314 Railway Parade,"$820,000",May 2017,House,3,1,,576,Caporn Young Estate Agents - Claremont,,,
+283,123 Cambridge Street,"$1,300,000",May 2017,,,,,406,,,,70
+284,27/23 Northwood Street,"$505,000",May 2017,Apartment,2,1,1,,DevelopWise,,,
+285,10/31 Connaught Street,"$535,000",May 2017,Apartment,2,2,1,,Bellmerenda Real Estate,,,
+286,18/29 Cambridge Street,"$357,000",May 2017,Apartment,2,1,1,,Benade Helman - Wembley,,,
+287,77 McCourt Street,"$990,000",May 2017,House,3,2,4,541,Professionals Michael Johnson and Co - Mt Lawley,,,
+288,2/150 Cambridge Street,"$507,000",May 2017,Townhouse,1,1,1,137,Benade Helman - Wembley,,,79
+289,3/31 Connaught Street,"$595,000",May 2017,Apartment,2,2,1,,Bellmerenda Real Estate,,,
+290,56/110 Cambridge Street,"$975,000",May 2017,Apartment,3,2,2,"1,907",Paxton Hoad - Cottesloe,,,109
+291,30/50 Cambridge Street,"$245,000",Apr 2017,Apartment,2,1,1,"4,056",Benade Helman - Wembley,$300pw,Apr 2017,
+292,8B Joseph Street,"$925,000",Apr 2017,House,3,2,2,533,Space Real Estate - Cottesloe,$690pw,Nov 2016,155
+293,88 Blencowe Street,"$1,750,000",01 Apr 2017(Auction),House,3,1,,907,Realmark West - Floreat,$750pw,Jan 2021,164
+294,97 Woolwich Street,"$1,625,000",Mar 2017,House,4,2,2,501,Abel Property - Leederville,,,316
+295,8 St Leonards Avenue,"$1,725,000",Mar 2017,House,4,2,1,536,Growth Realty - Subiaco,,,282
+296,14/110 Cambridge Street,"$580,000",Mar 2017,Apartment,2,2,1,79,M&M Property Consultant - Leederville,$460pw,Jun 2020,79
+297,23 Brighton Street,"$740,000",Mar 2017,House,3,1,2,304,Acton - Dalkeith,$525pw,Nov 2015,
+298,102 Kimberley Street,"$1,125,000",Mar 2017,House,3,2,1,291,Caporn Young Estate Agents - Claremont,$750pw,Sep 2019,175
+299,18 Southport Street,"$1,300,000",Mar 2017,,,,,445,Burgess Rawson - Perth,,,445
