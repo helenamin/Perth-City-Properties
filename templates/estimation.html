@@ -48,6 +48,66 @@
                 <p>Prediction</p><hr>
                 <!-- div for the leaflet map here -->
                  <div id="map"></div>
+                    <div class="prediction">
+                      <div id ="inputfields">
+                        <p><b><u>Input for Predictions</b></u></p>
+                          <div>
+                            <label for="Bedroom">Bedroom: </label><br>
+                              <input type="range" id="bed" name="Bedroom" min="0" max="10" value="5" step="1" oninput="bedroom_range.value = bed.value">
+                                <output id="bedroom_range">5</output>
+                          </div>
+  
+                          <div>
+                            <label for="Bathroom">Bathroom: </label><br>
+                              <input type="range" id="bath" name="Bathroom" min="0" max="6" value="3" step="1" oninput="bathroom_range.value = bath.value">
+                                <output id="bathroom_range">3</output>
+                          </div>
+
+                          <div>
+                            <label for="CarSpaces">Car Spaces: </label><br>
+                              <input type="range" id="car" name="CarSpaces" min="0" max="10" value="5" step="1" oninput="carspaces_range.value = car.value">
+                                <output id="carspaces_range">3</output>
+                          </div>
+  
+                  <hr>
+                          <div>
+                            <label for="landsize">Land Size: </label><br>
+                              <input type="text" id="land" name="land_size" placeholder="eg. 460">
+                          </div>
+
+                          <div>
+                            <label for="built">Built Size: </label><br>
+                              <input type="text" id="built" name="built_size" placeholder="eg. 250">
+                          </div>
+
+                          <div>
+                            <label for="builtdate">Built Date: </label><br>
+                              <input type="text" id="builtdate" name="built_date" placeholder="eg. 1900 - 2020">
+                          </div>
+                  <hr>
+                        
+                          <div>
+                            <label for="suburbs">Choose Suburb:</label>
+                              <select name="suburbs" id="suburbs">
+                                <option value="perth">Perth</option>
+                                <option value="eastperth">East Perth</option>
+                                <option value="westperth">West Perth</option>
+                                <option value="crawley">Crawley</option>
+                                <option value="northbridge">Northbridge</option>
+                                <option value="nedlands">Nedlands</option>
+                              </select>
+                          </div>
+                  <br>
+                  <br>
+                        <div class="submit">
+                          <div class="button_base b05_3d_roll">
+                            <div>Submit</div>
+                            <div>Submit</div>
+                          </div>
+                        </div>
+
+                  </div>
+              
             </div>
           </div>
         </div>
