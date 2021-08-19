@@ -59,3 +59,32 @@ function errorcatch() {
   console.log(bedroom, bathroom, carspace,landsize,builtsize,builtyear,suburb)
 
 }
+
+d3.select("#submit_this").on("click",()=>{
+  console.log("Clicked!")
+  var bedroom = document.getElementById("bedroom_range").value;
+  var bathroom = document.getElementById("bathroom_range").value;
+  var carspace = document.getElementById("carspaces_range").value;
+  var landsize = document.getElementById("land").value;
+  var builtsize = document.getElementById("built").value;
+  var builtyear= document.getElementById("builtdate").value;
+  var suburb = document.getElementById("suburbs").value;
+  
+  console.log(bedroom, bathroom, carspace,landsize,builtsize,builtyear,suburb)
+
+  d3.json('/api/v1.0/predict', {
+      method:"POST",
+      body: JSON.stringify({
+        Bedroom: bedroom,
+        Bathroom: bathroom,
+        Car_Spaces: carspace,
+        Land_Size: landsize,
+        Built_Size: builtsize,
+        Built_Year: builtyear,
+        Suburb: suburb
+      }),headers: {
+        "Content-type": "application/json; charset=UTF-8"
+      }
+    }).then(data=>{console.log(data.result)})
+    //
+})

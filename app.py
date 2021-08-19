@@ -1,6 +1,3 @@
-from flask import Flask, jsonify
-from flask import render_template, redirect
-
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
@@ -8,6 +5,7 @@ from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify
 from flask import render_template, redirect , request
+import logging
 
 #################################################
 # Database Setup
@@ -40,19 +38,63 @@ def home():
     if request.method == "POST":
         
         #get form data
-        bedroom = request.form.get('bedroom')
-        bathroom = request.form.get('bathroom')
-        carspace = request.form.get('carspace')
-        landsize = request.form.get('landsize')
-        builtsize = request.form.get('builtsize')
-        builtyear = request.form.get('builtyear')
-        suburb = request.form.get('suburb')
-        
-        # Return template and data
-        return render_template("estimation.html")
-    pass
+        bedroom = request.form.get('bedroom_range')
+        bathroom = request.form.get('bathroom_range')
+        carspace = request.form.get('carspaces_range')
+        landsize = request.form.get('land')
+        builtsize = request.form.get('built')
+        builtyear = request.form.get('builtdate')
+        suburb = request.form.get('suburbs')
+        test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
+        app.logger.info(test_data)
+         #call preprocessDataAndPredict and pass inputs
+        # try:
+            # test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
+            # print(test_data)
+        #     # prediction = preprocessDataAndPredict(
+        #     #     bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb)
+        #     # #pass prediction to template
+    return render_template('index.html')
+   
+        # except ValueError:
+        #     return "Please Enter valid values"
+  
+        # pass
+        # pass
+# def preprocessDataAndPredict(
+#     bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb):
+    
+#     #keep all inputs in array
+#     test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
+#     print(test_data)
+    
+    # #convert value data into numpy array
+    # test_data = np.array(test_data)
+    
+    # #reshape array
+    # test_data = test_data.reshape(1,-1)
+    # print(test_data)
+    
+    # #open file
+    # file = open("randomforest_model.pkl","rb")
+    
+    # #load trained model
+    # trained_model = joblib.load(file)
+    
+    # #predict
+    # prediction = trained_model.predict(test_data)
+    
+    # return prediction
+    
+    # pass
 
+    # pass
 
+@app.route("/api/v1.0/predict", methods=['GET','POST'])
+def predict():
+    data = request.json
+    print(data)
+    return {"result": "Hi!"} #all data function should be here
 
 
 
