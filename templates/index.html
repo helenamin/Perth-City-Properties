@@ -1,61 +1,273 @@
-<!doctype html>
-<html lang="en">
-
+<!DOCTYPE HTML>
+<html>
 <head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-  <!-- Regular CSS -->
-  <link rel="stylesheet" href="../static/css/style.css">
-
-  <title>Perth City Properties</title>
+<title>Perth Property Prices</title>
+<meta charset="utf-8">
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet">
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="../static/css/5grid/init.js?use=mobile,desktop"></script>
+<script src="../static/js/jquery.formerize-1.1.js"></script>
+<script src="../static/js/init.js"></script>
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css" />
+<noscript>
+<link rel="stylesheet" href="../static/css/5grid/core.css">
+<link rel="stylesheet" href="../static/css/5grid/core-desktop.css">
+<link rel="stylesheet" href="../static/css/5grid/core-1200px.css">
+<link rel="stylesheet" href="../static/css/5grid/core-noscript.css">
+<link rel="stylesheet" href="../static/css/style.css">
+<link rel="stylesheet" href="../static/css/style-desktop.css">
+<link rel="stylesheet" href="../static/css/noscript.css">
+<link rel="stylesheet" href="../static/css/yearpicker.css">
+</noscript>
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="css/ie8.css">
+<![endif]-->
 </head>
+<body class="homepage">
+<div id="wrapper">
+  <nav id="nav"> 
+  <a href="#home" class="icon icon-home active"><span>Introduction</span></a> 
+  <a href="#story" class="icon icon-book"><span>Story</span></a> 
+  <a href="#predict" class="icon icon-album"><span>Predictions</span></a> 
+  <a href="#about" class="icon icon-info"><span>About</span></a> </nav>
+  <div id="main">
+    <article id="home" class="panel">
+      <header>
+        <h1>Project 3</h1>
+        <span class="byline">Perth Properties</span> </header>
+      <a href="#story" class="jumplink pic"> <span class="jumplink arrow icon icon-right"><span>Next Page</span></span> <img src="" alt="screenshot of project"> </a> </article>
+    <article id="story" class="panel">
+      <header>
+        <h2>Perth Properties Story</h2><hr> 
+        <!-- explain what is the project and a snippet on the data -->
+      </header>
 
-<body>
-<!-- Navigation bar -->
-  <div class="container">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-       
-    <ul class="nav nav-tabs w-100 nav-justified">
-        <li class="nav-item">
-          <a class="nav-link active" href="{{ url_for('home')}}">Dashboard</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url_for('estimation')}}">Price Estimation</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url_for('about')}}">About</a>
-        </li>
-      </ul>
-  </nav>
+      <section class="5grid is-gallery">
+	   <div id="story">
+      <div class='tableauPlaceholder' id='viz1629287665104' style='position: relative'><noscript>
+			<a href='#'><img alt='Bike Trips - July to December 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_16277367443490&#47;CitiBikeStory&#47;1_rss.png' style='border: none' /></a>
+			</noscript><object class='tableauViz' style='display:none;'>
+			<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+			<param name='embed_code_version' value='3' /> 
+			<param name='site_root' value='' />
+			<param name='name' value='Citibike_16277367443490&#47;CitiBikeStory' />
+			<param name='tabs' value='no' />
+			<param name='toolbar' value='yes' />
+			<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_16277367443490&#47;CitiBikeStory&#47;1.png' /> 
+			<param name='animate_transition' value='yes' />
+			<param name='display_static_image' value='yes' />
+			<param name='display_spinner' value='yes' />
+			<param name='display_overlay' value='yes' />
+			<param name='display_count' value='yes' />
+			<param name='language' value='en-US' />
+			</object></div>                
+			<script type='text/javascript'>                    
+			var divElement = document.getElementById('viz1629287665104');                    
+			var vizElement = divElement.getElementsByTagName('object')[0];                    
+			vizElement.style.width='1200px';vizElement.style.height='900px';                    
+			var scriptElement = document.createElement('script');                    
+			scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+			vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+			</script>
+    </div>
+      </section>
+    </article>
+	
+    <article id="predict" class="panel">
+      <header>
+        <h2>Property Prediction</h2>
+		<hr>
+      </header>
+	    <section class="5grid is-gallery">
+        <div class="container">
+      <div class= "row">
+        <div class="column">
+				<!-- div for the leaflet map here -->
+                 <div id="map"></div>
+        </div>
+        <div class="column">
+    <div id="prediction">
+      <div id ="inputfields">
+        <p><b><u>Input for Predictions</b></u></p>
+          <div>
+            <label for="Bedroom">Bedroom: </label><br>
+              <input type="range" id="bed" name="Bedroom" min="0" max="10" value="5" step="1" oninput="bedroom_range.value = bed.value">
+                <output id="bedroom_range">5</output>
+          </div>
+
+          <div>
+            <label for="Bathroom">Bathroom: </label><br>
+              <input type="range" id="bath" name="Bathroom" min="0" max="6" value="3" step="1" oninput="bathroom_range.value = bath.value">
+                <output id="bathroom_range">3</output>
+          </div>
+
+          <div>
+            <label for="CarSpaces">Car Spaces: </label><br>
+              <input type="range" id="car" name="CarSpaces" min="0" max="10" value="5" step="1" oninput="carspaces_range.value = car.value">
+                <output id="carspaces_range">3</output>
+          </div>
+
+  <hr>
+          <div>
+            <label for="landsize">Land Size: </label><br>
+              <input type="text" id="land" name="land_size"
+onkeypress="return onlyNumberKey(event)" 
+maxlength="4" placeholder="eg. 460">
+          </div>
+
+          <div>
+            <label for="built">Built Size: </label><br>
+              <input type="text" id="built" name="built_size"
+onkeypress="return onlyNumberKey(event)" 
+maxlength="4" placeholder="eg. 250">
+          </div>
+
+          <div> 
+            <label for="builtdate">Built Date: </label><br>
+              <input type="text" id="builtdate" name="built_date" 
+onkeypress="return onlyNumberKey(event)" maxlength="4"
+placeholder="eg. 1900 - 2020">
+          </div>
+
+          <!-- <div>
+            <input type="text" class="yearpicker form-control" value="" />
+          </div> -->
+          <!--Try this https://www.jqueryscript.net/time-clock/Year-Picker-Text-Input.html -->
+  <hr>
+        
+          <div>
+            <label for="suburbs">Choose Suburb:</label><br>
+              <select name="suburbs" id="suburbs">
+                <option value="perth">Perth</option>
+                <option value="eastperth">East Perth</option>
+                <option value="westperth">West Perth</option>
+                <option value="crawley">Crawley</option>
+                <option value="northbridge">Northbridge</option>
+                <option value="nedlands">Nedlands</option>
+              </select>
+          </div>
+  <br>
+  <br>
+        <div class="submit">
+          <button type="button" class="button_base b05_3d_roll"onclick="errorcatch()"><div>Submit</div><div>Submit</div></button>
+
+        </div>
+          </div>
+        </div>
+
+
+      
+          </div>
+        
+    </div> 
+				  
+</section>
+    </article>
+	
+	<article id="about" class="panel">
+<h2>About</h2><hr>
+
+  
+            <h4>Team</h4>
+            <p>Our group consists of two members and this project is a part of our Bootcamp in Data Analytics,
+               organised by University of Western australia. </p> 
+            <table>
+              <tr>
+			  <td><a href="https://github.com/helenamin" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/78719440?v=4" width=240px alt="Helen's Profile Image"></a>
+			  <b>Helen Amin</b></td>
+              <td><a href="https://foofx88.github.io" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/78995824?v=4"width=240px alt="FX's Profile Image"></a>
+			  <b>FX Foo</b></td>
+			  </tr>
+            </table>
+
+            <h4>Aim</h4>
+             <p>The aim of this project is to assist potential buyers and investors to get a better predicted property price.
+			 We've utilised Machine Learning Model to train existing dataset for better accuracy.
+			 Potential buyers and investors can then explore the properties in the City of Perth through the visualised story board. </p>                
+
+            
+            <h4>Future Developments</h4>
+        
+            <ul>
+             <li>To expand the current scope to include more suburbs around WA or even Australia</li>
+             <li>Train Machine Learning model for Apartments and Units. This was not included in the current project as there are many factors involve in determining
+              the price for an Apartment and Unit such as views, building and location</li>
+             <li>Include school catchments area, amenities such as shops, public transports to improve predictions</li>                
+            </ul>
+
+            <h4>Datasets</h4>
+
+            <ol>
+             <li><a href="http://house.speakingsame.com/" target="_blank">http://house.speakingsame.com/</a></li>
+			 <li><a href="https://www.onthehouse.com.au/" target="_blank">https://www.onthehouse.com.au/</a></li>
+			 <li><a href="https://www.propertyvalue.com.au/" target="_blank">https://www.propertyvalue.com.au/</a></li>			 
+            </ol>            
+      </section>
+    </article>
+	
+	
   </div>
-<br>
-
-<div class="container" id="outer-box">
+  <div id="footer">
+    <ul class="links">
       
-    <div class="row">
-    
-      <div class="col-lg-12" id="inner-box">
-      
-            <!-- LINE PLOT -->
-            <div id="story"></div>
-            <!-- Tableau Test -->
-            <div class='tableauPlaceholder' id='viz1629287665104' style='position: relative'><noscript><a href='#'><img alt='Bike Trips - July to December 2020 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_16277367443490&#47;CitiBikeStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Citibike_16277367443490&#47;CitiBikeStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;Citibike_16277367443490&#47;CitiBikeStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1629287665104');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1024px';vizElement.style.height='795px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-    
-      </div>
-    
-    </div>       
-    
-  </div>      
 
+      <p>Built modified version of Astral from <a href="http://html5up.net/">HTML5 Up!</a></p>
+    </ul>
+  </div>
+</div>
+
+<!-- Optional JavaScript -->
+  
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+
+  <!-- essential js files for charts -->
+    <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.js"></script>
+  <!-- D3 JavaScript -->
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- Our JavaScript -->
+  <script type="text/javascript" src="../static/js/config.js"></script>
+  <script type="text/javascript" src="../static/js/logic.js"></script>
+
+  <!-- for year picker -->
+  <script src="../static/js/yearpicker.js"></script>
+<script>
+  $('.yearpicker').yearpicker({
+    onShow:null,
+    onHide:null,
+    onChange:function(value){}
+  });
+</script>
 
 
 </body>
-
 </html>
+
+
+  <!-- Error catch for inputs
+<input id="demo" type="text">
+<button type="button" onclick="myFunction()">Test Input</button>
+<p id="p01"></p>
+
+<script>
+function myFunction() {
+  const message = document.getElementById("p01");
+  message.innerHTML = "";
+  let x = document.getElementById("demo").value;
+  try {
+    if(x == "") throw "empty";
+    if(isNaN(x)) throw "not a number";
+    x = Number(x);
+    if(x < 5) throw "too low";
+    if(x > 10) throw "too high";
+  }
+  catch(err) {
+    message.innerHTML = "Input is " + err;
+  }
+}
+</script>
+
+-->
