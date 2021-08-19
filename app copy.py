@@ -34,25 +34,29 @@ app = Flask(__name__)
 #################################################
 
 @app.route("/")
-@app.route("/home/", methods=['GET','POST'] )
+@app.route("/home")
 def home():
 
-    if request.method == "POST":
-        
-        #get form data
-        bedroom = request.form.get('bedroom')
-        bathroom = request.form.get('bathroom')
-        carspace = request.form.get('carspace')
-        landsize = request.form.get('landsize')
-        builtsize = request.form.get('builtsize')
-        builtyear = request.form.get('builtyear')
-        suburb = request.form.get('suburb')
-        
-        # Return template and data
-        return render_template("estimation.html")
-    pass
+    # Return template and data
+    return render_template("index.html")
 
 
+
+
+@app.route("/about")
+def about():
+
+    # Return template and data
+    return render_template("about.html")
+
+
+
+
+@app.route("/estimation" )
+def estimation():
+
+    # Return template and data
+    return render_template("estimation.html")
 
 
 
