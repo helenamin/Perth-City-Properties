@@ -1,11 +1,19 @@
-import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
+from sqlalchemy import create_engine
 
 from flask import Flask, jsonify
-from flask import render_template, redirect , request
-import logging
+from flask import render_template, request
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import GridSearchCV
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
+from sklearn.linear_model import Lasso
+import joblib
+from tensorflow.keras.models import load_model
 
 #################################################
 # Database Setup
@@ -32,72 +40,62 @@ app = Flask(__name__)
 #################################################
 
 @app.route("/")
-@app.route("/home/", methods=['GET','POST'] )
+@app.route("/home")
 def home():
-
-    if request.method == "POST":
-        
-        #get form data
-        bedroom = request.form.get('bedroom_range')
-        bathroom = request.form.get('bathroom_range')
-        carspace = request.form.get('carspaces_range')
-        landsize = request.form.get('land')
-        builtsize = request.form.get('built')
-        builtyear = request.form.get('builtdate')
-        suburb = request.form.get('suburbs')
-        test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
-        app.logger.info(test_data)
-         #call preprocessDataAndPredict and pass inputs
-        # try:
-            # test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
-            # print(test_data)
-        #     # prediction = preprocessDataAndPredict(
-        #     #     bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb)
-        #     # #pass prediction to template
     return render_template('index.html')
-   
-        # except ValueError:
-        #     return "Please Enter valid values"
-  
-        # pass
-        # pass
-# def preprocessDataAndPredict(
-#     bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb):
-    
-#     #keep all inputs in array
-#     test_data = [bedroom,bathroom,carspace,landsize,builtsize,builtyear,suburb]
-#     print(test_data)
-    
-    # #convert value data into numpy array
-    # test_data = np.array(test_data)
-    
-    # #reshape array
-    # test_data = test_data.reshape(1,-1)
-    # print(test_data)
-    
-    # #open file
-    # file = open("randomforest_model.pkl","rb")
-    
-    # #load trained model
-    # trained_model = joblib.load(file)
-    
-    # #predict
-    # prediction = trained_model.predict(test_data)
-    
-    # return prediction
-    
-    # pass
 
-    # pass
 
+# for Price Prediction
 @app.route("/api/v1.0/predict", methods=['GET','POST'])
 def predict():
     data = request.json
     print(data)
-    return {"result": "Hi!"} #all data function should be here
+
+    suburb = data['Suburb']
+    
 
 
+    house = pd.read_csv("static/data/house.csv")
 
+    # Assign the data to X and y
+    X = house[["bedrooms", "bathrooms", "car_space", "land_size", "building_size", "built_date", "perth", "west_perth", "east_perth", "northbridge", "crawley", "nedlands"]]
+    y = house["price"].values.reshape(-1, 1)
+    
+    X_train, X_test, y_train, y_test = train_test_split(X, y)
+
+    # Create a StandardScater model and fit it to the training data
+    X_scaler = StandardScaler().fit(X_train)
+    y_scaler = StandardScaler().fit(y_train)
+
+    # Load the best Model
+    my_model = joblib.load("best_model.pkl")
+    # my_model = load_model("keras_model_trained.h5")
+
+    # X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],1,0,0,0,0,0]])
+
+    if suburb == "perth":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],1,0,0,0,0,0]])
+    elif suburb == "west_perth":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,1,0,0,0,0]])
+    elif suburb == "east_perth":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,1,0,0,0]]) 
+    elif suburb == "northbridge":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,0,1,0,0]]) 
+    elif suburb == "crawley":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,0,0,1,0]]) 
+    elif suburb == "nedlands":
+        X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,0,0,0,1]]) 
+
+    print(X_test)
+
+    predictions = my_model.predict(X_test)
+    result = y_scaler.inverse_transform(predictions)[0].round(decimals=0)
+    print(result)
+
+    return {"result": result } #all data function should be here
+
+
+# Perth City API
 @app.route("/api/v1.0/perthcity")
 def perthcity():
     # Create our session (link) from Python to the DB

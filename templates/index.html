@@ -77,92 +77,93 @@
     <article id="predict" class="panel">
       <header>
         <h2>Property Prediction</h2>
-		<hr>
+		    <hr>
       </header>
 	    <section class="5grid is-gallery">
         <div class="container">
-      <div class= "row">
-        <div class="column">
-				<!-- div for the leaflet map here -->
-                 <div id="map"></div>
-        </div>
-        <div class="column">
-    <div id="prediction">
-      <div id ="inputfields">
-        <p><b><u>Input for Predictions</b></u></p>
-          <div>
-            <label for="Bedroom">Bedroom: </label><br>
-              <input type="range" id="bed" name="Bedroom" min="0" max="10" value="5" step="1" oninput="bedroom_range.value = bed.value">
-                <output id="bedroom_range">5</output>
-          </div>
+          <div class= "row">
+            <div class="column">
+				      <!-- div for the leaflet map here -->
+              <div id="map"></div>
+            </div>
+            <div class="column">
+              <div id="prediction">
+                <div id ="inputfields">
 
-          <div>
-            <label for="Bathroom">Bathroom: </label><br>
-              <input type="range" id="bath" name="Bathroom" min="0" max="6" value="3" step="1" oninput="bathroom_range.value = bath.value">
-                <output id="bathroom_range">3</output>
-          </div>
+                  <p><b><u>Input for Predictions</b></u></p>
 
-          <div>
-            <label for="CarSpaces">Car Spaces: </label><br>
-              <input type="range" id="car" name="CarSpaces" min="0" max="10" value="5" step="1" oninput="carspaces_range.value = car.value">
-                <output id="carspaces_range">3</output>
-          </div>
+                  <div>
+                    <label for="Bedroom">Bedroom: </label><br>
+                    <input type="range" id="bed" name="Bedroom" min="0" max="10" value="5" step="1" oninput="bedroom_range.value = bed.value">
+                    <output id="bedroom_range">5</output>
+                  </div>
 
-  <hr>
-          <div>
-            <label for="landsize">Land Size: </label><br>
-              <input type="text" id="land" name="land_size"
-onkeypress="return onlyNumberKey(event)" 
-maxlength="4" placeholder="eg. 460">
-          </div>
+                  <div>
+                    <label for="Bathroom">Bathroom: </label><br>
+                    <input type="range" id="bath" name="Bathroom" min="0" max="6" value="3" step="1" oninput="bathroom_range.value = bath.value">
+                    <output id="bathroom_range">3</output>
+                  </div>
 
-          <div>
-            <label for="built">Built Size: </label><br>
-              <input type="text" id="built" name="built_size"
-onkeypress="return onlyNumberKey(event)" 
-maxlength="4" placeholder="eg. 250">
-          </div>
+                  <div>
+                    <label for="CarSpaces">Car Spaces: </label><br>
+                    <input type="range" id="car" name="CarSpaces" min="0" max="10" value="5" step="1" oninput="carspaces_range.value = car.value">
+                    <output id="carspaces_range">3</output>
+                  </div>
 
-          <div> 
-            <label for="builtdate">Built Date: </label><br>
-              <input type="text" id="builtdate" name="built_date" 
-onkeypress="return onlyNumberKey(event)" maxlength="4"
-placeholder="eg. 1900 - 2020">
-          </div>
+                  <hr>
+                  <div>
+                    <label for="landsize">Land Size: </label><br>
+                    <input type="text" id="land" name="land_size" onkeypress="return onlyNumberKey(event)" maxlength="4" placeholder="eg. 460">
+                  </div>
 
-          <!-- <div>
-            <input type="text" class="yearpicker form-control" value="" />
-          </div> -->
-          <!--Try this https://www.jqueryscript.net/time-clock/Year-Picker-Text-Input.html -->
-  <hr>
+                  <div>
+                    <label for="built">Built Size: </label><br>
+                    <input type="text" id="built" name="built_size" onkeypress="return onlyNumberKey(event)" maxlength="4" placeholder="eg. 250">
+                  </div>
+
+                  <div> 
+                    <label for="builtdate">Built Date: </label><br>
+                    <input type="text" id="builtdate" name="built_date" onkeypress="return onlyNumberKey(event)" maxlength="4" placeholder="eg. 1900 - 2020">
+                  </div>
+
+                  <!-- <div>
+                    <input type="text" class="yearpicker form-control" value="" />
+                  </div> -->
+                  <!--Try this https://www.jqueryscript.net/time-clock/Year-Picker-Text-Input.html -->
+                  <hr>
         
-          <div>
-            <label for="suburbs">Choose Suburb:</label><br>
-              <select name="suburbs" id="suburbs">
-                <option value="perth">Perth</option>
-                <option value="eastperth">East Perth</option>
-                <option value="westperth">West Perth</option>
-                <option value="crawley">Crawley</option>
-                <option value="northbridge">Northbridge</option>
-                <option value="nedlands">Nedlands</option>
-              </select>
-          </div>
-  <br>
-  <br>
-        <div class="submit">
-          <button type="button" id="submit_this" class="button_base b05_3d_roll" ><div>Submit</div><div>Submit</div></button>
+                  <div>
+                    <label for="suburbs">Choose Suburb:</label><br>
+                      <select name="suburbs" id="suburbs">
+                        <option value="perth">Perth</option>
+                        <option value="eastperth">East Perth</option>
+                        <option value="westperth">West Perth</option>
+                        <option value="crawley">Crawley</option>
+                        <option value="northbridge">Northbridge</option>
+                        <option value="nedlands">Nedlands</option>
+                      </select>
+                  </div>
 
-        </div>
-          </div>
-        </div>
+                  <br>
+                  <br>
+
+                  <div class="submit">
+                    <button type="button" id="submit_this" class="button_base b05_3d_roll" >
+                      <div>Submit</div>
+                      <div>Submit</div>
+                    </button>
+                  </div>
+
+                </div>
+              </div>
 
 
       
-          </div>
+            </div>
         
-    </div> 
-				  
-</section>
+          </div> 
+        </div>	  
+      </section>
     </article>
 	
 	<article id="about" class="panel">
@@ -241,7 +242,6 @@ placeholder="eg. 1900 - 2020">
     onChange:function(value){}
   });
 </script>
-
 
 </body>
 </html>
