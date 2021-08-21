@@ -77,7 +77,7 @@ for (var i = 0; i < suburbs.length; i++) {
 
     // Adding layer to control the map
 
-myMap.invalidateSize();
+myMap();
 
 		
 		
