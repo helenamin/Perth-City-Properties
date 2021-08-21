@@ -68,16 +68,17 @@ def predict():
     y_scaler = StandardScaler().fit(y_train)
 
     # Load the best Model
-    my_model = joblib.load("best_model.pkl")
+    # my_model = joblib.load("best_model.pkl")
+    my_model = joblib.load("ML_Model/best_model.pkl")
     # my_model = load_model("keras_model_trained.h5")
 
     # X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],1,0,0,0,0,0]])
 
     if suburb == "perth":
         X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],1,0,0,0,0,0]])
-    elif suburb == "west_perth":
+    elif suburb == "westp":
         X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,1,0,0,0,0]])
-    elif suburb == "east_perth":
+    elif suburb == "eastp":
         X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,1,0,0,0]]) 
     elif suburb == "northbridge":
         X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],0,0,0,1,0,0]]) 

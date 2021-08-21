@@ -75,14 +75,6 @@ for (var i = 0; i < suburbs.length; i++) {
 
 
 
-    // Adding layer to control the map
-
-myMap();
-
-		
-		
-		
-
 //for inputs limit
  function onlyNumberKey(evt) {
           
@@ -116,7 +108,7 @@ d3.select("#submit_this").on("click",()=>{
   var builtyear= document.getElementById("builtdate").value;
   var suburb = document.getElementById("suburbs").value;
   
-  console.log(bedroom, bathroom, carspace,landsize,builtsize,builtyear,suburb)
+  console.log(bedroom, bathroom, carspace,landsize,builtsize,builtyear,suburb) 
 
   d3.json('/api/v1.0/predict', {
       method:"POST",
@@ -148,6 +140,39 @@ d3.select("#submit_this").on("click",()=>{
       //   location = [-31.9810 , 115.8039];
       // }
     
-    })
+      //to zoom and to add results on map
+      if (suburb == "perth") {
+         myMap.setView([-31.9523 , 115.8613], 17);
+         L.marker([-31.9523 , 115.8613])
+          .bindPopup("<h2>Perth</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+      } else if (suburb == "westp") {
+         myMap.setView([-31.9463 , 115.8448], 17);
+         L.marker([-31.9463 , 115.8448])
+          .bindPopup("<h2>West Perth</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+      } else if (suburb == "eastp") {
+          myMap.setView([-31.9608 , 115.8746], 17);
+          L.marker([-31.9608 , 115.8746])
+          .bindPopup("<h2>East Perth</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+      } else if (suburb == "northbridge") {
+          myMap.setView([-31.9470 , 115.8574], 17);
+          L.marker([-31.9470 , 115.8574])
+          .bindPopup("<h2>Northbridge</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+      } else if (suburb == "crawley") {
+          myMap.setView([-31.9814 , 115.8205], 17);
+          L.marker([-31.9814 , 115.8205])
+          .bindPopup("<h2>Crawley</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+      } else if (suburb == "nedlands") {
+          myMap.setView([-31.9810 , 115.8039], 17);
+          L.marker([-31.9810 , 115.8039])
+          .bindPopup("<h2>Nedlands</h2><hr><h3>Predicted Price:</h3><br> <b>$" +data.result+ "</b>")
+          .addTo(myMap);
+    }
     //
+})
+
 })
