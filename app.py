@@ -13,7 +13,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import Lasso
 import joblib
-from tensorflow.keras.models import load_model
+import math
 
 #################################################
 # Database Setup
@@ -50,11 +50,9 @@ def home():
 def predict():
     data = request.json
     print(data)
-
+    
     suburb = data['Suburb']
     
-
-
     house = pd.read_csv("static/data/house.csv")
 
     # Assign the data to X and y
@@ -90,7 +88,11 @@ def predict():
     print(X_test)
 
     predictions = my_model.predict(X_test)
-    result = y_scaler.inverse_transform(predictions)[0].round(decimals=0)
+    exact_value = y_scaler.inverse_transform(predictions)[0].round(decimals=0)
+    mse = 0.1300
+    min_value = math.trunc(exact_value * (1-mse))
+    max_value = math.trunc(exact_value * (1+mse))
+    result = f"${min_value} - ${max_value}"
     print(result)
 
     return {"result": result } #all data function should be here
