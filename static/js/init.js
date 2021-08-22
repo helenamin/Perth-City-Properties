@@ -60,9 +60,9 @@ _5grid.ready(function() {
 
 				_body.h5u_reposition = function() {
 					if (isTouch && (window.orientation == 0 || window.orientation == 180))
-						_wrapper.css('padding-top', Math.max(((_window.height() - (panels[activePanelId].outerHeight() + _footer.outerHeight())) / 2.6) - _nav.height(), 10) + 'px');
+						_wrapper.css('padding-top', Math.max(((_window.height() - (panels[activePanelId].outerHeight() + _footer.outerHeight())) / 2.5) - _nav.height(), 30) + 'px');
 					else
-						_wrapper.css('padding-top', (((_window.height() - panels[firstPanelId].height()) / 2.6) - _nav.height()) + 'px');
+						_wrapper.css('padding-top', (((_window.height() - panels[firstPanelId].height()) / 2.5) - _nav.height()) + 'px');
 				};
 				
 			// Panels
