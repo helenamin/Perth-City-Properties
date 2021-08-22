@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="../static/css/style.css">
 <link rel="stylesheet" href="../static/css/style-desktop.css">
 <link rel="stylesheet" href="../static/css/noscript.css">
-<link rel="stylesheet" href="../static/css/yearpicker.css">
+
 </noscript>
 <!--[if lte IE 8]>
 <link rel="stylesheet" href="css/ie8.css">
@@ -34,13 +34,13 @@
   <div id="main">
     <article id="home" class="panel">
       <header>
-        <h1>Perty Property Price</h1>
+        <h2 style="text-align:center">City of Perth Property Price</h2><hr>
       </header>
         <ul> <b>This project sets out to answer the following :</b>
           <li>🏡 What are the price range of each suburb?</li>
           <li>🏠 What are the property type that people are interested in buying?</li>
           <li>🏡 Which age range does the sold properties mostly fall under? </li>
-          <li>🏠 Think about Parking???</li>
+          <li>🏠 Does the number of car park affect property price?</li>
           <li>🏡 What are the key factors that are impacting the property price?</li>
           <li>🏠 Are some properties better to rent or buy? </li>
           <li>🏡 How much is the return of investment? </li>
@@ -50,7 +50,7 @@
     </article>
     <article id="story" class="panel">
       <header>
-        <h2>Perth Properties Story</h2><hr> 
+        <h2 style="text-align:center">City of Perth Properties Story</h2><hr> 
         <!-- explain what is the project and a snippet on the data -->
       </header>
 
@@ -89,7 +89,7 @@
 	
     <article id="predict" class="panel">
       <header>
-        <h2>Property Prediction</h2>
+        <h2 style="text-align:center">Property Prediction</h2>
 		    <hr>
       </header>
 	    <section class="5grid is-gallery">
@@ -139,10 +139,6 @@
                     <input type="text" id="builtdate" name="built_date" onkeypress="return onlyNumberKey(event)" maxlength="4" placeholder="eg. 1900 - 2020">
                   </div>
 
-                  <!-- <div>
-                    <input type="text" class="yearpicker form-control" value="" />
-                  </div> -->
-                  <!--Try this https://www.jqueryscript.net/time-clock/Year-Picker-Text-Input.html -->
                   <hr>
         
                   <div>
@@ -167,6 +163,16 @@
                     </button>
                   </div>
 
+                  <!-- The Modal -->
+                  <div id="myModal" class="modal" style=display:none>
+
+                   <!-- Modal content -->
+                  <div id="modal-content">
+                  <p id="input_error"></p>
+                  <button class="close">Try Again</button>
+                  </div>
+                    </div>
+
                 </div>
               </div>
 
@@ -180,7 +186,7 @@
     </article>
 	
 	<article id="about" class="panel">
-<h2>About</h2><hr>
+<h2 style="text-align:center">About</h2><hr>
 
   
             <h4>Team</h4>
@@ -246,41 +252,7 @@
   <script type="text/javascript" src="../static/js/config.js"></script>
   <script type="text/javascript" src="../static/js/logic.js"></script>
 
-  <!-- for year picker -->
-  <script src="../static/js/yearpicker.js"></script>
-<script>
-  $('.yearpicker').yearpicker({
-    onShow:null,
-    onHide:null,
-    onChange:function(value){}
-  });
-</script>
 
 </body>
 </html>
 
-
-  <!-- Error catch for inputs
-<input id="demo" type="text">
-<button type="button" onclick="myFunction()">Test Input</button>
-<p id="p01"></p>
-
-<script>
-function myFunction() {
-  const message = document.getElementById("p01");
-  message.innerHTML = "";
-  let x = document.getElementById("demo").value;
-  try {
-    if(x == "") throw "empty";
-    if(isNaN(x)) throw "not a number";
-    x = Number(x);
-    if(x < 5) throw "too low";
-    if(x > 10) throw "too high";
-  }
-  catch(err) {
-    message.innerHTML = "Input is " + err;
-  }
-}
-</script>
-
--->
