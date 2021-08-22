@@ -69,9 +69,9 @@ window.onclick = function(event) {
   }
 
     try {
-        if(year == ""){ throw "Please Input Built Year. Range 1920-2021";}
-        else if(year < 1900) {throw "Input value for Built Year out of range.<br> Try Range 1920 - 2021"; }
-        else if(year > 2021) {throw "Input value for Built Year out of range.<br> Try Range 1920 - 2021"; }
+        if(year == ""){ throw "Please Input Built Year. Range 1900-2021";}
+        else if(year < 1900) {throw "Input value for Built Year out of range.<br> Try Range 1900 - 2021"; }
+        else if(year > 2021) {throw "Input value for Built Year out of range.<br> Try Range 1900 - 2021"; }
         else {var builtyear = year;}
       }
       catch(err3) {
