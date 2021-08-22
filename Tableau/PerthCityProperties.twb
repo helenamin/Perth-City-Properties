@@ -17,7 +17,6 @@
     <SheetIdentifierTracking />
     <SortTagCleanup />
     <WindowsPersistSimpleIdentifiers />
-    <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
   <preferences>
@@ -3816,66 +3815,6 @@
               <bucket>&quot;[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[pcto:cnt:price:qk]&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:car_space:ok]' palette='blue_teal_10_0' type='palette'>
-            <map to='#2c5985'>
-              <bucket>10.0</bucket>
-            </map>
-            <map to='#306c94'>
-              <bucket>6.0</bucket>
-            </map>
-            <map to='#3482a4'>
-              <bucket>5.0</bucket>
-            </map>
-            <map to='#3c97b2'>
-              <bucket>4.0</bucket>
-            </map>
-            <map to='#57abbe'>
-              <bucket>3.0</bucket>
-            </map>
-            <map to='#79bec8'>
-              <bucket>2.0</bucket>
-            </map>
-            <map to='#99d0d0'>
-              <bucket>1.0</bucket>
-            </map>
-            <map to='#bce4d8'>
-              <bucket>0.0</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:property_type:nk]' palette='purple_pink_gray_10_0' type='palette'>
-            <map to='#8074a8'>
-              <bucket>&quot;Apartment&quot;</bucket>
-            </map>
-            <map to='#9c9290'>
-              <bucket>&quot;Villa&quot;</bucket>
-            </map>
-            <map to='#c46487'>
-              <bucket>&quot;Townhouse&quot;</bucket>
-            </map>
-            <map to='#c6c1f0'>
-              <bucket>&quot;House&quot;</bucket>
-            </map>
-            <map to='#ffbed1'>
-              <bucket>&quot;Unit&quot;</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[Built Date (group)]' type='palette'>
-            <map to='#1ba3c6'>
-              <bucket>&quot;1941-1970&quot;</bucket>
-            </map>
-            <map to='#57a337'>
-              <bucket>&quot;2001 and after&quot;</bucket>
-            </map>
-            <map to='#7873c0'>
-              <bucket>&quot;1971-2000&quot;</bucket>
-            </map>
-            <map to='#ce69be'>
-              <bucket>&quot;1911-1940&quot;</bucket>
-            </map>
-            <map to='#fc719e'>
-              <bucket>&quot;1910 and before&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[Price (group)]' palette='red_10_0' type='palette'>
             <map to='#ae123a'>
               <bucket>&quot;3000K and over (AUD)&quot;</bucket>
@@ -3926,6 +3865,23 @@
               <bucket>&quot;200K - 400K (AUD)&quot;</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[Built Date (group)]' type='palette'>
+            <map to='#1ba3c6'>
+              <bucket>&quot;1941-1970&quot;</bucket>
+            </map>
+            <map to='#57a337'>
+              <bucket>&quot;2001 and after&quot;</bucket>
+            </map>
+            <map to='#7873c0'>
+              <bucket>&quot;1971-2000&quot;</bucket>
+            </map>
+            <map to='#ce69be'>
+              <bucket>&quot;1911-1940&quot;</bucket>
+            </map>
+            <map to='#fc719e'>
+              <bucket>&quot;1910 and before&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[none:suburb:nk]' type='palette'>
             <map to='#4e79a7'>
               <bucket>&quot;Crawley&quot;</bucket>
@@ -3944,6 +3900,49 @@
             </map>
             <map to='#f28e2b'>
               <bucket>&quot;East Perth&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:car_space:ok]' palette='blue_teal_10_0' type='palette'>
+            <map to='#2c5985'>
+              <bucket>10.0</bucket>
+            </map>
+            <map to='#306c94'>
+              <bucket>6.0</bucket>
+            </map>
+            <map to='#3482a4'>
+              <bucket>5.0</bucket>
+            </map>
+            <map to='#3c97b2'>
+              <bucket>4.0</bucket>
+            </map>
+            <map to='#57abbe'>
+              <bucket>3.0</bucket>
+            </map>
+            <map to='#79bec8'>
+              <bucket>2.0</bucket>
+            </map>
+            <map to='#99d0d0'>
+              <bucket>1.0</bucket>
+            </map>
+            <map to='#bce4d8'>
+              <bucket>0.0</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:property_type:nk]' palette='purple_pink_gray_10_0' type='palette'>
+            <map to='#8074a8'>
+              <bucket>&quot;Apartment&quot;</bucket>
+            </map>
+            <map to='#9c9290'>
+              <bucket>&quot;Villa&quot;</bucket>
+            </map>
+            <map to='#c46487'>
+              <bucket>&quot;Townhouse&quot;</bucket>
+            </map>
+            <map to='#c6c1f0'>
+              <bucket>&quot;House&quot;</bucket>
+            </map>
+            <map to='#ffbed1'>
+              <bucket>&quot;Unit&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -4031,7 +4030,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+            <run bold='true' fontalignment='1' fontsize='12'>&lt;Sheet Name&gt;</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -4358,6 +4357,7 @@
         <title>
           <formatted-text>
             <run bold='true' fontalignment='1' fontsize='12'>&lt;Sheet Name&gt;</run>
+            <run fontalignment='1'>Æ&#10;</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -4385,6 +4385,9 @@
           <aggregation value='true' />
         </view>
         <style>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:bathrooms:ok]' value='81' />
+          </style-rule>
           <style-rule element='header'>
             <format attr='width' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:bathrooms:ok]' value='104' />
           </style-rule>
@@ -4399,6 +4402,12 @@
               <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
               <size column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:price:qk]' />
             </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minheight' value='-1' />
+                <format attr='maxheight' value='-1' />
+              </style-rule>
+            </style>
           </pane>
         </panes>
         <rows>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:bathrooms:ok]</rows>
@@ -4410,7 +4419,8 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontsize='12'>Best Realtor</run>
+            <run fontalignment='1'>Æ&#10;</run>
+            <run bold='true' fontalignment='1' fontsize='12'>Best Agent</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -4436,7 +4446,7 @@
             <_.fcp.ObjectModelTableType.false...column caption='cityofperth.csv' datatype='integer' name='[__tableau_internal_object_id__].[cityofperth.csv_4A332C8A6D7E48859A74B1BF6C7B87B9]' role='measure' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[none:agent:nk]'>
-            <groupfilter count='20' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
+            <groupfilter count='10' end='top' function='end' units='records' user:ui-marker='end' user:ui-top-by-field='true'>
               <groupfilter direction='DESC' expression='COUNT([agent])' function='order' user:ui-marker='order'>
                 <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
                   <groupfilter from='&quot;@realty&quot;' function='range' level='[none:agent:nk]' to='&quot;Northside Residential - Greenwood&quot;' />
@@ -4743,7 +4753,11 @@
             <format attr='geo-area-type' value='State' />
           </style-rule>
           <style-rule element='quick-filter'>
-            <format attr='title' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' value='Choose Built Date Range:' />
+            <format attr='title' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' value='Choose Built Date Range:'>
+              <formatted-text>
+                <run bold='true' fontcolor='#e15759' fontsize='10'>Choose Built Date Range:</run>
+              </formatted-text>
+            </format>
           </style-rule>
         </style>
         <panes>
@@ -4951,11 +4965,57 @@
       </table>
       <simple-id uuid='{5354B341-DDAA-4C93-A5B2-08543CD82CFE}' />
     </worksheet>
+    <worksheet name='Car space impact on Price'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontalignment='1' fontsize='12'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='cityofperth (2)' name='federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)'>
+            <column-instance column='[price]' derivation='Avg' name='[avg:price:qk]' pivot='key' type='quantitative' />
+            <column caption='Car Space' datatype='real' name='[car_space]' role='measure' type='quantitative' />
+            <column-instance column='[car_space]' derivation='None' name='[none:car_space:ok]' pivot='key' type='ordinal' />
+            <column caption='Price' datatype='real' name='[price]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#4e79a7' />
+                <format attr='mark-transparency' value='255' />
+                <format attr='mark-markers-mode' value='all' />
+                <format attr='size' value='1.3953038454055786' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[avg:price:qk]</rows>
+        <cols>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[none:car_space:ok]</cols>
+      </table>
+      <simple-id uuid='{B82AD795-60D1-48CE-852B-B958719B91AB}' />
+    </worksheet>
     <worksheet name='Good Investments'>
       <layout-options>
         <title>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontsize='12'>Real Estate that are good investments</run>
+            <run bold='true' fontalignment='1' fontsize='12'>Good Investments</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -6048,80 +6108,6 @@
       </table>
       <simple-id uuid='{7D1ECFEE-DC7F-40DD-81FF-32384B84AF12}' />
     </worksheet>
-    <worksheet name='Property Car spaces per suburb'>
-      <layout-options>
-        <title>
-          <formatted-text>
-            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
-          </formatted-text>
-        </title>
-      </layout-options>
-      <table>
-        <view>
-          <datasources>
-            <datasource caption='cityofperth' name='federated.0e3fxpq1vf2ocn18cq07z15wnqaa' />
-          </datasources>
-          <datasource-dependencies datasource='federated.0e3fxpq1vf2ocn18cq07z15wnqaa'>
-            <column-instance column='[car_space]' derivation='Avg' name='[avg:car_space:qk]' pivot='key' type='quantitative' />
-            <column caption='Car Space' datatype='real' name='[car_space]' role='measure' type='quantitative' />
-            <column-instance column='[car_space]' derivation='Max' name='[max:car_space:qk]' pivot='key' type='quantitative' />
-            <column-instance column='[car_space]' derivation='Min' name='[min:car_space:qk]' pivot='key' type='quantitative' />
-            <column-instance column='[suburb]' derivation='None' name='[none:suburb:nk]' pivot='key' type='nominal' />
-            <column caption='Suburb' datatype='string' name='[suburb]' role='dimension' semantic-role='[County].[Name]' type='nominal' />
-          </datasource-dependencies>
-          <aggregation value='true' />
-        </view>
-        <style>
-          <style-rule element='cell'>
-            <format attr='width' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' value='90' />
-          </style-rule>
-        </style>
-        <panes>
-          <pane selection-relaxation-option='selection-relaxation-allow'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <style>
-              <style-rule element='pane'>
-                <format attr='minwidth' value='-1' />
-                <format attr='maxwidth' value='-1' />
-              </style-rule>
-            </style>
-          </pane>
-          <pane id='1' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:car_space:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:car_space:qk]' />
-            </encodings>
-          </pane>
-          <pane id='2' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:car_space:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:car_space:qk]' />
-            </encodings>
-          </pane>
-          <pane id='3' selection-relaxation-option='selection-relaxation-allow' y-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:car_space:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:car_space:qk]' />
-            </encodings>
-          </pane>
-        </panes>
-        <rows>([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:car_space:qk] + ([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:car_space:qk] + [federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:car_space:qk]))</rows>
-        <cols>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]</cols>
-      </table>
-      <simple-id uuid='{D10F2902-2C72-4733-A7F2-6E7332CEC121}' />
-    </worksheet>
     <worksheet name='Property type'>
       <layout-options>
         <title>
@@ -6262,7 +6248,7 @@
             <max>6250000.0</max>
           </filter>
           <filter class='categorical' column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:Calculation_1053279371576205316:nk]'>
-            <groupfilter function='member' level='[none:Calculation_1053279371576205316:nk]' member='&quot;Better to Rent&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:Calculation_1053279371576205316:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <filter class='quantitative' column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:rent:qk]' included-values='in-range'>
             <min>1.0</min>
@@ -6764,6 +6750,7 @@
       <layout-options>
         <title>
           <formatted-text>
+            <run fontalignment='1'>Æ&#10;</run>
             <run bold='true' fontalignment='1' fontsize='12'>&lt;Sheet Name&gt;</run>
           </formatted-text>
         </title>
@@ -6904,7 +6891,17 @@
           </slices>
           <aggregation value='true' />
         </view>
-        <style />
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[sum:Calculation_239535212833103873:qk]' scope='cols' value='' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='width' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' value='156' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' value='false' />
+          </style-rule>
+        </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
@@ -6925,7 +6922,8 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+            <run fontalignment='1'>Æ&#10;</run>
+            <run bold='true' fontalignment='1' fontsize='12'>&lt;Sheet Name&gt;</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -6937,8 +6935,6 @@
           <datasource-dependencies datasource='federated.0e3fxpq1vf2ocn18cq07z15wnqaa'>
             <column-instance column='[land_size]' derivation='Avg' name='[avg:land_size:qk]' pivot='key' type='quantitative' />
             <column caption='Land Size' datatype='real' name='[land_size]' role='measure' type='quantitative' />
-            <column-instance column='[land_size]' derivation='Max' name='[max:land_size:qk]' pivot='key' type='quantitative' />
-            <column-instance column='[land_size]' derivation='Min' name='[min:land_size:qk]' pivot='key' type='quantitative' />
             <column-instance column='[suburb]' derivation='None' name='[none:suburb:nk]' pivot='key' type='nominal' />
             <column caption='Suburb' datatype='string' name='[suburb]' role='dimension' semantic-role='[County].[Name]' type='nominal' />
           </datasource-dependencies>
@@ -6950,51 +6946,35 @@
           </slices>
           <aggregation value='true' />
         </view>
-        <style>
-          <style-rule element='header'>
-            <format attr='height-header' value='18' />
-          </style-rule>
-        </style>
+        <style />
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
-              <breakdown value='auto' />
+              <breakdown value='on' />
             </view>
             <mark class='Automatic' />
             <encodings>
+              <size column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:land_size:qk]' />
               <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
+              <text column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
             </encodings>
-          </pane>
-          <pane id='1' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:land_size:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
-            </encodings>
-          </pane>
-          <pane id='2' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:land_size:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
-            </encodings>
-          </pane>
-          <pane id='3' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:land_size:qk]'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Automatic' />
-            <encodings>
-              <color column='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' />
-            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
           </pane>
         </panes>
-        <rows>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]</rows>
-        <cols>([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:land_size:qk] + ([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:land_size:qk] + [federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:land_size:qk]))</cols>
+        <rows />
+        <cols />
       </table>
       <simple-id uuid='{2882F264-4CF0-4423-A505-45E1F15A623B}' />
     </worksheet>
@@ -7029,7 +7009,11 @@
           </slices>
           <aggregation value='true' />
         </view>
-        <style />
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[sum:Calculation_239535212833103873:qk]' scope='cols' value='' />
+          </style-rule>
+        </style>
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
@@ -7041,8 +7025,8 @@
             </encodings>
           </pane>
         </panes>
-        <rows>([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk] * [federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[sum:Calculation_239535212833103873:qk])</rows>
-        <cols>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]</cols>
+        <rows>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]</rows>
+        <cols>([federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk] * [federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[sum:Calculation_239535212833103873:qk])</cols>
       </table>
       <simple-id uuid='{B73989F6-0CDE-463C-B164-2D2530C766D6}' />
     </worksheet>
@@ -7062,9 +7046,9 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='61' param='horz' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='98712' id='3' type-v2='layout-basic' w='99304' x='348' y='644'>
-              <zone h='49356' id='1' name='Average Land Size by Average Price per suburb' w='49652' x='50000' y='644'>
+          <zone h='98142' id='61' param='horz' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='98142' id='3' type-v2='layout-basic' w='99034' x='483' y='929'>
+              <zone h='43554' id='1' name='Average Land Size by Average Price per suburb' w='46470' x='42667' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7072,7 +7056,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='98712' id='8' name='Bedroom, Bathroom &amp; Average Price per suburb' w='49652' x='348' y='644'>
+              <zone h='98142' id='8' name='Bedroom, Bathroom &amp; Average Price per suburb' w='42184' x='483' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7080,7 +7064,31 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='49356' id='59' name='Best Realtor' w='49652' x='50000' y='50000'>
+              <zone h='54588' id='59' name='Best Realtor' w='46470' x='42667' y='44483'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='53426' id='6' name='Average Land Size by Average Price per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='10380' x='89137' y='929'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='14867' id='62' mode='slider' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[yr:sold_date:ok]' type-v2='filter' w='10380' x='89137' y='54355'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='29849' id='63' mode='checkdropdown' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[none:suburb:nk]' type-v2='filter' w='10380' x='89137' y='69222'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7097,17 +7105,14 @@
             <format attr='margin' value='8' />
           </zone-style>
         </zone>
-        <zone h='14159' id='6' name='Average Land Size by Average Price per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='6095' x='55333' y='4747' />
-        <zone h='6356' id='62' mode='slider' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[yr:sold_date:ok]' type-v2='filter' w='7314' x='90771' y='66211' />
-        <zone h='4505' id='63' mode='checkdropdown' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[none:suburb:nk]' type-v2='filter' w='7314' x='90901' y='75060' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1100' minheight='1100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='121' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='120' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone fixed-size='280' h='98712' id='8' is-fixed='true' name='Bedroom, Bathroom &amp; Average Price per suburb' w='49652' x='348' y='644'>
+            <zone h='100000' id='189' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='188' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone fixed-size='280' h='98142' id='8' is-fixed='true' name='Bedroom, Bathroom &amp; Average Price per suburb' w='42184' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7116,7 +7121,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='49356' id='1' is-fixed='true' name='Average Land Size by Average Price per suburb' w='49652' x='50000' y='644'>
+                <zone fixed-size='280' h='43554' id='1' is-fixed='true' name='Average Land Size by Average Price per suburb' w='46470' x='42667' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7125,7 +7130,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='14159' id='6' name='Average Land Size by Average Price per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='6095' x='55333' y='4747'>
+                <zone h='53426' id='6' name='Average Land Size by Average Price per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='10380' x='89137' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7134,7 +7139,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='6356' id='62' mode='slider' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[yr:sold_date:ok]' type-v2='filter' w='7314' x='90771' y='66211'>
+                <zone h='14867' id='62' mode='slider' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[yr:sold_date:ok]' type-v2='filter' w='10380' x='89137' y='54355'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7143,7 +7148,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='4505' id='63' mode='checkdropdown' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[none:suburb:nk]' type-v2='filter' w='7314' x='90901' y='75060'>
+                <zone h='29849' id='63' mode='checkdropdown' name='Best Realtor' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 4)].[none:suburb:nk]' type-v2='filter' w='10380' x='89137' y='69222'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7152,7 +7157,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='49356' id='59' is-fixed='true' name='Best Realtor' w='49652' x='50000' y='50000'>
+                <zone fixed-size='280' h='54588' id='59' is-fixed='true' name='Best Realtor' w='46470' x='42667' y='44483'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7179,9 +7184,9 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='7' param='horz' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='98712' id='5' type-v2='layout-basic' w='92338' x='348' y='644'>
-              <zone h='98712' id='3' name='Map Sold Properties Car space' w='62908' x='29778' y='644'>
+          <zone h='98142' id='7' param='horz' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='98142' id='5' type-v2='layout-basic' w='89378' x='483' y='929'>
+              <zone h='49071' id='3' name='Map Sold Properties Car space' w='89378' x='483' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7189,7 +7194,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='98712' id='10' name='Property Car spaces per suburb' w='29430' x='348' y='644'>
+              <zone h='49071' id='202' name='Car space impact on Price' w='89378' x='483' y='50000'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7198,16 +7203,8 @@
                 </zone-style>
               </zone>
             </zone>
-            <zone fixed-size='160' h='98712' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='6966' x='92686' y='644'>
-              <zone h='15930' id='8' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:ok]' type-v2='color' w='6966' x='92686' y='644'>
-                <zone-style>
-                  <format attr='border-color' value='#000000' />
-                  <format attr='border-style' value='none' />
-                  <format attr='border-width' value='0' />
-                  <format attr='margin' value='4' />
-                </zone-style>
-              </zone>
-              <zone h='12551' id='9' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:qk]' type-v2='size' w='6966' x='92686' y='16574'>
+            <zone fixed-size='160' h='98142' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='9656' x='89861' y='929'>
+              <zone h='22996' id='8' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:ok]' type-v2='color' w='9656' x='89861' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -7227,11 +7224,11 @@
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='750' minheight='750' sizing-mode='vscroll' />
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='201' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='200' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone fixed-size='280' h='98712' id='10' is-fixed='true' name='Property Car spaces per suburb' w='29430' x='348' y='644'>
+            <zone h='100000' id='270' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='269' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone fixed-size='280' h='49071' id='3' is-fixed='true' name='Map Sold Properties Car space' w='89378' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7240,7 +7237,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='98712' id='3' is-fixed='true' name='Map Sold Properties Car space' w='62908' x='29778' y='644'>
+                <zone h='22996' id='8' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:ok]' type-v2='color' w='9656' x='89861' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7249,16 +7246,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='15930' id='8' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:ok]' type-v2='color' w='6966' x='92686' y='644'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                    <format attr='padding' value='0' />
-                  </zone-style>
-                </zone>
-                <zone h='12551' id='9' name='Map Sold Properties Car space' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:qk]' type-v2='size' w='6966' x='92686' y='16574'>
+                <zone fixed-size='280' h='49071' id='202' is-fixed='true' name='Car space impact on Price' w='89378' x='483' y='50000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -7296,11 +7284,11 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='1' param='vert' removable='false' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='3379' id='3' type-v2='title' w='99304' x='348' y='644' />
-            <zone fixed-size='102' h='8206' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99304' x='348' y='4023' />
-            <zone h='87127' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99304' x='348' y='12229'>
-              <flipboard active-id='2' nav-type='caption' show-nav-arrows='true'>
+          <zone h='98142' id='1' param='vert' removable='false' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='4878' id='3' type-v2='title' w='99034' x='483' y='929' />
+            <zone fixed-size='102' h='11847' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99034' x='483' y='5807' />
+            <zone h='81417' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99034' x='483' y='17654'>
+              <flipboard active-id='9' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='Suburbs&apos; Characteristics' captured-sheet='Suburb Characteristics' id='2'>
                     <capturedDeltas>
@@ -7342,10 +7330,12 @@
                           <min>0.039100000000000003</min>
                           <max>0.12</max>
                         </filter>
+                        <selection-collection />
                       </worksheet>
                     </capturedDeltas>
                   </story-point>
                   <story-point caption='Perth City Property Market  After Covid' captured-sheet='Real estare during Covid ' id='9'>
+                    <currentDeltas />
                     <capturedDeltas>
                       <worksheet name='Sold Properties Price per month since Covid started'>
                         <current-page>
@@ -8030,8 +8020,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='186' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='185' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='254' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='253' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98142' id='11' is-fixed='true' name='Avg Price per suburb' w='36950' x='482' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8215,9 +8205,9 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='23' param='horz' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='98712' id='5' type-v2='layout-basic' w='99304' x='348' y='644'>
-              <zone h='98712' id='21' name='Building Ages on Map' w='75371' x='24281' y='644'>
+          <zone h='98142' id='23' param='horz' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='98142' id='5' type-v2='layout-basic' w='99034' x='483' y='929'>
+              <zone h='98142' id='21' name='Building Ages on Map' w='75167' x='24350' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8225,7 +8215,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='22848' id='24' mode='checkdropdown' name='Building Ages on Map' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='filter' w='23933' x='348' y='644'>
+              <zone h='22716' id='24' mode='checkdropdown' name='Building Ages on Map' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='filter' w='14122' x='483' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8233,8 +8223,16 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='75864' id='11' name='Built year per suburb' w='23933' x='348' y='23492'>
+              <zone h='75426' id='11' name='Built year per suburb' w='23867' x='483' y='23645'>
                 <layout-cache cell-count-h='6' cell-count-w='1' non-cell-size-h='63' non-cell-size-w='101' type-h='cell' type-w='cell' />
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='22716' id='25' name='Building Ages on Map' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='color' w='9745' x='14605' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8251,15 +8249,14 @@
             <format attr='margin' value='8' />
           </zone-style>
         </zone>
-        <zone h='13516' id='25' name='Building Ages on Map' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='color' w='6182' x='871' y='9332' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='207' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='206' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone h='22848' id='24' mode='checkdropdown' name='Building Ages on Map' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='filter' w='23933' x='348' y='644'>
+            <zone h='100000' id='275' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='274' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone h='22716' id='24' mode='checkdropdown' name='Building Ages on Map' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='filter' w='14122' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8268,7 +8265,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='98712' id='21' is-fixed='true' name='Building Ages on Map' w='75371' x='24281' y='644'>
+                <zone fixed-size='280' h='98142' id='21' is-fixed='true' name='Building Ages on Map' w='75167' x='24350' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8277,7 +8274,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='13516' id='25' name='Building Ages on Map' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='color' w='6182' x='871' y='9332'>
+                <zone h='22716' id='25' name='Building Ages on Map' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]' type-v2='color' w='9745' x='14605' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8286,7 +8283,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='75864' id='11' is-fixed='true' name='Built year per suburb' w='23933' x='348' y='23492'>
+                <zone fixed-size='280' h='75426' id='11' is-fixed='true' name='Built year per suburb' w='23867' x='483' y='23645'>
                   <layout-cache cell-count-h='6' cell-count-w='1' non-cell-size-h='63' non-cell-size-w='101' type-h='cell' type-w='cell' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8372,8 +8369,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='196' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='195' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
+            <zone h='100000' id='264' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='263' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98712' id='3' is-fixed='true' name='Property type' w='28472' x='348' y='644'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8429,9 +8426,9 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='97' param='horz' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='98712' id='95' type-v2='layout-basic' w='99304' x='348' y='644'>
-              <zone h='44742' id='3' name='Average Price of sold properties during Covid Era' w='99304' x='348' y='54614'>
+          <zone h='98142' id='97' param='horz' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='98142' id='95' type-v2='layout-basic' w='99034' x='483' y='929'>
+              <zone h='44948' id='3' name='Average Price of sold properties during Covid Era' w='99034' x='483' y='54123'>
                 <layout-cache minheight='213' type-h='scalable' type-w='fixed' />
                 <zone-style>
                   <format attr='border-color' value='#000000' />
@@ -8440,7 +8437,23 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='53970' id='94' name='Sold Properties Price per month since Covid started' w='99304' x='348' y='644'>
+              <zone h='53194' id='94' name='Sold Properties Price per month since Covid started' w='84671' x='483' y='929'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='31823' id='100' name='Sold Properties Price per month since Covid started' synchronized='1' type-v2='currpage' w='14363' x='85154' y='22300'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='21371' id='99' name='Sold Properties Price per month since Covid started' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]' type-v2='color' w='14363' x='85154' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8457,16 +8470,14 @@
             <format attr='margin' value='8' />
           </zone-style>
         </zone>
-        <zone h='13918' id='99' name='Sold Properties Price per month since Covid started' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]' type-v2='color' w='6095' x='91946' y='23813' />
-        <zone h='12389' id='100' name='Sold Properties Price per month since Covid started' synchronized='1' type-v2='currpage' w='9099' x='89116' y='6677' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='186' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='185' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone fixed-size='280' h='53970' id='94' is-fixed='true' name='Sold Properties Price per month since Covid started' w='99304' x='348' y='644'>
+            <zone h='100000' id='254' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='253' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone fixed-size='280' h='53194' id='94' is-fixed='true' name='Sold Properties Price per month since Covid started' w='84671' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8475,7 +8486,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='13918' id='99' name='Sold Properties Price per month since Covid started' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]' type-v2='color' w='6095' x='91946' y='23813'>
+                <zone h='21371' id='99' name='Sold Properties Price per month since Covid started' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]' type-v2='color' w='14363' x='85154' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8484,7 +8495,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='44742' id='3' is-fixed='true' name='Average Price of sold properties during Covid Era' w='99304' x='348' y='54614'>
+                <zone fixed-size='280' h='44948' id='3' is-fixed='true' name='Average Price of sold properties during Covid Era' w='99034' x='483' y='54123'>
                   <layout-cache minheight='213' type-h='scalable' type-w='fixed' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8494,7 +8505,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='12389' id='100' name='Sold Properties Price per month since Covid started' synchronized='1' type-v2='currpage' w='9099' x='89116' y='6677'>
+                <zone h='31823' id='100' name='Sold Properties Price per month since Covid started' synchronized='1' type-v2='currpage' w='14363' x='85154' y='22300'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8539,9 +8550,9 @@
       </datasource-dependencies>
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98712' id='7' param='horz' type-v2='layout-flow' w='99304' x='348' y='644'>
-            <zone h='98712' id='5' type-v2='layout-basic' w='99304' x='348' y='644'>
-              <zone h='98712' id='3' name='Good Investments' w='63862' x='35790' y='644'>
+          <zone h='98142' id='7' param='horz' type-v2='layout-flow' w='99034' x='483' y='929'>
+            <zone h='98142' id='5' type-v2='layout-basic' w='99034' x='483' y='929'>
+              <zone h='49071' id='3' name='Good Investments' w='81533' x='9958' y='50000'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8549,7 +8560,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='49356' id='9' name='Rent Vs Buy' w='35442' x='348' y='644'>
+              <zone h='49071' id='9' name='Rent Vs Buy' w='26674' x='9958' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8557,7 +8568,47 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='49356' id='13' name='Return On Investment' w='35442' x='348' y='50000'>
+              <zone h='49071' id='13' name='Return On Investment' w='54859' x='36632' y='929'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='18815' id='11' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:Calculation_1053279371576205316:nk]' type-v2='filter' w='9475' x='483' y='929'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='79327' id='10' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[attr:price:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='9475' x='483' y='19744'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='40999' id='12' name='Rent Vs Buy' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:suburb:nk]' type-v2='color' w='8026' x='91491' y='14053'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='44019' id='8' name='Good Investments' pane-specification-id='6' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 3)].[attr:rent:qk]' type-v2='color' w='8026' x='91491' y='55052'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='13124' id='14' name='Return On Investment' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[none:Calculation_1053279371566694400:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='8026' x='91491' y='929'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -8574,19 +8625,14 @@
             <format attr='margin' value='8' />
           </zone-style>
         </zone>
-        <zone h='5873' id='10' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[attr:price:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='7314' x='25468' y='17538' />
-        <zone h='5873' id='14' name='Return On Investment' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[none:Calculation_1053279371566694400:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='7314' x='27122' y='58890' />
-        <zone h='7080' id='8' name='Good Investments' pane-specification-id='6' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 3)].[attr:rent:qk]' type-v2='color' w='6095' x='37397' y='8126' />
-        <zone h='15205' id='12' name='Rent Vs Buy' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:suburb:nk]' type-v2='color' w='6095' x='25990' y='31778' />
-        <zone h='10459' id='11' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:Calculation_1053279371576205316:nk]' type-v2='filter' w='7314' x='25555' y='4666' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='82' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='81' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone h='5873' id='10' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[attr:price:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='7314' x='25468' y='17538'>
+            <zone h='100000' id='150' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='149' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone h='18815' id='11' mode='checkdropdown' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:Calculation_1053279371576205316:nk]' type-v2='filter' w='9475' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8595,7 +8641,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='10459' id='11' mode='checkdropdown' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:Calculation_1053279371576205316:nk]' type-v2='filter' w='7314' x='25555' y='4666'>
+                <zone h='79327' id='10' name='Rent Vs Buy' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[attr:price:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='9475' x='483' y='19744'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8604,7 +8650,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='49356' id='9' is-fixed='true' name='Rent Vs Buy' w='35442' x='348' y='644'>
+                <zone fixed-size='280' h='49071' id='9' is-fixed='true' name='Rent Vs Buy' w='26674' x='9958' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8613,7 +8659,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='15205' id='12' name='Rent Vs Buy' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:suburb:nk]' type-v2='color' w='6095' x='25990' y='31778'>
+                <zone h='40999' id='12' name='Rent Vs Buy' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 2)].[none:suburb:nk]' type-v2='color' w='8026' x='91491' y='14053'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8622,7 +8668,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='98712' id='3' is-fixed='true' name='Good Investments' w='63862' x='35790' y='644'>
+                <zone h='13124' id='14' name='Return On Investment' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[none:Calculation_1053279371566694400:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='8026' x='91491' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8631,7 +8677,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='7080' id='8' name='Good Investments' pane-specification-id='6' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 3)].[attr:rent:qk]' type-v2='color' w='6095' x='37397' y='8126'>
+                <zone fixed-size='280' h='49071' id='13' is-fixed='true' name='Return On Investment' w='54859' x='36632' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8640,7 +8686,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='5873' id='14' name='Return On Investment' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy)].[none:Calculation_1053279371566694400:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='7314' x='27122' y='58890'>
+                <zone fixed-size='280' h='49071' id='3' is-fixed='true' name='Good Investments' w='81533' x='9958' y='50000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8649,7 +8695,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='49356' id='13' is-fixed='true' name='Return On Investment' w='35442' x='348' y='50000'>
+                <zone h='44019' id='8' name='Good Investments' pane-specification-id='6' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa (copy 3)].[attr:rent:qk]' type-v2='color' w='8026' x='91491' y='55052'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8676,19 +8722,7 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='98142' id='5' param='horz' type-v2='layout-flow' w='8933' x='90585' y='929'>
-            <zone fixed-size='160' h='98142' id='4' is-fixed='true' param='vert' type-v2='layout-flow' w='8933' x='90585' y='929'>
-              <zone h='18118' id='6' name='Sold property types per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='8933' x='90585' y='929'>
-                <zone-style>
-                  <format attr='border-color' value='#000000' />
-                  <format attr='border-style' value='none' />
-                  <format attr='border-width' value='0' />
-                  <format attr='margin' value='4' />
-                </zone-style>
-              </zone>
-            </zone>
-          </zone>
-          <zone h='34146' id='7' name='AVG price per suburb' w='33675' x='482' y='929'>
+          <zone h='35308' id='7' name='AVG price per suburb' w='37598' x='10139' y='929'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -8696,7 +8730,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='63996' id='10' name='Sold Properties&apos; Built year per suburb' w='53168' x='482' y='35075'>
+          <zone h='62834' id='10' name='Sold Properties&apos; Built year per suburb' w='66204' x='33313' y='36237'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -8704,7 +8738,7 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='34146' id='9' name='Sold Property land sizes per suburb' w='56428' x='34157' y='929'>
+          <zone h='62834' id='9' name='Sold Property land sizes per suburb' w='32830' x='483' y='36237'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -8712,7 +8746,15 @@
               <format attr='margin' value='4' />
             </zone-style>
           </zone>
-          <zone h='63996' id='1' name='Sold property types per suburb' w='36935' x='53650' y='35075'>
+          <zone h='35308' id='1' name='Sold property types per suburb' w='51780' x='47737' y='929'>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone h='35308' id='6' name='Sold property types per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='9656' x='483' y='929'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -8730,11 +8772,11 @@
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='1200' minheight='1200' sizing-mode='vscroll' />
+          <size maxheight='1250' minheight='1250' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='200' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='199' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
-                <zone fixed-size='266' h='34146' id='7' is-fixed='true' name='AVG price per suburb' w='33675' x='482' y='929'>
+            <zone h='100000' id='268' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98142' id='267' param='vert' type-v2='layout-flow' w='99034' x='483' y='929'>
+                <zone fixed-size='275' h='35308' id='7' is-fixed='true' name='AVG price per suburb' w='37598' x='10139' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8743,7 +8785,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='266' h='34146' id='9' is-fixed='true' name='Sold Property land sizes per suburb' w='56428' x='34157' y='929'>
+                <zone fixed-size='275' h='35308' id='1' is-fixed='true' name='Sold property types per suburb' w='51780' x='47737' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8752,7 +8794,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='63996' id='10' is-fixed='true' name='Sold Properties&apos; Built year per suburb' w='53168' x='482' y='35075'>
+                <zone h='35308' id='6' name='Sold property types per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='9656' x='483' y='929'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8761,7 +8803,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='63996' id='1' is-fixed='true' name='Sold property types per suburb' w='36935' x='53650' y='35075'>
+                <zone fixed-size='280' h='62834' id='9' is-fixed='true' name='Sold Property land sizes per suburb' w='32830' x='483' y='36237'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8770,7 +8812,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone h='18118' id='6' name='Sold property types per suburb' pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type-v2='color' w='8933' x='90585' y='929'>
+                <zone fixed-size='280' h='62834' id='10' is-fixed='true' name='Sold Properties&apos; Built year per suburb' w='66204' x='33313' y='36237'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -8793,11 +8835,31 @@
       <simple-id uuid='{A98D7B91-421A-44E9-9122-700C6FA858C5}' />
     </dashboard>
   </dashboards>
-  <windows source-height='114'>
+  <windows saved-dpi-scale-factor='1.25' source-height='114'>
     <window class='dashboard' maximized='true' name='Perth City Properties Story'>
       <viewpoints />
-      <active id='-1' />
+      <active id='5' />
       <simple-id uuid='{74CE1919-A006-462B-A18A-0A2E6725AEBE}' />
+    </window>
+    <window class='dashboard' name='Real estare during Covid '>
+      <viewpoints>
+        <viewpoint name='Average Price of sold properties during Covid Era'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Sold Properties Price per month since Covid started'>
+          <current-page>
+            <multibucket>
+              <bucket>202108</bucket>
+            </multibucket>
+          </current-page>
+          <zoom type='entire-view' />
+          <highlight field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <simple-id uuid='{74376FEE-6D90-4C0A-A291-1F6C51013B89}' />
     </window>
     <window class='worksheet' hidden='true' name='AVG price per suburb'>
       <cards>
@@ -9012,13 +9074,13 @@
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='38'>
+          <strip size='37'>
             <card type='columns' />
           </strip>
-          <strip size='38'>
+          <strip size='37'>
             <card type='rows' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='title' />
           </strip>
         </edge>
@@ -9143,18 +9205,41 @@
     </window>
     <window class='dashboard' hidden='true' name='Car Space Dashboard'>
       <viewpoints>
+        <viewpoint name='Car space impact on Price'>
+          <zoom type='entire-view' />
+        </viewpoint>
         <viewpoint name='Map Sold Properties Car space'>
           <zoom type='entire-view' />
-          <highlight>
-            <color-one-way>
-              <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:ok]</field>
-            </color-one-way>
+          <highlight field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:car_space:qk]' type='size'>
+            <bucket-selection />
           </highlight>
         </viewpoint>
-        <viewpoint name='Property Car spaces per suburb' />
       </viewpoints>
-      <active id='-1' />
+      <active id='6' />
       <simple-id uuid='{DB45E508-607E-4420-8D9E-E0C9B53064FF}' />
+    </window>
+    <window class='worksheet' hidden='true' name='Car space impact on Price'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{CDAA8D01-C648-4F61-950F-103BDA0FD6CB}' />
     </window>
     <window class='worksheet' hidden='true' name='Good Investments'>
       <cards>
@@ -9353,48 +9438,8 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='24' />
       <simple-id uuid='{C75689EC-B593-4F00-8347-1B97F7A29C37}' />
-    </window>
-    <window class='worksheet' hidden='true' name='Property Car spaces per suburb'>
-      <cards>
-        <edge name='left'>
-          <strip size='200'>
-            <card type='pages' />
-            <card type='filters' />
-            <card type='marks' />
-          </strip>
-        </edge>
-        <edge name='top'>
-          <strip size='36'>
-            <card type='columns' />
-          </strip>
-          <strip size='36'>
-            <card type='rows' />
-          </strip>
-          <strip size='36'>
-            <card type='title' />
-          </strip>
-        </edge>
-        <edge name='right'>
-          <strip size='160'>
-            <card pane-specification-id='1' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[min:car_space:qk]' type='color' />
-            <card pane-specification-id='2' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[avg:car_space:qk]' type='color' />
-            <card pane-specification-id='3' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:car_space:qk]' type='color' />
-          </strip>
-        </edge>
-      </cards>
-      <viewpoint>
-        <highlight>
-          <color-one-way>
-            <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[max:car_space:qk]</field>
-            <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]</field>
-            <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[tmn:sold_date:qk]</field>
-            <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[yr:sold_date:ok]</field>
-          </color-one-way>
-        </highlight>
-      </viewpoint>
-      <simple-id uuid='{2E83AE84-F5A2-440E-B3C3-27B6A4A33654}' />
     </window>
     <window class='worksheet' hidden='true' name='Property type'>
       <cards>
@@ -9452,26 +9497,6 @@
       <active id='-1' />
       <simple-id uuid='{670EA2B7-2983-4785-BD6C-2969CB4041DF}' />
     </window>
-    <window class='dashboard' hidden='true' name='Real estare during Covid '>
-      <viewpoints>
-        <viewpoint name='Average Price of sold properties during Covid Era'>
-          <zoom type='entire-view' />
-        </viewpoint>
-        <viewpoint name='Sold Properties Price per month since Covid started'>
-          <current-page>
-            <multibucket>
-              <bucket>202108</bucket>
-            </multibucket>
-          </current-page>
-          <zoom type='entire-view' />
-          <highlight field='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:property_type:nk]'>
-            <bucket-selection />
-          </highlight>
-        </viewpoint>
-      </viewpoints>
-      <active id='-1' />
-      <simple-id uuid='{74376FEE-6D90-4C0A-A291-1F6C51013B89}' />
-    </window>
     <window class='dashboard' hidden='true' name='Rent Dashboard'>
       <viewpoints>
         <viewpoint name='Good Investments'>
@@ -9488,7 +9513,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='3' />
       <simple-id uuid='{9DD79086-BDF4-4792-9E6C-BBE50FE24412}' />
     </window>
     <window class='worksheet' hidden='true' name='Rent Vs Buy'>
@@ -9623,13 +9648,13 @@
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='37'>
+          <strip size='36'>
             <card type='columns' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='rows' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='title' />
           </strip>
         </edge>
@@ -9640,6 +9665,16 @@
         </edge>
       </cards>
       <viewpoint>
+        <selection-collection>
+          <node-selection select-tuples='false'>
+            <oriented-node-reference orientation='horizontal'>
+              <node-reference>
+                <axis>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[sum:Calculation_239535212833103873:qk]</axis>
+              </node-reference>
+              <page-reference />
+            </oriented-node-reference>
+          </node-selection>
+        </selection-collection>
         <highlight>
           <color-one-way>
             <field>[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[Built Date (group)]</field>
@@ -9661,19 +9696,19 @@
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='37'>
+          <strip size='36'>
             <card type='columns' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='rows' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='title' />
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='200'>
-            <card pane-specification-id='1' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type='color' />
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0e3fxpq1vf2ocn18cq07z15wnqaa].[none:suburb:nk]' type='color' />
           </strip>
         </edge>
       </cards>
@@ -9697,13 +9732,13 @@
           </strip>
         </edge>
         <edge name='top'>
-          <strip size='37'>
+          <strip size='36'>
             <card type='columns' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='rows' />
           </strip>
-          <strip size='37'>
+          <strip size='36'>
             <card type='title' />
           </strip>
         </edge>
@@ -9742,51 +9777,530 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='7' />
       <simple-id uuid='{A53D1194-A60F-4A18-990E-A3F6D4D9AFD5}' />
     </window>
   </windows>
   <thumbnails>
     <thumbnail height='192' name='Perth City Properties Story' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
-      AAAHvUlEQVR4nO3czW8beR3H8c/4+SmxYzvPTdpuH9RCW3WhqFpxKgsHzpw4IMEF8U9xWwkJ
-      CWkRQqhCXADtwrKioi3ttiW0aZ3GdhI7fohnxvbMcFlWG1q0VZqHNt/365SMJjM/RfPOzPw8
-      EyeKokiAUbGjHgBwlAgAphEATCMAmEYAMI0AYBoBwDQCgGkEANMIAKYRAEwjAJhGADCNAGAa
-      AcC0xFEPAAenVqvpTX/do1QqKQzDI9s/ARxjvu+/8QEEQXCkAXAJBNMIwIAoDHT3H7e01dn5
-      Ylm/13vpuv+7vLO9rcP6+xyMh1qr1eSPgs+XRPI8/6Xrep73xdeN9TVttLb135Od67ovrB+O
-      fK0+faodd7hrOZdABnRqD9VPlJROBFqr1SVnqCcPHihdXtBctaRsKPVSMbnbXbUaq0oXF1Qt
-      JDQIU8pnEiqWSocyzq3GcyXzZY29vkZBVmOvq/paU8XpGWWSCcUkhRprFMTUaq6pWJnX/GxV
-      /jhUbNTRZjCUYikl45HaWxvKFSbV63Y0WZ5RLuwqNTmrzea6vGxafhhXQkPOABZMLp7XYn6s
-      u/ceqNnYVL2+pvLsCTmRr0ajqfZaXc83Gjp95pzKM4uKRyNFjiPXHejk8vKhjbM6tyR521pf
-      b8r1Rup2uyqWqxr5rnq9rnqdjrp9V9XKlIpTVY2HriJJve2WYqmcXM9XtVxUr7OhQFnF/L56
-      w1D+52eL1Uf3lcgWtTPY0UZzQ4HiBGDB0O2p3mzr5OmzijsD5SZnlHBGyhamtDBd1GYQ6tTi
-      sjLJmJIKlMoXlU4mlE5nD3WcntuXN5LmTyzI7W4pV5hSOPaULxSVyyQVxpMql8uKOY6iYKhs
-      YVKOpKVT72hhblqVclmO46hUnlM6MVSULaqQiimbzSieLujSlcvKJkKl02lVqhVNTkzI4d+i
-      HF8rKytv/CxQtVplFggHz/dcDUdjBUHw1Sv/H+PxeNf3URgqCA724I2iSOMgkKLohf3vB26C
-      DRh26/ro9lOdP/eO/v3Pv+nkxWuKDzsaxSc0VUhqZzBUZ7Ou2VPn1d98Jm801r3Pnun977yn
-      1VpTSydm1e/0pFio0HOl7IT+/vFHunb9upKZktqNJ6rOzqn2fEOXL11UzNnbOIPxUI3mlqqV
-      strtlgqlitLhju483tKF5bI+e7Kh04tlhbGMUrGx+l6g2emKHGePOxQBmLC93tCZy1e1WEyp
-      sVZVd2tdgTfQSu1fmp/J6+q772rlUVe15l9ULc/raxcX5PlJ3f70E7m+r2a7pauXLmt15bai
-      YaiJmYxOnD6lYibQ/ZX7mpw/o0GrKdd3NQwiZRJ7OyCb63WVKkWtPqmpNDutTmtLM6WMsqm4
-      mtsDTU3m1O/31eptqlKaUCrmyB2FyqXie/7dcAlkwPTZC1q7+4ke1+qamZlTqTSlcRhoulLR
-      ieXTSjtjhfGUqpU5haO2trpj9TsNzS4uqVid1/LiosqTORWLUyoUCvL8oVIK1R6EmllYUqv2
-      QGEqK408jcO933NMFidUr2+pXJlSLptRNpuRE09pbqYiOQkVcllFYaRcLqeR76rvB0onXu8Q
-      5ib4GDvON8E7OzvK5/OvvX/OAHgr7cfBLxEAjCMAmEYAMI1p0GMsFou98TfBjuO81jz+a++f
-      WSBYxiUQTCMAmEYAMI0AYBoBwLRDCmDvz6ADB+mQAtj/FxmA/fBCACPf04778n9FsXfpfd4e
-      sD9eCOBPf7ipX//u90cxFuDQ7QogikJ1R45KsaHcgA+IcfztCqBXfyhXBS2WU/rrndWjGhNw
-      aHYF8Omth/rW1XMqn7qszcd3jmpMwKH50tOgkc5cuqqTy0uSpNd4tRN4a/A0KEzjk2CYRgAw
-      bdcbYX+8+aHuP2no7KVrev/b33ylDQxaa/r5B79SJj+hH/7oJyqkDmScwIHYdQZot1vKFSu6
-      8vULr7yBkT9Q3wt05RvXlU/u+/iAA/WlACLd+P4P9N33ruiDX/zylTeQLS3qZz/9se78+beq
-      tb2v/gHgDbLrEujerY9159Ez3bjxvVfegNvb0oe/uan8wkXNlXjmB28XpkFhGrNAMI0AYBoB
-      wDQCgGkEANMIAKYRAEwjAJhGADCNAGAaAcA0AoBpBADTCACmEQBMIwCYRgAwjQBgGgHANAKA
-      aQQA0wgAphEATCMAmEYAMI0AYBoBwDQCgGkEANMIAKYRAEwjAJhGADCNAGAaAcA0AoBpBADT
-      CACmEQBMIwCYRgAwjQBgGgHANAKAaQQA0wgAphEATCMAmEYAMI0AYBoBwDQCgGkEANMIAKYR
-      AEwjAJhGADCNAGAaAcA0AoBpBADTCACmEQBMIwCYRgAwjQBgGgHANAKAaQQA0wgAphEATCMA
-      mEYAMI0AYBoBwDQCgGkEANMIAKYRAEwjAJhGADCNAGAaAcA0AoBpBADTCACmEQBMIwCYRgAw
-      jQBgGgHANAKAaQQA0wgAphEATCMAmEYAMI0AYBoBwDQCgGkEANMIAKYRAEwjAJhGADCNAGAa
-      AcA0AoBpBADTCACmEQBMIwCYRgAwjQBgGgHANAKAaQQA0wgAphEATCMAmEYAMI0AYBoBwDQC
-      gGkEANMIAKYRAEwjAJhGADCNAGAaAcA0AoBpBADTCACmEQBMIwCY9h+6nFlzmsu5bwAAAABJ
-      RU5ErkJggg==
+      AAAgAElEQVR4nO2915NsyXng98vjynZ1Vfu+3X3dOMzgjoUjQZEAHUCzIqUld2NjQ9qgQqEN
+      SbEv+6AnPeyrHvUPUCFpg7vLDYkiCZK7IEiAxIDAAHPHcTDmetfelj82M/Vwqqqru6u7q7va
+      De/5RdzounXOyXOqKr/ML7/8jNBaaxISnlKM836AhITzJBGAhKeaRAASnmoSAUg4N7TWKKVQ
+      StHPUlRr3TkvaFZYWi8feF78D548vIcXqh3Xt7EG/xgJCcfjx9/+D/zxjx5z/dIwm7WQf/2v
+      /xUpU+x7/t2f/CUfe1P89tdepfzkY759K+L3fuvnd5yjtebbf/QH3FqqkrZMfu2//mcsPXnA
+      0ORVbv3gT1jJ3+AbX3quc34iAAnnyi/9xu/wja88y5/+X/87H8/XiB7+kLc/eUiudIl/8U9/
+      i//wh/+eV56d5aPFOqsffI/7bp7GxgK/8vkSn77/Y/7PjVsEVpH/4b/9XQRQXfqUD1fgf/lX
+      /3PnHh/+7QJB4PFX3/0+q8anVJa/SNZb4fVf/d1EBUo4X+7d/ilv/fBN3r69yfWRiL99f57/
+      8V/+Syb1Eh882uLxnb9nQw7zT3/r1/nmN36Zr33zt/nn//g3ALj24mv83n/339NYvEfQau/R
+      7Vs8d+PlHfdYmn+ENHP8yi/9Ar/8j36Xf/Jf/io3PneF//xXP0gEIOF8MQ2LdL7E//pv/g35
+      qMxPP/qQ3//93+dJzaSYEohMiV/4yis9r02lUoDAMM3Oe2OTEywvLh1638svfYX1u+8mKlDC
+      +XL12c/x2ivPxv9xrvDSzBDXn3+JsLaK6OrYABMzs/zBH3yXmaLF5XTv9qZf+BLRt/43/vQ/
+      2+SNkOde/2rn2NTsHH/+Z99jPB3x+ssv8rM3ZhDJTnDCeVHdWkVaQ5SGMp33VOTzySefMjQ6
+      zeVLE8zPzzM7Oxsf1Jrl+UdUQ4OrU0W2XM3k6DAL8/NMz8521BmtFffv3EKaWZ69foXVxceM
+      TF3GMTQLj+/jkeb65UvMf/zDRAASnk6W7n/Mn/z124kAJDzdJIvghKeaRAASnmoSAUh4qrnQ
+      ZlDXdQnD8Lwf40DMlqlOSnnOT3Iwtm0TRVFfPjfnSSqVwvf9M7vfhRYAKSVRFJ33Y/TFRX9O
+      wzCQUqKUOu9HORDLss70u0xUoISnms+IAGhq5U3WNrfdXwPfp9dYFvg+qmuW1yrC9YIeZ548
+      Wmu21lfZqtQ77+03nXe/36xXeDK/iGw9uOu6Pa/ZWF1mdX2LQbUYrTVrK0vUGtv36ec5q+UN
+      FpZWUH0+gNaaQRWuWqWy4/fshYoC1tY3UTLg8ePHNPr8vbXWF1sF2kazuLzG3JUrlMtlbBPK
+      m1V8rRktFUll0nj1JrVGHVREoATjYyNsbpYZGxkGK3P4LU4Eycp6hatXC5TLsbDWyptILIrF
+      AvlChnq5QaXeRMkAIUxmL19mfavKpYlRnjx+iDDTDA1liAKXSjMka4MbCWamJmj4ARnDo1yz
+      qWxtMFYqsrqxxcjYGPWtDcx0DpuQCAchXcz0EGOl4T1PGTYrVD3N0LCgXK4Ciq2NNUwnS2Eo
+      R9qxcMOIZsPFd+uYToa52RnKtSbjQykeLa6SMsAxFV5kkHEEtYbHxNgIa2sbFEdGqDfqbCwv
+      Mj0zQ7owivKbDA/vfZaD0FqzsTZPIzJwVJOths/kSIGNcp25uVnKG6vUvQhZ28Qcu4T069iZ
+      Emsri9RtCzudpVKpMjYxysbKOoXRMcJmFeFkEWGTptv8rMwAgiuXL/H44WMq1SrNWgVlOFya
+      LLK4vIIXBlQrZbSRJptOMzs1yvpmFaElwsmRzzhn9Jwmc5fGefRkkVq1SrVawU5lmSraPFrc
+      JJIB1XIZK1Ugk8kwPZplo+qjIp/F5TVK+TROvkijVqVSbTIzNc7y0gqe5wHQqGyxuOVC6BL5
+      DdbXNxkZn6SysUo6P0LoVllaWuucHwa9R0I7O8zYkMPC0jLVao1qtUImO0TWgbWNCn6zQblS
+      IV8YIZvLk3MMvEASek1Wqz4ZI6RQGqXpR1gENHzJeD7F3YePUVpS3txkaHiU0ug4Y+MTbC0+
+      wIv29/PfD+VXKTcF5Y1V3CDCNmB5aQkVegRS03B9ckJiZIYZHx8BYGV5kcJwCT8Et9Fgbu4S
+      a2vL5IfHqW+tsrK2ge/5uEHE1OT4Z2cG2NosUyiVyFiaSr1JcTjF8mqVq5dnWV1dJV8okspk
+      EJHH0uoWk2MjbGxsYh0QYHHyKDa3KpRKJYR0afiKdMpkpRbw/JUxVpY2KYyM4KSzRG7A8pbH
+      3Nw4NWOC4UIBGTSxSRGZw5hCs7i8zuTkBL6KLU0zl69hCU3TD3HSOQpDw6QdG3NknNXVJQJl
+      Mjk5hjJTGMrHsOzeTxkFVGoNiqURgkaFSKSwTXAji+mxLOubFYqjI2TTNpErcEPBqGMxNjnN
+      cKGA22xgOyb5jBN3bK/Ghs7w/NU5Vta3KBZLZFMWDOXYqjaItMFMaejI36YbCF5++SUatSqN
+      apmljTKfuz7LZtXFMgRDuTQ1TzJeymIDws7w7DPXyGdtHMsibQvm55cYGx1l/tECs1cv49gb
+      mOk0mVQeO5W62K4Q9XqdYJ9R7KJgWfEYcp5WIK0V62trDBVHSTu9xzTHcYii6FSsQEEQ4Dj7
+      zLJaUq17FIZyfbWVTqc7M1g39eoWITalQv7Iz6eUREqwbXPPsc+MAGitUEpjGAZCHG9Ub3/U
+      7uu11sduD/oTAKUUhmGglEIYBmc5J7XpFgCtFFIphDAwzeNpwUophBCd72+Q77Cb/QTgtPjM
+      qECPHtzDyQyjIhcrlWVkOM/6ZpWx0SLNpospNL40KGRtytUGa6vLzF19Bq9RYbg0gttwkVqR
+      y6TZqjYI6lvY+VGyKRPHFHjKQLo18qVxMqneqsOhT6k15Y017OwwOmziRYLx0SKffvgeV158
+      nds3f8yzX3yd6nqZyfEiq+tlxsbHcay9I9NpEgYeH39yi+nZOYrFIlpGNOsVhJMjbSiaIaRN
+      hScNRktDlDfXMVJ5DOnTDBTjYyPc/ugDZp67wf2P3uPaizeobVWYGB9hY3OT4ugE6R6j7UXk
+      MyIACsPKcGl6giePH2HpgM1ynfL6CoHfJF0YA3eLlfUq9eIQMzMz+J6LEdRY26riNeq4Rp5h
+      O6Ts+/iRwklnGBstsby4gNaKmZlJHq40sLPDxxYAlEvVBRrLQHt2KFIan2Bz6SFOpkCzXqNZ
+      XmYh9MmWJllZWmFu7tJJfVF94aSzjI+OMTZaZGlhCWGl0DJANX2Wa2UwUuRzacxUFiKbclMh
+      aqsIwLYsFFAcG6O8Mo+dGsJrNvBq6zx0PYoTE6wuL3F5bvZMP9Nx+YxYgUxSlubJwhLZ/BDp
+      dAatJKl0hnQ2R3Eoh1SKbCZDNuOwtlHGMiDAIu3YDJdKjI+WSKXTZDIZZBSSSadZ39wik0nj
+      WIKtSoN0JjWY64WRRgdVLCfD0NAQmUxsfk2lcygJ0zMTaClx0lksQ7O6skyuUDih7+hopDJp
+      hGGhQo/iSIlGtYwwHYaHhykUi2SzacIgBNNBhA0MO0W+9ZkE4KRinX5yahyUwk5lcCyD9ZVl
+      svnz+UzH4TOzBrioHHcRHHl1IitP+ozm4J6LYK1YXd9kfHyMRr1OPn/0BWY3kdckMlMDqT/J
+      GuApwUrnz//LFwYT42MAA3d+ACudPf/PdEQ+IypQQsLpkAhAwlNNIgAJTzUXWgBOanPltPks
+      POdn4Rnh7J/zQluBEhJOmws9AyQknDaJACQ81SQCkPBUkwhAwlNNIgAJTzWJACQ81SQCkPBU
+      kwhAwlNNIgAJTzWJAFxQAq/BB++/x+OFlT3JpZqbizxc3k4StvDgFhU3zk26tbrI2zdv8tGn
+      d4hOIABeyqiTCOvJo8c9k5Ht5qfvvc0777zL2lZtx7NXN5bZrJ9d3s/9aMduBM3NRAAuJpq/
+      /Mvv8MLnX8aMfCQgo5Bm00VrjV9ZZ3GzjtYaz3VZeHCPRhB3zTsffcDktZe4VLL57vffJooi
+      pIwIw/hvuw0pI4LAx/N8NHHSgWaziVSqlUVB4fs+H775PT5dWCMII5xUnPlByoimG7ejlaLZ
+      aBBF28mBb997xBuvv8qP/uY7eGFEJCW+72NaNpZhoLWm2WwSRbJ13wayS1ijMOw8C8T5jTwv
+      FpwoipBRSNi6XxRF+J5LGLb+tjp3GPi4rc8WRRFhGLehZMSffutbNBoNAq/ymYtfeGrIWHDv
+      4TwvXL+MCBp8+zt/y9zsFGVPcGMijrj66N0fUddZVtc32B2Bm83nkeE8f/Hnf4zfaPLiG1/l
+      yb3bzM5Ns1mXjBllFmWRbLhJ6corVOc/JlscZ35xjS++MMK3vvsxxckJSsEGemGBiVya9959
+      h1/95q/wV3/5PaamRqlHaURtiezEDIWhItevzGw/gDDIpBy89fv8H996i5GxUb76bIFq8VWa
+      j97GGZ6kVBph6cEn5Ecmebywwm9845cQQvCH/+7f8saXvsyt+wv82s+/wvd+cpvRdEh+7hXu
+      vvM9avUmP/PL/4hnZsf5kz/6j7x443Xeffcd3njjDT69+5BvfPUVvv/eXaaGbYyhGVZuv834
+      My+yfOdTXvv5X2FzY5Mn8wtMjdrJDHAxEfzSr/82IynFt/74j1mdf8DQ7Eu8/Oob1Na3S4A+
+      Wi7zM198jcuXJrcvVRE//eB9Prw1z9e/9jNEfsiv/84/Z64oKUw9z8uvvE6jvALC4rkXXuSr
+      P/tlHt67x527dwmDAOk3CSTMPHuD3/nNX2Fqcprrzz3PWCmO821uzLO41SRSBo3aFhNTE9Qq
+      FaSmo+5srCzw7jvv8szLXyBrGYzNPcs/+8e/2els61Wf11+5wdW5S9y5d5/A93fkQy2NTfLi
+      SzfIGBF3PnoPaWcx0nm2Vpdx/ZDf/W9+j2dmxwFI54q89NKLlEojvPTSS6RMuP/Jh7zylV/g
+      jS9+mcWHtzHsLDdu3ODy5DCRkWV6eprPvfA8timSGeBiovj0o4+ZnrvMUNrALE5T+fQ91qcs
+      rOx2fs28rXm8vMbSyioT7drQhsWNV17j8mgWgFS+QD5lERWn2Xr3x6yvZjFTQ6AjqtUKP71/
+      l7lrz2K4q8xcuc5IqYQtqoyMjgJQHBni8eIy07k5ADLFCQoZh2eeeYaxagMhfV6eucb3v/8m
+      z16NZ4DRyRm+8MUvAOCv3WV0ZHRHLqSsDcvrWxhaMT46yuzVZxguljrHPbdJZWudZmRw+dqz
+      PP50k2euX8eVFuW1eVKHZPubvf4M7/3079GTNsWJWRorD3YcdwzNZrmCHet+CRcRr1HVt2/d
+      0uVaU2utdbNW1nfvP9SRUjr0mrrW9LWSoX5w765eW1vXQaS01lrXq2Xth7LTTrlc7rx26xV9
+      594DHUmlf/rWd/XfvfuhXl7b1FprLSNf371zW2+Uazr0Grre9OOLlNJPHt7X5VpTV8plrVrP
+      cuv2He36oQ69pr59+5autc/XWm9tbnZey9DTlbqrtdbab9Z004+0kqG+d+e2rtRdLaNA3719
+      S29W6p1r/ug//nt96/YdHURSa6301tqyvnP/oZZK7fg83Z9v99+t9WX9cH5JK611pVzWUmvd
+      rFW0H0od+k195+59HQSeTuIBnlI2lp9gD09RyBwzB9Ip8uDBA65du3Ym90oEIOGpJlkEJzzV
+      7FkEa61Z3dzcYZdNODr7LdPSto1xAnGvXhiitMYyDAxD7dhwEoBl2D2fQmmJIQbP2ymEQKPQ
+      WmMa292oW6HYrVx0x/u2X3efI3WE0gqlNX4UIeDACjMCSFkWQggMYWCKg206veKNe17xaHUV
+      74IXfbvomPSeXqeGh0nb23q37pGxuh826vU4HaRjEur6zus1FFJje67RWtGM6qTMDJZhI1W0
+      o/MaxtEUgkqwAUJTSo93hEprveNfN+0s0t3ZpLvPaYRVAhkAmrBVdbO9vyZEfK7SmkBGmMIg
+      m3KwzXhjTWBScIqHfo+7P2NiBj1HlFa4UR2lFUNOse/rtNYUcxkaYYVQuTvTvaOxhLPjXKkj
+      IhViCoucvZ2305VNUqSxjeNV0DGF1Zpk9o7s7Xt3s7vz7z7fNCzSwsAybExh7RDO/dBaE6qA
+      RlAjkB6pI5bDSgTgHFFaIrVEa02kwpbasj9aazS6pcYYaK0Qu9QcgYFp2GitCZRHpEKUjtVZ
+      bWhstjt73i7EHUj6hDogY+Uxjf7Vo6HWiCvYrhMAdOoGHJWM1V8RjW6EEDhmCsMxaYY1HJ0+
+      dBbwIxfHTAPJIvjM6f5p2h1TCEEg+3MSU1qh0QgMbCO145jWIDDRxMUrIhWrsbbhkLHyPTtY
+      qHw86SK1ROqDM2NrrfGl2+nckQwJpb9vZ1daEaoQpU+/iLghjNbsdrjgaeJZET4zVSL/4bBb
+      XWkj++gkQgisroWeY6bwo+aOkTfu+PGskrFyGOLgMa7dQR0j3RkV9yPSIX7kYdomlnAIVYDS
+      EttM7XtNM6qRNjOkreyhn29Q4u/h4NE/Xpu0DTyJK8Sp0uunMIXolBeK3TDbJx9dZTCFjRBG
+      p5G2ihQLQYhpWH2VgBLCQKOQKsIQ5r7n24aD6VgdoUqZGfQBDtKmYZJ3CpgHtDkI8cyjAdGX
+      2tUeIDL2dibsRADOmG7rh9JHNzWrlt6vW9JjGQ6ytcA1DQvDsEDTWVcIBEIYGMLorBd2LEKJ
+      1QelFfWwQuqQ0brd+aWK1yH7mVTbnc0htef9k8KXLoH0EUJ0jAj7CcF+dcwSAThDUq1iGlpr
+      mlENqSUGBlroPYvZXsRCI1trgFgIUmYGjExn5I9nAbXLGqNitQhFqEMsYWEZNpbRmkE6a5H+
+      l4Ru1MAQBlmnd12Bs8jxmbayO4S1l2m1/f5+z5MIwBnSEQBUZyRPW9mOGnHQFK7psq/TNXt0
+      XdK+PlYKdl6riOJFsYh1eaVULAQithhJon7Wjx1Mw0AiaYY1bDMWpLPQ8/dDaUWkgs46pvu7
+      3N35u/c/EgE4Q9o/RNuMabZG4vaxwyxBh+2kdo61un9baCIdxCpT915Z6zrbdLBNB9BILfse
+      ubP2UGdkrYcVzHPuSlJFNMM6jpk+cMRXWtEIaxRSsft1IgDngGU4WPtsPp2U6qDRSBUR6RCp
+      YpcF29r+uXebJoUwsI+wB7B9nTjSJt5pYZsORXPv7vdulFY79joSAbgAdJsxTwqtNaEOqDU9
+      /CjCEIKxwlD3XXcUuT5pnV2qiEDFM1rKzBxqjj0LhBDYpo1tbgcVJQJwzrQ732l4pWsNfsun
+      y7F2/9TxTnHayp5I529btQxhxGZYHeJFTSA2n563ABiG0fNznr9YPsXsGHlP2GgSe0gKTMNA
+      CMg4zp7jgfSph9WBdmqVUiilCKTPlrdGIP14t1rv3JtoE7U23ryoSaQOr8kc6+zVfY8H0seL
+      mviR2/N4995IL5IZ4IIQL1wPcwA+WnuWsBnJ59DQ0wXbNhwcK40v47q8BkbfzmTdXqxSRfiR
+      h8AgkiFaKzaamwRSMpYv7nC28yMXTbxHoVHYRppca0G9m1AGNKM6kQqwhN3z2drCIRA9jyut
+      aIY1UlaajL3XFSQRgHNGa00gPRCxI9tJYgqLSIc7On93xzWEgWVYWIaFVBGNqEaK/r0p22ZZ
+      gUGkIgQCqSSWsMk7OQIV7NnsyzmxN6rUkkiFpA5wv7AMG8dMAbEPkm06PTbedMuk3Pu7Mw2T
+      IaeIafZe4CcCcM4IIQhViNQRjpk6NKjjqG0bwtzhrqC0pua6FDIZTHP7XqZhkbOGejUDxKpL
+      ID0yVr7naG0Ko+WMZyAwyDsFDMPo6SohVYQnm2QPuF/7+TNW7kAv0VJ64sA22mitqAXlVgCP
+      Tb4liIkAnDGxv40R+9+0RmPHTBEo9rgVnwQGBrKrE5qGQTaVQgiB2tU5D/K/11oRtTwody9Y
+      tNZkzN47wr1cJXzp7mnjNGk7yaWsLF7UwDG3VbJEAM6B2JWh9VrrWBc3Uy116GRzZxrC3LXY
+      1Nim2dHdj9KOJfrPIHGQVStrHzzynwaVLZcoUoxNjO54PxGAs0YcbJk48uh/yLpZCEHazHZG
+      wW1fIgPb7L9Dm4ZF1ug9yvdCaokfuliGdeQorZNGSc3/82/fJgwi/sX/9PPk8skMcGqIXX93
+      HBPbKo5CYWIOvAkVB6frnkKgtcYy7R02+Ei1ZhkBKbG/H/9Rn6F9v/b/pY7wIhfHdFq7zM6R
+      P+dB7h5HacOwBHNXR3DdkFRqZ5dPBOAEODwMYy86XjHu6BQKSS8d+9D77yMEQmz7BbXZ9gI9
+      2d3f3YHufuSilMS2U7hhA8MxjqRCdW9caa1Rx8hSIoToBMF/87df7nlOIgAnwPG6kd4RBNPe
+      SdU67rhHfoYeu8mC3rufp+H60EZpSTOsI1uB/u31zUEZJ9pWIVNYR/YojVSIVLEF7TB37vae
+      QdrMESqfQPqJAJwERxmzu4NS4jDI2B4fW2QGtADtWg+chU9+N5GKaEY1ALJ27tAg/851Ot5I
+      a5s7lVZoqQ7t0JEKKHvraDQGZis+INdxdtNaI6XsCJ8XuYDGDRud7yYRgDNEa92xy7dVoO1F
+      KcQOaurYHXenKhTfSypJM6rFi1ir/0XscXCjOgCmMLENh0iFLVfrgzEQWMZ2qKUb1rGM3ju/
+      bUIVUPHWgZb5GEUzquFGdSzDIWPlOrOCUgpJ2Pluu1WrRABOgE5Ybx/nxmlEzE5IYzzyK9oz
+      gT5GbPDu9jUaU7QyprWyR5in7IymdXzPUAWdkT+Qfl8CYJupHYH17d3i3e23iVRIxV/fu+aJ
+      t9OJVMCW10AIg5w9RMrMEihvRzspM03ayiUCcF7EI5GBgYlCdlwGTGG2UnYcX30xhLEjID59
+      BmZIN2qgtMQy7E6nz9onO+MopZA6oupvbL+5e/TR2+dqJK5otMI3TYQRZ9UYTo91ZptEAE6I
+      fmaBXkXrhBCYWLTyMrRcis2OR+Vx1KG2lQcGMyEe9Z62kTu17A9axwE+Ozr/jpN2/7+lVGrR
+      2ntRKKU7qhCJAJw8hwnB7oTD3XZzIQSGNlsbZAaWMJAqFoh+O1W7vXpY2Q6LbD1UxsruyN/Z
+      vu9J4RyQG2gQ2p0/UmHc+ft0mG27lcSNEJuctYBdFrBEAE6YA3+bHqPxbiGI17CtoHcRLxB1
+      H3am2MnLbGVX3ik0Hf/8HjHBZ20p6pf4mWOzsNKSqr/Zt1YYC4wEumbR1lfoGGm0AkkcA5EI
+      wClwVKVjd17NdhvxgrY16LUajY/rPbIkhGgF2ce7sKEK4k5+wMMcRcVqp2RpL9b7vc5rZa4T
+      AsyOe/PhNMM6fuRiGTah9Dnqtypb7tle6JK2Mx0hCFWAH7nYRor1ej0RgLNE9qWPC9iTaDbe
+      HOtOO74z74/GMqxOvqCUmUZrjWOlMDBjX/0BrUCh8mlGdUDgGKm+F7huKyxSCEHKSh8oADvW
+      K1rjmGn8qMlRO78QsVk1UhGmYSOEGec+Eq3FsdZUXBeloyQk8izpp3J725S3472uwPX29n63
+      i4NpmCBEZ6fTECZZO49l2BhG7PQ2aExuIH0MYR65nZrrsVqtsdVo9qwZ0GZ3XQHHSB2r87dJ
+      WQ62aeOYaQxMhDA7qRQtI4Uf+WTSyT7AhSPe1NlLu+ME0muF/2VjX38dYQqrFXiyf1rA7jaO
+      SqTCI+UMahOnIDFIWza2Ze77fG26rT21cGv/83eZPHueIoyW33+cFqydLU/ruNJ9pHwM0okA
+      nCUHdZ/uFCW9flilFYH0WsmuFI5OIYxtH32ByZBT2nth+94DZJ5o5988DiPZ9qZWrJb0ou3s
+      1un8wRbHSRa8m+31kux8+UJAM6piGalkI+zMOaATdasHuzMpAKhWyvNBAqmO04mVloQqONa1
+      hjBId4Uz7naIkypO1xipEHS8CVgPKrCPe/eez36ASTSujCNbKpsmlFHLNVsQqYDR3EQcD33k
+      T5VwbE7Q+fhYrR2nE/eKUNstnMelGdUJZdz544D6OFNEP4mCO/QQAqkkQeRv+0UZdIwEaGLX
+      EMNEk5hBLyRxZZWg9b/tzRzHSLcWwL1jbU+DOKubSSC9Y60DummXY/KkCyLuqOj2aB0Ch2TJ
+      7tPtNpLbIaDCEDimE6eOFw5SmniRwAuqKJJF8Jli9lmFUQiDSAV7TJdSSVDxCGwb9pFja+O6
+      YT6Okeq7IwsR1+ByzFScvaKr5libQPp9RXy1Yx7aKVS234uD7fsa+Xttt3fNAu3d8/jt2A9K
+      4ND0IIgiNBHddUkSM+gZ0u+XbbRSi+yHOIYK5EYNQhUQSh/ZR0a2XtiGTdrK7tgDaC/OIU5k
+      FR0QaK+0RCmFQRwdZhtOy0u1z87fB+37a+L6xSkzh+tDEMlOx9eAZRggomQGuIgIIVoL5oO2
+      cfvfyZVKEsoA23bI2kMnmqfTEAZ5J04268oGjpHa19oTqQhPuq2ifbHjXCOonljnh20DQspK
+      U3DGaAQh/q7Of6lYJJdyKPvriQBcVLbdovenH38erTWNqIpjpjp++u0icYPuDu8mZ/VOcdim
+      rZI4xnYp08MqU/ZNa7xoL6JtI0Xd86l4XmcY0cRqaD6dQiDIO4VEAC4qRh8CAIfPAkIIMmZ2
+      Rz2CdmKqk67oclhh617BMVJFJ+aQ17byGIaBHykaXZ2/vWoxRFzXWAhBxs4la4CLykmoBUor
+      vKiJ2hVrbAqrs+m0456tjbhIhxxU/fEkOWlvVNO0cMwMXiD2dH4NhFJS97c39hIBOCX6tZTv
+      m7bbsNB6sE7oR00C5e9pxzZTZOzcjhG729coLsZ9Oq7SA7d5wPpfCIFjOYSRTaRam4qtY239
+      XxHXTEgE4JQwAJNty1z3v907wQelJxHsX4L0MOJ05S6RjtCtohWH0e1ol3VyrcJ3JysA3UIW
+      RdHRXTMO2iLQGoGJjFI0/bYlaNf332Kj0egEJyVrgBNEEAvAfr9T94/Q3fl75ugwvZcAABfg
+      SURBVPQRgrSVw4sae3Ze93OJ0FrRjBpxfeBO28a+s9HuDn4aHX772XY+hbWnYs3x0RpQDs0A
+      vCheVO/X+SF2ifbCkFwqlcwAZ02vUb97ZOzGFCZpM7vjF4zfy+zJq+9FTWpBBT/y4w2flm9R
+      vKew9xnamde6X58kPV24dwX99EPcgQ/2gQpDm0pT4kWy65renb99fKlSAZIZ4MzZV+XZx1vT
+      NCxydmHHeb1QWuKFIU0v/oGLeYUhBFk7v0eV2k/gLhJaayzhgEHLGtZjFgQskcH1gz26/n6d
+      v41KVKCz57Dutp/ffq+OGkivVdooHh0jqWh68QpRtPIMiVZgvega7Q9q8yzYExSza7+vHdWW
+      tvKkzAyRDmlGtTirAxq0gdICrUyiyCCIgh32qn46P8TBSUlirLOmj07X78icNrKkrDRe5OJH
+      Hk0vTnmuAceKN3y01rhRnZxd2JEq5cJ0/vb7xJkwbBHXT7bN1HbeHu3gBwZ+qJEqdprYtu9s
+      qzzbbfWH0ppmECQC8FlFKokvm/iRT8NTKNVazmlNyolfm8IiZ+fpnnsOSlLb5qDQxUHo1WbG
+      zGMZce2v3YIZyojVao1Aqq6O39Uexw2YjFFaJQJwlvQad3sFuLfTmhxkvtQovMhFSYO8k8ML
+      w459O4wUtmXGu55HdHfYHZhzXPq9NtVjNzqulBOxUq0ile7Z0Qft/EAyA5w19q5Khe0KkZGO
+      64bFrrxxjQDbTO0pDqe1xpcejplCKokpLGzbIGdnKGQy1H2fSrNJEEImpTGM4+0jnNQMcJw2
+      4s8YsFqtE/Xo/Cc5L3mBn5hBz5LdI30t2IqT47bqhGWsHENO8YCIqzjAO1QBgfQxhYnRVVUy
+      n0q1hMzc4Re/o4Vd2Rf2hGKeUSrFXmit8SJvT+fvd2F7nPslM8AZYplmy/krTmuSswsYwsTH
+      xZdenFK8lRs0Ze5NaCuE0ZkVbNE767KmrVaZOyrAH9axz0MIvKgZp1Jv5QryZZPlagWtnRPv
+      7PuRCMAZYhmCalDuFHAwhYkpLHzpIYRAyngDKw5DPN7kPJzJUPddIERp0Uq2G7fV3bH38yI9
+      yxkgVAFKmAQqQCCohzW0stDidEb8XiQq0BnSThHYRmpJoPwd9v+0lT2wevrhNwlxHNlqP+ok
+      y2oTx+UGNMP6vqrQWWGKuChGe2c7iOL9Czibzg/JDHCm2IaBJ7cLZLc9L6UKW3Z6A6tV2OIw
+      9ts5TltZ0mQxDKNTGb2bQPq4UaPv8kWnSXdopdQSrQ206J0Y7DQIZWIGPTNMI64On7VymIZN
+      pEK8qBnH6MoALNFXNZU2/WR7i23rOyf5du7Q40SDBdIjVCG5Uyp0HSl1ZqoPJAJwpuRTcSaG
+      9oLPMVMdFSAyU60M0H3m/WhxmOtEr45qmw42/QtaN1LLYwfUH0Zrj/rMOn+bRADOiF4pUUzD
+      7ASUH5f9PEu7OSnd3jYcjFNYNsZp4DWmAZE8/PyTJFkEnxHOCfq/76bb5bjbzXl3lNegHFa5
+      8ThIHVEJNtAoHPtsrVCQCMCZ0W9SrEHo1fEBPOlSD8unfv/jYBk2BaeEY6YZTg9h2+GZCkEi
+      AGeAY1l73CBOi90CIFVEM6yBEAfsMJ8v7boDaTPHUAZs62y8VTWJAJwJ1hmM/vthGCZ5u7Bd
+      kPvCBcHEpZe01timQ84e4uroKFPDeVKWiXGKj6tJFsFnwklM6ZGKUFphGwcHq++xCBHn9lTE
+      EWIXDY2m7G8wkpnopIIJpMtQJk0hkyaUktVqg4YfHNLS8UgE4AzQxCGLkYpi94dDEkj1Qraq
+      tNiGxX6m0v0ETQgjji0+4JxQBsiWJ6pGkzIypx5BpluJcm3DoRFUW8X94nTszajWqj2cIWUb
+      hNJo7RSfLIkAnBFxXswmaTOLeYyvvR/ry3HdGUIZ4EaNTnii0grbdjDYXrechgB40iWQcR7/
+      mhsQKTANjWGAbdpYTopQaQwhWkaERAAuJO1UKPt1kbQdqy3xxtfpLoaVUkcKeFda4crGoftv
+      Rymp2i8CQRBF1F0F2gIhkApCwAdqblxHwBACqU5nAZ8IwAnQzge0H45lYRsOtnG8HdiD0Frj
+      BgE1zyOQspUgCmzLImVZpGwbxzSx9rFCCQQpI93+D2iB1qqTnr1dU0AQZ6jodtfYrh3cdl+I
+      c3OKlj+P0XL77h3UHxfKqDUVhog9QLfb6fIG1f2Wlz0eiQCcAalT2gSTSrFSrRJEe5PoyjDE
+      C0NwXQCyjsNwNtWpk9VGCLFDvdqtRml0Ry93hMDqmgk0mg13ie6C3Eprsk4eRLz2iOOS97pk
+      aK3wghDBrii5rn/HpXs2PqytRABOGcswTm0TrO77PTt/L5pBQCNwyTompVyhpe4rnF2u17u9
+      TAWiVYZVY2Du8GQ1hEHKyuIG9Y4FJ7Y0xRmYOcC1KWVlkJELQu0Y9QdltyraLQi9SATglEnb
+      sdtx29YthHFiBSoiKfseLeOOYOIG4IVlsmlBPpXrfW6XEAghesYmtwmiYEdH12giFcThhqa9
+      74J/q9lsZXtoX7f996QVnoOEIBGAU6btA+RGTSIVkrcLcAIC0K4i06/K0J2zVGsDz9cMp/dZ
+      F/That051spg0bkWQSSDVjsGjrl3CthqNCi77o605d1/T4P91KJEAE6ZtgAYwugkp1Janog1
+      aHcG6oPYfVwqgXHAz79fwM1ubDMNbEdyxTeLnS5Mw0Qg8KImQhikzHTPzn/WDhrdgpAIwCkT
+      SQm2TcbK0Qxr1IIKlmHvWRi2TZf95uRpW1qgvw7Ufc4h1cd23uOQ5yik9q9OD7G1x5cuaSvL
+      VrNJ2XVPTd05eulAEHrXJ9Ra02g2L6jb1MXkoC/d6LLJtwu47WcaPCpKa9QRTYTddz0LD9X2
+      Z47zHsXj/kXqW3sEICHhaSLxBk14qkkEIOGpJhGAhKeaRAASnmoSAUg4kB9/7y/44M7Cqd7j
+      L/70j7h5823euvnBDrPrwv2PWSp7R2pLK8lf/qc/5+6jw5/5h3/114kAJByACliphTz4+H1A
+      c//+fQCW5h/jR5LbH3/I+x9+jFSaR48eceejd3myusWtn/49N995l4YXIkOP99+9yfvvvkc9
+      UGysLHDz5k02qs3ObdxQ88Uvfglv+THl5haPF1f5/g9+xFC+QNqxaFY2uHnzHeaX16ltrfHO
+      zZssrW0H+a8tPubmO++wXq6z+PAOdx8tdo7VtlZ5++ZNHi2soJXkkw/f54MPPyFSmsBP0qMn
+      HMDqg48pXb6Boz3qgeLupx/hRor3P/iQxU/fxcuMMzukeOvDB7z5nT9joSyZKOUZGZ+gkJF8
+      9/vv8OZ3/5q5528gaqtsuB5vvf0hr7/2Kj968286+wH1yhb379+jqk2c2jL/9x/+CZevP8v6
+      41usVEO+9+YPefW11xgv5XnzR2/z6uuvc/OtHwCgoiY/fu9TXn/tFd76uzeZnrvKtWvP8OyV
+      GQDefPPveOnlV5kcHeaTmz/AHL3C5TGHH73zMZCoQAkH8N6Ht9DuBoby+ODWE1574TI33/4J
+      qdIs5Y11Fh7d59G6y+z4EMXJy3ztq18iLM/z9kcPGZ2aRAQBTQmlXBrDNICAhUdPeP+Dv+fS
+      3NXOfZxUmmJxhF//9W9iIvjKf/FLXL00vv0ghoVtmaQcm5XFeT54/33Gp2cBUNLFdoYwTRtD
+      7N3S+vovfp2P3n+Ht25+wNZWk4nxYQqlMRrVeAZJBCChN1riDE/x8z/7Zb75X/0TvLXHTFz/
+      PLffv8lrr77Ii298CeE14qJ8tk2hMIwQYKdyKL/GwwdPSOUyvHh9jjf/7ofcffAEyHLjxjWk
+      ikMu24xNTDIyUsK2TITlMJSNXbSddA7HMrg2M8ZbP36bB09WefXlFwkjid3ysjWdEsMZn5/8
+      5MeMX7oKQpDPb3uvLi8tIkwLwxC89uU3eOcHb/LDt97htTdeI5vPJzvBCafLysJjqm7I3U9v
+      8bVf+zWy1sUacxMBSDhVlIyoVmuks3nSqfNPyb6bRAASnmou1nyUkHDGJAKQ8FSTCEDCU00i
+      AAlPNYkAJDzVJAKQ8FRzbkHxUspOHsuEhPPixARAq4hHTxa5cnmWJw/vkytNobwKvrYpZS0W
+      N2rMTZXAytJsNBgpxcXhzEMqp2it+fZP7qGBYj5FMZ+mkE2Ryzjk0jaWaZLIUMJxOTEBiMKQ
+      Wr1G0CyDU2JzbQGEg6FdFhowWUzz+NETtlzFSy9+7khtX79UYnmzznq5yd35LapNn4YX0HBD
+      lNbYpoFlGQxlYwEp5uK/w/k0w7kU+YxDLuOQss1kxknYwYkJgJ3KkHbiKudSBiilQSjQCi0g
+      DCWGaZJJ2wRhCJn+tsWFEDw/N8rzc6N7jmmtUUoTSkUYSWrNgErDo1z3KNd9FtZrVBoedTek
+      4QYEkcQyDXJph1949QqvPTdJyk5SIz3NnJgrhFuv8PDJIqMT00i3Sq40gfKq+NqmmLVY3qgx
+      PT4MdgavUadQKCClPFQFOkmU0kRSsV5p8v0PHvHh/VWenSnx9devcnWqeCFmh0gqhDibnD0J
+      fQiAX13h//3OT/jSyy/w3PPPn+jNz1oAdhNGkk8erfM37z9ko9LkKy/N8nM35hjOpw+/+ITQ
+      WlNrBvz0wSrv3FpicaOGISCXcbgyOcz1SyWuTBaZKOWwzEQoTppDBcCrLPHv/r/vMHlpjt/8
+      xi+e6M3PWwDaaK2puwE/+mieH300z1DG4euvX+Xl6xPY1sk/n1Kax6sV3ruzzE/vryCE4PPX
+      xvnC85e4NDaEEFB3Ax6vVLi/uMXD5Qrr5SaObTI7PsT1SyWuTpeYHsnj2Of//X2WOVQA6it3
+      WWWa5tp9btx4+URvflEEoBulNAvrVf7mvUd8+niNz10Z5+uvXWF2vDCQitTwQj55uMY7txd5
+      slplaiTPG89Pc+PaBENZ59C2ldI0/ZCFtSr3Frd4uFxmebOOKQRTo7FQXJsuMjM2ROYCuh1f
+      VA4VABk0+O73fkBh/BJfeeMfvgB0E0SSD++v8rfvPaTa9Pm5l+f4mZfmGMoeXupIa83SRp33
+      7izzwb1lglDy4pVxvvDCNFcmh09kZtFa4wURSxt17i9u8WBpi8WNOlIpxos5rk/HQpFyTKJI
+      EUlFKBVR1PorZdfr1vEofr99Xvc1kZT4oSSTskk7JinHIm1b8V/HIm2bndep1v8d28SxTGwr
+      fm1bJrZlXJiSrQcKgFaKD95+k3vz6+RGpvi1X/y5E735RReANlprKg2fv/vwCT/5ZIGRQoZf
+      fP0qn786jtmll/tBxK0nG7xza5F7i1uMFrK89twUrz47STGfPpMfXWtNEErWKs2W+lQmjCSW
+      aXbMxZZptF6bXa+73m8da7+2W8csM652E0YSL4jww/hv/DrCCyR+6/9eGOEHEUGoCCJJGEmC
+      SBKEsXAJwDAEhhBkUjYTxSwTpTyTIznGizlGhtLkM4fPjINy6AzQXH/M9z9c5AuvvMD46MGp
+      sI/KZ0UAulFK82ilzN+895A785u88swkpaE0H9xbod4MeG5ulC88P80zM6XExLoPcR2yOLu1
+      lAo3iFjdarC61WBlq8FaucFWzaXhhdhWbLaeLOU6AjI2nGVkKEMmZQ0sIAcLgNZ88u4PeO/B
+      JjdeepFXXvqHZQUaFD+MeP/OMpWGz2vPTjE2nMUwLsbU/llH69ZsFkkabsBKR0DqrJWbbNU9
+      /CDCsUwKuVRHQMaGMwxlU2RSFtmUTSZtY5vGvoJyoAAoGfKjH/8EgJ/7ap/qj9asLC9ipYfI
+      2hBgkU+ZbFabjBRyaNMmCnzS6fRnXgASzo/2JmgQSaoNn5XW7LFZbVJ3A5peSNOPcP2QSCpM
+      w8A0RGsj1CafjT0EDlkDSL79Z39EzYehsUt9rQFU4PLWzff5/Msvszg/D1pjmoKMYxBpQYTD
+      cGmEidJQIgAJp05b3ZJKIVsboQ0vpN70qblB/zvBq6srTExMHnqeinzKNZfFxQVsK4UgrmQ4
+      UkhRrfv4ymJiaoqx4VwiAAnnzqGrNBn6rG1ssba2Tml0HPuQ3UhhWNQrm8xduQ5BHV/bDGct
+      VjZqXL48gbYyeM36iX2AhIRBOHQGqC1+zN9+UsXdeMTk7DV+4atfPrGbJzNAwnlz6AyQLs1g
+      h08oXXmOq7NTZ/FMCQlnxqHeVVppbNtgbX2DmZlLZ/FMCQlnxuFrABkSKcHLL790Fs+TkHCm
+      HDgDaK346KNPqK4+5JP7iwedmpDwmeRgFUiD67mYhiCdzR14akLCZ5G+9gG0VjQa7o686ydB
+      YgVKOG/6CjESwhio89fLG9y++xC3UcENIjY2y4dflJBwBpxJjN3y+hZTJZsnj+Z5/+8/JpWo
+      UwkXhDMRAC0lvh9i2hZD+SyeH5zFbRMSDuVMCmQEbp3lzTrTYwVouUIMDSXOcAnnz7lViGmn
+      RjROMP2H1vpEI4hOsr2L/GyfhfZOi3MtkXTSAnCR27vIz3bR24tdmvWptHeha4RpGXL7zl0M
+      y8Jysly7PDNQe43qBk+WNjCEojQ+w3hpaKD2qpurLK1XEDpibOoKI8PZgdpbePwAtxVH+/zn
+      XsAacAB9/PAuQaiJlOC555/FHKA9LX1u3b6PaVs46TxXZqcHejYVuXx6+yGOY5HKDjN3aWKg
+      9srry6xu1tAqYmr2Wt+5nS50piUlA7xA4tgOzUZj4PaajTqGaWNbFo364C7Z9Xody7KxbYt6
+      4wTaa9SxbQcVNAnkwM3RaDSwHYfQaxCpwdqSgYcXaRzbpnECn1V6DQJlYp9Qe/V6Hcu2sUxB
+      o9ns+7oLLQCGlSbrGOSGR5ia3Jsb9KgMFYqEYcD0zBUKudTA7RWLJbwgZGbuKkOZwQPghwsF
+      tGFz9cocPYqeH729oQLCSnPl8gyDauNmKkvG1AyVxpkcHxn42axMAYeA4dFJJkaLA7dXLBbx
+      Q8ns5atkU/0bVi60AEi/jsgU2VyeZ3F5ZeD21ldXmZ2d5sHDx6yvrw3c3tLyKtcvT3Dv4cKJ
+      tFepu2SNgMePH9AMB26OmutjyQaPnzzGjwZrK2qWsQuTrC08YnlldeBnC6orZMausPjoPitr
+      g7e3tLrOlekR7j+cZ2Or/43WCy0AVrpAwdE46TSFwuApWS7NXaG8uUXKgtGJwXRYgKvXrrCy
+      WsYxIsYmZwd/vqkJ3EhgZ4oMDT5BMTUxRqgN0rnhfpNx74udGyMrXFLpDIXhwWeAVHGWVLhJ
+      NpuhMDz47H7tyhVWN6o4JoyN9b+euNACIP0aazWfS5cuUStvDdze8sIjMoVRpiZKbKwP3t7j
+      Rw8pjU0wNV5k/STae7LA1PQ0ZugSDKizA8wvLDE9fQnlNQdeA0TNTTZduHRpmsrWxsDPFtSW
+      qcg0ly5NU95cH7i9R48eMjo+yVgpx2a51vd1F9sKpBWP7t8n1Jp8YYTpicFGisCt8/DJIqCZ
+      nr3KUHawYdZvVHi4sIrQipmrz5BLDbYOWF9ZpFxroA2HZ69dGbjyzcriE2oND2GnuX5lbqD2
+      tJY8uHsPKQRDw2NMjQ82I2sVce/OPTANhkcmGB8ZHqg9t7bFk6V1QDN39RkyTn/rgAs9A6ig
+      yXq5irAyNKqbA7e3tbGK5/uUxmdYWXw8cHurq6uEgcvYpcssPXlwAu2t4HohRSdg0xu4OdbW
+      VvFCRVZ41Af0PoncKhu1JqaTo14ZfMQO6xtsNgLsTIHK5uBrgNXVVYLAY3xiiqWlhb6vu9AC
+      YFgOU9MzjOQsak1/4PbSmRxXnnket7KCNgbPoJzN5rj2/EtUV+cR1uBKe6E4xueeu8LC0vrA
+      ewAAxZEJnrt6iaW1LQbdQzKdNNPTsxRScabrQbHSOWZmZskYIe4J2HyzuTzPPP8im6vzGObh
+      yYvbXGgVKCHhtLnw2Vu9RpWFlXVS6SyXpicHzrC8sbpEtekzVCgyOlIc2D5+59ZHYDiMT81Q
+      HBpsJ3hzfYWmF4IQTE3PYA04aisZ8vjRY4TlMDk1TdoZ7OfeWlvk/tIWY8N5rly5MtjDAfXK
+      JisbFTK5PNMTYwP5DkW+y0/eeZfpyXFwhrk2d3gSN7jgKlAHDabQLC4NrisCaKnwaltU3cGm
+      8nplg3K1/13Hw3BSmYE7/W601gjDYHlp8Jhu07QJGhX86ISUBg0CjaEjllYHW+OZtsO1a9cY
+      Lo4yN9O/GfT/BzY6ZMyFPcmJAAAAAElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='Real estare during Covid ' width='192'>
+      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
     </thumbnail>
   </thumbnails>
 </workbook>
