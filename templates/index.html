@@ -33,25 +33,39 @@
   <a href="#about" class="icon icon-info"><span>About</span></a> </nav>
   <div id="main">
     <article id="home" class="panel">
+
       <header>
         <h2 style="text-align:center">City of Perth Property Price</h2><hr>
       </header>
+      <div class= "panel_intro_about">
         <table>
           <tr>
 
-            <td>
-              <ul> <h3><b>Introduction:</b></h3>
+            <td class ="intro">
+              
+              <ul> <h3><b>Introduction:</b></h3><br>
+                <img src="static/images/PerthCity.png" width="90%">
                 <li>This project explores the property prices in the City of Perth.<br> 
                   This includes the 6 suburbs that falls under the local government :<br> 
                   Perth, East Perth, West Perth, Northbridge, Crawley and Nedlands.
+                  </li>
+                </ul>
 
-                </li>
-
-              </ul>
+                <a href="#story" class="jumplink">
+                  <div class="explore">
+                    <div class="button_base1 b03_skewed_slide_in">
+                        <div>Explore the Story Board</div>
+                        <div></div>
+                        <div>Explore the Story Board ➡</div>
+                    </div>
+                </div>  
+                </a>
+                  
+                
             </td>
 
       <td>      
-        <ul> <b>This project sets out to answer the following :</b>
+        <ul> <b>This project sets out to answer the following :</b> <br><br>
           <li>🏡 What are the price range of each suburb?</li>
           <li>🏠 What are the property type that people are interested in buying?</li>
           <li>🏡 Which age range does the sold properties mostly fall under? </li>
@@ -61,24 +75,18 @@
           <li>🏡 How much is the return of investment? </li>
           <li>🏠 Have Covid-19 impacted the Real Estate market? </li>
         </ul>
-        <br>
-        <br>
-        <br>
 
-   
-        <a href="#story" class="jumplink">
-          <div class="explore">
-            <div class="button_base1 b03_skewed_slide_in">
-                <div>Explore the Story Board</div>
-                <div></div>
-                <div>Explore the Story Board ➡</div>
-            </div>
-        </div>  
-        </a>
-        
+      <!-- <ul><b>Hypothesis</b> <br>
+        <li>🦛INPUT HYPOTHESIS HERE</li>
+        <li>🦛INPUT HYPOTHESIS HERE</li>
+      </ul> -->
+
+  
       </td>
           </tr>
          </table>
+</div>
+
     </article>
     <article id="story" class="panel">
       <header>
@@ -200,8 +208,8 @@
 
                    <!-- Modal content -->
                   <div id="modal-content">
+                          <span class="close">&times;</span>
                   <p id="input_error"></p>
-                  <button class="close">Try Again</button>
                   </div>
                     </div>
 
@@ -219,7 +227,7 @@
 	
 	<article id="about" class="panel">
 <h2 style="text-align:center">About</h2><hr>
-
+<div class = panel_intro_about>
   
             <h4>Team</h4>
             <p>Our group consists of two members and this project is a part of our Bootcamp in Data Analytics,
@@ -242,11 +250,25 @@
             <h4>Future Developments</h4>
         
             <ul>
-             <li>To expand the current scope to include more suburbs around WA or even Australia</li>
-             <li>Train Machine Learning model for Apartments and Units. This was not included in the current project as there are many factors involve in determining
+             <li>• To expand the current scope to include more suburbs around WA or even Australia</li>
+             <li>• Train Machine Learning model for Apartments and Units.This was not included in the current project as there are many factors involve in determining
               the price for an Apartment and Unit such as views, building and location</li>
-             <li>Include school catchments area, amenities such as shops, public transports to improve predictions</li>                
+             <li>• Include school catchments area, amenities such as shops, public transports to improve predictions</li>                
             </ul>
+
+            <h4>Limitation</h4>
+            <ul>
+              <li>• Suburbs that we looked at does not have a lot of landed houses</li>
+              <li>• Many factors affecting property price</li>
+                  <ul>
+                    <li>&emsp;- For example, apartment would have views and strata fees </li>
+                    <li>&emsp;- Landed property with the council rates and street name </li>
+                    <li>&emsp;- Any renovations that was carried out on the property </li>
+                    <li>&emsp;- Pool, Solar panels and a nice lawn </li>
+                    <li>&emsp;- Human factor involved such as if owners are rushing to sell or failed to pay mortgage</li>
+                  </ul>
+              <li></li>
+            </ul>  
 
             <h4>Datasets</h4>
 
@@ -256,6 +278,7 @@
 			 <li><a href="https://www.propertyvalue.com.au/" target="_blank">https://www.propertyvalue.com.au/</a></li>			 
             </ol>            
       </section>
+      </div>
     </article>
 	
 	

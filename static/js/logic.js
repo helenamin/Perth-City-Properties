@@ -57,7 +57,7 @@ d3.select("#submit_this").on("click",()=>{
   var modal = document.getElementById("myModal");
   var tryagain = document.getElementsByClassName("close")[0];
   var p = document.getElementById("input_error");
-  // For the X button on the Modal
+  // For the button on the Modal
   tryagain.onclick = function() {
     modal.style.display = "none";
   }
@@ -99,7 +99,7 @@ window.onclick = function(event) {
         else {var landsize = land;}
       }
       catch(err1) {
-         p.innerHTML= err1;
+         p.innerHTML= err1 ;
          modal.style.display="block";
       }
   
