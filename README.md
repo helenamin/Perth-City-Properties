@@ -18,6 +18,20 @@
 
 To create a visualised data on real estate properties in the City of Perth. This includes suburbs - Crawley, East Perth, Nedlands, Northbridge, Perth, and West Perth. We also want to assist future buyers and investors to be able to predict the future property price.
 
+<b>Questions:</b>
+
+This project sets out to answer the following :
+
+* What are the price range of each suburb?
+* What are the property type that people are interested in buying?
+* Which age range does the sold properties mostly fall under?
+* Does the number of car park affect property price?
+* What are the key factors that are impacting the property price?
+* Are some properties better to rent or buy?
+* How much is the return of investment?
+* Have Covid-19 impacted the Real Estate market?
+
+
 <b>ETL Process:</b>
 
 Dataset scraped from the data source sites and filled some missing data manually to ensure data integrity. 
@@ -36,13 +50,35 @@ Rent column implies that the property has been advertised and has been rented ou
  
 Perth City Properties
 |
-|__static/                                    
-|     |__ css
-|     |__ data                              # Directory for the data files
-|     |__ images
+|__Archive/                                 # conitains archived files since project started
 |
-|__ gitignore file
+|__ML_Model/                                # contians saved mashine learning models
+|
+|__ Notebooks/                              # contains ETL and ML notebooks
+|     |__ Add location.ipynb                # add Geospatial data to csv files
+|     |__ ETL.ipynb                         # data extract, transform, load to SQL
+|     |__ ML nitebooks
+|     |__ scrape.ipynb    
+|
+|__SQL
+|
+|__static/                                    
+|     |__ css                               # css files for webpage
+|     |__ data                              # Directory for the data files
+|     |__ images                            # images used in project
+|     |__ js                                #js files for webpage
+|
+|__Tableau                                  # tableau files
+|
+|__templates                                # conitan index.html
+|
+|__ .gitignore
+|__ app.py                                  # flask file
+|__ LICENSE
+|__ Procfile                                # related Heroku 
+|__ Project3_proposal.docx                  
 |__ README.md                               # read me file
+|__ requirement.txt                         # contains project dependencies
                    
 
 ```
