@@ -117,7 +117,7 @@
 	}
 	
 	.intro {
-		width:580px !important;
+		width:40% !important;
 	}
 
 	sub
@@ -829,7 +829,7 @@
 .close {
 
 	padding-right:41%;
-	color: white;
+	color: rgba(82, 82, 82, 0.5);
 	float: right;
 	font-size: 30px;
 	font-weight: bold;
