@@ -8,9 +8,9 @@
 - [Structure](#Structure)
 - [Setup](#Setup)
 - [Analysis](#Analysis)
-- [Contributors](#Contributors)
-- [Technology](#Technology)
 - [Data Sources](#DataSources)
+- [Technology](#Technology)
+- [Contributors](#Contributors)
 
 ## Introduction
 
@@ -105,15 +105,6 @@ Perth City Properties
 ### Property Market since Covid started
 
 
-## Contributors
-
-- [Helen Amin](https://github.com/helenamin)
-- [FangXuan Foo](https://foofx88.github.io)
-
-## Technology
-
-![PythonLogo](static/images/tools.png)
-
 ## DataSources
 http://house.speakingsame.com/ 
 
@@ -122,4 +113,12 @@ https://www.onthehouse.com.au/
 https://www.propertyvalue.com.au/
 
 
+## Technology
+
+![PythonLogo](static/images/tools.png)
+
+## Contributors
+
+- [Helen Amin](https://github.com/helenamin)
+- [FangXuan Foo](https://foofx88.github.io)
 
