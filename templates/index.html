@@ -32,8 +32,9 @@
   <a href="#predict" class="icon icon-album"><span>Predictions</span></a> 
   <a href="#about" class="icon icon-info"><span>About</span></a> </nav>
   <div id="main">
-    <article id="home" class="panel">
 
+<!-- Main Page -->
+    <article id="home" class="panel">
       <header>
         <h2 style="text-align:center">City of Perth Property Price</h2><hr>
       </header>
@@ -73,8 +74,9 @@
           </tr>
          </table>
 </div>
-
     </article>
+
+<!-- Tableau Story -->
     <article id="story" class="panel">
       <header>
         <h2 style="text-align:center">City of Perth Properties Story</h2><hr> 
@@ -113,7 +115,8 @@
       </script>
       </section>
     </article>
-	
+
+<!-- Prediction Page -->
     <article id="predict" class="panel">
       <header>
         <h2 style="text-align:center">Property Prediction</h2>
@@ -190,7 +193,7 @@
                     </button>
                   </div>
 
-                  <!-- The Modal -->
+                  <!-- The Modal for the input error popup -->
                   <div id="myModal" class="modal" style=display:none>
 
                    <!-- Modal content -->
@@ -211,27 +214,16 @@
         </div>	  
       </section>
     </article>
-	
+
+<!-- About Page -->
 	<article id="about" class="panel">
 <h2 style="text-align:center">About</h2><hr>
 <div class = panel_intro_about>
   
-            <h4>Team</h4>
-            <p>Our group consists of two members and this project is a part of our Bootcamp in Data Analytics,
-               organised by University of Western australia. </p> 
-            <table>
-              <tr>
-			  <td><a href="https://github.com/helenamin" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/78719440?v=4" width=240px alt="Helen's Profile Image"></a>
-			  <b>Helen Amin</b></td>
-              <td><a href="https://foofx88.github.io" target="_blank"><img class="profile" src="https://avatars.githubusercontent.com/u/78995824?v=4"width=240px alt="FX's Profile Image"></a>
-			  <b>FX Foo</b></td>
-			  </tr>
-            </table>
-
             <h4>Aim</h4>
              <p>The aim of this project is to assist potential buyers and investors to get a better predicted property price.
-			 We've utilised Machine Learning Model to train existing dataset for better accuracy.
-			 Potential buyers and investors can then explore the properties in the City of Perth through the visualised story board. </p>                
+			          We've utilised Machine Learning Model to train existing dataset for better accuracy.
+			          Potential buyers and investors can then explore the properties in the City of Perth through the visualised story board. </p>                
 
             
             <h4>Future Developments</h4>
@@ -260,16 +252,31 @@
             <h4>Datasets</h4>
 
             <ol>
-             <li><a href="http://house.speakingsame.com/" target="_blank">http://house.speakingsame.com/</a></li>
-			 <li><a href="https://www.onthehouse.com.au/" target="_blank">https://www.onthehouse.com.au/</a></li>
-			 <li><a href="https://www.propertyvalue.com.au/" target="_blank">https://www.propertyvalue.com.au/</a></li>			 
-            </ol>            
+              <li><a href="http://house.speakingsame.com/" target="_blank">http://house.speakingsame.com/</a></li>
+			        <li><a href="https://www.onthehouse.com.au/" target="_blank">https://www.onthehouse.com.au/</a></li>
+			        <li><a href="https://www.propertyvalue.com.au/" target="_blank">https://www.propertyvalue.com.au/</a></li>			 
+            </ol>    
+            
+            <h4>Contributors</h4>
+            <p>Our group consists of two members and this project is a part of our Bootcamp in Data Analytics,
+               organised by University of Western australia. </p> 
+            <table>
+              <tr>
+			          <td><a href="https://github.com/helenamin" target="_blank">
+                  <img class="profile" src="https://avatars.githubusercontent.com/u/78719440?v=4" width=240px alt="Helen's Profile Image"></a>
+			              <b>Helen Amin</b></td>
+                <td><a href="https://foofx88.github.io" target="_blank">
+                  <img class="profile" src="https://avatars.githubusercontent.com/u/78995824?v=4"width=240px alt="FX's Profile Image"></a>
+			              <b>FX Foo</b></td>
+			        </tr>
+            </table>
+
       </section>
       </div>
     </article>
-	
-	
   </div>
+
+
   <div id="footer">
     <ul class="links">
       
@@ -285,10 +292,10 @@
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 
-  <!-- essential js files for charts -->
+  <!-- essential js files for charts and deployment-->
 
   <script>
-    var API_KEY = {{config['API_KEY']| tojson }}
+    var API_KEY = {{config['API_KEY']| tojson }} 
   </script>
 
     <!-- Leaflet JavaScript -->
