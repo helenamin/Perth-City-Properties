@@ -14,6 +14,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import Lasso
 import joblib
 import math
+import os
 
 #################################################
 # Database Setup
@@ -38,6 +39,10 @@ app = Flask(__name__)
 #################################################
 # Flask Routes
 #################################################
+
+# Get API KEY
+
+app.config['API_KEY'] = os.environ.get('API_KEY')
 
 @app.route("/")
 @app.route("/home")
