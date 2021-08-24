@@ -550,45 +550,6 @@
 
 /* For the Submit Button in the Prediction field */
 
-.button_base1 {
-	margin-top: 5%;
-	float: left;
-    border: 0;
-    font-size: 20px;
-    position: relative;
-    bottom: 50px;
-    /* or -20% to keep it left */
-    /* margin-top: -25px;
-    margin-left: -110px; */
-    width: 250px;
-    height: 55px;
-    text-align: center;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-user-select: none;
-    cursor: default;
-
-}
-
-.button_base1:hover {
-    cursor: pointer;
-}
-
-.explore {
-    width: 100%;
-    height: 100px;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    padding: 1px 1px 1px 1px;
-}
-
-.explore:before {
-    position: absolute;
-    padding: 0px;
-}
-
 /* for submit button in Prediction page */
 .button_base {
     margin: 0;
@@ -627,63 +588,6 @@
     position: absolute;
     padding: 10px;
 }
-/* ### ### ### 03 */
-.b03_skewed_slide_in {
-    overflow: hidden;
-    border: #000000 solid 1px;
-}
-
-.b03_skewed_slide_in div {
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    height: 55px;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    padding: 10px;
-}
-
-.b03_skewed_slide_in div:nth-child(1) {
-    color: #000000;
-    background-color: #ffffff;
-}
-
-.b03_skewed_slide_in div:nth-child(2) {
-    background-color: #000000;
-    width: 300px;
-    transition: all 0.2s ease;
-    -webkit-transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    transform: translate(-330px, 0px) skewX(-30deg);
-    -webkit-transform: translate(-330px, 0px) skewX(-30deg);
-    -moz-transform: translate(-330px, 0px) skewX(-30deg);
-}
-
-.b03_skewed_slide_in div:nth-child(3) {
-    color: #ffffff;
-    left: -300px;
-    transition: left 0.2s ease;
-    -webkit-transition: left 0.2s ease;
-    -moz-transition: left 0.2s ease;
-}
-
-.b03_skewed_slide_in:hover div:nth-child(2) {
-    transition: all 0.5s ease;
-    -webkit-transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    transform: translate(-15px, 0px) skewX(-30deg);
-    -webkit-transform: translate(-15px, 0px) skewX(-30deg);
-    -moz-transform: translate(-15px, 0px) skewX(-30deg);
-}
-
-.b03_skewed_slide_in:hover div:nth-child(3) {
-    left: 0px;
-    transition: left 0.30000000000000004s ease;
-    -webkit-transition: left 0.30000000000000004s ease;
-    -moz-transition: left 0.30000000000000004s ease;
-}
-
 
 .b05_3d_roll {
     perspective: 500px;
