@@ -85,7 +85,25 @@ Perth City Properties
 
 ## Setup
 
+
 ## Analysis
+
+### Suburbs' Characteristics
+
+### Suburbs' Price Ranges
+
+### Suburbs' Propert Types
+
+### Ages of properties
+
+### Property car spaces
+
+### Property buyer and seller guide
+
+### Rent or Buy
+
+### Property Market since Covid started
+
 
 ## Contributors
 
@@ -94,7 +112,7 @@ Perth City Properties
 
 ## Technology
 
-- ![PythonLogo](static/images/pythonlogo.png)
+![PythonLogo](static/images/tools.png)
 
 ## DataSources
 http://house.speakingsame.com/ 
