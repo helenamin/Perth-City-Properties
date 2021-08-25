@@ -88,22 +88,32 @@ Perth City Properties
 
 ## Analysis
 
-### Suburbs' Characteristics
+#### Suburbs' Characteristics
+- Crawley and Nedlands have more landed properties and a higher average price compared with the other 4 suburbs.
 
-### Suburbs' Price Ranges
+#### Suburbs' Price Ranges
+- Perth, East Perth, West Perth and Northbridge have similar average price whereas Crawley and Nedlands are almost more than double.
 
-### Suburbs' Propert Types
+#### Suburbs' Property Types
+- More apartments and units around Perth and it's surrounding suburbs. Moving away, there are more properties with land in the outer suburbs.
 
-### Ages of properties
+#### Ages of properties
+- There are properties dated all the way back to 1910s and despite the age of the property, their price are well above average.
 
-### Property car spaces
+#### Property car spaces
+- The average price of a property increases the same as number of car spaces with the height at 4 car spaces at over 2.2 Million dollars.
 
-### Property buyer and seller guide
+#### Property buyer and seller guide
+- Buyer and sellers can use the guide to identify the average price that they would be paying for in a suburb according to the property criteria that they want.
+- Can also use the Best Agent chart to identify the best real estate agent when deciding to buy or sell a property.
 
-### Rent or Buy
+#### Rent or Buy and ROIs
+- In some suburbs, it is much better to rent than buy due to the pricing of a property.
+- Most properties have a good Return of Investment (ROI) of 4 to 7% 
+- Do note that the weekly loan payments is calculated with using the sold price of the property and a fixed annual rate of 3%, not including home loan deposits. 
 
-### Property Market since Covid started
-
+#### Property Market since Covid started
+- We can see a decline in purchase when the lockdown was announced in March 2020, however as soon as the Federal Government announced the grant in June 2020, numbers of properties sold increases. 
 
 ## DataSources
 http://house.speakingsame.com/ 
