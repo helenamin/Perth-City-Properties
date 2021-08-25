@@ -6,7 +6,7 @@
 
 - [Introduction](#Introduction)
 - [Structure](#Structure)
-- [Setup](#Setup)
+- [Deployed Site](#Deployed_Site)
 - [Analysis](#Analysis)
 - [Data Sources](#DataSources)
 - [Technology](#Technology)
@@ -81,7 +81,7 @@ Perth City Properties
 |__ requirement.txt                         # contains project dependencies
                    
 ```
-## [Deployed Site](https://cityofperthproperties.herokuapp.com/)
+## [Deployed_Site](https://cityofperthproperties.herokuapp.com/)
 
 ## Analysis
 
