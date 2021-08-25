@@ -66,7 +66,7 @@ Perth City Properties
 |     |__ css                               # css files for webpage
 |     |__ data                              # Directory for the data files
 |     |__ images                            # images used in project
-|     |__ js                                #js files for webpage
+|     |__ js                                # js files for webpage
 |
 |__Tableau                                  # tableau files
 |
