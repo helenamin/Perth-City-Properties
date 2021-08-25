@@ -80,11 +80,8 @@ Perth City Properties
 |__ README.md                               # read me file
 |__ requirement.txt                         # contains project dependencies
                    
-
 ```
-
-## Setup
-
+## [Deployed Site](https://cityofperthproperties.herokuapp.com/)
 
 ## Analysis
 
