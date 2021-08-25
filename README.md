@@ -99,6 +99,7 @@ Perth City Properties
 
 #### Ages of properties
 - There are properties dated all the way back to 1910s and despite the age of the property, their price are well above average.
+- Perth have newer properties, exploring further identified that most of them are apartments. 
 
 #### Property car spaces
 - The average price of a property increases the same as number of car spaces with the height at 4 car spaces at over 2.2 Million dollars.
