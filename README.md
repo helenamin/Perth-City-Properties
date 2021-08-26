@@ -86,7 +86,7 @@ Perth City Properties
 ## Analysis
 
 #### Suburbs' Characteristics
-- Crawley and Nedlands have more landed properties and a higher average price compared with the other 4 suburbs.
+- Crawley and Nedlands have properties with more land size and a higher average price compared with the other 4 suburbs.
 
 ![Suburb Characteristics Dashboard](static/images/suburb_characteristics.png)
 
