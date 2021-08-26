@@ -34,7 +34,7 @@ This project sets out to answer the following :
 
 <b>ETL Process:</b>
 
-Dataset scraped from the data source sites and filled some missing data manually to ensure data integrity. 
+Dataset scraped from http://house.speakingsame.com/ site and filled some missing data manually using another two realestate websites to ensure data integrity. 
 Cleaned the data by removing N/A and converted data types, combined all the data of the suburbs into a single data frame.
 Load data onto SQLite and retrieve SQL data in Flask file to create the API.  
 
