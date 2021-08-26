@@ -57,7 +57,7 @@ Perth City Properties
 |__ Notebooks/                              # contains ETL and ML notebooks
 |     |__ Add location.ipynb                # add Geospatial data to csv files
 |     |__ ETL.ipynb                         # data extract, transform, load to SQL
-|     |__ ML nitebooks
+|     |__ ML notebooks
 |     |__ scrape.ipynb    
 |
 |__SQL
