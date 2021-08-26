@@ -88,30 +88,46 @@ Perth City Properties
 #### Suburbs' Characteristics
 - Crawley and Nedlands have more landed properties and a higher average price compared with the other 4 suburbs.
 
+![Suburb Characteristics Dashboard](static/images/suburb_characteristics.png)
+
 #### Suburbs' Price Ranges
 - Perth, East Perth, West Perth and Northbridge have similar average price whereas Crawley and Nedlands are almost more than double.
 
+![Suburb Price Range Dashboard](static/images/price_range.png)
+
 #### Suburbs' Property Types
 - More apartments and units around Perth and it's surrounding suburbs. Moving away, there are more properties with land in the outer suburbs.
+
+![Suburb Property Type Dashboard](static/images/property_type.png)
 
 #### Ages of properties
 - There are properties dated all the way back to 1910s and despite the age of the property, their price are well above average.
 - Perth have newer properties, exploring further identified that most of them are apartments. 
 
+![Suburb Building Age Dashboard](static/images/building_age.png)
+
 #### Property car spaces
 - The average price of a property increases the same as number of car spaces with the height at 4 car spaces at over 2.2 Million dollars.
+
+![Property Car Space Dashboard](static/images/car_space.png)
 
 #### Property buyer and seller guide
 - Buyer and sellers can use the guide to identify the average price that they would be paying for in a suburb according to the property criteria that they want.
 - Can also use the Best Agent chart to identify the best real estate agent when deciding to buy or sell a property.
+
+![Buyer & Seller Guide Dashboard](static/images/buyer_seller_guide.png)
 
 #### Rent or Buy and ROIs
 - In some suburbs, it is much better to rent than buy due to the pricing of a property.
 - Most properties have a good Return of Investment (ROI) of 4 to 7% 
 - Do note that the weekly loan payments is calculated with using the sold price of the property and a fixed annual rate of 3%, not including home loan deposits. 
 
+![Buy or Sell Dashboard](static/images/buy_or_sell.png)
+
 #### Property Market since Covid started
 - We can see a decline in purchase when the lockdown was announced in March 2020, however as soon as the Federal Government announced the grant in June 2020, numbers of properties sold increases. 
+
+![Property Market During Covid Era Dashboard](static/images/covid.png)
 
 ## DataSources
 http://house.speakingsame.com/ 
