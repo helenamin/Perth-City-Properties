@@ -453,14 +453,31 @@
 	.icon-home:before			{ content: '\E072'; }
 	.icon-album:before			{ content: '\E002'; }
 	.icon-book:before			{ content: '\E020'; }
-	.icon-comment:before		{ content: '\E034'; }
 	.icon-info:before			{ content: '\E075'; }
 	.icon-notify:before			{ content: '\E097'; }
 	.icon-right:before			{ content: '\E112'; }
-	.icon-share:before			{ content: '\E118'; }
 	.icon-tilemenu:before		{ content: '\E12a'; }
-	.icon-user:before			{ content: '\E137'; }
+
+	/* For Github and Linkedin Icons in About Page */
+
+	.figure {
+        position: relative;
+        display: inline-block;
+		margin: 0px;
+    		}
+
+	.figure .img-top {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index:99;
 	
+		}
+
+	.figure:hover .img-top {
+	display: inline;
+		}
 		
 /*********************************************************************************/
 /* Nav                                                                           */
