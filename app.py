@@ -72,7 +72,7 @@ def predict():
 
     # Load the best Model
     # my_model = joblib.load("best_model.pkl")
-    my_model = joblib.load("ML_Model/best_with correlation_model.pkl")
+    my_model = joblib.load("ML_Model/best_model.pkl")
     # my_model = load_model("keras_model_trained.h5")
 
     # X_test = X_scaler.transform([[data['Bedroom'],data['Bathroom'],data['Car_Spaces'],data['Land_Size'],data['Built_Size'],data['Built_Year'],1,0,0,0,0,0]])
