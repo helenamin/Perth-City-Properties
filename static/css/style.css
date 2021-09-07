@@ -466,18 +466,7 @@
 		margin: 0px;
     		}
 
-	.figure .img-top {
-	display: none;
-	position: absolute;
-	top: 0;
-	left: 0;
-	z-index:99;
-	
-		}
 
-	.figure:hover .img-top {
-	display: inline;
-		}
 		
 /*********************************************************************************/
 /* Nav                                                                           */
